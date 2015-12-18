@@ -1,2 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <categories>
+
+    <!-- banner_ad: optional element which displays an at the top level category screen -->
+    <banner_ad
+        sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"
+        hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
+	  
+    <category title="Live" description="Live feeds"
+        sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png"
+        hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/TED_Technology.png">
+        <categoryLeaf
+            title="News"
+            description="News and current event channels"
+            feed="https://raw.githubusercontent.com/quartern/iltv/master/data/news.xml"/>
+        <categoryLeaf
+            title="Entertainment"
+            description="Entertainment channels [ may contain some news ;-) ]"
+            feed="https://raw.githubusercontent.com/quartern/iltv/master/data/entertainment.xml"/>
+    </category>
+
 </categories>
+
