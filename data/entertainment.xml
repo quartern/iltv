@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <feed>
     <!-- resultLength indicates the total number of results for this feed -->
-    <resultLength>3</resultLength>
+    <resultLength>1</resultLength>
     <!-- endIndix  indicates the number of results for this *paged* section of the feed -->
     <endIndex>3</endIndex>
 	<item 
@@ -22,7 +22,7 @@
         <runtime>0</runtime>
         <live>true</live>
     </item>	
-    <item
+<!--    <item
         sdImg="http://www.rokudev.com/rokudev/examples/videoplayer/images/"
         hdImg="http://www.rokudev.com/rokudev/examples/videoplayer/images/">
         <title></title>
@@ -54,5 +54,6 @@
         <genres>Clip</genres>
         <runtime>1280</runtime>
     </item>
+    -->
 </feed>
 
