@@ -1,0 +1,224 @@
+{
+   "Categories":[
+      {
+         "Name":"Broadcast Networks",
+         "Items":[
+            {
+               "Title":"Israel Brodcast Authority - Arutz 1",
+               "ShortDescriptionLine1":"Arutz 1",
+               "ShortDescriptionLine2":"See http://www.iba.org.il",
+               "Poster":"iba1.png",
+               "StreamUrls":[
+                  "http://98.158.96.66/iba_channel-511BRepeat/_definst_/smil:channel-511B.smil/playlist.m3u8",
+                  "http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Israel Channel 2",
+               "ShortDescriptionLine1":"Arutz 2",
+               "ShortDescriptionLine2":"Combined Keshet & Reshet",
+               "Poster":"ch2.png",
+               "StreamUrls":[
+                  "http://swich1.cast-tv.biz:1935/25019_LIVE_1.stream/25019_LIVE_30_720p.stream/chunklist_w1546954544.m3u8",
+                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Israel channel 10",
+               "ShortDescriptionLine1":"Arutz 10",
+               "ShortDescriptionLine2":"See http://www.nana10.co.il",
+               "Poster":"ch10.png",
+               "StreamUrls":[
+                  "http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            }
+         ]
+      },
+      {
+         "Name":"Cable Networks",
+         "Items":[
+            {
+               "Title":"Israel channel 2 News",
+               "ShortDescriptionLine1":"Hadashot Arutz 2",
+               "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
+               "Poster":"ch2news.png",
+               "StreamUrls":[
+                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Israel channel 20",
+               "ShortDescriptionLine1":"Arutz 20",
+               "ShortDescriptionLine2":"See www.ch-20.tv",
+               "Poster":"ch20.png",
+               "StreamUrls":[
+                  "http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"24 Music",
+               "ShortDescriptionLine1":"Arutz 24 - Israels music television",
+               "ShortDescriptionLine2":"See http://www.mako.co.il/music-24",
+               "Poster":"music24.png",
+               "StreamUrls":[
+                  "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Sport 5",
+               "ShortDescriptionLine1":"Arutz ha Sport (5)",
+               "ShortDescriptionLine2":"See http://www.sport5.co.il",
+               "Poster":"sport5.png",
+               "StreamUrls":[
+                  "http://82.80.192.28:1935/sport5_LiveIsraelRepeat/_definst_/smil:LiveIsrael.smil/media.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Reshet",
+               "ShortDescriptionLine1":"Reshet",
+               "ShortDescriptionLine2":"See http://reshet.tv",
+               "Poster":"reshet.png",
+               "StreamUrls":[
+                  "http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Keshet",
+               "ShortDescriptionLine1":"Keshet",
+               "ShortDescriptionLine2":"See http://www.mako.co.il",
+               "Poster":"keshet.jpg",
+               "StreamUrls":[
+                  "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            }
+         ]
+      },
+      {
+         "Name":"Religious",
+         "Items":[
+            {
+               "Title":"Kabbalah TV - Arutz 66",
+               "ShortDescriptionLine1":"Kabbalah TV",
+               "ShortDescriptionLine2":"See http://kab.co.il",
+               "Poster":"kab.png",
+               "StreamUrls":[
+                  "http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Meir TV",
+               "ShortDescriptionLine1":"Meir TV",
+               "ShortDescriptionLine2":"See http://www.meirtv.co.il",
+               "Poster":"meir.png",
+               "StreamUrls":[
+                  "http://82.80.198.100:1935/live/live1/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Hidabrut",
+               "ShortDescriptionLine1":"Hidabrut",
+               "ShortDescriptionLine2":"See http://hidabrut.com",
+               "Poster":"hidabrut.jpg",
+               "StreamUrls":[
+                  "http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"JBS TV",
+               "ShortDescriptionLine1":"Jewish Broadcasting Service (US)",
+               "ShortDescriptionLine2":"See http://jbstv.org",
+               "Poster":"jbs.png",
+               "StreamUrls":[
+                  "http://uni8rtmp.tulix.tv/shalomtv-pc/shalomtv.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"JLTV TV",
+               "ShortDescriptionLine1":"Jewish Life TV (US)",
+               "ShortDescriptionLine2":"See http://jltv.tv",
+               "Poster":"jltv.png",
+               "StreamUrls":[
+                  "http://50.112.241.187:1935/rtplive/smil:jltv.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            }
+         ]
+      },
+      {
+         "Name":"Other Languages",
+         "Items":[
+            {
+               "Title":"i24 English",
+               "ShortDescriptionLine1":"i24 news and current affairs channel (English)",
+               "ShortDescriptionLine2":"See Beyond http://www.i24news.tv/en",
+               "Poster":"i24.png",
+               "StreamUrls":[
+                  "http://www.dailymotion.com/video/x29atae_i24news-live_tv"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"i24 French",
+               "ShortDescriptionLine1":"i24 news and current affairs channel (French)",
+               "ShortDescriptionLine2":"See Beyond http://www.i24news.tv/fr",
+               "Poster":"i24.png",
+               "StreamUrls":[
+                  "http://www.dailymotion.com/video/x10358o_i24news-le-direct_tv"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"i24 Arabic",
+               "ShortDescriptionLine1":"i24 news and current affairs channel (Arabic)",
+               "ShortDescriptionLine2":"See Beyond http://www.i24news.tv/ar",
+               "Poster":"i24.png",
+               "StreamUrls":[
+                  "http://www.dailymotion.com/video/x2uafpp_i24news-%D9%84%D8%A7%D9%8A%D9%81_news"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Israel Brodcast Authority - Channel 33",
+               "ShortDescriptionLine1":"Arutz 33 (Arabic)",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/arabil",
+               "Poster":"iba33.png",
+               "StreamUrls":[
+                  "http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            }
+         ]
+      }
+   ]
+}
