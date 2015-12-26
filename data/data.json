@@ -37,6 +37,30 @@
                ],
                "StreamFormat":"hls",
                "Live":true
+            },
+            {
+               "Title":"Galatz - Army Radio",
+               "ShortDescriptionLine1":"Galatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"glz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Galgalatz - Army Radio (music)",
+               "ShortDescriptionLine1":"Galgalatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"galgalatz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glgltz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
             }
          ]
       },
