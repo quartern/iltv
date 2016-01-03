@@ -1,7 +1,7 @@
 {
    "Categories":[
       {
-         "Name":"Broadcast Networks",
+         "Name":"Main TV",
          "Items":[
             {
                "Title":"Israel Brodcast Authority - Arutz 1",
@@ -9,8 +9,8 @@
                "ShortDescriptionLine2":"See http://www.iba.org.il",
                "Poster":"iba1.png",
                "StreamUrls":[
-                  "http://98.158.96.66/iba_channel-511BRepeat/_definst_/smil:channel-511B.smil/playlist.m3u8",
-                  "http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8"
+                  "http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8",
+                  "http://98.158.96.66/iba_channel-511BRepeat/_definst_/smil:channel-511B.smil/playlist.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -21,8 +21,19 @@
                "ShortDescriptionLine2":"Combined Keshet & Reshet",
                "Poster":"ch2.png",
                "StreamUrls":[
-                  "http://swich1.cast-tv.biz:1935/25019_LIVE_1.stream/25019_LIVE_30_720p.stream/chunklist_w1546954544.m3u8",
+                  "http://swich1.cast-tv.biz:1935/25019_LIVE_1.stream/25019_LIVE_30_720p.stream/playlist.m3u8",
                   "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Israel channel 2 News",
+               "ShortDescriptionLine1":"Hadashot Arutz 2",
+               "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
+               "Poster":"ch2news.png",
+               "StreamUrls":[
+                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -34,46 +45,6 @@
                "Poster":"ch10.png",
                "StreamUrls":[
                   "http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true
-            },
-            {
-               "Title":"Galatz - Army Radio",
-               "ShortDescriptionLine1":"Galatz",
-               "ShortDescriptionLine2":"See http://glz.co.il",
-               "Poster":"glz.png",
-               "StreamUrls":[
-                  "http://test.live.net.il/glz-a-zixief.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true,
-               "Audio":true
-            },
-            {
-               "Title":"Galgalatz - Army Radio (music)",
-               "ShortDescriptionLine1":"Galgalatz",
-               "ShortDescriptionLine2":"See http://glz.co.il",
-               "Poster":"galgalatz.png",
-               "StreamUrls":[
-                  "http://test.live.net.il/glgltz-a-zixief.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true,
-               "Audio":true
-            }
-         ]
-      },
-      {
-         "Name":"Cable Networks",
-         "Items":[
-            {
-               "Title":"Israel channel 2 News",
-               "ShortDescriptionLine1":"Hadashot Arutz 2",
-               "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
-               "Poster":"ch2news.png",
-               "StreamUrls":[
-                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -144,6 +115,35 @@
                ],
                "StreamFormat":"hls",
                "Live":true
+            }
+         ]
+      },
+      {
+         "Name":"Radio",
+         "Items":[
+            {
+               "Title":"Galatz - Army Radio",
+               "ShortDescriptionLine1":"Galatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"glz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Galgalatz - Army Radio (music)",
+               "ShortDescriptionLine1":"Galgalatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"galgalatz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glgltz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
             }
          ]
       },
@@ -258,3 +258,4 @@
       }
    ]
 }
+
