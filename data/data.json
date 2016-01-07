@@ -1,7 +1,360 @@
 {
    "Categories":[
       {
+         "Name":"Internet Radio",
+         "Items":[
+            {
+               "Title":"ClickFM - 1FM",
+               "ShortDescriptionLine1":"1FM",
+               "ShortDescriptionLine2":"See http://www.onefmonline.com",
+               "Poster":"1fm.png",
+               "StreamUrls":[
+                  "http://listen.clickfm.co.il/1FM"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"ClickFM - HipHop",
+               "ShortDescriptionLine1":"Click HipHop",
+               "ShortDescriptionLine2":"See http://www.radioclick.fm",
+               "Poster":"clickfm_hiphop.png",
+               "StreamUrls":[
+                  "http://listen.clickfm.co.il/hip.mp3"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            }
+         ]
+      },
+      {
+         "Name":"Regional Radio",
+         "Items":[
+            {
+               "Title":"Radio Lelo Hafsaka - 103fm",
+               "ShortDescriptionLine1":"Radio Lelo Hafsaka - 103fm",
+               "ShortDescriptionLine2":"See http://103fm.maariv.co.il",
+               "Poster":"103fm.png",
+               "StreamUrls":[
+                  "http://103.livecdn.biz/103fm"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio TelAviv - 102fm",
+               "ShortDescriptionLine1":"Radio TelAviv - 102fm",
+               "ShortDescriptionLine2":"See http://www.102fm.co.il",
+               "Poster":"telaviv102fm.png",
+               "StreamUrls":[
+                  "http://102.livecdn.biz/102fm_aac"
+               ],
+               "StreamFormat":"es.aac-adts",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Tishim (Radio Emtza Haderech) 90fm",
+               "ShortDescriptionLine1":"Radio Tishim - 90fm",
+               "ShortDescriptionLine2":"See http://www.90fm.co.il",
+               "Poster":"90fm.png",
+               "StreamUrls":[
+                  "http://server1.live1.co.il:8018/livemp3"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Lev Hamedina - 91fm",
+               "ShortDescriptionLine1":"Radio Lev Hamedina - 91fm",
+               "ShortDescriptionLine2":"See http://www.91fm.co.il",
+               "Poster":"91fm.png",
+               "StreamUrls":[
+                  "http://213.8.143.168/91fmAudio"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Darom - 95.8fm",
+               "ShortDescriptionLine1":"Radio Darom - 95.8fm",
+               "ShortDescriptionLine2":"See www.radiodarom.co.il",
+               "Poster":"darom_95.png",
+               "StreamUrls":[
+                  "http://live.radiodarom.co.il:1935/livestream/darom2/manifest.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Kol Rega - 96fm",
+               "ShortDescriptionLine1":"Kol Rega - 96fm",
+               "ShortDescriptionLine2":"See http://www.96fm.co.il/",
+               "Poster":"kolrega_96fm.png",
+               "StreamUrls":[
+                  "http://server1.live1.co.il:8000/96fm"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radius - 100fm",
+               "ShortDescriptionLine1":"Radius - 100fm",
+               "ShortDescriptionLine2":"See http://www.100fm.co.il/",
+               "Poster":"radius_100fm.png",
+               "StreamUrls":[
+                  "http://213.8.143.168/100fmAudio"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Eco - 99fm",
+               "ShortDescriptionLine1":"Eco - 99fm",
+               "ShortDescriptionLine2":"See http://eco99fm.maariv.co.il",
+               "Poster":"eco99fm.png",
+               "StreamUrls":[
+                  "http://99.livecdn.biz/99fm"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Voice of the Red Sea - 102fm",
+               "ShortDescriptionLine1":"Voice of the Red Sea - 102fm Eilat",
+               "ShortDescriptionLine2":"See http://www.eilat102fm.com",
+               "Poster":"redsea_102fm.png",
+               "StreamUrls":[
+                  "http://server1.live1.co.il:8012/102fm"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Galil Radio - 105.3fm",
+               "ShortDescriptionLine1":"Galil Radio - 105.3fm",
+               "ShortDescriptionLine2":"See http://galilradio.info",
+               "Poster":"galilradio_1053.png",
+               "StreamUrls":[
+                  "http://server2.live1.co.il/galil"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Kol Yizrael - 106fm",
+               "ShortDescriptionLine1":"Kol Yizrael - 106fm",
+               "ShortDescriptionLine2":"See http://www.radio106.co.il",
+               "Poster":"KolYizrael106.png",
+               "StreamUrls":[
+                  "http://wpc.09e3.go-live.co.il/hls-live/2009E3/emek/emek/radio.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Kol Ramat Hasharon - 103.6FM",
+               "ShortDescriptionLine1":"Kol Ramat Hasharon - 103.6FM",
+               "ShortDescriptionLine2":"See http://1036.fm",
+               "Poster":"ramat_hasharon_106fm.png",
+               "StreamUrls":[
+                  "http://106fm.livecast.co.il:8123/;stream/1"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Kol Ramla - 106fm",
+               "ShortDescriptionLine1":"Kol Ramla - 106fm",
+               "ShortDescriptionLine2":"See http://www.facebook.com/KolRamla",
+               "Poster":"kol_ramla_106fm.png",
+               "StreamUrls":[
+                  "http://84.94.229.99:5693/;"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Kol Galim (Haifa) - 106fm",
+               "ShortDescriptionLine1":"Kol Galim (Haifa) - 106fm",
+               "ShortDescriptionLine2":"See http://www.kol-galim.co.il",
+               "Poster":"kolgalim_106.png",
+               "StreamUrls":[
+                  "http://switch2-streaming-212-83-eu.ilcast.com:8055/;"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Kol Gat - 106fm",
+               "ShortDescriptionLine1":"Kol Gat - 106fm",
+               "ShortDescriptionLine2":"See http://www.kolgat.co.il",
+               "Poster":"kol_gat.png",
+               "StreamUrls":[
+                  "http://gat.livecast.co.il:8010/"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"IDC Radio - 106.2fm",
+               "ShortDescriptionLine1":"IDC Radio - 106.2fm",
+               "ShortDescriptionLine2":"See http://1062fm.co.il",
+               "Poster":"idc_radio.png",
+               "StreamUrls":[
+                  "http://194.153.101.160:8000/idc123.mp3"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Radio Haifa - 107.5fm",
+               "ShortDescriptionLine1":"Radio Haifa - 107.5fm",
+               "ShortDescriptionLine2":"See http://www.1075.fm",
+               "Poster":"haifa_107.png",
+               "StreamUrls":[
+                  "http://ads11.livecdn.biz:80/radiohaifa"
+               ],
+               "StreamFormat":"es.aac-adts",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Arutz 7 radio",
+               "ShortDescriptionLine1":"Arutz 7 radio",
+               "ShortDescriptionLine2":"See http://www.israelnationalnews.com",
+               "Poster":"arutz7_radio.png",
+               "StreamUrls":[
+                  "http://media.varnish.inn.co.il/a7live"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            }
+         ]
+      },
+      {
+         "Name":"Nationwide Radio",
+         "Items":[
+            {
+               "Title":"Galatz - Army Radio",
+               "ShortDescriptionLine1":"Galatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"glz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Galgalatz - Army Radio (music)",
+               "ShortDescriptionLine1":"Galgalatz",
+               "ShortDescriptionLine2":"See http://glz.co.il",
+               "Poster":"galgalatz.png",
+               "StreamUrls":[
+                  "http://test.live.net.il/glgltz-a-zixief.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - 88 FM",
+               "ShortDescriptionLine1":"88 FM",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/88fm",
+               "Poster":"88.png",
+               "StreamUrls":[
+                  "http://62.90.90.39/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8",
+                  "http://62.90.90.44/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Kol HaMusica",
+               "ShortDescriptionLine1":"Kol HaMusica",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/kolhamusica",
+               "Poster":"kol_hamusika.png",
+               "StreamUrls":[
+                  "http://82.80.192.28/iba_radio-kolmusicaBRepeat/_definst_/smil:radio-kolmusicaB.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reshet Alef",
+               "ShortDescriptionLine1":"Reshet Alef",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/aleph",
+               "Poster":"aleph.png",
+               "StreamUrls":[
+                  "http://82.80.192.27/iba_radio-alephMRepeat/_definst_/smil:radio-alephM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reshet Bet",
+               "ShortDescriptionLine1":"Reshet Bet",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/bet",
+               "Poster":"bet.png",
+               "StreamUrls":[
+                  "http://62.90.90.37/iba_radio-betMRepeat/_definst_/smil:radio-betM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reshet Gimmel",
+               "ShortDescriptionLine1":"Reshet Gimmel",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/gimmel",
+               "Poster":"gimmel.png",
+               "StreamUrls":[
+                  "http://82.80.192.2/iba_radio-gimelMRepeat/_definst_/smil:radio-gimelM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Moreshet",
+               "ShortDescriptionLine1":"Reshet Moreshet",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/moreshet",
+               "Poster":"moreshet.png",
+               "StreamUrls":[
+                  "http://82.80.192.2/iba_radio-moreshetMRepeat/_definst_/smil:radio-moreshetM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            }
+         ]
+      },
+      {
          "Name":"Main TV",
+         "Default":true,
          "Items":[
             {
                "Title":"Israel Brodcast Authority - Arutz 1",
@@ -33,7 +386,8 @@
                "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
                "Poster":"ch2news.png",
                "StreamUrls":[
-                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_01_1/chunklist.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -119,35 +473,6 @@
          ]
       },
       {
-         "Name":"Radio",
-         "Items":[
-            {
-               "Title":"Galatz - Army Radio",
-               "ShortDescriptionLine1":"Galatz",
-               "ShortDescriptionLine2":"See http://glz.co.il",
-               "Poster":"glz.png",
-               "StreamUrls":[
-                  "http://test.live.net.il/glz-a-zixief.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true,
-               "Audio":true
-            },
-            {
-               "Title":"Galgalatz - Army Radio (music)",
-               "ShortDescriptionLine1":"Galgalatz",
-               "ShortDescriptionLine2":"See http://glz.co.il",
-               "Poster":"galgalatz.png",
-               "StreamUrls":[
-                  "http://test.live.net.il/glgltz-a-zixief.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true,
-               "Audio":true
-            }
-         ]
-      },
-      {
          "Name":"Religious",
          "Items":[
             {
@@ -204,6 +529,30 @@
                ],
                "StreamFormat":"hls",
                "Live":true
+            },
+            {
+               "Title":"Kol Barama - 92.1fm",
+               "ShortDescriptionLine1":"Kol Barama - 92.1fm",
+               "ShortDescriptionLine2":"See http://www.kol-barama.co.il",
+               "Poster":"kolbarama_92.png",
+               "StreamUrls":[
+                  "http://server1.live1.co.il:8004/livemp3"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Kol Chai - 93fm",
+               "ShortDescriptionLine1":"Kol Chai - 93fm",
+               "ShortDescriptionLine2":"See http://www.kol-barama.co.il",
+               "Poster":"kol_chai_93fm.png",
+               "StreamUrls":[
+                  "http://switch2-streaming-212-83-eu.ilcast.com:8000"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
             }
          ]
       },
@@ -253,6 +602,79 @@
                ],
                "StreamFormat":"hls",
                "Live":true
+            },
+            {
+               "Title":"TLV1 Radio",
+               "ShortDescriptionLine1":"TLV1 (English radio)",
+               "ShortDescriptionLine2":"See http://tlv1.fm",
+               "Poster":"tlv1.png",
+               "StreamUrls":[
+                  "http://www.surfmusic.de/m3u/tlv1-radio,17962.m3u",
+                  "http://server1.live1.co.il:8008/tlv1.mp3"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"The Voice of Peace - Classic",
+               "ShortDescriptionLine1":"Kol Hashalom / Voice of Peace - Classic",
+               "ShortDescriptionLine2":"See http://www.thevoiceofpeace.co.il",
+               "Poster":"vop_radio.png",
+               "StreamUrls":[
+                  "http://uk3-vn.mixstream.net:8264"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"The Voice of Peace - Original",
+               "ShortDescriptionLine1":"Kol Hashalom / Voice of Peace - Original",
+               "ShortDescriptionLine2":"See http://www.thevoiceofpeace.co.il",
+               "Poster":"vop_radio.png",
+               "StreamUrls":[
+                  "http://uk2-vn.mixstream.net:8004"
+               ],
+               "StreamFormat":"mp3",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reshet Daled",
+               "ShortDescriptionLine1":"Reshet Daled (Arabic radio)",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/arabil",
+               "Poster":"daled.png",
+               "StreamUrls":[
+                  "http://82.80.192.28/iba_radio-daledMRepeat/_definst_/smil:radio-daledM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reka",
+               "ShortDescriptionLine1":"Reka - IBA World Service (multilingual radio)",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/world",
+               "Poster":"reka.png",
+               "StreamUrls":[
+                  "http://82.80.192.28/iba_radio-rekaMRepeat/_definst_/smil:radio-rekaM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
+            },
+            {
+               "Title":"Israel Broadcast Authority - Reshet Hei",
+               "ShortDescriptionLine1":"Reshet Hei (Persian radio, limited schedule)",
+               "ShortDescriptionLine2":"See http://www.iba.org.il/world",
+               "Poster":"hei.png",
+               "StreamUrls":[
+                  "http://82.80.192.2/iba_radio-heiMRepeat/_definst_/smil:radio-heiM.smil/playlist.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true,
+               "Audio":true
             }
          ]
       }
