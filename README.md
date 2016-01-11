@@ -1,16 +1,30 @@
 ## ILTV - data for IsraTV Roku app
 
+English right below the Hebrew
+
+
+הקבצים בריפו הזה משמשים את אפליקציית ישרא-טיוי (IsraTV) ברוקו
+
+האפליקציה IsraTV היא אפליקציה תפריט פשוטה שמביאה מאסף סטרימס
+של תחנות טלוויזיה ורדיו ישראליות למסך שלכם באשר תהיו.
+
+
+### מה כלול ומה לא?
+- קובץ המניפסט (`data/data.json`) כולל ערוצים רק מישראל או
+  ערוצים שמקורם בגולה עם דגש יהודי. שימו לב שאני מתכוון להוסיף אופצייה להוסיף רשימת תכנים פרטית.
+- תמיכה עברית באפליקציה - כדי לשמור על האפליקציה פשוטה החלטתי בשלב הראשון להשאר עם פורמט
+  המסכים המוגדרים מראש של רוקו.  כתוצאה מכך אני מנוע משימוש בטקסט בעברית.
+- VOD - באתרי האינטרנט של הרבה מהתחנות שבהם מאשרים צפייה בתכנים מוקלטים.  בשלב זה, בעיקר בגלל חוסר התמיכה בעברית אין לי אפשרות כרגע להוסיף תכנים כאלה.
+
+
+----------------------------------------------------
+
 This repo contains the channel manifest and other metadata for
 my ([@quartern_roku](https://twitter.com/quartern_roku)) new
 private Roku app IsraTV.
 
 The IsraTV app is a simple menu driven app that just seeks to
 curate most live streams for Israeli TV & Radio stations.
-
-<p>
-&#x202b;ניסוי עם עברית.  זה נראה ככה ככה!
-נו באמת!
-</p>
 
 ### Whats included and what is not?
 - This manifest (data/data.json) includes only channels from Israel or 
@@ -26,7 +40,7 @@ curate most live streams for Israeli TV & Radio stations.
 - VOD - many of providers provide many of their titles on an on-demand basis.
   I'm not going to explore this till at least the prior bullet (Hebrew) has
   been resolved as the content metadata will surely contain Hebrew.
-- Streams that I cant accesses & test.  This includes:
+- Won't include streams that I cant personally accesses & test.  This includes:
   + Streams that are geo-blocked (Russian language channel in Israel, #9 
     seems to be geo blocked)
   + Streams that are not natively supported by Roku.  The details are 
