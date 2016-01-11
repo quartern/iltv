@@ -7,6 +7,10 @@ private Roku app IsraTV.
 The IsraTV app is a simple menu driven app that just seeks to
 curate most live streams for Israeli TV & Radio stations.
 
+<p>
+&#x202b;ניסוי עם עברית.  זה נראה ככה ככה!
+</p>
+
 ### Whats included and what is not?
 - This manifest (data/data.json) includes only channels from Israel or 
   channels originating in the diaspora with Jewish focus.  Note that I do 
