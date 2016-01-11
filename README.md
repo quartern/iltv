@@ -79,7 +79,7 @@ There is obvious demand for a Roku-only solution as I have had over 4000 install
 
 
 [Kodi](http://kodi.tv) / [Plex](https://plex.tv) - See 
-[comparison/discussion] [http://www.htpcbeginner.com/plex-vs-kodi-comparison-guide].
+[comparison/discussion](http://www.htpcbeginner.com/plex-vs-kodi-comparison-guide).
 With Kodi having a large support base for Israeli content.
 
 
