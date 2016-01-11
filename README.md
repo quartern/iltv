@@ -73,8 +73,8 @@ to make this available.  As you are getting something out of this please
 feel free pay it forward and make donations to worthy causes.  My 
 recommendation it to donate to [Aleh Negev, Nahalat 
 Eran](https://aleh.org/aleh-branches/aleh-negev-nahalat-eran) 
-[Donate](https://aleh.org/donate-online/).  You may also decide to give 
-something to the dude at [Anarchi (Kodi)](http://anarchitv.co), as I may 
+[(Donate)](https://aleh.org/donate-online/).  You may also decide to give 
+something to the dude at [AnarchiTV (Kodi)](http://anarchitv.co), as I may 
 consult / compare his list with mine.  
 
 
