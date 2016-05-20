@@ -436,7 +436,7 @@
                   "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8"
                ],
                "StreamFormat":"hls",
-               "Live": false
+               "Live":false
             },
             {
                "Title":"Arutz Hayeladim",
@@ -444,8 +444,8 @@
                "ShortDescriptionLine2":"See http://www.kidstv.co.il",
                "Poster":"yeladim.png",
                "StreamUrls":[
-                 "http://62.90.90.37/plph_Linear1Repeat/_definst_/smil:Linear1.smil/chunklist_w2010243489_b584000.m3u8",
-                 "http://anarchitv.co/tvv/tr.m3u8"
+                  "http://62.90.90.37/plph_Linear1Repeat/_definst_/smil:Linear1.smil/chunklist_w2010243489_b584000.m3u8",
+                  "http://anarchitv.co/tvv/tr.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -493,6 +493,115 @@
                ],
                "StreamFormat":"hls",
                "Live":true
+            },
+            {
+               "Title":"IBA VOD",
+               "HDPosterURL":"http://www.iba.org.il/vod/img/logoChannel1.png",
+               "onSelected":"IBAOnDemand",
+               "initialQuery":"{\"sp\":\"channel1_vod_select\",\"arrParams\":[]}",
+               "OTHER Query1":"?? {\"sp\":\"MC_live\",\"useCache\":\"0\",\"arrParams\":[]}",
+               "scodeQuery":"{\"sp\":\"MC_schedule_select\",\"arrParams\":[[\"schedule\",\"{0}\"]]}",
+               "metadata_url_template":"http://iba-metadata-rr-d.vidnt.com/vod/vod/{0}/hls/metadata.xml?smil_profile=default",
+               "cats":[
+                  {
+                     "Name":"News & Current events",
+                     "category_code":"1"
+                  },
+                  {
+                     "Name":"Series",
+                     "category_code":"4"
+                  },
+                  {
+                     "Name":"Culture, Arts & Entertainment",
+                     "category_code":"6"
+                  },
+                  {
+                     "Name":"Documentary",
+                     "category_code":"9"
+                  },
+                  {
+                     "Name":"Kids & Youth",
+                     "category_code":"11"
+                  },
+                  {
+                     "Name":"Israel Heritage & Religion",
+                     "category_code":"10"
+                  }
+               ],
+               "media_code_map":{
+                  "645965":[
+                     "Mivzak",
+                     "News brief"
+                  ],
+                  "902168":[
+                     "Mabat w/ Ya'akov Eilon",
+                     "Weekday primary evening newscast"
+                  ],
+                  "709334":[
+                     "Mabat",
+                     "Weekday primary evening newscast"
+                  ],
+                  "709344":[
+                     "Mabat",
+                     "Weekday primary evening newscast"
+                  ],
+                  "902162":[
+                     "Musaf",
+                     "Weekday current affairs program"
+                  ],
+                  "746384":[
+                     "Musaf",
+                     "Weekday current affairs program"
+                  ],
+                  "854237":[
+                     "Sikum eruei hayom",
+                     "Summary of teh days events"
+                  ],
+                  "479915":[
+                     "Shishi be-Chamesh",
+                     "Friday at Five - week review with next weeks outlook"
+                  ],
+                  "741621":[
+                     "Mishdar Meyuhad",
+                     "Special broadcast"
+                  ],
+                  "903241":[
+                     "HaErev beShes",
+                     "Weekday early evening newscast"
+                  ],
+                  "915942":[
+                     "Chaiym Besert",
+                     "Student produced short films"
+                  ],
+                  "902160":[
+                     "Roim Olam-Collection of intl. news",
+                     "Note: GeoBlocked-see some stories at iba.org.il/olam"
+                  ],
+                  "902163":[
+                     "Chadshot HaShabat",
+                     "Saturday news"
+                  ],
+                  "741624":[
+                     "Sikum Shvu'i",
+                     "Weekly summary (on Saturdays)"
+                  ],
+                  "817254":[
+                     "Yoman",
+                     "In depth weekly news magazine"
+                  ],
+                  "618394":[
+                     "Mishdar Hadashot Meyuhad",
+                     "Breaking news"
+                  ],
+                  "953121":[
+                     "HaYehudim Baim",
+                     "The Jews are Coming"
+                  ],
+                  "757231":[
+                     "Rotem Avrutzky: Coming up next-The Flood (Ahareinu haMabul)",
+                     "1st rate environmental docu series"
+                  ]
+               }
             }
          ]
       },
