@@ -384,10 +384,8 @@
                "ShortDescriptionLine2":"Combined Keshet & Reshet",
                "Poster":"ch2.png",
                "StreamUrls":[
-                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_live1/playlist.m3u8",
-                  "http://anarchitv.co/tvv/2live1.m3u8",
-                  "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8",
-                  "http://anarchitv.co/tvv/2livek.m3u8"
+                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8",
+                  "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -412,8 +410,8 @@
                "ShortDescriptionLine2":"See http://www.nana10.co.il",
                "Poster":"ch10.png",
                "StreamUrls":[
-                  "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_3_av-p.m3u8?sd=10&rebase=on",
-                  "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_2_av-p.m3u8?sd=10&rebase=on",
+                  "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
+                  "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
                   "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_1_av-p.m3u8?sd=10&rebase=on"
                ],
                "StreamFormat":"hls",
@@ -426,7 +424,7 @@
                "ShortDescriptionLine2":"See www.ch-20.tv",
                "Poster":"ch20.png",
                "StreamUrls":[
-                  "http://ch20.live.net.il/ch20Live.m3u8"
+                  "http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -437,6 +435,8 @@
                "ShortDescriptionLine2":"See http://www.mako.co.il/music-24",
                "Poster":"music24.png",
                "StreamUrls":[
+                  "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_500_av-b.m3u8",
+                  "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1200_av-b.m3u8",
                   "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8"
                ],
                "StreamFormat":"hls",
@@ -462,6 +462,7 @@
                "ShortDescriptionLine2":"See http://reshet.tv",
                "Poster":"reshet.png",
                "StreamUrls":[
+                  "http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8",
                   "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_live1/playlist.m3u8"
                ],
                "StreamFormat":"hls",
@@ -474,6 +475,17 @@
                "Poster":"keshet.jpg",
                "StreamUrls":[
                   "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Knesset",
+               "ShortDescriptionLine1":"Knesset channel",
+               "ShortDescriptionLine2":"See http://main.knesset.gov.il/News/Broadcast",
+               "Poster":"knesset.png",
+               "StreamUrls":[
+                  "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
