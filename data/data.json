@@ -397,7 +397,8 @@
                "Poster":"ch2.png",
                "StreamUrls":[
                   "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8",
-                  "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8"
+                  "http://keshethdioslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/221629/CH2LIVE_MED/index.m3u8@@?b=100-1000&@@TICKET@@",
+                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -409,8 +410,9 @@
                "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
                "Poster":"ch2news.png",
                "StreamUrls":[
-                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_01_1/chunklist.m3u8",
-                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
+                  "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8",
+                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -486,7 +488,8 @@
                "ShortDescriptionLine2":"See http://www.mako.co.il",
                "Poster":"keshet.jpg",
                "StreamUrls":[
-                  "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8"
+                  "http://keshethdioslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/221630/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@",
+                  "http://keshethdioslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/221629/CH2LIVE_MED/index.m3u8@@?b=100-1000&@@TICKET@@"
                ],
                "StreamFormat":"hls",
                "Live":true
