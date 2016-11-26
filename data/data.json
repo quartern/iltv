@@ -393,11 +393,12 @@
             {
                "Title":"Israel Channel 2",
                "ShortDescriptionLine1":"Arutz 2",
-               "ShortDescriptionLine2":"Keshet(Wed-Sat) + Reshet(Sun-Tues). If fails try those",
+               "ShortDescriptionLine2":"Keshet(Sun-Tues) + Reshet(Wed-Sat). If fails try those",
                "Poster":"ch2.png",
                "StreamUrls":[
                   "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8",
-                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8"
+                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8",
+                  "http://209.222.5.155:1935/live/600/manifest.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -457,7 +458,7 @@
             },
             {
                "Title":"Reshet",
-               "ShortDescriptionLine1":"Reshet (Sun-Tues)",
+               "ShortDescriptionLine1":"Reshet (Wed-Sat)",
                "ShortDescriptionLine2":"See http://reshet.tv",
                "Poster":"reshet.png",
                "StreamUrls":[
@@ -469,7 +470,7 @@
             },
             {
                "Title":"Keshet",
-               "ShortDescriptionLine1":"Keshet (Wed-Sat)",
+               "ShortDescriptionLine1":"Keshet (Sun-Tues)",
                "ShortDescriptionLine2":"See http://www.mako.co.il",
                "Poster":"keshet.jpg",
                "StreamUrls":[
