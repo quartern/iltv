@@ -49,7 +49,7 @@
                "ShortDescriptionLine2":"See http://103fm.maariv.co.il",
                "Poster":"103fm.png",
                "StreamUrls":[
-                  "http://103.livecdn.biz/103fm"
+                  "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio"
                ],
                "StreamFormat":"mp3",
                "Live":true,
@@ -73,7 +73,7 @@
                "ShortDescriptionLine2":"See http://www.90fm.co.il",
                "Poster":"90fm.png",
                "StreamUrls":[
-                  "http://server1.live1.co.il:8018/livemp3"
+                  "http://90.cdnwz.net/90fm"
                ],
                "StreamFormat":"mp3",
                "Live":true,
@@ -97,9 +97,9 @@
                "ShortDescriptionLine2":"See www.radiodarom.co.il",
                "Poster":"darom_95.png",
                "StreamUrls":[
-                  "http://live.radiodarom.co.il:1935/livestream/darom2/manifest.m3u8"
+                  "http://audio-darom.ecast.co.il/darom97fm"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"mp3",
                "Live":true,
                "Audio":true
             },
@@ -145,7 +145,7 @@
                "ShortDescriptionLine2":"See http://www.eilat102fm.com",
                "Poster":"redsea_102fm.png",
                "StreamUrls":[
-                  "http://server1.live1.co.il:8012/102fm"
+                  "http://eilat.cdnwz.net/102fm"
                ],
                "StreamFormat":"mp3",
                "Live":true,
@@ -169,7 +169,7 @@
                "ShortDescriptionLine2":"See http://www.radio106.co.il",
                "Poster":"KolYizrael106.png",
                "StreamUrls":[
-                  "http://wpc.09e3.go-live.co.il/hls-live/2009E3/emek/emek/radio.m3u8"
+		   "http:/yezreel.cdnwz.net/yezreel"
                ],
                "StreamFormat":"hls",
                "Live":true,
@@ -181,7 +181,7 @@
                "ShortDescriptionLine2":"See http://1036.fm",
                "Poster":"ramat_hasharon_106fm.png",
                "StreamUrls":[
-                  "http://106fm.livecast.co.il:8123/;stream/1"
+                  "http://1036fm.livecast.co.il/live1036fm/"
                ],
                "StreamFormat":"mp3",
                "Live":true,
@@ -217,7 +217,7 @@
                "ShortDescriptionLine2":"See http://www.kolgat.co.il",
                "Poster":"kol_gat.png",
                "StreamUrls":[
-                  "http://gat.livecast.co.il:8010/"
+                  "http://kolgat.livecast.co.il/livegat/"
                ],
                "StreamFormat":"mp3",
                "Live":true,
