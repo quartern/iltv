@@ -301,74 +301,74 @@
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - 88 FM",
+               "Title":"Israeli Public Broadcasting Corporation - 88 FM",
                "ShortDescriptionLine1":"88 FM",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/88fm",
-               "Poster":"88.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_88.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-88fmM/hls/metadata.xml?smil_profile=default"
+                   "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Kol HaMusica",
+               "Title":"Israeli Public Broadcasting Corporation - Kol HaMusica",
                "ShortDescriptionLine1":"Kol HaMusica",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/kolhamusica",
-               "Poster":"kol_hamusika.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_musika.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-kolmusicaM/hls/metadata.xml?smil_profile=default"
+                   "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Reshet Alef",
-               "ShortDescriptionLine1":"Reshet Alef",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/aleph",
-               "Poster":"aleph.png",
+               "Title":"Israeli Public Broadcasting Corporation - Tarbut",
+               "ShortDescriptionLine1":"Tarbut (Culture)",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_tarbut.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-alephM/hls/metadata.xml?smil_profile=default"
+                   "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Reshet Bet",
+               "Title":"Israeli Public Broadcasting Corporation - Reshet Bet",
                "ShortDescriptionLine1":"Reshet Bet",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/bet",
-               "Poster":"bet.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_bet.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-betM/hls/metadata.xml?smil_profile=default"
+                  "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Reshet Gimmel",
+               "Title":"Israeli Public Broadcasting Corporation - Reshet Gimmel",
                "ShortDescriptionLine1":"Reshet Gimmel",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/gimmel",
-               "Poster":"gimmel.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_gimmel.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-gimelM/hls/metadata.xml?smil_profile=default"
+                  "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Moreshet",
+               "Title":"Israeli Public Broadcasting Corporation - Moreshet",
                "ShortDescriptionLine1":"Reshet Moreshet",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/moreshet",
-               "Poster":"moreshet.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_radio_moreshet.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-moreshetM/hls/metadata.xml?smil_profile=default"
+                  "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             }
@@ -380,12 +380,12 @@
          "Items":[
             {
                "ecpCode":"ch1",
-               "Title":"OFF THE AIR - Israel Brodcast Authority - Arutz 1",
-               "ShortDescriptionLine1":"RIP - Arutz 1  :-(",
-               "ShortDescriptionLine2":"See http://www.iba.org.il",
+               "Title":"Israeli Public Broadcasting Corporation - Kan 11",
+               "ShortDescriptionLine1":"Kan 11",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
                "Poster":"image.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/live/iba/channel-511M/hls/metadata.xml?smil_profile=default"
+                  "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -425,10 +425,10 @@
                "ShortDescriptionLine2":"See http://www.nana10.co.il",
                "Poster":"ch10.png",
                "StreamUrls":[
-		  "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8",
-                  "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-                  "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-                  "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_1_av-p.m3u8?sd=10&rebase=on"
+                   "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8",
+                   "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
+                   "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
+                   "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_1_av-p.m3u8?sd=10&rebase=on"
                ],
                "StreamFormat":"hls",
                "Live":true
@@ -494,7 +494,7 @@
                "Live":true
             },
             {
-               "Title":"IBA VOD",
+               "Title":"IBA VOD - (Is this thing on?)",
                "Poster":"iba_vod.png",
                "onSelected":"IBAOnDemand",
                "initialQuery":"{\"sp\":\"channel1_vod_select\",\"arrParams\":[]}",
@@ -3434,12 +3434,12 @@
                "Live":true
             },
             {
-               "Title":"Israel Brodcast Authority - Channel 33",
-               "ShortDescriptionLine1":"Arutz 33 (Arabic)",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/arabil",
-               "Poster":"iba33.png",
+               "Title":"Israeli Public Broadcasting Corporation - Kan 33",
+               "ShortDescriptionLine1":"Kan 33 (Arabic)",
+               "ShortDescriptionLine2":"See http://www.kan.org.il",
+               "Poster":"ipbc_tv_33.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/live/iba/channel-33M/hls/metadata.xml?smil_profile=default"
+                   "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCmakantvLVM/hls/metadata.xml?smil_profile=default"
                ],
                "StreamFormat":"hls",
                "Live":true
