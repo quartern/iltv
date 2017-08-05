@@ -396,8 +396,6 @@
                "ShortDescriptionLine2":"Keshet(Sun-Tues) + Reshet(Wed-Sat). If fails try those",
                "Poster":"ch2.png",
                "StreamUrls":[
-                  "http://89.45.186.26:1935/live/432/manifest.m3u8",
-                  "http://209.222.5.155:1935/live/114/manifest.m3u8",
                   "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8",
                   "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8"
                ],
@@ -478,6 +476,17 @@
                "StreamUrls":[
                   "http://keshethdioslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/221630/CH2LIVE_HIGH/index.m3u8@@?b=100-1000&@@TICKET@@",
                   "http://keshethdioslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/221629/CH2LIVE_MED/index.m3u8@@?b=100-1000&@@TICKET@@"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Keshet Meytav",
+               "ShortDescriptionLine1":"Keshet Meytav - The best of Keshet",
+               "ShortDescriptionLine2":"Keshet reruns - See http://www.mako.co.il",
+               "Poster":"keshet-meytav.png",
+               "StreamUrls":[
+                  "http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
