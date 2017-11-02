@@ -379,21 +379,9 @@
                "Live":true
             },
             {
-               "Title":"Israel Channel 2",
-               "ShortDescriptionLine1":"Arutz 2",
-               "ShortDescriptionLine2":"Keshet(Sun-Tues) + Reshet(Wed-Sat). If fails try those",
-               "Poster":"ch2.png",
-               "StreamUrls":[
-                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8",
-                  "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile1.m3u8"
-               ],
-               "StreamFormat":"hls",
-               "Live":true
-            },
-            {
                "ecpCode":"ch2news",
-               "Title":"Israel channel 2 News",
-               "ShortDescriptionLine1":"Hadashot Arutz 2",
+               "Title":"The news company stream - live only",
+               "ShortDescriptionLine1":"Should be the same as on 12 & 13",
                "ShortDescriptionLine2":"See http://www.mako.co.il/news & http://reshet.tv/News_n/heb/news",
                "Poster":"ch2news.png",
                "StreamUrls":[
@@ -445,13 +433,12 @@
                "Live":false
             },
             {
-               "Title":"Reshet",
-               "ShortDescriptionLine1":"Reshet (Wed-Sat)",
+               "Title":"Reshet - Ch13",
+               "ShortDescriptionLine1":"Reshet",
                "ShortDescriptionLine2":"See http://reshet.tv",
                "Poster":"reshet.png",
                "StreamUrls":[
-                  "http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8",
-                  "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_live1/playlist.m3u8"
+                  "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
