@@ -418,8 +418,8 @@
             },
             {
                "ecpCode":"ch2news",
-               "Title":"The news company stream - live only",
-               "ShortDescriptionLine1":"Live only (see ch13)",
+               "Title":"The news company stream",
+               "ShortDescriptionLine1":"Live only (see ch12 & ch13)",
                "ShortDescriptionLine2":"See http://reshet.tv/News_n/heb/news",
                "Poster":"news_co.png",
                "StreamUrls":[
@@ -446,11 +446,22 @@
             },
             {
                "Title":"Keshet",
-               "ShortDescriptionLine1":"Keshet - not working at the moment",
+               "ShortDescriptionLine1":"Keshet (A)",
                "ShortDescriptionLine2":"See http://www.mako.co.il",
                "Poster":"keshet.jpg",
                "StreamUrls":[
                   "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512033/CH2LIVE_HIGH/index.m3u8@@?@@TICKET@@"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+            {
+               "Title":"Keshet",
+               "ShortDescriptionLine1":"Keshet (B)",
+               "ShortDescriptionLine2":"See http://www.mako.co.il",
+               "Poster":"keshet.jpg",
+               "StreamUrls":[
+                  "http://keshethlslive-i.akamaihd.net@@MAKO:lp=@@/hls/live/512035/CH2LIVE_LOW/index.m3u8@@?b=100-1000&@@TICKET@@"
                ],
                "StreamFormat":"hls",
                "Live":true
