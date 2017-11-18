@@ -628,18 +628,33 @@
                "ShortDescriptionLine2":"See http://iland.tv",
                "Poster":"iland.png",
                "StreamUrls":[
-                  "http://146.185.61.140:1935/live/myStream/playlist.m3u8"
+		   "https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/playlist.m3u8",
+                   "http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
             },
+            {
+               "Title":"9",
+               "ShortDescriptionLine1":"Channel 9 (Russian)",
+               "ShortDescriptionLine2":"See http://9tv.co.il",
+               "Poster":"ch_9.png",
+               "StreamUrls":[
+		   "http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+
+
+
             {
                "Title":"TLV1 Radio",
                "ShortDescriptionLine1":"TLV1 (English radio)",
                "ShortDescriptionLine2":"See http://tlv1.fm",
                "Poster":"tlv1.png",
                "StreamUrls":[
-                  "http://tlv1.out.airtime.pro:8000/tlv1_a?_ga=1.253032012.4191531.1467630972.mp3&_=1"
+                  "http://tlv1.out.airtime.pro:8000/tlv1_a"
                ],
                "StreamFormat":"mp3",
                "Live":true,
@@ -670,38 +685,26 @@
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Reshet Daled",
-               "ShortDescriptionLine1":"Reshet Daled (Arabic radio)",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/arabil",
-               "Poster":"daled.png",
+               "Title":"Israeli Public Broadcasting Corporation - Arabic Radio",
+               "ShortDescriptionLine1":"Israeli Public Broadcasting Corporation - Arabic Radio",
+               "ShortDescriptionLine2":"See http://www.makan.org.il",
+               "Poster":"ipbc_radio_arabic.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-daledM/hls/metadata.xml?smil_profile=default"
+                  "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
             {
                "Title":"Israel Broadcast Authority - Reka",
                "ShortDescriptionLine1":"Reka - IBA World Service (multilingual radio)",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/world",
-               "Poster":"reka.png",
+               "ShortDescriptionLine2":"See http://www.kan.org.il/live/radio.aspx?stationId=10",
+               "Poster":"ipbc_radio_reka.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-rekaM/hls/metadata.xml?smil_profile=default"
+		   "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCrekaLAM"
                ],
-               "StreamFormat":"hls",
-               "Live":true,
-               "Audio":true
-            },
-            {
-               "Title":"Israel Broadcast Authority - Reshet Hei",
-               "ShortDescriptionLine1":"Reshet Hei (Persian radio, limited schedule)",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/world",
-               "Poster":"hei.png",
-               "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-heiM/hls/metadata.xml?smil_profile=default"
-               ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             }
