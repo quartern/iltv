@@ -628,11 +628,26 @@
                "ShortDescriptionLine2":"See http://iland.tv",
                "Poster":"iland.png",
                "StreamUrls":[
-                  "http://146.185.61.140:1935/live/myStream/playlist.m3u8"
+		   "https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/playlist.m3u8",
+                   "http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8"
                ],
                "StreamFormat":"hls",
                "Live":true
             },
+            {
+               "Title":"9",
+               "ShortDescriptionLine1":"Channel 9 (Russian)",
+               "ShortDescriptionLine2":"See http://9tv.co.il",
+               "Poster":"ch_9.png",
+               "StreamUrls":[
+		   "http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8"
+               ],
+               "StreamFormat":"hls",
+               "Live":true
+            },
+
+
+
             {
                "Title":"TLV1 Radio",
                "ShortDescriptionLine1":"TLV1 (English radio)",
