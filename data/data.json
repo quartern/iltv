@@ -670,14 +670,14 @@
                "Audio":true
             },
             {
-               "Title":"Israel Broadcast Authority - Reshet Daled",
-               "ShortDescriptionLine1":"Reshet Daled (Arabic radio)",
-               "ShortDescriptionLine2":"See http://www.iba.org.il/arabil",
-               "Poster":"daled.png",
+               "Title":"Israeli Public Broadcasting Corporation - Arabic Radio",
+               "ShortDescriptionLine1":"Israeli Public Broadcasting Corporation - Arabic Radio",
+               "ShortDescriptionLine2":"See http://www.makan.org.il",
+               "Poster":"ipbc_tv_33.png",
                "StreamUrls":[
-                  "http://iba-metadata-rr-d.vidnt.com/radio/iba/radio-daledM/hls/metadata.xml?smil_profile=default"
+                  "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM"
                ],
-               "StreamFormat":"hls",
+               "StreamFormat":"es.aac-adts",
                "Live":true,
                "Audio":true
             },
