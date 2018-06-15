@@ -385,7 +385,7 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_tv_11.png",
           "StreamUrls": [
-            "http://ipbc-gcdn.vidnt.com/live/game.stream.smil/playlist.m3u8",
+            "http://player.kan.org.il/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default",
             "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default"
           ],
           "StreamFormat": "hls",
@@ -618,40 +618,6 @@
     {
       "Name": "Other Languages",
       "Items": [
-        {
-          "ecpCode": "i24en",
-          "Title": "i24 English",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (English)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/en",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "http://www.dailymotion.com/video/x29atae"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "i24 French",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (French)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/fr",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "http://www.dailymotion.com/video/x10358o"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "i24 Arabic",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (Arabic)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/ar",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "http://www.dailymotion.com/video/x2uafpp"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
         {
           "Title": "Israeli Public Broadcasting Corporation - Kan 33",
           "ShortDescriptionLine1": "Kan 33 (Arabic)",
