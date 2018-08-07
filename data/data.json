@@ -375,6 +375,7 @@
           "StreamUrls": [
             "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default"
           ],
+          "strReplace": ["Global", "LVM"],
           "StreamFormat": "hls",
           "Live": true
         },
