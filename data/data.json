@@ -438,8 +438,8 @@
           "Poster": "news_co.png",
           "StreamUrls": [
             "http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8",
-            "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile3.m3u8",
-            "http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan01/_definst_/live/stream_profile1.m3u8",
+            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan01/manifest.m3u8",
+            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/manifest.m3u8",
             "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
           ],
           "StreamFormat": "hls",
@@ -469,17 +469,25 @@
         },
         {
           "Title": "Ch23 - Educational TV",
-          "ShortDescriptionLine1": "Chinuchit 23 - Israels educational television",
-          "ShortDescriptionLine2": "See http://www.23tv.co.il",
+          "ShortDescriptionLine1": "Kan Chinuchit (23) - Israels educational television",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/live/tv.aspx?stationid=20",
           "Poster": "chinuchit23.png",
           "StreamUrls": [
-            "http://il28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/playlist.m3u8",
-            "http://cast-tv.net:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8",
-            "http://62.219.24.229:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/playlist.m3u8",
-            "http://62.219.24.228:1935/25400_LIVE_Free734777/smil:25400_LIVE_Free734777.smil/chunklist_w1057484284_b896000_slHeb.m3u8"
+            "http://player.kan.org.il/live/ipbc/IPBCchannel23LVM/hls/metadata.xml?smil_profile=default"
           ],
           "StreamFormat": "hls",
           "Live": false
+        },
+        {
+          "Title":"Israel HaYom stream",
+          "ShortDescriptionLine1":"Israel Today - Israel HaYom stream",
+          "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
+          "Poster":"YisHayom.png",
+          "StreamUrls":[
+            "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
+          ],
+          "StreamFormat":"hls",
+          "Live":true
         },
         {
           "Title":"Israels Big Brother",
