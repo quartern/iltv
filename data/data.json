@@ -480,22 +480,11 @@
         },
         {
           "Title":"Israel HaYom stream",
-          "ShortDescriptionLine1":"Israel Today - Israel HaYom stream",
+          "ShortDescriptionLine1":"Israel Today - Israel HaYom, occasional live event stream",
           "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
           "Poster":"YisHayom.png",
           "StreamUrls":[
             "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
-          ],
-          "StreamFormat":"hls",
-          "Live":true
-        },
-        {
-          "Title":"Israels Big Brother",
-          "ShortDescriptionLine1":"Big Brother - HaAch HaGadol",
-          "ShortDescriptionLine2":"See http://reshet.tv/entertainment/the-big-brother",
-          "Poster":"bigbro.png",
-          "StreamUrls":[
-            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/manifest.m3u8"
           ],
           "StreamFormat":"hls",
           "Live":true
@@ -555,7 +544,7 @@
           "ShortDescriptionLine2": "See http://hidabrut.com",
           "Poster": "hidabrut.jpg",
           "StreamUrls": [
-            "http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8"
+            "https://hidabroot.streamgates.net/Hidabrut/ch1/playlist.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -630,17 +619,6 @@
           "StreamUrls": [
             "https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/playlist.m3u8",
             "http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "9",
-          "ShortDescriptionLine1": "Channel 9 (Russian)",
-          "ShortDescriptionLine2": "See http://9tv.co.il",
-          "Poster": "ch_9.png",
-          "StreamUrls": [
-            "http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
