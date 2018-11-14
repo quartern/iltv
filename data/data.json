@@ -294,9 +294,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_88.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC88LAM"
+            "http://kanlive.akamaized.net/kan88/smil:kan88_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
@@ -306,9 +306,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_musika.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCkolhamusicaLAM"
+            "http://kanlive.akamaized.net/kankolhamusica/smil:kankolhamusica_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
@@ -318,9 +318,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_tarbut.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCtarbutLAM"
+            "http://kanlive.akamaized.net/kantarbut/smil:kantarbut_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
@@ -330,9 +330,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_bet.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCbetLAM"
+            "http://kanlive.akamaized.net/kanbet/smil:kanbet_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
@@ -342,9 +342,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_gimmel.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCgimmelLAM"
+            "http://kanlive.akamaized.net/kangimmel/smil:kangimmel_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
@@ -354,9 +354,9 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_moreshet.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmoreshetLAM"
+            "http://kanlive.akamaized.net/kanmoreshet/smil:kanmoreshet_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         }
@@ -373,7 +373,7 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_tv_11.png",
           "StreamUrls": [
-            "https://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/playlist.m3u8",
+            "http://kanlive.akamaized.net/kan11/smil:kan11_mp4.smil/playlist.m3u8",
             "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCchannel11LVM/hls/metadata.xml?smil_profile=default"
           ],
           "strReplace": ["Global", "LVM"],
@@ -607,6 +607,7 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_tv_33.png",
           "StreamUrls": [
+            "https://kanlive.akamaized.net/makantv/smil:makantv_mp4.smil/playlist.m3u8",
             "http://ipbc-metadata-rr-d.vidnt.com/live/ipbc/IPBCmakantvLVM/hls/metadata.xml?smil_profile=default"
           ],
           "StreamFormat": "hls",
@@ -618,23 +619,12 @@
           "ShortDescriptionLine2": "See http://iland.tv",
           "Poster": "iland.png",
           "StreamUrls": [
+            "https://w1.208.gostreaming.tv/ILAND/smil:iland.smil/playlist.m3u8",
             "https://58ceb41d8e384.streamlock.net/ILAND/smil:iland.smil/playlist.m3u8",
             "http://58ceb41d8e384.streamlock.net:1935/live/myStream/playlist.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
-        },
-        {
-          "Title": "TLV1 Radio",
-          "ShortDescriptionLine1": "TLV1 (English radio)",
-          "ShortDescriptionLine2": "See http://tlv1.fm",
-          "Poster": "tlv1.png",
-          "StreamUrls": [
-            "http://tlv1.out.airtime.pro:8000/tlv1_a"
-          ],
-          "StreamFormat": "mp3",
-          "Live": true,
-          "Audio": true
         },
         {
           "Title": "The Voice of Peace - Classic",
@@ -666,21 +656,21 @@
           "ShortDescriptionLine2": "See http://www.makan.org.il",
           "Poster": "ipbc_radio_arabic.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCmakanradioLAM"
+            "https://kanlive.akamaized.net/makan/smil:makan_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         },
         {
           "Title": "Israel Broadcast Authority - Reka",
-          "ShortDescriptionLine1": "Reka - IBA World Service (multilingual radio)",
+          "ShortDescriptionLine1": "Reka - IPBC World Service (multilingual radio)",
           "ShortDescriptionLine2": "See http://www.kan.org.il/live/radio.aspx?stationId=10",
           "Poster": "ipbc_radio_reka.png",
           "StreamUrls": [
-            "http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCrekaLAM"
+            "https://kanlive.akamaized.net/kanreka/smil:kanreka_mp4.smil/playlist.m3u8"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "hls",
           "Live": true,
           "Audio": true
         }
