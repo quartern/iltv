@@ -431,7 +431,7 @@
           "ShortDescriptionLine2": "See www.ch-20.tv",
           "Poster": "ch20.png",
           "StreamUrls": [
-            "http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8"
+            "https://dvr.ch20-cdnwiz.com/hls/dvr.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -439,13 +439,11 @@
         {
           "ecpCode": "ch2news",
           "Title": "The news company stream",
-          "ShortDescriptionLine1": "Live only (see ch12 & ch13)",
+          "ShortDescriptionLine1": "Live only (see ch12)",
           "ShortDescriptionLine2": "See http://reshet.tv/News_n/heb/news",
           "Poster": "news_co.png",
           "StreamUrls": [
             "http://ch2live-i.akamaihd.net/hls/live/252343/252343/playlist.m3u8",
-            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan01/manifest.m3u8",
-            "https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/neveilan02/manifest.m3u8",
             "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8"
           ],
           "StreamFormat": "hls",
@@ -486,7 +484,7 @@
         },
         {
           "Title":"Israel HaYom stream",
-          "ShortDescriptionLine1":"Israel Today - Israel HaYom, occasional live event stream",
+          "ShortDescriptionLine1":"Israel Today - Israel HaYom, OCCASIONAL live event stream",
           "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
           "Poster":"YisHayom.png",
           "StreamUrls":[
@@ -494,17 +492,6 @@
           ],
           "StreamFormat":"hls",
           "Live":true
-        },
-        {
-          "Title": "Keshet Meytav",
-          "ShortDescriptionLine1": "Keshet Meytav - The best of Keshet",
-          "ShortDescriptionLine2": "Keshet reruns - See http://www.mako.co.il",
-          "Poster": "keshet-meytav.png",
-          "StreamUrls": [
-            "http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
         },
         {
           "Title": "Knesset",
@@ -608,11 +595,11 @@
       "Items": [
         {
           "Title": "Israeli Public Broadcasting Corporation - Kan 33",
-          "ShortDescriptionLine1": "Kan 33 (Arabic), =Geoblocked=",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine1": "Kan 33 (Arabic)",
+          "ShortDescriptionLine2": "See https://www.makan.org.il",
           "Poster": "ipbc_tv_33.png",
           "StreamUrls": [
-            "https://kanlive.bynetcdn.com/makantv/smil:makantv_mp4.smil/playlist.m3u8"
+            "https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/playlist.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
