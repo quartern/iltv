@@ -421,6 +421,9 @@
             "http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8",
             "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8"
           ],
+          "HttpHeaders": [
+            "Referer:http://reshet.tv/"
+          ],
           "StreamFormat": "hls",
           "Live": true
         },
