@@ -432,28 +432,6 @@
           "Live": true
         },
         {
-          "Title": "YNet",
-          "ShortDescriptionLine1": "YNet",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Walla News",
-          "ShortDescriptionLine1": "Walla News",
-          "ShortDescriptionLine2": "See https://news.walla.co.il",
-          "Poster": "walla.png",
-          "StreamUrls": [
-            "http://walla-metadata-rr-d.vidnt.com/live/walla/ulpan/hls/metadata.xml"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
           "Title": "24 Music",
           "ShortDescriptionLine1": "Arutz 24 - Israels music television",
           "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
@@ -487,17 +465,6 @@
           "Live": false
         },
         {
-          "Title":"Israel HaYom stream",
-          "ShortDescriptionLine1":"Israel Today - Israel HaYom, OCCASIONAL live event stream",
-          "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
-          "Poster":"YisHayom.png",
-          "StreamUrls":[
-            "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
-          ],
-          "StreamFormat":"hls",
-          "Live":true
-        },
-        {
           "Title": "Knesset",
           "ShortDescriptionLine1": "Knesset channel",
           "ShortDescriptionLine2": "See http://main.knesset.gov.il/News/Broadcast",
@@ -507,6 +474,44 @@
           ],
           "StreamFormat": "hls",
           "Live": true
+        }
+      ]
+    },
+    {
+      "Name": "Sometimes streams",
+      "Items": [
+        {
+          "Title": "YNet",
+          "ShortDescriptionLine1": "YNet",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Walla News",
+          "ShortDescriptionLine1": "Walla News",
+          "ShortDescriptionLine2": "See https://news.walla.co.il",
+          "Poster": "walla.png",
+          "StreamUrls": [
+            "http://walla-metadata-rr-d.vidnt.com/live/walla/ulpan/hls/metadata.xml"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title":"Israel HaYom stream",
+          "ShortDescriptionLine1":"Israel Today - Israel HaYom, OCCASIONAL live event stream",
+          "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
+          "Poster":"YisHayom.png",
+          "StreamUrls":[
+            "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
+          ],
+          "StreamFormat":"hls",
+          "Live":true
         }
       ]
     },
