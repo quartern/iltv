@@ -375,21 +375,9 @@
           "StreamUrls": [
             "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8"
           ],
-          "strReplace": ["Global", "LVM"],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "ecpCode": "ch10",
-          "Title": "Israel channel 10",
-          "ShortDescriptionLine1": "Arutz 10",
-          "ShortDescriptionLine2": "See http://www.nana10.co.il",
-          "Poster": "ch10.png",
-          "StreamUrls": [
-            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8",
-            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-            "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-            "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_1_av-p.m3u8?sd=10&rebase=on"
+          "strReplace": [
+            "Global",
+            "LVM"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -407,13 +395,13 @@
           "Live": true
         },
         {
+          "ecpCode": "ch10",
           "Title": "Reshet - Ch13",
           "ShortDescriptionLine1": "Reshet",
           "ShortDescriptionLine2": "See http://reshet.tv",
           "Poster": "reshet_13.png",
           "StreamUrls": [
-            "http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8",
-            "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8"
+            "https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8"
           ],
           "HttpHeaders": [
             "Referer:http://reshet.tv/"
@@ -447,6 +435,55 @@
           "Live": true
         },
         {
+          "Title": "24 Music",
+          "ShortDescriptionLine1": "Arutz 24 - Israels music television",
+          "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
+          "Poster": "music24.png",
+          "StreamUrls": [
+            "http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Sport 5 Radio",
+          "ShortDescriptionLine1": "Radio Arutz ha Sport (5)",
+          "ShortDescriptionLine2": "See http://radio.sport5.co.il",
+          "Poster": "sport5radio.jpg",
+          "StreamUrls": [
+            "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Ch23 - Educational TV",
+          "ShortDescriptionLine1": "Kan Chinuchit (23) - Israels educational television",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/lists/?mainid=9",
+          "Poster": "chinuchit23.png",
+          "StreamUrls": [
+            "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": false
+        },
+        {
+          "Title": "Knesset",
+          "ShortDescriptionLine1": "Knesset channel",
+          "ShortDescriptionLine2": "See http://main.knesset.gov.il/News/Broadcast",
+          "Poster": "knesset.png",
+          "StreamUrls": [
+            "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        }
+      ]
+    },
+    {
+      "Name": "Sometimes streams",
+      "Items": [
+        {
           "Title": "YNet",
           "ShortDescriptionLine1": "YNet",
           "ShortDescriptionLine2": "See https://www.ynet.co.il",
@@ -469,56 +506,12 @@
           "Live": true
         },
         {
-          "Title": "24 Music",
-          "ShortDescriptionLine1": "Arutz 24 - Israels music television",
-          "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
-          "Poster": "music24.png",
+          "Title": "Israel HaYom stream",
+          "ShortDescriptionLine1": "Israel Today - Israel HaYom, OCCASIONAL live event stream",
+          "ShortDescriptionLine2": "See https://www.israelhayom.co.il",
+          "Poster": "YisHayom.png",
           "StreamUrls": [
-            "http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title":"Sport 5 Radio",
-          "ShortDescriptionLine1":"Radio Arutz ha Sport (5)",
-          "ShortDescriptionLine2":"See http://radio.sport5.co.il",
-          "Poster":"sport5radio.jpg",
-          "StreamUrls":[
-            "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8"
-          ],
-          "StreamFormat":"hls",
-          "Live":true
-        },
-        {
-          "Title": "Ch23 - Educational TV",
-          "ShortDescriptionLine1": "Kan Chinuchit (23) - Israels educational television",
-          "ShortDescriptionLine2": "See https://www.kan.org.il/lists/?mainid=9",
-          "Poster": "chinuchit23.png",
-          "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": false
-        },
-        {
-          "Title":"Israel HaYom stream",
-          "ShortDescriptionLine1":"Israel Today - Israel HaYom, OCCASIONAL live event stream",
-          "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
-          "Poster":"YisHayom.png",
-          "StreamUrls":[
             "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
-          ],
-          "StreamFormat":"hls",
-          "Live":true
-        },
-        {
-          "Title": "Knesset",
-          "ShortDescriptionLine1": "Knesset channel",
-          "ShortDescriptionLine2": "See http://main.knesset.gov.il/News/Broadcast",
-          "Poster": "knesset.png",
-          "StreamUrls": [
-            "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
