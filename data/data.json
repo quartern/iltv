@@ -380,21 +380,6 @@
           "Live": true
         },
         {
-          "ecpCode": "ch10",
-          "Title": "Israel channel 10",
-          "ShortDescriptionLine1": "Arutz 10",
-          "ShortDescriptionLine2": "See http://www.nana10.co.il",
-          "Poster": "ch10.png",
-          "StreamUrls": [
-            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/chunklist_b1000000.m3u8",
-            "http://nana10-hdl-uk.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-            "http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8",
-            "http://nana10live-lh.akamaihd.net/i/Mob01_0@70462/index_1_av-p.m3u8?sd=10&rebase=on"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
           "Title": "Keshet - CH12",
           "ShortDescriptionLine1": "Keshet",
           "ShortDescriptionLine2": "See http://www.mako.co.il",
@@ -407,13 +392,13 @@
           "Live": true
         },
         {
+          "ecpCode": "ch10",
           "Title": "Reshet - Ch13",
           "ShortDescriptionLine1": "Reshet",
           "ShortDescriptionLine2": "See http://reshet.tv",
           "Poster": "reshet_13.png",
           "StreamUrls": [
-            "http://besttv10.aoslive.it.best-tv.com/reshet/studio/index.m3u8",
-            "http://besttv1.aoslive.it.best-tv.com/reshet/studio/index.m3u8"
+            "https://reshet-live.ctedgecdn.net/13tv-desktop/nodvr/r13.m3u8"
           ],
           "HttpHeaders": [
             "Referer:http://reshet.tv/"
