@@ -375,7 +375,10 @@
           "StreamUrls": [
             "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/playlist.m3u8"
           ],
-          "strReplace": ["Global", "LVM"],
+          "strReplace": [
+            "Global",
+            "LVM"
+          ],
           "StreamFormat": "hls",
           "Live": true
         },
@@ -443,15 +446,15 @@
           "Live": true
         },
         {
-          "Title":"Sport 5 Radio",
-          "ShortDescriptionLine1":"Radio Arutz ha Sport (5)",
-          "ShortDescriptionLine2":"See http://radio.sport5.co.il",
-          "Poster":"sport5radio.jpg",
-          "StreamUrls":[
+          "Title": "Sport 5 Radio",
+          "ShortDescriptionLine1": "Radio Arutz ha Sport (5)",
+          "ShortDescriptionLine2": "See http://radio.sport5.co.il",
+          "Poster": "sport5radio.jpg",
+          "StreamUrls": [
             "https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/master.m3u8"
           ],
-          "StreamFormat":"hls",
-          "Live":true
+          "StreamFormat": "hls",
+          "Live": true
         },
         {
           "Title": "Ch23 - Educational TV",
@@ -503,15 +506,15 @@
           "Live": true
         },
         {
-          "Title":"Israel HaYom stream",
-          "ShortDescriptionLine1":"Israel Today - Israel HaYom, OCCASIONAL live event stream",
-          "ShortDescriptionLine2":"See https://www.israelhayom.co.il",
-          "Poster":"YisHayom.png",
-          "StreamUrls":[
+          "Title": "Israel HaYom stream",
+          "ShortDescriptionLine1": "Israel Today - Israel HaYom, OCCASIONAL live event stream",
+          "ShortDescriptionLine2": "See https://www.israelhayom.co.il",
+          "Poster": "YisHayom.png",
+          "StreamUrls": [
             "https://live.israelhayom-cdnwiz.com/hls/live.m3u8"
           ],
-          "StreamFormat":"hls",
-          "Live":true
+          "StreamFormat": "hls",
+          "Live": true
         }
       ]
     },
