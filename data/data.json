@@ -49,7 +49,7 @@
           "ShortDescriptionLine2": "See http://103fm.maariv.co.il",
           "Poster": "103fm.png",
           "StreamUrls": [
-            "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio"
+            "http://acdn.streamgates.net/103fm"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -85,7 +85,7 @@
           "ShortDescriptionLine2": "See http://www.91fm.co.il",
           "Poster": "91fm.png",
           "StreamUrls": [
-            "http://213.8.143.168/91fmAudio"
+            "http://acdn.streamgates.net/91fm"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -109,7 +109,7 @@
           "ShortDescriptionLine2": "See http://www.96fm.co.il/",
           "Poster": "kolrega_96fm.png",
           "StreamUrls": [
-            "http://server1.live1.co.il:8000/96fm"
+            "http://radio.streamgates.net/stream/KOLREGA"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -121,7 +121,7 @@
           "ShortDescriptionLine2": "See http://www.100fm.co.il/",
           "Poster": "radius_100fm.png",
           "StreamUrls": [
-            "http://213.8.143.168/100fmAudio"
+            "http://acdn.streamgates.net/100fm"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -133,7 +133,7 @@
           "ShortDescriptionLine2": "See http://eco99fm.maariv.co.il",
           "Poster": "eco99fm.png",
           "StreamUrls": [
-            "http://99.livecdn.biz/99fm"
+            "http://eco-live.mediacast.co.il/99fm"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -154,10 +154,10 @@
         {
           "Title": "Galil Radio - 105.3fm",
           "ShortDescriptionLine1": "Galil Radio - 105.3fm",
-          "ShortDescriptionLine2": "See http://galilradio.info",
+          "ShortDescriptionLine2": "See https://www.1053fm.co",
           "Poster": "galilradio_1053.png",
           "StreamUrls": [
-            "http://server2.live1.co.il/galil"
+            "http://radio.streamgates.net/stream/galil"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -166,22 +166,22 @@
         {
           "Title": "Kol Yizrael - 106fm",
           "ShortDescriptionLine1": "Kol Yizrael - 106fm",
-          "ShortDescriptionLine2": "See http://www.radio106.co.il",
+          "ShortDescriptionLine2": "See https://www.facebook.com/RadioKY106FM",
           "Poster": "KolYizrael106.png",
           "StreamUrls": [
-            "http:/yezreel.cdnwz.net/yezreel"
+            "http://radio.streamgates.net/stream/yezreel"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
         {
           "Title": "Kol Ramat Hasharon - 103.6FM",
           "ShortDescriptionLine1": "Kol Ramat Hasharon - 103.6FM",
-          "ShortDescriptionLine2": "See http://1036.fm",
+          "ShortDescriptionLine2": "See http://1036fm.co.il",
           "Poster": "ramat_hasharon_106fm.png",
           "StreamUrls": [
-            "http://1036fm.livecast.co.il/live1036fm/"
+            "http://krh.cdnwz.net/1036"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -212,18 +212,6 @@
           "Audio": true
         },
         {
-          "Title": "Radio Kol Gat - 106fm",
-          "ShortDescriptionLine1": "Kol Gat - 106fm",
-          "ShortDescriptionLine2": "See http://www.kolgat.co.il",
-          "Poster": "kol_gat.png",
-          "StreamUrls": [
-            "http://kolgat.livecast.co.il/livegat/"
-          ],
-          "StreamFormat": "mp3",
-          "Live": true,
-          "Audio": true
-        },
-        {
           "Title": "IDC Radio - 106.2fm",
           "ShortDescriptionLine1": "IDC Radio - 106.2fm",
           "ShortDescriptionLine2": "See http://1062fm.co.il",
@@ -241,21 +229,9 @@
           "ShortDescriptionLine2": "See http://www.1075.fm",
           "Poster": "haifa_107.png",
           "StreamUrls": [
-            "http://ads11.livecdn.biz:80/radiohaifa"
+            "http://1075.livecdn.biz/radiohaifa"
           ],
           "StreamFormat": "es.aac-adts",
-          "Live": true,
-          "Audio": true
-        },
-        {
-          "Title": "Arutz 7 radio",
-          "ShortDescriptionLine1": "Arutz 7 radio",
-          "ShortDescriptionLine2": "See http://www.israelnationalnews.com",
-          "Poster": "arutz7_radio.png",
-          "StreamUrls": [
-            "http://media.varnish.inn.co.il/a7live"
-          ],
-          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         }
