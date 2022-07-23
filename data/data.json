@@ -418,10 +418,9 @@
           "Title": "24 Music",
           "ShortDescriptionLine1": "Arutz 24 - Israels music television",
           "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
-          "Poster": "music24.png",
+          "Poster": "music24.jpg",
           "StreamUrls": [
-            "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&b=200-2500&rebase=on",
-            "http://keshethlslive-lh.akamaihd.net@@MAKO:lp=@@/i/24live_1@195271/master.m3u8@@?b=200-2500&@@TICKET@@"
+            "https://mako-streaming.akamaized.net@@MAKO:lp=@@/direct/hls/live/2035340/ch24/index.m3u8@@?b-in-range=800-2400&@@TICKET@@"
           ],
           "StreamFormat": "hls",
           "Live": true
