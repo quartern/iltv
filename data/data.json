@@ -270,9 +270,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_88.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-88/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749623_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -282,9 +283,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_musika.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749627/749627/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kol-hamusica/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749627_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -294,9 +296,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_tarbut.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749634/749634/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-tarbut/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749634_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -306,9 +309,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_bet.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749624/749624/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-bet/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749624_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -318,9 +322,23 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_gimmel.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749625/749625/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-gimmel/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749625_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
+          "Live": true,
+          "Audio": true
+        },
+        {
+          "Title": "Israeli Public Broadcasting Corporation - Educational/Kids Radio",
+          "ShortDescriptionLine1": "Kan Chinuchit - Israels educational radio",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/radio/radio-kids.aspx",
+          "Poster": "hinuhit_radio.png",
+          "StreamUrls": [
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kids/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749631_mp3"
+          ],
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -330,9 +348,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il",
           "Poster": "ipbc_radio_moreshet.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749629/749629/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-moreshet/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749629_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         }
@@ -650,9 +669,10 @@
           "ShortDescriptionLine2": "See http://www.makan.org.il",
           "Poster": "ipbc_radio_arabic.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749628/749628/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/makan/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749628_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -662,9 +682,10 @@
           "ShortDescriptionLine2": "See http://www.kan.org.il/live/radio.aspx?stationId=10",
           "Poster": "ipbc_radio_reka.png",
           "StreamUrls": [
-            "https://kanlivep2event-i.akamaihd.net/hls/live/749633/749633/playlist.m3u8"
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-reka/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749633_mp3"
           ],
-          "StreamFormat": "hls",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         }
