@@ -61,9 +61,9 @@
           "ShortDescriptionLine2": "See http://www.102fm.co.il",
           "Poster": "telaviv102fm.png",
           "StreamUrls": [
-            "http://102.livecdn.biz/102fm_aac"
+            "https://102.livecdn.biz/102fm_mp3"
           ],
-          "StreamFormat": "es.aac-adts",
+          "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
         },
@@ -85,7 +85,7 @@
           "ShortDescriptionLine2": "See http://www.91fm.co.il",
           "Poster": "91fm.png",
           "StreamUrls": [
-            "http://acdn.streamgates.net/91fm"
+            "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -97,9 +97,9 @@
           "ShortDescriptionLine2": "See www.radiodarom.co.il",
           "Poster": "darom_95.png",
           "StreamUrls": [
-            "http://audio-darom.ecast.co.il/darom97fm"
+            "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio"
           ],
-          "StreamFormat": "mp3",
+          "StreamFormat": "es.aac-adts",
           "Live": true,
           "Audio": true
         },
@@ -109,7 +109,7 @@
           "ShortDescriptionLine2": "See http://www.96fm.co.il/",
           "Poster": "kolrega_96fm.png",
           "StreamUrls": [
-            "http://radio.streamgates.net/stream/KOLREGA"
+            "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -121,7 +121,7 @@
           "ShortDescriptionLine2": "See http://www.100fm.co.il/",
           "Poster": "radius_100fm.png",
           "StreamUrls": [
-            "http://acdn.streamgates.net/100fm"
+            "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -157,7 +157,7 @@
           "ShortDescriptionLine2": "See https://www.1053fm.co",
           "Poster": "galilradio_1053.png",
           "StreamUrls": [
-            "http://radio.streamgates.net/stream/galil"
+            "https://radio.streamgates.net/stream/galil"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -169,7 +169,7 @@
           "ShortDescriptionLine2": "See https://www.facebook.com/RadioKY106FM",
           "Poster": "KolYizrael106.png",
           "StreamUrls": [
-            "http://radio.streamgates.net/stream/yezreel"
+            "https://radio.streamgates.net/stream/yezreel"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -193,7 +193,7 @@
           "ShortDescriptionLine2": "See http://www.facebook.com/KolRamla",
           "Poster": "kol_ramla_106fm.png",
           "StreamUrls": [
-            "http://84.94.229.99:5693/;"
+            "https://liveradio.co.il:7000"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -205,7 +205,7 @@
           "ShortDescriptionLine2": "See http://www.kol-galim.co.il",
           "Poster": "kolgalim_106.png",
           "StreamUrls": [
-            "http://switch2-streaming-212-83-eu.ilcast.com:8055/;"
+            "https://live.ecast.co.il/stream3/8055"
           ],
           "StreamFormat": "mp3",
           "Live": true,
