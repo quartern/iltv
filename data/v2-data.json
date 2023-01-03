@@ -44,7 +44,7 @@
             "http://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8"
           ],
           "HttpHeaders": [
-            "Referer:http://reshet.tv/"
+            "referer:http://reshet.tv/"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -60,7 +60,8 @@
             "http://dvr.ch20-cdnwiz.com/mobilehls/dvr.m3u8"
           ],
           "HttpHeaders": [
-            "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+            "user-agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)",
+            "referer:http://cdn.ch20-cdnwiz.com/"
           ],
           "StreamFormat": "hls",
           "Live": true
