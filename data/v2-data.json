@@ -126,6 +126,21 @@
           ],
           "StreamFormat": "hls",
           "Live": true
+        },
+        {
+          "Title": "YNet",
+          "ShortDescriptionLine1": "YNet",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "http://ynet-live-03.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8",
+            "http://ynet-live-03.ynet-pic1.yit.co.il/ynet/live_360/index.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
         }
       ]
     },
