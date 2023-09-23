@@ -432,190 +432,6 @@
       ]
     },
     {
-      "Name": "Sometimes Streams",
-      "Items": [
-        {
-          "Title": "The news company stream (aka N12)",
-          "ShortDescriptionLine1": "Live only (see ch12)",
-          "ShortDescriptionLine2": "See https://www.n12.co.il/",
-          "Poster": "news_co.png",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12p/index.m3u8?b-in-range=800-2400"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Walla News",
-          "ShortDescriptionLine1": "Walla News",
-          "ShortDescriptionLine2": "See https://news.walla.co.il",
-          "Poster": "walla.png",
-          "StreamUrls": [
-            "https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet(1)",
-          "ShortDescriptionLine1": "YNet stream 1 (of 5)",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet(2)",
-          "ShortDescriptionLine1": "YNet stream 2 (of 5)",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet(3)",
-          "ShortDescriptionLine1": "YNet stream 3 (of 5)",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet(4)",
-          "ShortDescriptionLine1": "YNet stream 4 (of 5)",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet(5)",
-          "ShortDescriptionLine1": "YNet stream 5 (of 5)",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        }
-      ]
-    },
-    {
-      "Name": "Other Languages",
-      "Items": [
-        {
-          "ecpCode": "i24en",
-          "Title": "i24 English",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (English)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/en",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "i24 French",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (French)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/fr",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "i24 Arabic",
-          "ShortDescriptionLine1": "i24 news and current affairs channel (Arabic)",
-          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/ar",
-          "Poster": "i24.png",
-          "StreamUrls": [
-            "https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Israeli Public Broadcasting Corporation - Kan 33",
-          "ShortDescriptionLine1": "Kan 33 (Arabic)",
-          "ShortDescriptionLine2": "See https://www.makan.org.il",
-          "Poster": "ipbc_tv_33.png",
-          "StreamUrls": [
-            "http://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Israel Pars TV",
-          "ShortDescriptionLine1": "Israel Pars TV",
-          "ShortDescriptionLine2": "See https://pars-israel.com",
-          "Poster": "IsraelPars.png",
-          "StreamUrls": [
-            "https://live.pars-israel.com/iptv/stream.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Israeli Public Broadcasting Corporation - Arabic Radio",
-          "ShortDescriptionLine1": "Israeli Public Broadcasting Corporation - Arabic Radio",
-          "ShortDescriptionLine2": "See http://www.makan.org.il",
-          "Poster": "ipbc_radio_arabic.png",
-          "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/makan/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749628_mp3"
-          ],
-          "StreamFormat": "mp3",
-          "Live": true,
-          "Audio": true
-        },
-        {
-          "Title": "Israel Broadcast Authority - Reka",
-          "ShortDescriptionLine1": "Reka - IPBC World Service (multilingual radio)",
-          "ShortDescriptionLine2": "See http://www.kan.org.il/live/radio.aspx?stationId=10",
-          "Poster": "ipbc_radio_reka.png",
-          "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-reka/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749633_mp3"
-          ],
-          "StreamFormat": "mp3",
-          "Live": true,
-          "Audio": true
-        }
-      ]
-    },
-    {
       "Name": "11 News - Latest shows",
       "Items": [
         {
@@ -864,6 +680,190 @@
           ],
           "StreamerId": "1_t5limgln",
           "Date": "2023-09-01 18:12:51"
+        }
+      ]
+    },
+    {
+      "Name": "Sometimes Streams",
+      "Items": [
+        {
+          "Title": "The news company stream (aka N12)",
+          "ShortDescriptionLine1": "Live only (see ch12)",
+          "ShortDescriptionLine2": "See https://www.n12.co.il/",
+          "Poster": "news_co.png",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12p/index.m3u8?b-in-range=800-2400"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Walla News",
+          "ShortDescriptionLine1": "Walla News",
+          "ShortDescriptionLine2": "See https://news.walla.co.il",
+          "Poster": "walla.png",
+          "StreamUrls": [
+            "https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(1)",
+          "ShortDescriptionLine1": "YNet stream 1 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(2)",
+          "ShortDescriptionLine1": "YNet stream 2 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(3)",
+          "ShortDescriptionLine1": "YNet stream 3 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(4)",
+          "ShortDescriptionLine1": "YNet stream 4 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(5)",
+          "ShortDescriptionLine1": "YNet stream 5 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        }
+      ]
+    },
+    {
+      "Name": "Other Languages",
+      "Items": [
+        {
+          "ecpCode": "i24en",
+          "Title": "i24 English",
+          "ShortDescriptionLine1": "i24 news and current affairs channel (English)",
+          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/en",
+          "Poster": "i24.png",
+          "StreamUrls": [
+            "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "i24 French",
+          "ShortDescriptionLine1": "i24 news and current affairs channel (French)",
+          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/fr",
+          "Poster": "i24.png",
+          "StreamUrls": [
+            "https://bcovlive-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "i24 Arabic",
+          "ShortDescriptionLine1": "i24 news and current affairs channel (Arabic)",
+          "ShortDescriptionLine2": "See Beyond http://www.i24news.tv/ar",
+          "Poster": "i24.png",
+          "StreamUrls": [
+            "https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Israeli Public Broadcasting Corporation - Kan 33",
+          "ShortDescriptionLine1": "Kan 33 (Arabic)",
+          "ShortDescriptionLine2": "See https://www.makan.org.il",
+          "Poster": "ipbc_tv_33.png",
+          "StreamUrls": [
+            "http://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Israel Pars TV",
+          "ShortDescriptionLine1": "Israel Pars TV",
+          "ShortDescriptionLine2": "See https://pars-israel.com",
+          "Poster": "IsraelPars.png",
+          "StreamUrls": [
+            "https://live.pars-israel.com/iptv/stream.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Israeli Public Broadcasting Corporation - Arabic Radio",
+          "ShortDescriptionLine1": "Israeli Public Broadcasting Corporation - Arabic Radio",
+          "ShortDescriptionLine2": "See http://www.makan.org.il",
+          "Poster": "ipbc_radio_arabic.png",
+          "StreamUrls": [
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/makan/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749628_mp3"
+          ],
+          "StreamFormat": "mp3",
+          "Live": true,
+          "Audio": true
+        },
+        {
+          "Title": "Israel Broadcast Authority - Reka",
+          "ShortDescriptionLine1": "Reka - IPBC World Service (multilingual radio)",
+          "ShortDescriptionLine2": "See http://www.kan.org.il/live/radio.aspx?stationId=10",
+          "Poster": "ipbc_radio_reka.png",
+          "StreamUrls": [
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-reka/ice-live",
+            "http://kanliveicy.media.kan.org.il/icy/749633_mp3"
+          ],
+          "StreamFormat": "mp3",
+          "Live": true,
+          "Audio": true
         }
       ]
     }
