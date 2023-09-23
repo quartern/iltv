@@ -50,18 +50,6 @@
           "Live": true
         },
         {
-          "ecpCode": "ch2news",
-          "Title": "The news company stream (aka N12)",
-          "ShortDescriptionLine1": "Live only (see ch12)",
-          "ShortDescriptionLine2": "See https://www.n12.co.il/",
-          "Poster": "news_co.png",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12p/index.m3u8?b-in-range=800-2400"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
           "Title": "24 Music",
           "ShortDescriptionLine1": "Arutz 24 - Israels music television",
           "ShortDescriptionLine2": "See http://www.mako.co.il/music-24",
@@ -108,33 +96,6 @@
           "Poster": "knesset.png",
           "StreamUrls": [
             "https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/manifest.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "Walla News",
-          "ShortDescriptionLine1": "Walla News",
-          "ShortDescriptionLine2": "See https://news.walla.co.il",
-          "Poster": "walla.png",
-          "StreamUrls": [
-            "https://amg01742-walla-wallanews-ono-2eohr.amagi.tv/playlist.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
-          "Title": "YNet",
-          "ShortDescriptionLine1": "YNet",
-          "ShortDescriptionLine2": "See https://www.ynet.co.il",
-          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
-          "StreamUrls": [
-            "http://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8",
-            "http://ynet-live-03.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8",
-            "http://ynet-live-03.ynet-pic1.yit.co.il/ynet/live_360/index.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -467,6 +428,103 @@
           "StreamFormat": "es.aac-adts",
           "Live": true,
           "Audio": true
+        }
+      ]
+    },
+    {
+      "Name": "Sometimes Streams",
+      "Items": [
+        {
+          "Title": "The news company stream (aka N12)",
+          "ShortDescriptionLine1": "Live only (see ch12)",
+          "ShortDescriptionLine2": "See https://www.n12.co.il/",
+          "Poster": "news_co.png",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12p/index.m3u8?b-in-range=800-2400"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Walla News",
+          "ShortDescriptionLine1": "Walla News",
+          "ShortDescriptionLine2": "See https://news.walla.co.il",
+          "Poster": "walla.png",
+          "StreamUrls": [
+            "https://amg01742-walla-wallanews-ono-btlna.amagi.tv/playlist/amg01742-walla-wallanews-ono/playlist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(1)",
+          "ShortDescriptionLine1": "YNet stream 1 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(2)",
+          "ShortDescriptionLine1": "YNet stream 2 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-02.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(3)",
+          "ShortDescriptionLine1": "YNet stream 3 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-03.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(4)",
+          "ShortDescriptionLine1": "YNet stream 4 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-04.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "YNet(5)",
+          "ShortDescriptionLine1": "YNet stream 5 (of 5)",
+          "ShortDescriptionLine2": "See https://www.ynet.co.il",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
+          "StreamUrls": [
+            "https://ynet-live-05.ynet-pic1.yit.co.il/ynet/live.m3u8"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
         }
       ]
     },
