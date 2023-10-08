@@ -875,6 +875,39 @@
           "StreamFormat": "mp3",
           "Live": true,
           "Audio": true
+        },
+        {
+          "Title": "Sky",
+          "ShortDescriptionLine1": "Sky (very temporary)",
+          "ShortDescriptionLine2": "See https://news.sky.com/watch-live",
+          "Poster": "https://getthewordout.com.au/wp-content/uploads/2018/01/skynews-logo.png",
+          "StreamUrls": [
+            "https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_sd/Live/channel(skynews)/index_hd30.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "DW",
+          "ShortDescriptionLine1": "DW (very temporary)",
+          "ShortDescriptionLine2": "See https://www.dw.com/en/live-tv/channel-english",
+          "Poster": "https://static.dw.com/image/47222913_605.png",
+          "StreamUrls": [
+            "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "France 24",
+          "ShortDescriptionLine1": "France 24 (very temporary)",
+          "ShortDescriptionLine2": "",
+          "Poster": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
+          "StreamUrls": [
+            "https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
         }
       ]
     }
