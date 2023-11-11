@@ -757,6 +757,20 @@
           "Live": true
         },
         {
+          "Title": "רלוונט",
+          "ShortDescriptionLine1": "Relevant",
+          "ShortDescriptionLine2": "See https://live.relevant.co.il",
+          "Poster": "relevant.png",
+          "StreamUrls": [
+            "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd"
+          ],
+          "HttpHeaders": [
+            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
+          ],
+          "StreamFormat": "dash",
+          "Live": true
+        },
+        {
           "Title": "YNet(1)",
           "ShortDescriptionLine1": "YNet stream 1 (of 5)",
           "ShortDescriptionLine2": "See https://www.ynet.co.il",
