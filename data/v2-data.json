@@ -141,11 +141,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - 88 FM",
           "ShortDescriptionLine1": "88 FM",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-88",
           "Poster": "ipbc_radio_88.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-88/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749623_mp3"
+            "https://kan88.media.kan.org.il/hls/live/2024812/2024812/kan88_mp3/chunklist.m3u",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-88/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -154,11 +154,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - Kol HaMusica",
           "ShortDescriptionLine1": "Kol HaMusica",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-music",
           "Poster": "ipbc_radio_musika.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kol-hamusica/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749627_mp3"
+            "https://kankolhamusica.media.kan.org.il/hls/live/2024817/2024817/kanclassical_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kol-hamusica/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -167,11 +167,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - Tarbut",
           "ShortDescriptionLine1": "Tarbut (Culture)",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-tarbut",
           "Poster": "ipbc_radio_tarbut.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-tarbut/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749634_mp3"
+            "https://kantarbut.media.kan.org.il/hls/live/2024816/2024816/kantarbut_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-tarbut/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -180,11 +180,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - Reshet Bet",
           "ShortDescriptionLine1": "Reshet Bet",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-b",
           "Poster": "ipbc_radio_bet.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-bet/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749624_mp3"
+            "https://kanbet.media.kan.org.il/hls/live/2024811/2024811/kanbet_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-bet/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -193,11 +193,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - Reshet Gimmel",
           "ShortDescriptionLine1": "Reshet Gimmel",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-gimel",
           "Poster": "ipbc_radio_gimmel.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-gimmel/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749625_mp3"
+            "https://kangimmel.media.kan.org.il/hls/live/2024813/2024813/kangimmel_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-gimmel/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -209,8 +209,8 @@
           "ShortDescriptionLine2": "See https://www.kan.org.il/radio/radio-kids.aspx",
           "Poster": "hinuhit_radio.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kids/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749631_mp3"
+            "https://kankids.media.kan.org.il/hls/live/2024820/2024820/kanfkids_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-kids/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -219,11 +219,11 @@
         {
           "Title": "Israeli Public Broadcasting Corporation - Moreshet",
           "ShortDescriptionLine1": "Reshet Moreshet",
-          "ShortDescriptionLine2": "See http://www.kan.org.il",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-moreshet",
           "Poster": "ipbc_radio_moreshet.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-moreshet/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749629_mp3"
+            "https://kanmoreshet.media.kan.org.il/hls/live/2024814/2024814/kanmoreshet_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-moreshet/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -913,8 +913,8 @@
           "ShortDescriptionLine2": "See http://www.makan.org.il",
           "Poster": "ipbc_radio_arabic.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/makan/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749628_mp3"
+            "https://makanradio.media.kan.org.il/hls/live/2024818/2024818/kanmakan_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/makan/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
@@ -923,11 +923,11 @@
         {
           "Title": "Israel Broadcast Authority - Reka",
           "ShortDescriptionLine1": "Reka - IPBC World Service (multilingual radio)",
-          "ShortDescriptionLine2": "See http://www.kan.org.il/live/radio.aspx?stationId=10",
+          "ShortDescriptionLine2": "See https://www.kan.org.il/content/kan/kan-reka",
           "Poster": "ipbc_radio_reka.png",
           "StreamUrls": [
-            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-reka/ice-live",
-            "http://kanliveicy.media.kan.org.il/icy/749633_mp3"
+            "https://kanreka.media.kan.org.il/hls/live/2024815/2024815/kanreka_mp3/chunklist.m3u8",
+            "https://kanapi.media.kan.org.il/Redirector/ipbc/kan-reka/ice-live"
           ],
           "StreamFormat": "mp3",
           "Live": true,
