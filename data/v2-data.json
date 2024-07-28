@@ -1743,6 +1743,15 @@
       "Name": "Olympics VOD",
       "Items": [
         {
+          "Title": "ייצגה בכבוד: פרימו הודחה אחרי קרב בבית הניחומים",
+          "ShortDescriptionLine1": "Represented with honor: Primo was eliminated after a fight in the consolation house",
+          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size304X227/1424744.jpg",
+          "StreamUrls": [
+            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PRIMO_NIHUMIM_280724/HLS/playlist.m3u8"
+          ],
+          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478789"
+        },
+        {
           "Title": "עד עכשיו: כל אירועי הישראלים מהיום",
           "ShortDescriptionLine1": "Until now: all Israeli events from today",
           "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size304X227/1424669.jpg",
@@ -1804,15 +1813,6 @@
             "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JUDO_SHMAILOV_280724/HLS/playlist.m3u8"
           ],
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478733"
-        },
-        {
-          "Title": "בסיבוב הבא: פרימו ניצחה בקרב הראשון בפריז",
-          "ShortDescriptionLine1": "In the next round: Primo won the first fight in Paris",
-          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/6/Size304X227/1424366.jpg",
-          "StreamUrls": [
-            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JUDO_PRIMO_280724/HLS/playlist.m3u8"
-          ],
-          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478714"
         }
       ]
     }
