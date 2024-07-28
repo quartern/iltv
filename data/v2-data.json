@@ -1743,6 +1743,15 @@
       "Name": "Olympics VOD",
       "Items": [
         {
+          "Title": "עד עכשיו: כל אירועי הישראלים מהיום",
+          "ShortDescriptionLine1": "Until now: all Israeli events from today",
+          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size304X227/1424669.jpg",
+          "StreamUrls": [
+            "https://sport5api.akamaized.net/Redirector/sport5/manifest/AD_ACSHAV/HLS/playlist.m3u8"
+          ],
+          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478788"
+        },
+        {
           "Title": "הופעה מכובדת: ליהיא רז שיפרה את תוצאותיה מטוקיו",
           "ShortDescriptionLine1": "A respectable performance: Lihya Raz improved her results from Tokyo",
           "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/8/Size304X227/1424528.jpg",
@@ -1804,15 +1813,6 @@
             "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_JUDO_PRIMO_280724/HLS/playlist.m3u8"
           ],
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478714"
-        },
-        {
-          "Title": "מבט מבפנים: הכי קרוב שיש לטקס הפתיחה",
-          "ShortDescriptionLine1": "A look from the inside: the closest you can get to the opening ceremony",
-          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/1/Size304X227/1424261.jpg",
-          "StreamUrls": [
-            "https://sport5api.akamaized.net/Redirector/sport5/manifest/item_arbel_270724/HLS/playlist.m3u8"
-          ],
-          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478726"
         }
       ]
     }
