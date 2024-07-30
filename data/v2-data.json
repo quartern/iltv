@@ -453,6 +453,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש | 30.07.24",
+          "ShortDescriptionLine1": "The 5pm News Edition",
+          "ShortDescriptionLine2": "2024-07-30 16:21:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_idax6x5d/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_idax6x5d/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_idax6x5d",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/778734",
+          "Date": "2024-07-30 16:21:24"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 30.07.24",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2024-07-30 14:55:18",
@@ -511,18 +523,6 @@
           "StreamerId": "1_cawa026p",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/778320",
           "Date": "2024-07-29 18:22:37"
-        },
-        {
-          "Title": "מהדורת חמש | 29.07.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-07-29 16:01:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4w83bwdc/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4w83bwdc/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_4w83bwdc",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/778316",
-          "Date": "2024-07-29 16:01:28"
         },
         {
           "Title": "חדשות שישי | 26.07.24",
@@ -1740,6 +1740,15 @@
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=479028"
         },
         {
+          "Title": "יום מוצלח: ראובני במקום השלישי הכללי בסוף היום השני",
+          "ShortDescriptionLine1": "A successful day: Reuveni is in third place overall at the end of the second day",
+          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/0/Size304X227/1426200.jpg",
+          "StreamUrls": [
+            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_REUVENI_300724/HLS/playlist.m3u8"
+          ],
+          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=479012"
+        },
+        {
           "Title": "נבחרת השליחים עלתה לגמר ב-4X200 מטר חופשי",
           "ShortDescriptionLine1": "The relay team advanced to the final in the 4x200 meter freestyle",
           "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size304X227/1426049.jpg",
@@ -1792,15 +1801,6 @@
             "https://sport5api.akamaized.net/Redirector/sport5/manifest/R_NADAL_Highlights_vs_M_Fucsovics_16x9_28072024_164214_172218494422/HLS/playlist.m3u8"
           ],
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478815"
-        },
-        {
-          "Title": "ייצגה בכבוד: פרימו הודחה אחרי קרב בבית הניחומים",
-          "ShortDescriptionLine1": "Represented with honor: Primo was eliminated after a fight in the consolation house",
-          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size304X227/1424744.jpg",
-          "StreamUrls": [
-            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_PRIMO_NIHUMIM_280724/HLS/playlist.m3u8"
-          ],
-          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=478789"
         }
       ]
     }
