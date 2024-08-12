@@ -1767,6 +1767,15 @@
       "Name": "Olympics VOD",
       "Items": [
         {
+          "Title": "נתראה ב-LA: הרגעים הגדולים מטקס הסיום",
+          "ShortDescriptionLine1": "See you in LA: The biggest moments from the graduation ceremony",
+          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size304X227/1435813.jpg",
+          "StreamUrls": [
+            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_TAK_TEKES_SIYUM/HLS/playlist.m3u8"
+          ],
+          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480492"
+        },
+        {
           "Title": "מרגש! רגע ההכרזה על מדליית הכסף",
           "ShortDescriptionLine1": "exciting! The moment the silver medal is announced",
           "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size304X227/1434852.jpg",
@@ -1828,15 +1837,6 @@
             "https://sport5api.akamaized.net/Redirector/sport5/manifest/KADUR_SERET_ISRAEL_100824/HLS/playlist.m3u8"
           ],
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480311"
-        },
-        {
-          "Title": "אטמנוב, אומנותית, ספרד ואתלטיקה: היום שהיה",
-          "ShortDescriptionLine1": "Atmanov, artistic, Spain and athletics: the day that was",
-          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/4/Size304X227/1434594.jpg",
-          "StreamUrls": [
-            "https://sport5api.akamaized.net/Redirector/sport5/manifest/NM_CLIP_SIUM_090824/HLS/playlist.m3u8"
-          ],
-          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480305"
         }
       ]
     }
