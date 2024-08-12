@@ -1767,6 +1767,15 @@
       "Name": "Olympics VOD",
       "Items": [
         {
+          "Title": "הטובה אי פעם: כל רגעי הקסם מהאולימפיאדה",
+          "ShortDescriptionLine1": "The best ever: all the magical moments from the Olympics",
+          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/2/Size304X227/1435842.jpg",
+          "StreamUrls": [
+            "https://sport5api.akamaized.net/Redirector/sport5/manifest/ALL_MEDALS_MOMENTS/HLS/playlist.m3u8"
+          ],
+          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480497"
+        },
+        {
           "Title": "נתראה ב-LA: הרגעים הגדולים מטקס הסיום",
           "ShortDescriptionLine1": "See you in LA: The biggest moments from the graduation ceremony",
           "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/3/Size304X227/1435813.jpg",
@@ -1828,15 +1837,6 @@
             "https://sport5api.akamaized.net/Redirector/sport5/manifest/France_vs_United_States_of_America_-_Game_Highlights_16x9_10082024_212322_172332502902/HLS/playlist.m3u8"
           ],
           "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480312"
-        },
-        {
-          "Title": "התרגיל שהביא לישראל מדליית כסף בהתעמלות אומנותית",
-          "ShortDescriptionLine1": "The exercise that brought Israel a silver medal in artistic gymnastics",
-          "Poster": "https://www.sport5.co.il/Sip_Storage/FILES/9/Size304X227/1435349.jpg",
-          "StreamUrls": [
-            "https://sport5api.akamaized.net/Redirector/sport5/manifest/KADUR_SERET_ISRAEL_100824/HLS/playlist.m3u8"
-          ],
-          "EpisodeUrl": "https://vod.sport5.co.il/?Vc=147&Vi=480311"
         }
       ]
     }
