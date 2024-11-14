@@ -701,20 +701,6 @@
           "Live": true
         },
         {
-          "Title": "רלוונט",
-          "ShortDescriptionLine1": "Relevant",
-          "ShortDescriptionLine2": "See https://live.relevant.co.il",
-          "Poster": "relevant.png",
-          "StreamUrls": [
-            "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
-          ],
-          "HttpHeaders": [
-            "User-Agent:Mozill/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)"
-          ],
-          "StreamFormat": "hls",
-          "Live": true
-        },
-        {
           "Title": "כאן 11 עם כתוביות",
           "ShortDescriptionLine1": "Kan 11 w/ embedded captions",
           "ShortDescriptionLine2": "See http://www.kan.org.il",
@@ -2007,39 +1993,6 @@
     {
       "Name": "Relevant VOD",
       "Items": [
-        {
-          "Title": "24.7.24, צוות שליין [#166]",
-          "ShortDescriptionLine2": "24.7.24",
-          "StreamerId": "f41a2b9c-01ea-4114-b216-c2e9745767fc",
-          "EpisodeUrl": "https://live.relevant.co.il/#/home/mediaplayer?sourceType=Title&id=f41a2b9c-01ea-4114-b216-c2e9745767fc",
-          "Poster": "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16026-20240724T180218Z/RELS16026_Poster.png",
-          "ShortDescriptionLine1": "7/24/24, Schlain team [#166]",
-          "StreamUrls": [
-            "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16026-20240724T180218Z/hls/index.m3u8"
-          ]
-        },
-        {
-          "Title": "23.7.24, צוות שליין [#165]",
-          "ShortDescriptionLine2": "23.7.24",
-          "StreamerId": "8ed20b9e-86ea-4f31-bc2f-4f65ac98d142",
-          "EpisodeUrl": "https://live.relevant.co.il/#/home/mediaplayer?sourceType=Title&id=8ed20b9e-86ea-4f31-bc2f-4f65ac98d142",
-          "Poster": "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16025-20240723T183429Z/RELS16025_Poster.png",
-          "ShortDescriptionLine1": "23.7.24, Team Schlain [#165]",
-          "StreamUrls": [
-            "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16025-20240723T183429Z/hls/index.m3u8"
-          ]
-        },
-        {
-          "Title": "22.7.24, צוות שליין [#164]",
-          "ShortDescriptionLine2": "22.7.24",
-          "StreamerId": "d0c5a4ad-23b9-4923-8f82-5e622328fb31",
-          "EpisodeUrl": "https://live.relevant.co.il/#/home/mediaplayer?sourceType=Title&id=d0c5a4ad-23b9-4923-8f82-5e622328fb31",
-          "Poster": "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16024-20240722T181048Z/RELS16024_Poster.png",
-          "ShortDescriptionLine1": "22.7.24, Team Schlain [#164]",
-          "StreamUrls": [
-            "https://prihadar-prod-cdn.cloud.seachange.com/asset/BRELS16024-20240722T181048Z/hls/index.m3u8"
-          ]
-        },
         {
           "Title": "שלומי אלדר, מלח הארץ [#13]",
           "ShortDescriptionLine2": "שלומי אלדר",
