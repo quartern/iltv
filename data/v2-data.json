@@ -2247,8 +2247,8 @@
           "Title": "חמש עם רפי רשף: 08.12.24",
           "Poster": "https://img.mako.co.il/2024/12/08/Hamesh_081224_VOD_fkd385_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2024/December/Hamesh_081224_VOD_fjg476_1/Hamesh_081224_VOD_fjg476_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2024/December/Hamesh_081224_VOD_fjg476_1/Hamesh_081224_VOD_fjg476_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2024/December/Hamesh_081224_VOD_fjg476_1/Hamesh_081224_VOD_fjg476_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2024/December/Hamesh_081224_VOD_fjg476_1/Hamesh_081224_VOD_fjg476_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "44b7fcde3a683910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2024/7d8fc1e40ed63910/VOD-44b7fcde3a68391027.htm",
@@ -2260,8 +2260,8 @@
           "Title": "המהדורה המוקדמת: 08.12.24",
           "Poster": "https://img.mako.co.il/2024/12/08/Mahadura_Mukdemet_081224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadura_Mukdemet_081224_VOD_ab12ab12/Mahadura_Mukdemet_081224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadura_Mukdemet_081224_VOD_ab12ab12/Mahadura_Mukdemet_081224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadura_Mukdemet_081224_VOD_ab12ab12/Mahadura_Mukdemet_081224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadura_Mukdemet_081224_VOD_ab12ab12/Mahadura_Mukdemet_081224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "f0c9003598683910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-f0c900359868391027.htm",
@@ -2353,6 +2353,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין ",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9203fd55d35a3910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2024/VOD-9203fd55d35a391026.htm",
+          "ShortDescriptionLine2": "The main newscast with Niv Raskin",
+          "Date": "2024-12-09T07:09:47+02:00",
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin"
+        },
+        {
           "Title": "אופירה ולוינסון: יו״ר האופוזיציה יאיר לפיד",
           "Poster": "https://img.mako.co.il/2024/12/06/Ofira_Levinson_061224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2408,27 +2421,14 @@
           "Title": "עובדה: כך שרדתי בשבי",
           "Poster": "https://img.mako.co.il/2024/07/22/uvda2024_01_210724_vod_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "725317275a5c0910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-725317275a5c091026.htm",
           "ShortDescriptionLine2": "Almog Meir Jan, who was rescued from Gaza, tells how he survived",
           "Date": "2024-07-21T21:37:27+03:00",
           "ShortDescriptionLine1": "Fact: This is how I survived captivity"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: לילה היסטורי: משטר אסד נפל",
-          "Poster": "https://img.mako.co.il/2024/12/08/Hadshot_Haboker_081224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2024/December/Hadshot_Haboker_081224_VOD_ade189/Hadshot_Haboker_081224_VOD_ade189_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2024/December/Hadshot_Haboker_081224_VOD_ade189/Hadshot_Haboker_081224_VOD_ade189_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e9e2d857e4693910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2024/VOD-e9e2d857e469391027.htm",
-          "ShortDescriptionLine2": "History in Syria: the Assad regime fell - all the details",
-          "Date": "",
-          "ShortDescriptionLine1": "This morning's news with Niv Raskin: A historic night: the Assad regime has fallen"
         }
       ]
     }
