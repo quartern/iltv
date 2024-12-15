@@ -566,6 +566,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 15.12.24 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_rps17mmh",
+          "Date": "2024-12-15 19:46:29",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/x3fbu-904379192/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2024-12-15 19:46:29",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rps17mmh/flavorIds/1_4knr8pr2,1_w8jkdh5m,1_082igayy,1_k1d9ogpd,1_iojoiq4p,1_4x4bg5sx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 15.12.24 - התכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_3s80f7d4",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2024-12-12 21:35:08",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ktt4a64d/flavorIds/1_2v1q6142,1_fxen0ku9,1_w33tjq42,1_57aexc9z,1_vdjt0gfw,1_vs1rej84/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 12.12.24 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_620ylp1i",
-          "Date": "2024-12-12 19:51:27",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/ugkim-904376509/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2024-12-12 19:51:27",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_620ylp1i/flavorIds/1_uwpi65qe,1_zn5gcbcn,1_7xpby1o5,1_o77pwm8b,1_vo1l16pb,1_n4f7mw2f/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2114,18 +2114,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "תכנית חיסכון: 15.12.24 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 15.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "dbda402a749c3910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-dbda402a749c391026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-15T19:54:29+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main release: 15.12.24 [live]"
+        },
+        {
+          "Title": "תכנית חיסכון: 15.12.24",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367293/20367293_noAdds/20367293_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367293/20367293_noAdds/20367293_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
           "StreamerId": "86de159a422c3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-86de159a422c391027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-86de159a422c391027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2024-12-15T18:59:10+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Savings plan: 15.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Savings plan: 15.12.24"
         },
         {
           "Title": "שש עם עודד בן עמי: 15.12.24",
@@ -2238,20 +2252,6 @@
           "Date": "2024-12-13T19:55:37+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Studio Friday: 13.12.24"
-        },
-        {
-          "Title": "המהדורה המרכזית: 12.12.24",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20367221/20367221_noAdds/20367221_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20367221/20367221_noAdds/20367221_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "def4ac5416683910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-def4ac541668391027.htm",
-          "ShortDescriptionLine2": "Today's events",
-          "Date": "2024-12-12T19:54:07+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Main edition: 12.12.24"
         },
         {
           "Title": "פגוש את העיתונות: 07.12.24",
