@@ -453,6 +453,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 19.12.24",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2024-12-19 20:50:51",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pfwmny81/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pfwmny81/a.m3u8"
+          ],
+          "StreamerId": "1_pfwmny81",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/%D7%92%D7%99%D7%90-%D7%96%D7%94%D7%A8-%D7%9E%D7%94%D7%A6%D7%93-%D7%94%D7%A9%D7%A0%D7%99/837839",
+          "Date": "2024-12-19 20:50:51"
+        },
+        {
           "Title": "שבע עם אליאור לוי | 19.12.24",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2024-12-19 18:18:19",
@@ -487,18 +499,6 @@
           "StreamerId": "1_bbumu2qx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/837608",
           "Date": "2024-12-18 22:09:55"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 18.12.24",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2024-12-18 20:48:57",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pdxsptes/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pdxsptes/a.m3u8"
-          ],
-          "StreamerId": "1_pdxsptes",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/%D7%92%D7%99%D7%90-%D7%96%D7%94%D7%A8-%D7%9E%D7%94%D7%A6%D7%93-%D7%94%D7%A9%D7%A0%D7%99/837605",
-          "Date": "2024-12-18 20:48:57"
         },
         {
           "Title": "חדשות הערב | 18.12.24",
@@ -2405,19 +2405,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: החמ״ל הסודי של בלפור נחשף [live]",
+          "Title": "עובדה: החמ״ל הסודי של בלפור נחשף",
           "Poster": "https://img.mako.co.il/2024/03/17/Ovda2024_01_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20367405/20367405_noAdds/20367405_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20367405/20367405_noAdds/20367405_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6fedb48621ed3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-6fedb48621ed391027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-6fedb48621ed391027.htm",
           "ShortDescriptionLine2": "A fact reveals the mechanism operated by the Prime Minister's office",
           "Date": "2024-12-19T21:36:00+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Fact: Balfour's secret military was exposed [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Fact: Balfour's secret military was exposed"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: חיל האוויר תוקף בתימן",
