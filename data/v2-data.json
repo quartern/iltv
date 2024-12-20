@@ -2246,6 +2246,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 20.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8ec9e2e50a873910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2024/175ab6116dd63910/VOD-8ec9e2e50a87391026.htm",
+          "ShortDescriptionLine2": "Without secrets: the hidden songs of Uzi Hitman",
+          "Date": "2024-12-20T19:53:57+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Studio Friday: 20.12.24 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 19.12.24",
           "Poster": "https://img.mako.co.il/2024/12/19/Mahadura_Merkazit_191224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2372,20 +2387,6 @@
           "ShortDescriptionLine1": "The young edition: 14.12.24"
         },
         {
-          "Title": "אולפן שישי: 13.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/13/Ulpan_Shishi_131224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2024/December/Ulpan_Shishi_131224_VOD_ab12ab12/Ulpan_Shishi_131224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2024/December/Ulpan_Shishi_131224_VOD_ab12ab12/Ulpan_Shishi_131224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f8f7d331c8873910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/ulpan-shishi-2024/175ab6116dd63910/VOD-f8f7d331c887391026.htm",
-          "ShortDescriptionLine2": "Adir Miller's life movie",
-          "Date": "2024-12-13T19:55:37+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Studio Friday: 13.12.24"
-        },
-        {
           "Title": "פגוש את העיתונות: 07.12.24",
           "Poster": "https://img.mako.co.il/2024/12/07/Pgosh_071224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2405,19 +2406,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: אופירה ולוינסון [live]",
+          "Title": "אופירה ולוינסון: אופירה ולוינסון",
           "Poster": "https://img.mako.co.il/2024/04/11/OfiraVeLevinson_1_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_levinson_2024/20367429/20367429_noAdds/20367429_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_levinson_2024/20367429/20367429_noAdds/20367429_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f819fc8e209d3910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2024/VOD-f819fc8e209d391026.htm",
           "ShortDescriptionLine2": "Ofira Assig and Chaim Levinson with the pointed questions",
           "Date": "2024-12-20T17:59:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ophira and Levinson: Ophira and Levinson [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ophira and Levinson: Ophira and Levinson"
         },
         {
           "Title": "דוח מצב עם עינב וירון: עינב צנגאוקר",
