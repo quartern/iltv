@@ -2246,19 +2246,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 21.12.24 [live]",
+          "Title": "חדשות סוף השבוע: 21.12.24",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20367439/20367439_noAdds/20367439_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20367439/20367439_noAdds/20367439_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "e863c4ffd3183910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2024/8f2ec1e40ed63910/VOD-e863c4ffd318391026.htm",
           "ShortDescriptionLine2": "Keren Monder, who was captured by Hamas in her first interview",
           "Date": "2024-12-21T19:54:52+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 21.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 21.12.24"
         },
         {
           "Title": "פגוש את העיתונות: 21.12.24",
