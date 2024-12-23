@@ -590,6 +590,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 23.12.24 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_n9pdqiq2",
+          "Date": "2024-12-23 21:36:12",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/h60xy-904390308/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2024-12-23 21:36:12",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_n9pdqiq2/flavorIds/1_pz18m4ru,1_n3593yda,1_6zubv7fc,1_o8ys1lc1,1_9lofqczh,1_ckogdrzg/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות שש 23.12.24 - התכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_nr7p900w",
@@ -647,18 +659,6 @@
           "ShortDescriptionLine2": "2024-12-22 22:15:55",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2mfzruks/flavorIds/1_3q77hy3u,1_oce6o5op,1_ozx9938s,1_pfbrqf8q,1_lksa9bz2,1_avil6dlj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 22.12.24 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_nad0dku4",
-          "Date": "2024-12-22 20:56:01",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/mr17i-904388718/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2024-12-22 20:56:01",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nad0dku4/flavorIds/1_b3o2c2g7,1_kxvlsg46,1_judr09ul,1_1tf3ykao,1_1lgeuezg,1_1wg3mbrh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2270,19 +2270,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 23.12.24 [live]",
+          "Title": "המהדורה המרכזית: 23.12.24",
           "Poster": "https://img.mako.co.il/2024/12/23/Mahadura_Merkazit_231224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20367500/20367500_noAdds/20367500_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20367500/20367500_noAdds/20367500_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "ad55402a749c3910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-ad55402a749c391026.htm",
           "ShortDescriptionLine2": "Difficulties on the way to a kidnapping deal",
           "Date": "2024-12-23T19:54:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 23.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 23.12.24"
         },
         {
           "Title": "תכנית חיסכון: 23.12.24",
