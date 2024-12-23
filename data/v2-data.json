@@ -453,6 +453,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 23.12.24",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2024-12-23 16:08:18",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tz4xavs8/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_tz4xavs8/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_tz4xavs8",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/839319",
+          "Date": "2024-12-23 16:08:18"
+        },
+        {
           "Title": "מהצד השני עם תם אהרון | 22.12.24",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2024-12-23 06:53:58",
@@ -523,18 +535,6 @@
           "StreamerId": "1_2jau07fv",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/838772",
           "Date": "2024-12-22 16:38:30"
-        },
-        {
-          "Title": "משחקי הכיס | 22.12.24",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2024-12-22 15:40:34",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mfcwi0z8/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mfcwi0z8/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_mfcwi0z8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/838771",
-          "Date": "2024-12-22 15:40:34"
         },
         {
           "Title": "חדשות השבת | 21.12.24",
@@ -2270,11 +2270,26 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 23.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1afa159a422c3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2024/8a17c1e40ed63910/VOD-1afa159a422c391027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-23T17:55:39+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 23.12.24 [live]"
+        },
+        {
           "Title": "חמש עם רפי רשף: 23.12.24",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_reshef_2024/20367497/20367497_noAdds/20367497_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_reshef_2024/20367497/20367497_noAdds/20367497_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_reshef_2024/20367497/20367497_noAdds/20367497_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_reshef_2024/20367497/20367497_noAdds/20367497_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c793fc244f1c3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2024/7d8fc1e40ed63910/VOD-c793fc244f1c391027.htm",
@@ -2324,20 +2339,6 @@
           "Date": "2024-12-22T18:59:06+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Savings plan: 22.12.24"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 22.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/22/Shesh_221224_VOD_fdk433_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2024/December/Shesh_221224_VOD_dkd432/Shesh_221224_VOD_dkd432_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2024/December/Shesh_221224_VOD_dkd432/Shesh_221224_VOD_dkd432_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "01da159a422c3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2024/8a17c1e40ed63910/VOD-01da159a422c391027.htm",
-          "ShortDescriptionLine2": "An interview with Doron's mother, who was kidnapped in Gaza",
-          "Date": "2024-12-22T17:55:32+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 22.12.24"
         },
         {
           "Title": "חדשות סוף השבוע: 21.12.24",
