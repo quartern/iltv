@@ -1919,6 +1919,18 @@
           "Date": "2023-08-13 19:25:45"
         },
         {
+          "Title": "הטרגדיה של אלעזר: היישוב הקטן בגוש עציון שאיבד 8 מחבריו במלחמה",
+          "ShortDescriptionLine1": "The tragedy of Eleazar: the small settlement in Gush Etzion that lost 8 of its members in the war",
+          "ShortDescriptionLine2": "2024-12-24 20:52:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_18y5903o/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_18y5903o/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_18y5903o",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/839978",
+          "Date": "2024-12-24 20:52:33"
+        },
+        {
           "Title": "אנשי המוסד חושפים: כך יצא לפועל מבצע הביפרים בלבנון",
           "ShortDescriptionLine1": "Mossad officials reveal: this is how the pager operation in Lebanon was carried out",
           "ShortDescriptionLine2": "2024-12-23 20:23:15",
@@ -1965,18 +1977,6 @@
           "StreamerId": "1_t1xu5j26",
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/838645",
           "Date": "2024-12-22 13:19:41"
-        },
-        {
-          "Title": "יחד ננצח: איך למצוא אהבה במלחמה?",
-          "ShortDescriptionLine1": "Together we will win: how to find love in war?",
-          "ShortDescriptionLine2": "2024-12-20 20:33:17",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xpg8n1aq/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_xpg8n1aq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_xpg8n1aq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/838437",
-          "Date": "2024-12-20 20:33:17"
         }
       ]
     },
@@ -2429,19 +2429,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: אירוע חנוכה הגדול [live]",
+          "Title": "ארץ נהדרת: אירוע חנוכה הגדול",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/A181420/A181420_noAdds/A181420_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/A181420/A181420_noAdds/A181420_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "d545e3990a7f3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-d545e3990a7f391027.htm",
           "ShortDescriptionLine2": "A great country celebrates Hanukkah and everyone comes",
           "Date": "2024-12-24T21:37:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Eretz Nehederet: The Great Hanukkah Event [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: The Great Hanukkah Event"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: הקשיים במגעים לעסקת חטופים",
