@@ -2181,6 +2181,18 @@
       "Name": "Reshet 13 Specials",
       "Items": [
         {
+          "Title": "הצינור 23.12.24 - התוכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1731622640/uploads/2024/904338254.jpg",
+          "StreamerId": "1_qse6cfuu",
+          "Date": "2024-12-24 09:24:00",
+          "EpisodeUrl": "https://13tv.co.il/item/entertainment/hatzinor/season-01/episodes/gicpj-904390732/",
+          "ShortDescriptionLine1": "The tube 23.12.24 - the full program",
+          "ShortDescriptionLine2": "2024-12-24 09:24:00",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qse6cfuu/flavorIds/1_29npgw9d,1_aof7pp36,1_7hem3g7a,1_lhnv3swc,1_t3z5w9lm,1_ei8pvswu/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "הצינור 22.12.24 - התוכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
           "StreamerId": "1_qdhnqx9e",
@@ -2190,18 +2202,6 @@
           "ShortDescriptionLine2": "2024-12-22 23:50:18",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qdhnqx9e/flavorIds/1_6l61dcoo,1_fs5sindh,1_6bnehili,1_20fehcuu,1_5v1xtgep,1_tib9d74y/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "הצינור 18.12.24 - התוכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1731622640/uploads/2024/904338254.jpg",
-          "StreamerId": "1_5a3e3kvu",
-          "Date": "2024-12-19 00:28:22",
-          "EpisodeUrl": "https://13tv.co.il/item/entertainment/hatzinor/season-01/episodes/yp9ul-904384071/",
-          "ShortDescriptionLine1": "The pipeline 18.12.24 - the full program",
-          "ShortDescriptionLine2": "2024-12-19 00:28:22",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5a3e3kvu/flavorIds/1_fqqjdos1,1_6zu0d98q,1_ee3yipn6,1_lnf9teqz,1_i5pdxnat,1_0hx8f8hz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2429,19 +2429,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין  [live]",
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין ",
           "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2024/20367517/20367517_noAdds/20367517_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2024/20367517/20367517_noAdds/20367517_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "01110fb9a7de3910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2024/VOD-01110fb9a7de391026.htm",
           "ShortDescriptionLine2": "The main newscast with Niv Raskin",
           "Date": "2024-12-24T07:10:38+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin"
         },
         {
           "Title": "אופירה ולוינסון: אופירה ולוינסון",
