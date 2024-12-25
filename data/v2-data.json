@@ -453,6 +453,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 25.12.24",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2024-12-25 20:34:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_63ddp4d6/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId//format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_63ddp4d6",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/840112",
+          "Date": "2024-12-25 20:34:14"
+        },
+        {
+          "Title": "מהצד השני עם גיא זהר | 25.12.24",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2024-12-25 20:31:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lqebgebo/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lqebgebo/a.m3u8"
+          ],
+          "StreamerId": "1_lqebgebo",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/%D7%92%D7%99%D7%90-%D7%96%D7%94%D7%A8-%D7%9E%D7%94%D7%A6%D7%93-%D7%94%D7%A9%D7%A0%D7%99/840113",
+          "Date": "2024-12-25 20:31:48"
+        },
+        {
           "Title": "שבע עם איילה חסון | 25.12.24",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2024-12-25 18:30:24",
@@ -499,30 +523,6 @@
           "StreamerId": "1_0lihc0ho",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/839818",
           "Date": "2024-12-24 22:16:59"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 24.12.24",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2024-12-24 20:26:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_d0xcjgy3/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_d0xcjgy3/a.m3u8"
-          ],
-          "StreamerId": "1_d0xcjgy3",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/%D7%92%D7%99%D7%90-%D7%96%D7%94%D7%A8-%D7%9E%D7%94%D7%A6%D7%93-%D7%94%D7%A9%D7%A0%D7%99/839809",
-          "Date": "2024-12-24 20:26:59"
-        },
-        {
-          "Title": "חדשות הערב | 24.12.24",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2024-12-24 20:03:18",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_aw9ki9lg/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_aw9ki9lg/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_aw9ki9lg",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/839806",
-          "Date": "2024-12-24 20:03:18"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2  | פרק 2 - 22.12.24",
@@ -2574,6 +2574,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 25.12.24",
+          "StreamerId": "6366435901112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cba34f8-843f-4c3e-a43e-e60b001e533c/2ee4e72a-66be-447c-b43e-b254dbb3e491/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366435901112",
+          "Date": "2024-12-25T20:06:37Z",
+          "ShortDescriptionLine1": "The main edition 25.12.24",
+          "ShortDescriptionLine2": "2024-12-25T20:06:37Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cba34f8-843f-4c3e-a43e-e60b001e533c/10s/master.m3u8?fastly_token=Njc5MTc1MDNfMDJjMDA5NWVkNmQyMjE0MTU5ZDliNzQwM2QwMDI5M2RhNzdmMmYxYWU0NzgwNGZlYjBhNGFlZWQ3M2ZiZjEwMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 25.12.24",
           "StreamerId": "6366434997112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fd28ad98-7789-4fa7-8007-62a1966c8665/5f806bb2-845d-4f8b-93b3-c9e75962eb0d/320x180/match/image.jpg",
@@ -2739,18 +2751,6 @@
           "ShortDescriptionLine2": "2024-12-24T08:27:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5752c1ce-f322-4895-8fd2-f6c1f6ac1fa1/10s/master.m3u8?fastly_token=Njc4ZjYxMDBfM2NhZmYyM2YwZTQxZjEwNzVlMWY1OTlkZjRlNWExY2FmNjk5ZTY0NDdlYjY0ZGIzYzQyOTVkMjM1ZWUwZWZkZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים היפים: אלפי מתנדבים מארגון \"לב אחד\" התגייסו למשימת שיקום הצפון",
-          "StreamerId": "6366399557112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ff854bbc-6b16-4f0f-a172-1857daf1ad8c/710deab6-b617-4732-b4ac-f99b66d10de0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366399557112",
-          "Date": "2024-12-24T07:25:53Z",
-          "ShortDescriptionLine1": "The beautiful Israelis: thousands of volunteers from the Lev Ehad organization have mobilized for the task of restoring the north",
-          "ShortDescriptionLine2": "2024-12-24T07:25:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ff854bbc-6b16-4f0f-a172-1857daf1ad8c/10s/master.m3u8?fastly_token=Njc4ZjU0NDRfYmVjODI5OTJiN2M1YmVhMzY5YjY2NGRkN2Y0NTQ4ZDRlMWE5M2I2ZjRkZDRmYzNiMzJkNzZhMTVhYzY2MDljMg%3D%3D"
           ]
         },
         {
