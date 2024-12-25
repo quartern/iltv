@@ -2270,19 +2270,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "תכנית חיסכון: 25.12.24 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 25.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "ea06402a749c3910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-ea06402a749c391026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-25T19:53:52+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 25.12.24 [live]"
+        },
+        {
+          "Title": "תכנית חיסכון: 25.12.24",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367557/20367557_noAdds/20367557_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367557/20367557_noAdds/20367557_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
           "StreamerId": "57a58d88039c3910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-57a58d88039c391026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2024-12-25T18:59:17+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Savings plan: 25.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Savings plan: 25.12.24"
         },
         {
           "Title": "שש עם עודד בן עמי: 25.12.24",
@@ -2325,20 +2339,6 @@
           "Date": "2024-12-25T14:59:48+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 25.12.24"
-        },
-        {
-          "Title": "המהדורה המרכזית: 24.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/24/Mahadura_Merkazit_241224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_VOD_241224_VOD_vsd465/Mahadura_Merkazit_VOD_241224_VOD_vsd465_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_VOD_241224_VOD_vsd465/Mahadura_Merkazit_VOD_241224_VOD_vsd465_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "e2d5402a749c3910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-e2d5402a749c391026.htm",
-          "ShortDescriptionLine2": "Disclosure: The findings of the investigation submitted to the commander of the Air Force",
-          "Date": "2024-12-24T19:54:24+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 24.12.24"
         },
         {
           "Title": "חדשות סוף השבוע: 21.12.24",
