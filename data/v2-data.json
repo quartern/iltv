@@ -1050,6 +1050,18 @@
           "Date": "2024-12-20 20:01:52"
         },
         {
+          "Title": "פגישה עם רוני קובן עונה 9 | פרק 10 - טוביה צפיר",
+          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 9 | Chapter 10 - Tovia Tzipir",
+          "ShortDescriptionLine2": "2024-12-28 19:32:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_40ubjb0g/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_40ubjb0g/a.m3u8"
+          ],
+          "StreamerId": "1_40ubjb0g",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/839009",
+          "Date": "2024-12-28 19:32:40"
+        },
+        {
           "Title": "המסע הארוך הביתה | פרק 3",
           "ShortDescriptionLine1": "The long journey home Chapter 3",
           "ShortDescriptionLine2": "2024-12-14 21:15:02",
@@ -1204,18 +1216,6 @@
           "StreamerId": "1_am337lsk",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/839205",
           "Date": "2024-12-23 19:33:14"
-        },
-        {
-          "Title": "בקו האש",
-          "ShortDescriptionLine1": "in the line of fire",
-          "ShortDescriptionLine2": "2024-12-22 11:21:00",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bnfiel12/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bnfiel12/a.m3u8"
-          ],
-          "StreamerId": "1_bnfiel12",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-798248/798250",
-          "Date": "2024-12-22 11:21:00"
         }
       ]
     },
@@ -2258,19 +2258,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 28.12.24 [live]",
+          "Title": "חדשות סוף השבוע: 28.12.24",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20367620/20367620_noAdds/20367620_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20367620/20367620_noAdds/20367620_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "0f33c4ffd3183910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2024/8f2ec1e40ed63910/VOD-0f33c4ffd318391026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The institution in the heart of Tehran",
           "Date": "2024-12-28T19:54:15+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 28.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 28.12.24"
         },
         {
           "Title": "פגוש את העיתונות: 28.12.24",
