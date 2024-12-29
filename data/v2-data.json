@@ -590,6 +590,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 29.12.24 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_wq54h9c7",
+          "Date": "2024-12-29 19:41:21",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/ynplf-904397933/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2024-12-29 19:41:21",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wq54h9c7/flavorIds/1_j7qkk6hv,1_knuq574w,1_u3tvc4yz,1_qvzac0zw,1_wlqiphl8,1_ne0fnxmj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 29.12.24 - התכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_lfxy1h58",
@@ -695,18 +707,6 @@
           "ShortDescriptionLine2": "2024-12-26 20:30:18",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ufv3vc4o/flavorIds/1_albhr9hx,1_xbot8nbm,1_r95285m0,1_6n6g1kgs,1_z38rae7c,1_v6h5awu7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 26.12.24 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_jdhrisx1",
-          "Date": "2024-12-26 19:30:04",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/xaie0-904395000/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2024-12-26 19:30:04",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_jdhrisx1/flavorIds/1_f2t14u60,1_50kslb5k,1_xm2gjsuy,1_4dj6exgd,1_bxp6m6dm,1_nnfvwte5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2270,19 +2270,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "תכנית חיסכון: 29.12.24 [live]",
-          "Poster": "https://img.mako.co.il/2024/12/29/Mahadura_Mukdemet_291224_VOD_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 29.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "3fcaecf88dde3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-3fcaecf88dde391027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-29T19:54:16+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 29.12.24 [live]"
+        },
+        {
+          "Title": "תכנית חיסכון: 29.12.24",
+          "Poster": "https://img.mako.co.il/2024/12/29/Mahadura_Mukdemet_291224_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367655/20367655_noAdds/20367655_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367655/20367655_noAdds/20367655_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
           "StreamerId": "1d0f2d915cde3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-1d0f2d915cde391027.htm",
           "ShortDescriptionLine2": "The horror report on the condition of the abductees",
           "Date": "2024-12-29T18:59:15+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Savings plan: 29.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Savings plan: 29.12.24"
         },
         {
           "Title": "שש עם עודד בן עמי: 29.12.24",
@@ -2395,20 +2409,6 @@
           "Date": "2024-12-27T19:52:23+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Studio Friday: 27.12.24"
-        },
-        {
-          "Title": "המהדורה המרכזית: 26.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/26/Mahadura_Merkazit_261224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_261224_VOD_hgf453/Mahadura_Merkazit_261224_VOD_hgf453_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_261224_VOD_hgf453/Mahadura_Merkazit_261224_VOD_hgf453_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "3536402a749c3910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-3536402a749c391026.htm",
-          "ShortDescriptionLine2": "After Yemen - is Iran next in line?",
-          "Date": "2024-12-26T19:53:54+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 26.12.24"
         },
         {
           "Title": "פגוש את העיתונות: 21.12.24",
