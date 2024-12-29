@@ -2270,6 +2270,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת: 29.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c7b92d3978de3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-c7b92d3978de391027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-29T15:00:53+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 29.12.24 [live]"
+        },
+        {
           "Title": "חדשות סוף השבוע: 28.12.24",
           "Poster": "https://img.mako.co.il/2024/12/28/Hadshot_Sof_Hashavoa_281224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2394,20 +2409,6 @@
           "Date": "2024-12-26T16:55:43+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 26.12.24"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 26.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/26/Mahadurat_Hayom_261224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadurat_Hayom_261224_VOD_fgh433/Mahadurat_Hayom_261224_VOD_fgh433_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_mukdemet/2024/December/Mahadurat_Hayom_261224_VOD_fgh433/Mahadurat_Hayom_261224_VOD_fgh433_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "43b4b7349a0c3910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-43b4b7349a0c391026.htm",
-          "ShortDescriptionLine2": "Killed in Gaza - 10 fall since the beginning of the month",
-          "Date": "2024-12-26T15:00:28+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 26.12.24"
         },
         {
           "Title": "פגוש את העיתונות: 21.12.24",
@@ -2574,6 +2575,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים חלק 2 29.12.24",
+          "StreamerId": "6366522862112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a2d0f0cd-4ff1-41d5-986c-4beececa8a78/86ddce2e-0b5b-4767-a25c-fe64854ceb22/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366522862112",
+          "Date": "2024-12-29T13:07:10Z",
+          "ShortDescriptionLine1": "The latrine edition part 2 12.29.24",
+          "ShortDescriptionLine2": "2024-12-29T13:07:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a2d0f0cd-4ff1-41d5-986c-4beececa8a78/10s/master.m3u8?fastly_token=Njc5NjQ5MWJfOGFkNmYwN2YyM2QxMGM5Yjg2YzE5OTQ0OWJmYjk5ZjVhNGUxMTY0NThlYjFkMDZhNGI4ZTUxMTZmNTg5YTc2MA%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 28.12.24",
           "StreamerId": "6366510396112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5fd34985-1074-4705-a5fe-b1b8bc0b3396/951bded4-ced3-47a9-bd36-27bccfe3323b/320x180/match/image.jpg",
@@ -2691,18 +2704,6 @@
           "ShortDescriptionLine2": "2024-12-26T15:38:25Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/79ccaed7-e4b6-44e1-bec0-c581f3f1d672/10s/master.m3u8?fastly_token=Njc5NjJmYWNfMzNhNGIxZTRkYjE1OTM5ZTM3MWFkYzhiY2VmOWE1YjdmMWFiYjNkNmQ1ZjQ0MDZmZTU4YWU0ZDNiZTI3MGMyOA%3D%3D"
-          ]
-        },
-        {
-          "Title": " מהדורת הצוהריים 26.12.24 חלק א'",
-          "StreamerId": "6366454943112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b4a9d01a-982b-49dd-9654-8917c48317e3/f6e8c0d6-27ab-42da-a2d3-d622bbf87103/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366454943112",
-          "Date": "2024-12-26T15:37:01Z",
-          "ShortDescriptionLine1": "The afternoon edition 12.26.24 Part I",
-          "ShortDescriptionLine2": "2024-12-26T15:37:01Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b4a9d01a-982b-49dd-9654-8917c48317e3/10s/master.m3u8?fastly_token=Njc5NjJmZWVfMTdkNWE5YTRkZWVmZmZjNDNhMTE2M2JhZDIwNTYzZTkxYzU2YWM0MzBjOWJhZTRiZTQyMTg4NDFiODczY2ZhZA%3D%3D"
           ]
         },
         {
