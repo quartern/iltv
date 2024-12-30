@@ -2270,19 +2270,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 30.12.24 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "תכנית חיסכון: 30.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "c37d180fdcde3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-c37d180fdcde391027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-30T18:59:24+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Savings plan: 30.12.24 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 30.12.24",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20367679/20367679_noAdds/20367679_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20367679/20367679_noAdds/20367679_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
           "StreamerId": "bdb6486c0bde3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2024/8a17c1e40ed63910/VOD-bdb6486c0bde391027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The tennis player who received hateful calls",
           "Date": "2024-12-30T17:55:35+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 12/30/24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 12/30/24"
         },
         {
           "Title": "חמש עם רפי רשף: 30.12.24",
@@ -2300,14 +2314,14 @@
         },
         {
           "Title": "המהדורה המוקדמת: 30.12.24",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2024/12/30/Mahadura_Mukdemet_301224_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofer_and_amalya_2024/20367677/20367677_noAdds/20367677_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofer_and_amalya_2024/20367677/20367677_noAdds/20367677_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2024/December/Mahadurat_Hayom_301224_VOD_hvd451/Mahadurat_Hayom_301224_VOD_hvd451_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2024/December/Mahadurat_Hayom_301224_VOD_hvd451/Mahadurat_Hayom_301224_VOD_hvd451_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bcc42d3978de3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-bcc42d3978de391027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-bcc42d3978de391027.htm",
+          "ShortDescriptionLine2": "In less than two hours 106 terrorists were eliminated",
           "Date": "2024-12-30T15:00:19+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 30.12.24"
@@ -2325,20 +2339,6 @@
           "Date": "2024-12-29T19:54:16+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 29.12.24"
-        },
-        {
-          "Title": "תכנית חיסכון: 29.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/29/Mahadura_Mukdemet_291224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Tochnit_Hisahon/2024/December/Mahadura_Mukdemet_291224_VOD_kjb548/Mahadura_Mukdemet_291224_VOD_kjb548_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Tochnit_Hisahon/2024/December/Mahadura_Mukdemet_291224_VOD_kjb548/Mahadura_Mukdemet_291224_VOD_kjb548_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "1d0f2d915cde3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-1d0f2d915cde391027.htm",
-          "ShortDescriptionLine2": "The horror report on the condition of the abductees",
-          "Date": "2024-12-29T18:59:15+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Savings plan: 29.12.24"
         },
         {
           "Title": "חדשות סוף השבוע: 28.12.24",
