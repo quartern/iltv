@@ -1086,6 +1086,18 @@
           "Date": "2024-12-14 21:15:02"
         },
         {
+          "Title": "קופה ראשית עונה 5 | פרק 8 - התרומה",
+          "ShortDescriptionLine1": "KupaRashit (checkout) season 5 | Chapter 8 - The donation",
+          "ShortDescriptionLine2": "2024-12-31 19:29:07",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5ngslrzw/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5ngslrzw/a.m3u8"
+          ],
+          "StreamerId": "1_5ngslrzw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809169",
+          "Date": "2024-12-31 19:29:07"
+        },
+        {
           "Title": "קופה ראשית עונה 5 | פרק 7 - אבא של כוכבה",
           "ShortDescriptionLine1": "KupaRashit (checkout) Season 5 | Chapter 7 - Kochva's father",
           "ShortDescriptionLine2": "2024-12-24 19:25:42",
@@ -1204,18 +1216,6 @@
           "StreamerId": "1_83mifp93",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/836254",
           "Date": "2024-12-15 19:32:27"
-        },
-        {
-          "Title": "זהו זה! עונה 7 | פרק 8 - 26.12.24",
-          "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 8 - 26.12.24",
-          "ShortDescriptionLine2": "2024-12-26 19:32:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_89d8k4sp/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_89d8k4sp/a.m3u8"
-          ],
-          "StreamerId": "1_89d8k4sp",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811971",
-          "Date": "2024-12-26 19:32:09"
         }
       ]
     },
@@ -2270,30 +2270,29 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 31.12.24 [live]",
+          "Title": "המהדורה המרכזית: 31.12.24",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20367710/20367710_noAdds/20367710_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20367710/20367710_noAdds/20367710_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a74eecf88dde3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-a74eecf88dde391027.htm",
           "ShortDescriptionLine2": "From tomorrow the price increases start, the full guide",
           "Date": "2024-12-31T19:53:11+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 31.12.24 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 31.12.24"
         },
         {
           "Title": "תכנית חיסכון: 31.12.24",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2024/12/31/Mahadura_Mukdemet_311224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367709/20367709_noAdds/20367709_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20367709/20367709_noAdds/20367709_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2024/December/Mahadura_Mukdemet_311224_VOD_ab12ab12/Mahadura_Mukdemet_311224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2024/December/Mahadura_Mukdemet_311224_VOD_ab12ab12/Mahadura_Mukdemet_311224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "5dfd180fdcde3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-5dfd180fdcde391027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2024/e879b4288ed63910/VOD-5dfd180fdcde391027.htm",
+          "ShortDescriptionLine2": "The political drama - the panel of commentators",
           "Date": "2024-12-31T18:58:48+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Savings plan: 31.12.24"
