@@ -2273,11 +2273,11 @@
           "Title": "המהדורה המרכזית: 31.12.24",
           "Poster": "https://img.mako.co.il/2024/12/31/Mahadura_Merkazit_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20367710/20367710_noAdds/20367710_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20367710/20367710_noAdds/20367710_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_311224_VOD_vsx864/Mahadura_Merkazit_311224_VOD_vsx864_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2024/December/Mahadura_Merkazit_311224_VOD_vsx864/Mahadura_Merkazit_311224_VOD_vsx864_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "a74eecf88dde3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-a74eecf88dde391027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2024/d998c1e40ed63910/VOD-a74eecf88dde391027.htm",
           "ShortDescriptionLine2": "From tomorrow the price increases start, the full guide",
           "Date": "2024-12-31T19:53:11+02:00",
           "Live": false,
@@ -2574,6 +2574,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 31.12.24",
+          "StreamerId": "6366582520112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/842450e1-8533-4fb5-925f-049bef2776ab/a9fe10ce-fc6b-4a20-bab9-c437e9cd05eb/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366582520112",
+          "Date": "2024-12-31T20:34:49Z",
+          "ShortDescriptionLine1": "The Israelis 31.12.24",
+          "ShortDescriptionLine2": "2024-12-31T20:34:49Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/842450e1-8533-4fb5-925f-049bef2776ab/10s/master.m3u8?fastly_token=Njc5OTVlZjFfM2MwZTM1OGZhNTk3Y2JmZWRkOGU3ZTdiOTVlMjFiMjY3MWM5NzlmOTc5YWQ1MmEyYTg4ZDNiNjA5YjZhZWUzMw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 31.12.24 ",
           "StreamerId": "6366581778112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c086c5a0-6122-4bfa-be6f-63fc864c0c15/0750c1f1-7429-4cb1-b44c-fdd7ee8923cb/320x180/match/image.jpg",
@@ -2751,18 +2763,6 @@
           "ShortDescriptionLine2": "2024-12-29T21:48:48Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5ec0dde0-e585-4cf2-8658-b84cd01105ae/10s/master.m3u8?fastly_token=Njc5ODA4MmRfNWI0NmMxMzU1NWRlZTI2MDZlNjM1NDRkN2VjNDE1YzZhNDEwODNiZDM4Yjk3MTAxZTE5MzExYTQ3NjU0MjEwZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 29.12.24",
-          "StreamerId": "6366530913112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3699abd-f9f4-4c12-91bb-07b4190419a2/cc12fff4-c518-4567-84ca-157831bfcc0f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366530913112",
-          "Date": "2024-12-29T20:39:14Z",
-          "ShortDescriptionLine1": "The Israelis 29.12.24",
-          "ShortDescriptionLine2": "2024-12-29T20:39:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3699abd-f9f4-4c12-91bb-07b4190419a2/10s/master.m3u8?fastly_token=Njc5ODE1MWJfZDRhM2ViNDBmODc5NWY2Zjk2ZjhjYWJlNzY3ZDcwMzFjZTk0NjA5YjA0NzdlMzIxMzQ4MmI0ZWZiZDVhNjgwNg%3D%3D"
           ]
         },
         {
