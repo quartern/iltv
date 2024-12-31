@@ -2270,6 +2270,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת: 31.12.24 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "96a52d3978de3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-96a52d3978de391027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2024-12-31T14:59:54+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 31.12.24 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 30.12.24",
           "Poster": "https://img.mako.co.il/2024/12/30/Mahadura_Merkazit_301224_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2324,20 +2339,6 @@
           "Date": "2024-12-30T16:55:22+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 30.12.24"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 30.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/30/Mahadura_Mukdemet_301224_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2024/December/Mahadurat_Hayom_301224_VOD_hvd451/Mahadurat_Hayom_301224_VOD_hvd451_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2024/December/Mahadurat_Hayom_301224_VOD_hvd451/Mahadurat_Hayom_301224_VOD_hvd451_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "bcc42d3978de3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2024/0d29b6116dd63910/VOD-bcc42d3978de391027.htm",
-          "ShortDescriptionLine2": "In less than two hours 106 terrorists were eliminated",
-          "Date": "2024-12-30T15:00:19+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 30.12.24"
         },
         {
           "Title": "חדשות סוף השבוע: 28.12.24",
@@ -2574,6 +2575,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 1.12.24 חלק ב'",
+          "StreamerId": "6366572657112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/76c7d171-26d6-47a1-9b82-21326f5f0f98/0c506beb-1866-4a28-a868-63fc217cce4f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366572657112",
+          "Date": "2024-12-31T13:04:10Z",
+          "ShortDescriptionLine1": "The afternoon edition 1.12.24 part 2",
+          "ShortDescriptionLine2": "2024-12-31T13:04:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/76c7d171-26d6-47a1-9b82-21326f5f0f98/10s/master.m3u8?fastly_token=Njc5OGY2MDBfY2JlZWFhMzQ5M2RmODFhMmQ3ODRlMzRhZTIwYzY3MDAyZWFmYjk1NWE4OTFhOGY0YzQ1ZmZiYzQyMzI1NDE5NQ%3D%3D"
+          ]
+        },
+        {
+          "Title": " מהדורת הצוהריים 31.12.24 חלק א'",
+          "StreamerId": "6366572761112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b70ad1a8-19cc-45ee-ae7f-f92315c8e5b5/ab50401e-54f5-4114-84c3-e09630d943a4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366572761112",
+          "Date": "2024-12-31T13:01:24Z",
+          "ShortDescriptionLine1": "The afternoon edition 12.31.24 Part I",
+          "ShortDescriptionLine2": "2024-12-31T13:01:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b70ad1a8-19cc-45ee-ae7f-f92315c8e5b5/10s/master.m3u8?fastly_token=Njc5OGY1YjdfMjc2OTUxMjkxN2JlZWE0MzI5YmI5MDI3YzY1ZDAxNTc0OTc1Yzc0NmY3YjBiN2M2M2QwZDEyZWE4YjIwNjVkNw%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 30.12.24",
           "StreamerId": "6366559661112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7b0adee6-2fb3-48c6-aa22-794200aaa40a/9caca5c8-5ac1-427b-8200-dda5952a400d/320x180/match/image.jpg",
@@ -2655,30 +2680,6 @@
           "ShortDescriptionLine2": "2024-12-30T14:57:01Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/741d39b6-849c-4220-b6c6-f43a78bb1203/10s/master.m3u8?fastly_token=Njc5ODFlODVfYzRjZjhiNDhkMTFjOTNkZDExNjdiODMxNzIyNjlmNTE1MjBhNGU1MTg2NzQxNzlhNDBmNGUxYTQxZDFjODAzYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים חלק ב' 30.12.24",
-          "StreamerId": "6366547902112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6e627d6f-eb36-428f-94f0-d477788ad13d/b9db8b57-d1d2-4dc0-96de-56990ce05e67/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366547902112",
-          "Date": "2024-12-30T13:12:33Z",
-          "ShortDescriptionLine1": "The Zohareiim edition, part 2, 12/30/24",
-          "ShortDescriptionLine2": "2024-12-30T13:12:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6e627d6f-eb36-428f-94f0-d477788ad13d/10s/master.m3u8?fastly_token=Njc5ODBmY2ZfODQwNDU1YmFiNTJkZGU3YTg2ODFhMTg5YmFlYWM5ZGEzMjE3NTE3NWRjMjAxNDAyYjkwN2RlZDNkNmUzYjJlYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים חלק א' 30.12.24",
-          "StreamerId": "6366548688112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e6d6ff73-8517-4ee7-9a82-da5052cd1cda/d9030db2-13b6-4acb-93ea-347690afdc4e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366548688112",
-          "Date": "2024-12-30T13:11:57Z",
-          "ShortDescriptionLine1": "The Zohariim edition, part I, 12/30/24",
-          "ShortDescriptionLine2": "2024-12-30T13:11:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e6d6ff73-8517-4ee7-9a82-da5052cd1cda/10s/master.m3u8?fastly_token=Njc5ODFmZmNfNTczN2M4NjUyODRmNjViODIyNTBlMjMyNjgwNmI1NTRkZmIzNzIwOTI3ZmE0ZTIxY2UyMDEzYjhkYTM3MDFhNw%3D%3D"
           ]
         },
         {
