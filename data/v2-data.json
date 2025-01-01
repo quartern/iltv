@@ -2270,19 +2270,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 01.01.25 [live]",
+          "Title": "המהדורה המרכזית: 01.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468266/20468266_noAdds/20468266_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468266/20468266_noAdds/20468266_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "607eecf88dde3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-607eecf88dde391027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-01T19:53:38+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 01.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 01.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 01.01.25",
@@ -2430,6 +2429,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: טקס חלוקת התעודות הממלכתי [live]",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "13c872842d024910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-13c872842d02491027.htm",
+          "ShortDescriptionLine2": "A wonderful country presents: the state certificate distribution ceremony!",
+          "Date": "2025-01-01T21:33:20+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: State certificate distribution ceremony [live]"
+        },
+        {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
           "Poster": "https://img.mako.co.il/2025/01/01/Nesli_Yoav_010125_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2484,20 +2498,6 @@
           "Date": "2024-12-26T23:25:04+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Situation report with Einav and Yaron: former Prime Minister Ehud Olmert"
-        },
-        {
-          "Title": "ארץ נהדרת: אירוע חנוכה הגדול",
-          "Poster": "https://img.mako.co.il/2024/12/24/Eretz_Nehederet22_07_241224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_07_241224_VOD_arc1212/Eretz_Nehederet22_07_241224_VOD_arc1212_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_07_241224_VOD_arc1212/Eretz_Nehederet22_07_241224_VOD_arc1212_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "d545e3990a7f3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-d545e3990a7f391027.htm",
-          "ShortDescriptionLine2": "A great country celebrates Hanukkah and everyone comes",
-          "Date": "2024-12-24T21:37:53+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: The Great Hanukkah Event"
         },
         {
           "Title": "עובדה: החמ״ל הסודי של בלפור ",
