@@ -453,6 +453,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 01.01.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-01-01 21:49:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yqmpn613/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yqmpn613/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_yqmpn613",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/842688",
+          "Date": "2025-01-01 21:49:41"
+        },
+        {
+          "Title": "חדשות הערב | 01.01.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-01-01 21:37:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_sdh6e21j/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_sdh6e21j/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_sdh6e21j",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/842682",
+          "Date": "2025-01-01 21:37:50"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 01.01.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-01-01 20:33:00",
@@ -463,18 +487,6 @@
           "StreamerId": "1_ziieabza",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/842692",
           "Date": "2025-01-01 20:33:00"
-        },
-        {
-          "Title": "חדשות הערב: מהדורה מוקדמת | 01.01.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-01-01 18:12:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6ujuc1dl/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6ujuc1dl/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_6ujuc1dl",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/842681",
-          "Date": "2025-01-01 18:12:28"
         },
         {
           "Title": "העולם היום | 01.01.25",
@@ -499,18 +511,6 @@
           "StreamerId": "1_vp25h3fs",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/842679",
           "Date": "2025-01-01 16:47:23"
-        },
-        {
-          "Title": "חדשות הלילה | 31.12.24",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2024-12-31 21:44:00",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_folw5jgj/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_folw5jgj/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_folw5jgj",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/842253",
-          "Date": "2024-12-31 21:44:00"
         },
         {
           "Title": "שבע עם איילה חסון | 31.12.24",
@@ -2430,7 +2430,7 @@
       "Items": [
         {
           "Title": "ארץ נהדרת: טקס חלוקת התעודות הממלכתי",
-          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/01/Eretz_Nehederet22_8_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/A181421/A181421_noAdds/A181421_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/A181421/A181421_noAdds/A181421_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
@@ -2573,6 +2573,66 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המועדון העסקי 1.1.25",
+          "StreamerId": "6366605408112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/687be47d-6e43-474b-8c7e-58b0a17ec684/bfcfada1-4f68-4470-82aa-7eeb8232cdd4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366605408112",
+          "Date": "2025-01-01T21:34:06Z",
+          "ShortDescriptionLine1": "The business club 1.1.25",
+          "ShortDescriptionLine2": "2025-01-01T21:34:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/687be47d-6e43-474b-8c7e-58b0a17ec684/10s/master.m3u8?fastly_token=Njc5YWFkNzNfNWUzNDYyZjI0OTY2ODk5ZWQzZWNjNTNkMWE0YmFlY2ViNmQ5ZDA5NDY4MzZjMTZlNGEwYzkyY2E1ZGJjMzM5NA%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים 1.1.25",
+          "StreamerId": "6366605120112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f5b4ba2b-7a7b-48e2-b520-3076dfed8451/1d9b3b98-c683-4aba-a4bf-491f28d340cf/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366605120112",
+          "Date": "2025-01-01T21:33:29Z",
+          "ShortDescriptionLine1": "The Israelis 1.1.25",
+          "ShortDescriptionLine2": "2025-01-01T21:33:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f5b4ba2b-7a7b-48e2-b520-3076dfed8451/10s/master.m3u8?fastly_token=Njc5YWI5MTJfYjU1ZjQxOTEyYzJhYzhkZTFiYTFhMzg4Yzg2ZmEyMTUyNzFkYmQyZDc5M2NhMGMxODcxOTBiYzIyNzhjM2VmMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית 1.1.25",
+          "StreamerId": "6366603664112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/781cbbca-3523-49e6-9402-d33406b18a3b/6042bc25-9345-464f-94a0-89bf58d49b6d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366603664112",
+          "Date": "2025-01-01T21:32:10Z",
+          "ShortDescriptionLine1": "The main edition 1.1.25",
+          "ShortDescriptionLine2": "2025-01-01T21:32:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/781cbbca-3523-49e6-9402-d33406b18a3b/10s/master.m3u8?fastly_token=Njc5YWJmOWZfYTM2NTczNmYxMTk2MTliODMzNTA1NGI5YjAxMjVhYjU0Yzk3MjNlMGEzYzYwOGMwM2Q2ZTNlZDVhNTI5YmZkZA%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת 1.1.25",
+          "StreamerId": "6366604634112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3b851f7c-0496-4713-9302-2b1339d77f50/91102a55-23fb-418e-959f-1b6c58eab225/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366604634112",
+          "Date": "2025-01-01T21:29:33Z",
+          "ShortDescriptionLine1": "Early release 1.1.25",
+          "ShortDescriptionLine2": "2025-01-01T21:29:33Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3b851f7c-0496-4713-9302-2b1339d77f50/10s/master.m3u8?fastly_token=Njc5YWI0MGNfMGExNTVhYTY4ZTJhMTA1MTNmODk3ZTA2YjZiN2VkYjgxNDI4NmYzYjE0YzcxOGZjMGNkNWRjODY0NmNjODgxNA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדד גלבוע 1.1.25",
+          "StreamerId": "6366605204112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3d603d61-ce12-420b-9099-f757d4be3254/72164b9b-c2ca-4508-bd3f-66c06919f7f1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366605204112",
+          "Date": "2025-01-01T21:28:57Z",
+          "ShortDescriptionLine1": "Gilboa index 1.1.25",
+          "ShortDescriptionLine2": "2025-01-01T21:28:57Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3d603d61-ce12-420b-9099-f757d4be3254/10s/master.m3u8?fastly_token=Njc5YWI3M2FfNjUxNDdmNjFlMDc3ZWI1Yjg4YWY4NzMwYzhhZTA3NmMzMWE1Mjc1MTM1NDgzNTMxMTUwMTYzODUzZTcxYjAyNw%3D%3D"
+          ]
+        },
         {
           "Title": "מהדורת חמש 1.1.25",
           "StreamerId": "6366600267112",
@@ -2727,66 +2787,6 @@
           "ShortDescriptionLine2": "2024-12-31T10:04:46Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ddc058d8-12cf-465f-be60-b05475aabb70/10s/master.m3u8?fastly_token=Njc5OWRlMTJfZmRlNDAxM2YzYTA3OWU5MjVkYjc3NDAzYzI3OTMwMDdmYzkwNzA4ZGIxNDA0ZGNlODQ2NzY4YjU5OTI5ZDE0Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 30.12.24",
-          "StreamerId": "6366559661112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7b0adee6-2fb3-48c6-aa22-794200aaa40a/9caca5c8-5ac1-427b-8200-dda5952a400d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366559661112",
-          "Date": "2024-12-30T21:10:31Z",
-          "ShortDescriptionLine1": "The business club 30.12.24",
-          "ShortDescriptionLine2": "2024-12-30T21:10:31Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7b0adee6-2fb3-48c6-aa22-794200aaa40a/10s/master.m3u8?fastly_token=Njc5ODA0MWZfYzk4OTgzNDc2ZTMxYjcwMGM4NzJhMzdhZmU3YzU1MjgwNjM2MDk1Njg0NzdhZTYyOTE0MjA3NmVlMDAxZDgzZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 30.12.24",
-          "StreamerId": "6366560048112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d5900ee3-2a8b-4019-b630-31fcacbbe19f/6c7be2e2-49e3-4bbe-95b4-5748c2f4f4b4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366560048112",
-          "Date": "2024-12-30T21:08:23Z",
-          "ShortDescriptionLine1": "The Israelis 30.12.24",
-          "ShortDescriptionLine2": "2024-12-30T21:08:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d5900ee3-2a8b-4019-b630-31fcacbbe19f/10s/master.m3u8?fastly_token=Njc5ODEyZTlfYjIyZjA4NmJmODNiNjU1ZDI0NDJjYTMyOGRiODAyMTQ0ZTA1MjNkZWUyNmMyNDFlNjM1NGVjMDc2OGM5ODYzMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 30.12.24",
-          "StreamerId": "6366559749112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/005fd13e-d208-4db7-9c31-6a9f67b72f89/3ed5d8d5-a9dd-4cc1-a399-286ebb24ceb2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366559749112",
-          "Date": "2024-12-30T21:07:19Z",
-          "ShortDescriptionLine1": "The main edition 12.30.24",
-          "ShortDescriptionLine2": "2024-12-30T21:07:19Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/005fd13e-d208-4db7-9c31-6a9f67b72f89/10s/master.m3u8?fastly_token=Njc5ODE1MGJfZjUzNDhlY2NiY2MwOWQ1M2QxZTM0MGZkNDE0NmNlNzA0YmYzNTllZTcyODZmYmQ4Y2U2MDk1MDA0MGFkY2YzZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 30.12.24 ",
-          "StreamerId": "6366558801112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8d28c8b7-9bfc-4fe5-9010-79315bb52e61/6548e4ae-973d-4cd0-8c95-8ea7d0a5bde7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366558801112",
-          "Date": "2024-12-30T21:04:43Z",
-          "ShortDescriptionLine1": "The early edition 12.30.24",
-          "ShortDescriptionLine2": "2024-12-30T21:04:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8d28c8b7-9bfc-4fe5-9010-79315bb52e61/10s/master.m3u8?fastly_token=Njc5ODBhOTdfMzZmNDQ1MjExOTI2YzYwYjJmMjk1ODUwYzJlOGM2ZmQ2YmJlY2M4ODVjNDNmMjZkNjM4ZWQ3OGE5YjhjM2FhYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 30.12.24",
-          "StreamerId": "6366559653112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9a4d2fa4-c5a4-4e1a-aecd-732ccfd4e153/61a40418-6980-4fc1-a88c-70df6115c67b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366559653112",
-          "Date": "2024-12-30T21:03:28Z",
-          "ShortDescriptionLine1": "Gilboa index 12.30.24",
-          "ShortDescriptionLine2": "2024-12-30T21:03:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9a4d2fa4-c5a4-4e1a-aecd-732ccfd4e153/10s/master.m3u8?fastly_token=Njc5ODBlYmRfOGM1NzYxZTI2MWI5YTY3MGMwYzZlMzgxNmM1NTc4OWYyYTAzNDQ2ZGVhMDk0ZWZhYTUxYTAyY2ZjNGM4MjIxNw%3D%3D"
           ]
         },
         {
