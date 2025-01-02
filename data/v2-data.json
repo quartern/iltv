@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 02.01.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-01-02 22:08:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yrnvmd1m/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yrnvmd1m/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_yrnvmd1m",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/843054",
+          "Date": "2025-01-02 22:08:03"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 02.01.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-01-02 21:01:50",
@@ -522,18 +534,6 @@
           "StreamerId": "1_dk9oggme",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/843024",
           "Date": "2025-01-02 15:34:27"
-        },
-        {
-          "Title": "חדשות הלילה | 01.01.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-01-01 21:49:41",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yqmpn613/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yqmpn613/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_yqmpn613",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/842688",
-          "Date": "2025-01-01 21:49:41"
         },
         {
           "Title": "ט', המתלוננת מפרשת &quot;משחקי חברה&quot; של אייל גולן, חושפת הכול בפנים גלויות",
@@ -601,6 +601,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 02.01.25 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
+          "StreamerId": "1_ou8biacj",
+          "Date": "2025-01-02 23:55:37",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/upo46-904403683/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-01-02 23:55:37",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ou8biacj/flavorIds/1_nn9m4ots,1_earl97oz,1_ak28gfjh,1_vu8m2r1v,1_6ggcfpcr,1_qmshvf0i/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 02.01.25 - המהדורה המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1652258985/uploads/2022/903041301.jpg",
           "StreamerId": "1_j5z9as7a",
@@ -658,18 +670,6 @@
           "ShortDescriptionLine2": "2025-01-02 18:44:24",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ybuv2w6s/flavorIds/1_k8q3j2qx,1_yiov5wf9,1_jg8yqmg7,1_r7li0gwd,1_tp6hsiqk,1_d5dquatw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 01.01.25 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
-          "StreamerId": "1_iulu40ft",
-          "Date": "2025-01-01 23:59:35",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/yxr27-904402295/",
-          "ShortDescriptionLine1": "On This Day",
-          "ShortDescriptionLine2": "2025-01-01 23:59:35",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_iulu40ft/flavorIds/1_qqqz40h6,1_ey0wsls4,1_7ilo3hui,1_m43dudqr,1_paxmi0y8,1_gdxjvwgw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2443,8 +2443,8 @@
           "Title": "דוח מצב עם עינב וירון: השר מיקי זוהר",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20468299/20468299_noAdds/20468299_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20468299/20468299_noAdds/20468299_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20468299/20468299_noAdds/20468299_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20468299/20468299_noAdds/20468299_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "72ee5f9d53624910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-72ee5f9d5362491026.htm",
