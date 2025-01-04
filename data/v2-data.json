@@ -1000,6 +1000,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "פגישה עם רוני קובן עונה 9 | פרק 11 - קרן נויבך",
+          "ShortDescriptionLine1": "A meeting with Ronnie Cuban season 9 | Chapter 11 - The Neubach Foundation",
+          "ShortDescriptionLine2": "2025-01-04 19:30:25",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_t8l0s2mh/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_t8l0s2mh/a.m3u8"
+          ],
+          "StreamerId": "1_t8l0s2mh",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/843069",
+          "Date": "2025-01-04 19:30:25"
+        },
+        {
           "Title": "שאלה תשובה עונה 5 | פרק 2 - לחזור הביתה מהשבי",
           "ShortDescriptionLine1": "Question Answer Season 5 | Chapter 2 - Returning home from captivity",
           "ShortDescriptionLine2": "2025-01-03 13:29:23",
@@ -1226,18 +1238,6 @@
           "StreamerId": "1_40ubjb0g",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/839009",
           "Date": "2024-12-28 19:32:40"
-        },
-        {
-          "Title": "שאלה תשובה עונה 5 | פרק 1 - שירים מאירים",
-          "ShortDescriptionLine1": "Question Answer Season 5 | Chapter 1 - Illuminating songs",
-          "ShortDescriptionLine2": "2024-12-27 13:30:11",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0bgc8gk8/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0bgc8gk8/a.m3u8"
-          ],
-          "StreamerId": "1_0bgc8gk8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12766/s5/840191",
-          "Date": "2024-12-27 13:30:11"
         }
       ]
     },
@@ -2292,19 +2292,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 04.01.25 [live]",
+          "Title": "חדשות סוף השבוע: 04.01.25",
           "Poster": "https://img.mako.co.il/2025/01/04/Hadshot_Sof_Hashavua_040125_VOD_fur876_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20468350/20468350_noAdds/20468350_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20468350/20468350_noAdds/20468350_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b466a2cab4ee3910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-b466a2cab4ee391027.htm",
           "ShortDescriptionLine2": "An Israeli official: \"If Hamas says yes - there is a deal\"",
           "Date": "2025-01-04T19:54:40+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 04.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 04.01.25"
         },
         {
           "Title": "שבת בחמש: 04.01.25",
@@ -2419,18 +2418,18 @@
           "ShortDescriptionLine1": "Meet the press: 28.12.24"
         },
         {
-          "Title": "פגוש את העיתונות: 21.12.24",
-          "Poster": "https://img.mako.co.il/2024/12/21/Pgosh_211224_VOD_autoOrient_I_reduced.jpg",
+          "Title": "פגוש את העיתונות: 04.01.25",
+          "Poster": "https://img.mako.co.il/2025/01/04/Pgosh_040125_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Pgosh/2024/December/Pgosh_211224_VOD_ab12ab12/Pgosh_211224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Pgosh/2024/December/Pgosh_211224_VOD_ab12ab12/Pgosh_211224_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/January/Pgosh_040125_VOD_ab12ab12/Pgosh_040125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/January/Pgosh_040125_VOD_ab12ab12/Pgosh_040125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
-          "StreamerId": "7b76de1cf4183910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/meet_the_press-2024/5e41c1e40ed63910/VOD-7b76de1cf418391026.htm",
-          "ShortDescriptionLine2": "Interview with Minister Itamar Ben Gabir",
-          "Date": "2024-12-21T17:59:45+02:00",
+          "StreamerId": "17ea5f7f45ee3910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-channel2-news/meet_the_press-2025/c48e5b6053ee3910/VOD-17ea5f7f45ee391027.htm",
+          "ShortDescriptionLine2": "Ot Haim from the observer Liri Elbag",
+          "Date": "",
           "Live": false,
-          "ShortDescriptionLine1": "Meet the press: 21.12.24"
+          "ShortDescriptionLine1": "Meet the press: 04.01.25"
         },
         {
           "Title": "חמש עם רפי רשף: 02.01.25",
