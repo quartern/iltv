@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות השבת | 04.01.25",
+          "ShortDescriptionLine1": "Saturday News Edition",
+          "ShortDescriptionLine2": "2025-01-04 21:00:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_62wayfi2/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_62wayfi2/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_62wayfi2",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/843668",
+          "Date": "2025-01-04 21:00:40"
+        },
+        {
           "Title": "שבע עם איילה חסון | 04.01.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-01-04 18:46:38",
@@ -558,18 +570,6 @@
           "StreamerId": "1_y03oo8yk",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/841563",
           "Date": "2024-12-30 17:01:52"
-        },
-        {
-          "Title": "חדשות השבת | 28.12.24",
-          "ShortDescriptionLine1": "Saturday News Edition",
-          "ShortDescriptionLine2": "2024-12-28 21:22:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fumsvxdr/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_fumsvxdr/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_fumsvxdr",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/841255",
-          "Date": "2024-12-28 21:22:40"
         },
         {
           "Title": "זמן אמת עונה 8 | פרק 16 - המירוץ לצדק לגיא",
@@ -2295,11 +2295,11 @@
           "Title": "חדשות סוף השבוע: 04.01.25",
           "Poster": "https://img.mako.co.il/2025/01/04/Hadshot_Sof_Hashavua_040125_VOD_fur876_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20468350/20468350_noAdds/20468350_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20468350/20468350_noAdds/20468350_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/January/Hadshot_Sof_Hashavua_040125_VOD_sdj345/Hadshot_Sof_Hashavua_040125_VOD_sdj345_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/January/Hadshot_Sof_Hashavua_040125_VOD_sdj345/Hadshot_Sof_Hashavua_040125_VOD_sdj345_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b466a2cab4ee3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-b466a2cab4ee391027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-b466a2cab4ee391027.htm",
           "ShortDescriptionLine2": "An Israeli official: \"If Hamas says yes - there is a deal\"",
           "Date": "2025-01-04T19:54:40+02:00",
           "Live": false,
@@ -2596,6 +2596,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים 04.01.25",
+          "StreamerId": "6366689703112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a7ad5879-5e62-4754-8622-c63ac476a25b/da1e2dd7-db03-4ebd-9eb1-902a3286300e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366689703112",
+          "Date": "2025-01-04T20:53:38Z",
+          "ShortDescriptionLine1": "The Arabists 04.01.25",
+          "ShortDescriptionLine2": "2025-01-04T20:53:38Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a7ad5879-5e62-4754-8622-c63ac476a25b/10s/master.m3u8?fastly_token=Njc5ZTljNjFfMTAwOTQzMzVlOGE3NzJiZTdmMWYwMWVlNWVkMGJkZTcyNjQzYjE3NWI1YjQ5YzIzMjYwZGY5MjI0YzY4NTE0Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 04.01.25",
           "StreamerId": "6366688956112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/84316576-1056-46e0-8ee0-9ec902a8ef8a/ae3d59f8-955e-47ba-856f-dad1c12c8af0/320x180/match/image.jpg",
@@ -2833,18 +2845,6 @@
           "ShortDescriptionLine2": "2024-12-31T10:04:46Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ddc058d8-12cf-465f-be60-b05475aabb70/10s/master.m3u8?fastly_token=Njc5OWRlMTJfZmRlNDAxM2YzYTA3OWU5MjVkYjc3NDAzYzI3OTMwMDdmYzkwNzA4ZGIxNDA0ZGNlODQ2NzY4YjU5OTI5ZDE0Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 28.12.24",
-          "StreamerId": "6366509707112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4237f997-96fc-439d-8607-76d19f350427/2efb7032-a828-484d-828c-40b49a3bd4cf/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366509707112",
-          "Date": "2024-12-28T20:24:20Z",
-          "ShortDescriptionLine1": "The Arabists 28.12.24",
-          "ShortDescriptionLine2": "2024-12-28T20:24:20Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4237f997-96fc-439d-8607-76d19f350427/10s/master.m3u8?fastly_token=Njc5ODA5NDFfMzAxZGQzY2E3OWRhYjgxZmU5ZTMxNDI5ZDkwZTg3ZWZhZWNlMTQ4MjNjNDAzMDk4ZTk0YzhiOGIzMmZkNTdjMg%3D%3D"
           ]
         },
         {
