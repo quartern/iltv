@@ -2292,19 +2292,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 05.01.25 [live]",
+          "Title": "מהדורת היום: 05.01.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20468367/20468367_noAdds/20468367_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20468367/20468367_noAdds/20468367_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a4fc7fba37804910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-a4fc7fba3780491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-05T15:00:59+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 05.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 05.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 04.01.25",
@@ -2597,6 +2596,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 5.1.25 ",
+          "StreamerId": "6366707540112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b01a9e2e-0f52-4f1a-9994-f8d49f5cb3fa/4713fe1e-24ac-44fd-b196-12ee32751023/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366707540112",
+          "Date": "2025-01-05T15:00:08Z",
+          "ShortDescriptionLine1": "Edition 15 5.1.25",
+          "ShortDescriptionLine2": "2025-01-05T15:00:08Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b01a9e2e-0f52-4f1a-9994-f8d49f5cb3fa/10s/master.m3u8?fastly_token=Njc5ZmFmZDlfNTEzYjFlYmEzNmQzZWY5YWMxYzQ4YjI2NzI1MDJmZWViOTAzMmIyMzE4NWQyMDA0N2UzNzQ4OWNkZjhkOWY2Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים 5.1.25 חלק ב'",
           "StreamerId": "6366704881112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/db3e4a22-1b01-44e2-b4b5-d40454988332/0e055cb3-e5c6-4c10-a184-8480a6877f7c/320x180/match/image.jpg",
@@ -2738,18 +2749,6 @@
           "ShortDescriptionLine2": "2025-01-02T15:09:28Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/211b8ad3-2b38-4933-a206-f2bbb577fccb/10s/master.m3u8?fastly_token=Njc5YmExYTRfZDc1ZTM4NTBkYWI0OTVlNDU2YTQ3MGM3YzI3YjI5M2VhY2EzYmI5NmNjZTVhZjAwM2ExNDA3ZTI0N2UwMzFiYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "אלי, אביו של החטוף עידן שתיוי, בריאיון באולפן מהדורת 15",
-          "StreamerId": "6366621203112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/623f5e91-c640-44ee-8692-fef2e8b6703b/80988082-d906-456d-b3a7-ac94bda46c81/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366621203112",
-          "Date": "2025-01-02T15:09:14Z",
-          "ShortDescriptionLine1": "Eli, the father of the abducted Idan Shativ, in an interview at Olpan Edition 15",
-          "ShortDescriptionLine2": "2025-01-02T15:09:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/623f5e91-c640-44ee-8692-fef2e8b6703b/10s/master.m3u8?fastly_token=Njc5YmExYThfN2QyZGM4NjlhMmU1ODA3MzJmOThlOGRhYmQ5MGUxYzE2MDMyOGNkNzVmMzZhMGE4MzdkMzYzZWQ5MmQ5NjZhNA%3D%3D"
           ]
         },
         {
