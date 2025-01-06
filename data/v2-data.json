@@ -1941,6 +1941,18 @@
           "Date": "2023-08-13 19:25:45"
         },
         {
+          "Title": "מסעדות בצפון: המסעדנים שנערכים לפתיחה מחודשת",
+          "ShortDescriptionLine1": "Restaurants in the north: the restaurants that are preparing for reopening",
+          "ShortDescriptionLine2": "2025-01-06 19:56:22",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_73a9ah19/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_73a9ah19/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_73a9ah19",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/844503",
+          "Date": "2025-01-06 19:56:22"
+        },
+        {
           "Title": "ההצגה חייבת להימשך: הרקדנית מקריית שמונה שהפיקה מופע עם תלמידותיה המפונות",
           "ShortDescriptionLine1": "The show must go on: the dancer from Kiryat Shmona who produced a show with her displaced students",
           "ShortDescriptionLine2": "2025-01-05 20:40:38",
@@ -1987,18 +1999,6 @@
           "StreamerId": "1_35co1los",
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/844047",
           "Date": "2025-01-05 19:48:04"
-        },
-        {
-          "Title": "איך המלחמה הפכה את מצפה רמון ליעד מבוקש?",
-          "ShortDescriptionLine1": "How did the war make Mitzpe Ramon a popular destination?",
-          "ShortDescriptionLine2": "2025-01-04 20:41:57",
-          "Poster": "",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bke5jvah/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bke5jvah",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/843707",
-          "Date": "2025-01-04 20:41:57"
         }
       ]
     },
@@ -2292,29 +2292,28 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 06.01.25 [live]",
+          "Title": "המהדורה המרכזית: 06.01.25",
           "Poster": "https://img.mako.co.il/2025/01/06/Mahadura_Merkazit_060125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468403/20468403_noAdds/20468403_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468403/20468403_noAdds/20468403_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "110726c79b034910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-110726c79b03491026.htm",
           "ShortDescriptionLine2": "New details about the attack in Samaria",
           "Date": "2025-01-06T19:54:37+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 06.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 06.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 06.01.25",
           "Poster": "https://img.mako.co.il/2025/01/06/Mahadura_Mukdemet_060125_VOD_ckf875_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468402/20468402_noAdds/20468402_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468402/20468402_noAdds/20468402_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_060125_VOD_cjf847/Mahadura_Mukdemet_060125_VOD_cjf847_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_060125_VOD_cjf847/Mahadura_Mukdemet_060125_VOD_cjf847_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d165c62f0f134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-d165c62f0f13491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-d165c62f0f13491026.htm",
           "ShortDescriptionLine2": "The investigation on May Golan - new revelations",
           "Date": "2025-01-06T18:59:04+02:00",
           "Live": false,
