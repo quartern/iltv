@@ -2307,19 +2307,18 @@
           "ShortDescriptionLine1": "Early release: 07.01.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 07.01.25 [live]",
+          "Title": "שש עם עודד בן עמי: 07.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468431/20468431_noAdds/20468431_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468431/20468431_noAdds/20468431_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4ff6712a7d134910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-4ff6712a7d13491026.htm",
           "ShortDescriptionLine2": "3 fighters from the Nahal Brigade were killed in Gaza",
           "Date": "2025-01-07T17:56:09+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 07.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 07.01.25"
         },
         {
           "Title": "חמש עם רפי רשף: 07.01.25",
@@ -2598,6 +2597,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 07.01.25",
+          "StreamerId": "6366777649112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/624f629e-d940-4743-bc80-713ef78a956e/c295627c-8461-428a-b23b-8b31cd4d8f5f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366777649112",
+          "Date": "2025-01-07T17:06:09Z",
+          "ShortDescriptionLine1": "Gilboa index 07.01.25",
+          "ShortDescriptionLine2": "2025-01-07T17:06:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/624f629e-d940-4743-bc80-713ef78a956e/10s/master.m3u8?fastly_token=NjdhMjYwYjRfMTZmNGYwYTBiOGE1ZTU5MWQ1OWE0NDkxZTFhNmM1NzEyMTM1NGNkODc5OTFkNzdmMDc2YmM4OGI4ZjFkNDdkNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש 07.01.25",
+          "StreamerId": "6366776837112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/86afff23-28f1-4eb6-b27f-4845baee4722/082e3d4e-8170-4710-9489-ea7c80037215/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366776837112",
+          "Date": "2025-01-07T17:04:43Z",
+          "ShortDescriptionLine1": "Five edition 07.01.25",
+          "ShortDescriptionLine2": "2025-01-07T17:04:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/86afff23-28f1-4eb6-b27f-4845baee4722/10s/master.m3u8?fastly_token=NjdhMjYxMWRfZThjODNkNmVkZmY5YmZiMmUwNzY2ZDhhYWUwNDJiZWY4MmNhN2UwMDJhYmRkYjY3ZWQyNjhhOGQ3MGIwN2Y0ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 7.1.25 ",
           "StreamerId": "6366771637112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/58ca99ea-7594-4841-a55b-755f11ccb8c6/015071a1-a98b-47dd-bd26-ec39a5b0c35c/320x180/match/image.jpg",
@@ -2799,30 +2822,6 @@
           "ShortDescriptionLine2": "2025-01-05T19:43:33Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f4f074bd-6052-46c7-b3f9-56f28c182881/10s/master.m3u8?fastly_token=Njc5ZmUyMDVfNjFjMjA3ZTcyZTU3Yzc4OTQzMjZmNWNlMzUzZmM3MDhhOGU3ZWI3OWY0ZjljMzUxZjU3NjE4NzdhZjUyZTcwOQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 5.1.25",
-          "StreamerId": "6366713335112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/82bb9df8-df21-476e-be53-f1fc9ab8c1ba/c9054502-f80c-41cc-93b6-54f677e571ba/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366713335112",
-          "Date": "2025-01-05T19:42:34Z",
-          "ShortDescriptionLine1": "Gilboa index 5.1.25",
-          "ShortDescriptionLine2": "2025-01-05T19:42:34Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/82bb9df8-df21-476e-be53-f1fc9ab8c1ba/10s/master.m3u8?fastly_token=Njc5ZmU1MzRfZTUzN2Y2ZjhhZTYwMzk4MzYzZjc3MzIwN2MxMmRhOTI3YmU0OGQ0MzNjODcyN2VjZWJmZDc0YTM0OTVmMzIxOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 5.1.25",
-          "StreamerId": "6366713802112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7ee688d5-9d89-49f3-9c5a-181b0d7e4afa/6bf155db-0a9e-462a-877f-79d4c6259482/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366713802112",
-          "Date": "2025-01-05T19:41:46Z",
-          "ShortDescriptionLine1": "Five edition 5.1.25",
-          "ShortDescriptionLine2": "2025-01-05T19:41:46Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7ee688d5-9d89-49f3-9c5a-181b0d7e4afa/10s/master.m3u8?fastly_token=Njc5ZmU1NjRfMjBhYmYxYmY3NjdiYmVlOWIwNDUyZGNjZjFkMzBhMDI4MjlhMDgzZWRkMTU0ZjUxZDc3YmJlOWY2MDdhMjhkOA%3D%3D"
           ]
         },
         {
