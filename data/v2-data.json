@@ -601,6 +601,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 08.01.25 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_6i90e0pn",
+          "Date": "2025-01-08 19:30:28",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/pazob-904411103/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-01-08 19:30:28",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6i90e0pn/flavorIds/1_0p3a3pem,1_s1rg9277,1_lvxdx3y0,1_gyctrk1t,1_tu8cxzsb,1_c2n0uv9h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 08.01.25 - התכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_cw5dlpoi",
@@ -658,18 +670,6 @@
           "ShortDescriptionLine2": "2025-01-07 20:55:36",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ts4o7u8r/flavorIds/1_x9jmgxn7,1_5hdzdjiy,1_2vzei36h,1_qvs1021c,1_y73b9o83,1_luaur0x9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 07.01.25 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_ly2ob4bh",
-          "Date": "2025-01-07 19:46:38",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/pe1em-904409620/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2025-01-07 19:46:38",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ly2ob4bh/flavorIds/1_h2vi5ajs,1_zgnh6ch9,1_vhvrckss,1_omgyo4ov,1_z2gtlqc9,1_rddb4n3c/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1836,30 +1836,29 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 08.01.25 [live]",
+          "Title": "המהדורה המוקדמת: 08.01.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468464/20468464_noAdds/20468464_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468464/20468464_noAdds/20468464_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4ec6c62f0f134910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-4ec6c62f0f13491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-08T18:58:29+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 08.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 08.01.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 08.01.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/08/Shesh_080125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468463/20468463_noAdds/20468463_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468463/20468463_noAdds/20468463_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f827712a7d134910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-f827712a7d13491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The IDF located the bodies of 2 abductees in Gaza",
           "Date": "2025-01-08T17:55:26+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 08.01.25"
