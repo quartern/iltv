@@ -1995,19 +1995,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: שר הביטחון נגד הרמטכ\"ל [live]",
-          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "Title": "ארץ נהדרת: שר הביטחון נגד הרמטכ\"ל",
+          "Poster": "https://img.mako.co.il/2025/01/08/Eretz_Nehederet22_09_080125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/A181422/A181422_noAdds/A181422_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/A181422/A181422_noAdds/A181422_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a1bc24bf52544910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-a1bc24bf5254491026.htm",
           "ShortDescriptionLine2": "The confrontation between the Defense Minister and the Chief of Staff comes to the studio",
           "Date": "2025-01-08T21:46:35+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Eretz Nehederet: Defense Minister against the Chief of Staff [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: Defense Minister against the Chief of Staff"
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
@@ -2140,6 +2139,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הישראלים 08.01.25",
+          "StreamerId": "6366831675112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a011e77d-c7a6-4779-8f21-fdc4390ded63/c77a347a-6b25-4aa4-81c2-14d83433eaf2/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366831675112",
+          "Date": "2025-01-08T20:49:36Z",
+          "ShortDescriptionLine1": "The Israelis 08.01.25",
+          "ShortDescriptionLine2": "2025-01-08T20:49:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a011e77d-c7a6-4779-8f21-fdc4390ded63/10s/master.m3u8?fastly_token=NjdhM2U4NmRfYjczZThiMTg4NTAxZmFiZDUxNzhkZjllMWY3MDg1NDdhYWI0M2E3OGZjZmMyMGRkNzNkNmQ3ZDc4OTUxYzgyZA%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית 08.01.25",
           "StreamerId": "6366829278112",
@@ -2342,18 +2353,6 @@
           "ShortDescriptionLine2": "2025-01-06T21:37:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/04c5f582-f48d-4125-8d43-a994135e6a03/10s/master.m3u8?fastly_token=NjdhMjE2MWZfOTAzZTdkNjVjMzcyY2ExNzZmMTI0MTY5YWU1NWRkNTFkOGFjMDA2MmVjMTFmMWMzZjhhZmNiY2Y2OGExZTg4YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 6.1.25",
-          "StreamerId": "6366747342112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bac01c44-0387-4107-8671-4c1cae63520c/6581a1ac-e967-4cb5-af18-5939183ba2f4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366747342112",
-          "Date": "2025-01-06T21:36:37Z",
-          "ShortDescriptionLine1": "The Israelis 6.1.25",
-          "ShortDescriptionLine2": "2025-01-06T21:36:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bac01c44-0387-4107-8671-4c1cae63520c/10s/master.m3u8?fastly_token=NjdhMTU0NmJfNDc5ZDNiYTk0Mjc2ZGQwYjNlNmJkOTI1M2U0NjYxMzAyMTUzMmY3YTQ2Y2U5ZTUzOGM5NjNhZWE4M2MzYTc1ZQ%3D%3D"
           ]
         },
         {
