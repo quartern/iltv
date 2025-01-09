@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 09.01.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-01-09 15:49:52",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e4gslxd4/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_e4gslxd4/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_e4gslxd4",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/845335",
+          "Date": "2025-01-09 15:49:52"
+        },
+        {
           "Title": "חדשות הלילה | 08.01.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-01-08 21:44:58",
@@ -522,18 +534,6 @@
           "StreamerId": "1_78gy38k3",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/845078",
           "Date": "2025-01-08 16:57:08"
-        },
-        {
-          "Title": "משחקי הכיס | 07.01.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-01-07 15:25:10",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_zdsx0qpj/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_zdsx0qpj/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_zdsx0qpj",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/844613",
-          "Date": "2025-01-07 15:25:10"
         },
         {
           "Title": "יהיה טוב | ילדי אנטבה נאבקים למען שחרור החטופים",
@@ -1836,19 +1836,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 09.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 09.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "0357712a7d134910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-0357712a7d13491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-09T17:56:19+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.01.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 09.01.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20468492/20468492_noAdds/20468492_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20468492/20468492_noAdds/20468492_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "8e96344680134910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-8e9634468013491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-09T16:55:05+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.01.25"
         },
         {
           "Title": "מהדורת היום: 09.01.25",
@@ -1891,20 +1905,6 @@
           "Date": "2025-01-08T18:58:29+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 08.01.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 08.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/08/Shesh_080125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_080125_VOD_ab12ab12/Shesh_080125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_080125_VOD_ab12ab12/Shesh_080125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f827712a7d134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-f827712a7d13491026.htm",
-          "ShortDescriptionLine2": "The IDF located the bodies of 2 abductees in Gaza",
-          "Date": "2025-01-08T17:55:26+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 08.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 04.01.25",
