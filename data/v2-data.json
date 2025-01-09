@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 09.01.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-01-09 22:12:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_j1sun5by/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_j1sun5by/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_j1sun5by",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/845344",
+          "Date": "2025-01-09 22:12:48"
+        },
+        {
           "Title": "חדשות הערב | 09.01.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-01-09 21:00:12",
@@ -522,18 +534,6 @@
           "StreamerId": "1_e4gslxd4",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/845335",
           "Date": "2025-01-09 15:49:52"
-        },
-        {
-          "Title": "חדשות הלילה | 08.01.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-01-08 21:44:58",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9rpevwd2/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9rpevwd2/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_9rpevwd2",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/845088",
-          "Date": "2025-01-08 21:44:58"
         },
         {
           "Title": "יהיה טוב | ילדי אנטבה נאבקים למען שחרור החטופים",
@@ -1995,19 +1995,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: שורדת השבי עם פרטים חדשים [live]",
+          "Title": "דוח מצב עם עינב וירון: שורדת השבי עם פרטים חדשים",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20468499/20468499_noAdds/20468499_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20468499/20468499_noAdds/20468499_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bf5421d2c1a44910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-bf5421d2c1a4491027.htm",
           "ShortDescriptionLine2": "The captivity survivor reveals details, and where is the government going?",
           "Date": "2025-01-09T23:10:50+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Surviving captivity with new details [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Surviving captivity with new details"
         },
         {
           "Title": "עובדה: מתחזה בחזית",
@@ -2021,7 +2020,7 @@
           "ShortDescriptionLine2": "The pretender who penetrated the IDF the most talks about everything",
           "Date": "2025-01-09T21:33:44+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "Uvda: front impersonator"
+          "ShortDescriptionLine1": "Uvda: impersonating the front"
         },
         {
           "Title": "נסלי ויואב: המגעים לעסקה",
