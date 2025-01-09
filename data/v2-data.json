@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 09.01.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-01-09 21:00:12",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6zzd95yo/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6zzd95yo/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_6zzd95yo",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/845341",
+          "Date": "2025-01-09 21:00:12"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 09.01.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-01-09 20:44:54",
@@ -522,18 +534,6 @@
           "StreamerId": "1_9rpevwd2",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/845088",
           "Date": "2025-01-08 21:44:58"
-        },
-        {
-          "Title": "חדשות הערב | 08.01.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-01-08 20:36:46",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_zndby2q5/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_zndby2q5/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_zndby2q5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/845085",
-          "Date": "2025-01-08 20:36:46"
         },
         {
           "Title": "יהיה טוב | ילדי אנטבה נאבקים למען שחרור החטופים",
@@ -1839,11 +1839,11 @@
           "Title": "המהדורה המרכזית: 09.01.25",
           "Poster": "https://img.mako.co.il/2025/01/09/Mahadura_Merkazit_090125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468496/20468496_noAdds/20468496_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468496/20468496_noAdds/20468496_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_090125_VOD_jh9/Mahadura_Merkazit_090125_VOD_jh9_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_090125_VOD_jh9/Mahadura_Merkazit_090125_VOD_jh9_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7b7726c79b034910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-7b7726c79b03491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-7b7726c79b03491026.htm",
           "ShortDescriptionLine2": "All interpretations on the Levin-Saar map",
           "Date": "2025-01-09T19:54:54+02:00",
           "Live": false,
@@ -1995,19 +1995,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: מתחזה בחזית [live]",
+          "Title": "עובדה: מתחזה בחזית",
           "Poster": "https://img.mako.co.il/2024/09/25/Ovda2025_01_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20468497/20468497_noAdds/20468497_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20468497/20468497_noAdds/20468497_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6f4718fe68a44910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-6f4718fe68a4491026.htm",
           "ShortDescriptionLine2": "The pretender who penetrated the IDF the most talks about everything",
           "Date": "2025-01-09T21:33:44+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Uvda: impersonating the front [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Uvda: impersonating the front"
         },
         {
           "Title": "נסלי ויואב: המגעים לעסקה",
@@ -2140,6 +2139,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הערביסטים - 09.01.25",
+          "StreamerId": "6366875269112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1f7405d2-ea77-4b42-8cce-7f0b11e48be3/27c6a372-6885-43d9-b82f-f05df44b7ce2/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366875269112",
+          "Date": "2025-01-09T20:32:09Z",
+          "ShortDescriptionLine1": "The Arabists - 09.01.25",
+          "ShortDescriptionLine2": "2025-01-09T20:32:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1f7405d2-ea77-4b42-8cce-7f0b11e48be3/10s/master.m3u8?fastly_token=NjdhNTJlYThfOWJhOTFlNzA3OTlmMjEwNjk3NTIxYzkxZmI3ZjhkNzRiMGRiNjkxMDFlZmU0ZWM1ZWI5MDlmOWVmNzg3MzExNw%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית - 09.01.25",
           "StreamerId": "6366872498112",
@@ -2402,18 +2413,6 @@
           "ShortDescriptionLine2": "2025-01-03T20:34:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9b53f6ed-44c5-4d7d-a5ab-834a3eed2c32/10s/master.m3u8?fastly_token=Njc5ZDYwNWNfYjU4MDVmYjgwYmExYjcxZWZlMWI0NDhhNzMyZTRjMTM4NzRmYThiMWM1NjcwZTdjN2NhZTJkMjM5ZDgyOTA1ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 02.01.25",
-          "StreamerId": "6366628619112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f1a65b5e-e890-46fe-bdf1-06f174b01c7e/a9cbd48f-20cf-479c-bae8-9cfd5cc1c456/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366628619112",
-          "Date": "2025-01-02T20:39:25Z",
-          "ShortDescriptionLine1": "The Arabists 02.01.25",
-          "ShortDescriptionLine2": "2025-01-02T20:39:25Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f1a65b5e-e890-46fe-bdf1-06f174b01c7e/10s/master.m3u8?fastly_token=Njc5YmY2YjFfOTk5YzYyYzA1ZmE5MTM1ZjIwZDI0MjMwMGQ0MjJiYWVmZGY2YmM3ZmIxZWJmMWZjZWZhZDMyNTJiY2RhYjhlYw%3D%3D"
           ]
         },
         {
