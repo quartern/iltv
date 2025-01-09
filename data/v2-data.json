@@ -1000,6 +1000,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "זהו זה! עונה 7 | פרק 10 - 09.01.24",
+          "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 10 - 09.01.24",
+          "ShortDescriptionLine2": "2025-01-09 19:30:20",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_09nbt7gr/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_09nbt7gr/a.m3u8"
+          ],
+          "StreamerId": "1_09nbt7gr",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/845347",
+          "Date": "2025-01-09 19:30:20"
+        },
+        {
           "Title": "בואו לאכול איתי - ערבית | פרק 5 - משולש, הערב של נע'ם",
           "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 5 - Triangle, Naam's evening",
           "ShortDescriptionLine2": "2025-01-09 18:10:57",
@@ -1226,24 +1238,24 @@
           "StreamerId": "1_g3y4yuc6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-794147/s1/794166",
           "Date": "2025-01-06 10:00:34"
-        },
-        {
-          "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 4 - 05.01.25",
-          "ShortDescriptionLine1": "Will be good with Asenheim and Coven season 2 | Chapter 4 - 05.01.25",
-          "ShortDescriptionLine2": "2025-01-05 21:00:17",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vxv2id22/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_vxv2id22/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_vxv2id22",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/843845",
-          "Date": "2025-01-05 21:00:17"
         }
       ]
     },
     {
       "Name": "Kan 11 Specials",
       "Items": [
+        {
+          "Title": "זהו זה! עונה 7 | פרק 10 - 09.01.24",
+          "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 10 - 09.01.24",
+          "ShortDescriptionLine2": "2025-01-09 19:30:20",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_09nbt7gr/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_09nbt7gr/a.m3u8"
+          ],
+          "StreamerId": "1_09nbt7gr",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/845347",
+          "Date": "2025-01-09 19:30:20"
+        },
         {
           "Title": "זהו זה! עונה 7 | פרק 9 - 02.01.25",
           "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 9 - 02.01.25",
@@ -1267,18 +1279,6 @@
           "StreamerId": "1_89d8k4sp",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811971",
           "Date": "2024-12-26 19:32:09"
-        },
-        {
-          "Title": "זהו זה! עונה 7 | פרק 7 - 12.12.24",
-          "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 7 - 12.12.24",
-          "ShortDescriptionLine2": "2024-12-12 19:31:27",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u42u6mng/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u42u6mng/a.m3u8"
-          ],
-          "StreamerId": "1_u42u6mng",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/811967",
-          "Date": "2024-12-12 19:31:27"
         },
         {
           "Title": "קופה ראשית עונה 5 | פרק 1 - כפרות",
@@ -1836,19 +1836,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 09.01.25 [live]",
+          "Title": "המהדורה המרכזית: 09.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468496/20468496_noAdds/20468496_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468496/20468496_noAdds/20468496_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7b7726c79b034910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-7b7726c79b03491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "All interpretations on the Levin-Saar map",
           "Date": "2025-01-09T19:54:54+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 09.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 09.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 09.01.25",
@@ -2141,6 +2140,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת - 09.01.25",
+          "StreamerId": "6366871414112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7ddee30d-0e97-479d-8b1f-043ed0258154/8f52c142-a73f-4031-87c8-3254093ab0d3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366871414112",
+          "Date": "2025-01-09T19:28:09Z",
+          "ShortDescriptionLine1": "The early edition - 09.01.25",
+          "ShortDescriptionLine2": "2025-01-09T19:28:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7ddee30d-0e97-479d-8b1f-043ed0258154/10s/master.m3u8?fastly_token=NjdhNTIxZDFfZjgwODhlOTk2ODEzYWNiMjY3Njk3OTA0MzZmZjZmZGQ1OTJiYzYxZjY3ZjA2YzE2ODZjMWYyNGYyOWMzNTU5Mg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש - 09.01.25",
           "StreamerId": "6366860720112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/456da862-2679-4d0b-9e53-02f2a226bab1/30e5c4f2-fec9-4889-85a4-7bd4d6c8c37c/320x180/match/image.jpg",
@@ -2366,18 +2377,6 @@
           "ShortDescriptionLine2": "2025-01-07T05:35:05Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fcb74464-5f48-4f3a-95f3-d3d8389f78c8/10s/master.m3u8?fastly_token=NjdhMWYxZGNfMTE5MmRiNGEyYzIzYzQ4MGI1ZTg4OGNlOGVlZjdmZTEwYmM0MmIyNTljY2MxZGEzNWQ2NWU3ZWVlZmI1MWMyYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 6.1.25",
-          "StreamerId": "6366743354112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/72699e77-ce2d-4900-8344-70f941c79c42/d499130b-d420-41f8-afc9-2f5cb1fedbe5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366743354112",
-          "Date": "2025-01-06T19:31:28Z",
-          "ShortDescriptionLine1": "The early release 6.1.25",
-          "ShortDescriptionLine2": "2025-01-06T19:31:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/72699e77-ce2d-4900-8344-70f941c79c42/10s/master.m3u8?fastly_token=NjdhMTJlN2VfZmRiMzZkOWI5NjY4NGMwNTk3ZWUxNjNhNDEyNTdiODkwYjBiOGFiOTU3YmU5NjViMjY2YjA1YzM1YmE0YmQ5MA%3D%3D"
           ]
         },
         {
