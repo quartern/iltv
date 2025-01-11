@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות השבת | 11.01.25",
+          "ShortDescriptionLine1": "Saturday News Edition",
+          "ShortDescriptionLine2": "2025-01-11 20:05:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_b97ffpca/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_b97ffpca/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_b97ffpca",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/845988",
+          "Date": "2025-01-11 20:05:41"
+        },
+        {
           "Title": "שבע עם איילה חסון | 11.01.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-01-11 18:29:23",
@@ -558,18 +570,6 @@
           "StreamerId": "1_05c6i4w5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/843964",
           "Date": "2025-01-05 19:30:50"
-        },
-        {
-          "Title": "חדשות השבת | 04.01.25",
-          "ShortDescriptionLine1": "Saturday News Edition",
-          "ShortDescriptionLine2": "2025-01-04 21:00:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_62wayfi2/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_62wayfi2/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_62wayfi2",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/843668",
-          "Date": "2025-01-04 21:00:40"
         },
         {
           "Title": "זמן אמת עונה 8 | פרק 16 - המירוץ לצדק לגיא",
@@ -1000,6 +1000,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "חוקי מדבר",
+          "ShortDescriptionLine1": "Desert laws",
+          "ShortDescriptionLine2": "2025-01-11 20:05:09",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6p17hxxp/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6p17hxxp/a.m3u8"
+          ],
+          "StreamerId": "1_6p17hxxp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-772899/772903",
+          "Date": "2025-01-11 20:05:09"
+        },
+        {
           "Title": "פגישה עם רוני קובן עונה 9 | פרק 12 - ישי ריבו",
           "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 9 | Chapter 12 - Yishai Rivo",
           "ShortDescriptionLine2": "2025-01-11 19:30:26",
@@ -1226,18 +1238,6 @@
           "StreamerId": "1_bhy82onq",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/843892",
           "Date": "2025-01-07 20:26:48"
-        },
-        {
-          "Title": "נועה מנור בסטנד-אפ | אודישן",
-          "ShortDescriptionLine1": "Noa Manor in stand-up Audition",
-          "ShortDescriptionLine2": "2025-01-07 20:26:33",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0q8ydims/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0q8ydims/a.m3u8"
-          ],
-          "StreamerId": "1_0q8ydims",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/843911",
-          "Date": "2025-01-07 20:26:33"
         }
       ]
     },
@@ -1836,19 +1836,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 11.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 11.01.25",
+          "Poster": "https://img.mako.co.il/2025/01/11/Hadshot_Sof_Hashavua_110125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20468550/20468550_noAdds/20468550_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20468550/20468550_noAdds/20468550_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4f1126c79b034910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-4f1126c79b03491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The preparation for the possibility of a confrontation with Turkey",
           "Date": "2025-01-11T19:54:45+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 11.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 11.01.25"
         },
         {
           "Title": "שבת בחמש: 11.01.25",
@@ -2141,6 +2140,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 11.01.25",
+          "StreamerId": "6366965596112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bb2a35ca-7f9f-4591-83e3-410602d4037f/19f95f64-a6de-4fe7-bfce-94241c5ca60f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366965596112",
+          "Date": "2025-01-11T19:56:48Z",
+          "ShortDescriptionLine1": "The main edition 11.01.25",
+          "ShortDescriptionLine2": "2025-01-11T19:56:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bb2a35ca-7f9f-4591-83e3-410602d4037f/10s/master.m3u8?fastly_token=NjdhN2Q4NWZfZmI0OTI5YjNjNjY1MjU2ZDEwNWFhY2ExZjZlY2QwODEwMDY4ODFjYzNlZTE2YTUzNTk2ZDM0ZWM2NGIwMzI5Mg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 11.01.25",
           "StreamerId": "6366963069112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/382b2420-4767-4d25-bc27-be7abd84c711/ee31d5f8-4fcf-4bc6-9b6a-198c304cb946/320x180/match/image.jpg",
@@ -2294,18 +2305,6 @@
           "ShortDescriptionLine2": "2025-01-08T20:49:36Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a011e77d-c7a6-4779-8f21-fdc4390ded63/10s/master.m3u8?fastly_token=NjdhM2U4NmRfYjczZThiMTg4NTAxZmFiZDUxNzhkZjllMWY3MDg1NDdhYWI0M2E3OGZjZmMyMGRkNzNkNmQ3ZDc4OTUxYzgyZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 08.01.25",
-          "StreamerId": "6366829278112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c8b071c2-7d11-4911-8598-1c299541ed4e/44100c7a-5881-44b4-b5bf-c990f570ca34/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366829278112",
-          "Date": "2025-01-08T19:49:03Z",
-          "ShortDescriptionLine1": "The main edition 08.01.25",
-          "ShortDescriptionLine2": "2025-01-08T19:49:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c8b071c2-7d11-4911-8598-1c299541ed4e/10s/master.m3u8?fastly_token=NjdhM2U0NjhfZGM3MjI1YmM3NTBlM2I3NTRmMTA5MzIwMTIwY2ZjNmZkZmFhMmU5ODc1Y2M5ZGU0MDJiNzZkZmZjNWY3Yjg2ZQ%3D%3D"
           ]
         },
         {
