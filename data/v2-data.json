@@ -1836,30 +1836,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 14.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 14.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "5ff726c79b034910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-5ff726c79b03491026.htm",
+          "ShortDescriptionLine2": "Fatal hours on the way to a deal",
+          "Date": "2025-01-14T19:53:58+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 14.01.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 14.01.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468633/20468633_noAdds/20468633_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468633/20468633_noAdds/20468633_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "4f78993cd0234910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-4f78993cd023491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-14T18:58:52+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 14.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 14.01.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 14.01.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/14/Shesh_140125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468631/20468631_noAdds/20468631_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468631/20468631_noAdds/20468631_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_140125_VOD_ab12ab12/Shesh_140125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_140125_VOD_ab12ab12/Shesh_140125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "8f09c62f0f134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-8f09c62f0f13491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-8f09c62f0f13491026.htm",
+          "ShortDescriptionLine2": "The approval of the deal and the political crisis",
           "Date": "2025-01-14T17:56:00+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 14.01.25"
@@ -1891,20 +1905,6 @@
           "Date": "2025-01-14T15:00:22+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 14.01.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 13.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/13/Mahadura_Merkazit_130125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_130125_VOD_dosa44/Mahadura_Merkazit_130125_VOD_dosa44_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_130125_VOD_dosa44/Mahadura_Merkazit_130125_VOD_dosa44_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f4d726c79b034910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-f4d726c79b03491026.htm",
-          "ShortDescriptionLine2": "The initial investigation into the serious incident at Beit Hanon",
-          "Date": "2025-01-13T19:54:22+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 13.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 11.01.25",
@@ -2141,6 +2141,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת 14.01.25",
+          "StreamerId": "6367088565112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7bfc4549-8e0e-4e2e-8204-a3bb5782aa2a/2bd0c05c-c4b2-4c85-9961-791b82f2533a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367088565112",
+          "Date": "2025-01-14T17:58:06Z",
+          "ShortDescriptionLine1": "The early edition 14.01.25",
+          "ShortDescriptionLine2": "2025-01-14T17:58:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7bfc4549-8e0e-4e2e-8204-a3bb5782aa2a/10s/master.m3u8?fastly_token=NjdhYmEyZDRfNjM0M2UyNjk0OTZmYTY3MDk0ODk2ZGZiZjBiYTRjNmUyMjQyOTU5MTRjODc1ZWE5NjBjODA4MmVhN2Q1NmJkMA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 14.01.25",
           "StreamerId": "6367088027112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/97b536a5-6b74-4c08-85f1-2f1e7f2f2439/8b9fa0cc-8e44-4867-b644-d046f7a3cb3d/320x180/match/image.jpg",
@@ -2318,18 +2330,6 @@
           "ShortDescriptionLine2": "2025-01-12T19:41:31Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/768763f5-d5d8-4c5d-aa53-b86cd5d576f8/10s/master.m3u8?fastly_token=NjdhOTI0YjBfY2JkOGFjZDM3NDIyZjI5NWY1YjQ3YWE1ZTg1NjcwOGZjNGI4MTcwNzY5NjM1NGVlM2E3NDNhYzI1ZGUxOTc5OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת - 12.01.25",
-          "StreamerId": "6366999538112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2f2f2594-b6fa-4737-9c94-b5d210f0d80f/a23865b4-15f5-4e5d-82d6-14d580463a47/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366999538112",
-          "Date": "2025-01-12T19:37:09Z",
-          "ShortDescriptionLine1": "The early edition - 12.01.25",
-          "ShortDescriptionLine2": "2025-01-12T19:37:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2f2f2594-b6fa-4737-9c94-b5d210f0d80f/10s/master.m3u8?fastly_token=NjdhOTFiNDlfMGZlYTliNWQ5M2MyOTEyMGQ2YjBjMzM4MDRhNzhhYjNhNWM4NDJlNzMxZWViMGMwZWI4MTU4MWE1ZmY5ZDQzOQ%3D%3D"
           ]
         },
         {
