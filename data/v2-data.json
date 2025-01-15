@@ -1839,15 +1839,15 @@
           "Title": "המהדורה המרכזית: 15.01.25",
           "Poster": "https://img.mako.co.il/2025/01/15/Mahadura_Merkazit_150125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468666/20468666_noAdds/20468666_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468666/20468666_noAdds/20468666_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_150125_VOD_sdz456/Mahadura_Merkazit_150125_VOD_sdz456_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_150125_VOD_sdz456/Mahadura_Merkazit_150125_VOD_sdz456_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "2928344680134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-292834468013491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-292834468013491026.htm",
           "ShortDescriptionLine2": "There's a deal: special edition",
           "Date": "2025-01-15T19:54:12+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "The main edition: 15.01.25"
+          "ShortDescriptionLine1": "The main release: 15.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 15.01.25",
@@ -1995,19 +1995,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: מהדורה מיוחדת [live]",
+          "Title": "ארץ נהדרת: מהדורה מיוחדת",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20468667/20468667_noAdds/20468667_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20468667/20468667_noAdds/20468667_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ea490aa772964910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-ea490aa77296491026.htm",
           "ShortDescriptionLine2": "A special program for the dramatic events",
           "Date": "2025-01-15T21:51:50+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Eretz Nehederet: Special Edition [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: Special Edition"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות והמגעים לעסקה",
@@ -2140,6 +2139,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 15.01.24",
+          "StreamerId": "6367142547112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cf8eb672-b535-46e2-8c59-0ac3265a8397/b6a69c14-9788-471b-8161-0a4b112548c3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367142547112",
+          "Date": "2025-01-15T20:45:29Z",
+          "ShortDescriptionLine1": "The main edition 15.01.24",
+          "ShortDescriptionLine2": "2025-01-15T20:45:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cf8eb672-b535-46e2-8c59-0ac3265a8397/10s/master.m3u8?fastly_token=NjdhZDMyOWZfMjNiNWQwZTFhNGEzYjQwYTYyMTk2NzIxM2NmZjg2MGI5NTViYzgzOWVkODk4MmEyMDY1NzgwNjhhNmJjOGRmYg%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המוקדמת 15.01.25",
           "StreamerId": "6367135593112",
@@ -2354,18 +2365,6 @@
           "ShortDescriptionLine2": "2025-01-12T21:16:05Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9fc18250-274b-4c1e-82fe-a9aaff25efbe/10s/master.m3u8?fastly_token=NjdhOTM2ZDdfOWNjYjg0NWEyYWZkOTZkMjEyM2UxZjAyODQyNDRhOGZhYTg5ZDE2YzkzZjdhM2I0NzUzNjZkNzIxN2VmYjA0NQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - 12.01.25",
-          "StreamerId": "6367000830112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/768763f5-d5d8-4c5d-aa53-b86cd5d576f8/6f695c1f-35cd-4220-b149-2793e95d08e4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367000830112",
-          "Date": "2025-01-12T19:41:31Z",
-          "ShortDescriptionLine1": "The main edition - 12.01.25",
-          "ShortDescriptionLine2": "2025-01-12T19:41:31Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/768763f5-d5d8-4c5d-aa53-b86cd5d576f8/10s/master.m3u8?fastly_token=NjdhOTI0YjBfY2JkOGFjZDM3NDIyZjI5NWY1YjQ3YWE1ZTg1NjcwOGZjNGI4MTcwNzY5NjM1NGVlM2E3NDNhYzI1ZGUxOTc5OQ%3D%3D"
           ]
         },
         {
