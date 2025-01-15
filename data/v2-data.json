@@ -1836,30 +1836,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 15.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 15.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "2928344680134910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-292834468013491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-15T19:54:12+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 15.01.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 15.01.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468664/20468664_noAdds/20468664_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468664/20468664_noAdds/20468664_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "5bc8993cd0234910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-5bc8993cd023491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-15T18:59:14+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 15.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 15.01.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 15.01.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/15/Shesh_150125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468663/20468663_noAdds/20468663_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468663/20468663_noAdds/20468663_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_150125_VOD_csd135/Shesh_150125_VOD_csd135_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_150125_VOD_csd135/Shesh_150125_VOD_csd135_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e649c62f0f134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-e649c62f0f13491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-e649c62f0f13491026.htm",
+          "ShortDescriptionLine2": "Simona is waiting for her daughter Doron to return from captivity",
           "Date": "2025-01-15T17:55:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 15.01.25"
@@ -1891,20 +1905,6 @@
           "Date": "2025-01-15T15:00:35+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 15.01.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 14.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/14/Mahadura_Merkazit_140125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_140125_VOD_dosa87/Mahadura_Merkazit_140125_VOD_dosa87_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_140125_VOD_dosa87/Mahadura_Merkazit_140125_VOD_dosa87_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5ff726c79b034910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-5ff726c79b03491026.htm",
-          "ShortDescriptionLine2": "Fatal hours on the way to a deal",
-          "Date": "2025-01-14T19:53:58+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 14.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 11.01.25",
@@ -2141,6 +2141,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת 15.01.25",
+          "StreamerId": "6367135593112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ac0fb8f7-624c-446a-b81d-5be2aedf6546/e0bc5c2b-237a-4f94-a9c3-0bd343d5fb8a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367135593112",
+          "Date": "2025-01-15T17:57:31Z",
+          "ShortDescriptionLine1": "The early edition 15.01.25",
+          "ShortDescriptionLine2": "2025-01-15T17:57:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ac0fb8f7-624c-446a-b81d-5be2aedf6546/10s/master.m3u8?fastly_token=NjdhY2Y1MDZfYmE4OGEwOGVmNTI2YjUwY2FjODhhYjgxYmFkMmRlYWQ5MDRiMDZlODUwZTM4Mjc2MzQ2NjUzYjUwZGU3Yzc2Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 15.01.25",
           "StreamerId": "6367134855112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3aac480-f1e4-44a4-afef-ea5069c0f0db/870f8b04-70d1-4a74-b813-9170727550cc/320x180/match/image.jpg",
@@ -2306,18 +2318,6 @@
           "ShortDescriptionLine2": "2025-01-13T20:37:03Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b6489cfa-472c-4cbc-91be-7a140180972d/10s/master.m3u8?fastly_token=NjdhYTdkM2NfNmUzZWFhMWMzY2M4MDU5OTE1Yzk1ZTg3ZmZjMWUwOTZjYTIzZDgxMGIzN2Y4NTkyZWI1NmU2N2IyOTUzMjdhMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 13.01.25",
-          "StreamerId": "6367040439112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f0b3b27d-285a-4367-b957-6e7b4b597905/2e3bdf0e-e513-4011-a4e2-157f431b20c0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367040439112",
-          "Date": "2025-01-13T17:56:42Z",
-          "ShortDescriptionLine1": "The early edition 13.01.25",
-          "ShortDescriptionLine2": "2025-01-13T17:56:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f0b3b27d-285a-4367-b957-6e7b4b597905/10s/master.m3u8?fastly_token=NjdhYTU0MzdfNjYzM2M1ZDQwNmFlOTgyNTE2ZmFmZDJlNmIwZjlkZjAzNzYyMDgwM2VkNTNiNDFjOGYwNjUyZGQ0M2ZmYjU4Mw%3D%3D"
           ]
         },
         {
