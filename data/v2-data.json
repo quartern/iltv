@@ -1836,30 +1836,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 16.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 16.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "7158344680134910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-715834468013491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-16T19:54:25+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 16.01.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 16.01.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468694/20468694_noAdds/20468694_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20468694/20468694_noAdds/20468694_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "15f8993cd0234910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-15f8993cd023491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-16T18:58:21+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 16.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 16.01.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 16.01.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/16/Shesh_160125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468693/20468693_noAdds/20468693_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468693/20468693_noAdds/20468693_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_160125_VOD_axl618/Shesh_160125_VOD_axl618_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_160125_VOD_axl618/Shesh_160125_VOD_axl618_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e579c62f0f134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-e579c62f0f13491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-e579c62f0f13491026.htm",
+          "ShortDescriptionLine2": "An interview with the family members of Itzik Elgert",
           "Date": "2025-01-16T17:56:11+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 16.01.25"
@@ -1891,20 +1905,6 @@
           "Date": "2025-01-16T15:00:23+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 16.01.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 15.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/15/Mahadura_Merkazit_150125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_150125_VOD_sdz456/Mahadura_Merkazit_150125_VOD_sdz456_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_150125_VOD_sdz456/Mahadura_Merkazit_150125_VOD_sdz456_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "2928344680134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-292834468013491026.htm",
-          "ShortDescriptionLine2": "There's a deal: special edition",
-          "Date": "2025-01-15T19:54:12+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main release: 15.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 11.01.25",
