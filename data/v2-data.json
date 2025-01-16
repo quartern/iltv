@@ -1836,19 +1836,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 16.01.25 [live]",
+          "Title": "המהדורה המרכזית: 16.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468696/20468696_noAdds/20468696_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468696/20468696_noAdds/20468696_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "7158344680134910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-715834468013491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-16T19:54:25+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 16.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 16.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 16.01.25",
@@ -1996,6 +1995,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "עובדה: כולם בשביל אחד [live]",
+          "Poster": "https://img.mako.co.il/2024/09/25/Ovda2025_01_x5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "cc7389ca1ee64910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-cc7389ca1ee6491026.htm",
+          "ShortDescriptionLine2": "The teammates who decided to help the father who was left alone",
+          "Date": "2025-01-16T21:37:19+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Uvda: All for one [live]"
+        },
+        {
           "Title": "נסלי ויואב: עסקת החטופים",
           "Poster": "https://img.mako.co.il/2025/01/16/Nesli_Yoav_160125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2120,20 +2134,6 @@
           "Date": "2024-11-13T21:35:55+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Uvda: The hunt in Lebanon"
-        },
-        {
-          "Title": "עובדה: \"הקופסא השחורה\" של בארי",
-          "Poster": "https://img.mako.co.il/2024/09/26/Uvda2024_02_260924_vod_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/uvda/2024/EP/Uvda2024_02_260924_vod_arc329/Uvda2024_02_260924_vod_arc329_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/uvda/2024/EP/Uvda2024_02_260924_vod_arc329/Uvda2024_02_260924_vod_arc329_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "55bec79417902910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-55bec7941790291026.htm",
-          "ShortDescriptionLine2": "The documentation that has not been revealed until now about Kibbutz Bari",
-          "Date": "2024-09-26T21:34:44+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: Barry's \"black box\"."
         }
       ]
     },
