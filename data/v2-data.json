@@ -1836,6 +1836,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת: 16.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "15f8993cd0234910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-15f8993cd023491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-16T18:58:21+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 16.01.25 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 16.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1890,20 +1905,6 @@
           "Date": "2025-01-15T19:54:12+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main release: 15.01.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 15.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/15/Mahadura_Mukdemet_150125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_150125_VOD_ab12ab12/Mahadura_Mukdemet_150125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_150125_VOD_ab12ab12/Mahadura_Mukdemet_150125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5bc8993cd0234910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-5bc8993cd023491026.htm",
-          "ShortDescriptionLine2": "Special Broadcaster: A hostage deal has been reached",
-          "Date": "2025-01-15T18:59:14+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 15.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 11.01.25",
@@ -2140,6 +2141,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 16.01.25",
+          "StreamerId": "6367184084112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/38359974-d7a7-458f-8172-0f8bcbac5ee1/dac7f21c-34df-445b-bd8d-42af38deef4a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367184084112",
+          "Date": "2025-01-16T17:06:14Z",
+          "ShortDescriptionLine1": "Five edition 16.01.25",
+          "ShortDescriptionLine2": "2025-01-16T17:06:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/38359974-d7a7-458f-8172-0f8bcbac5ee1/10s/master.m3u8?fastly_token=NjdhZTRmNmVfMTc1MmRlNWE1NTNiMmY1ZDc0Y2Q1YTZjY2RkY2JhYWIxZGIxOWZiMTQzNjM1ODVhODQ3NmNjYTI0ZmUzNzYxZg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 16.01.25 ",
           "StreamerId": "6367178615112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6dc37df7-fb4d-4ab4-9c00-322e3bdd41fb/fcbac07c-81f2-4b19-bb0d-602077fe77c2/320x180/match/image.jpg",
@@ -2353,18 +2366,6 @@
           "ShortDescriptionLine2": "2025-01-13T20:37:03Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b6489cfa-472c-4cbc-91be-7a140180972d/10s/master.m3u8?fastly_token=NjdhYTdkM2NfNmUzZWFhMWMzY2M4MDU5OTE1Yzk1ZTg3ZmZjMWUwOTZjYTIzZDgxMGIzN2Y4NTkyZWI1NmU2N2IyOTUzMjdhMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 13.01.25",
-          "StreamerId": "6367035400112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e57c2219-c289-4f81-af91-467b8aa6086d/19117fee-b01c-4cef-a61e-60b60f6aaad4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367035400112",
-          "Date": "2025-01-13T16:02:26Z",
-          "ShortDescriptionLine1": "Five edition 13.01.25",
-          "ShortDescriptionLine2": "2025-01-13T16:02:26Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e57c2219-c289-4f81-af91-467b8aa6086d/10s/master.m3u8?fastly_token=NjdhYTNjZWNfYzNlYTBjY2QxZjIxYjE1Y2JiNjQxOWMyY2ZkMTM5OTFlMWZiZDUxMzM0YWVmNmMwOThjZjEzODg0Yjk4ZmRhNw%3D%3D"
           ]
         },
         {
