@@ -464,6 +464,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שישי | 17.01.25",
+          "ShortDescriptionLine1": "Friday News Edition",
+          "ShortDescriptionLine2": "2025-01-17 20:40:15",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nyhy290y/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_nyhy290y/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_nyhy290y",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/848588",
+          "Date": "2025-01-17 20:40:15"
+        },
+        {
           "Title": "חדשות הלילה | 16.01.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-01-16 21:54:11",
@@ -558,18 +570,6 @@
           "StreamerId": "1_b97ffpca",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/845988",
           "Date": "2025-01-11 20:05:41"
-        },
-        {
-          "Title": "חדשות שישי | 10.01.25",
-          "ShortDescriptionLine1": "Friday News Edition",
-          "ShortDescriptionLine2": "2025-01-10 21:54:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_irjcmdom/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_irjcmdom/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_irjcmdom",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/845698",
-          "Date": "2025-01-10 21:54:23"
         },
         {
           "Title": "זמן אמת עונה 8 | פרק 16 - המירוץ לצדק לגיא",
@@ -1836,19 +1836,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 17.01.25 [live]",
+          "Title": "אולפן שישי: 17.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/20468734/20468734_noAdds/20468734_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/20468734/20468734_noAdds/20468734_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "30fd47531ec24910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/db485b6053ee3910/VOD-30fd47531ec2491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The complete captivity diary of Noa Argamani",
           "Date": "2025-01-17T19:56:13+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Studio Friday: 17.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Studio Friday: 17.01.25"
         },
         {
           "Title": "המהדורה המרכזית: 16.01.25",
@@ -1999,11 +1998,11 @@
           "Title": "אופירה ולוינסון: לקראת עסקת החטופים",
           "Poster": "https://img.mako.co.il/2025/01/17/Ofira_Levinson_170125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/20468733/20468733_noAdds/20468733_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/20468733/20468733_noAdds/20468733_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/ofira_levinson/2025/January/Ofira_Levinson_170125_VOD_ab12ab12/Ofira_Levinson_170125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/ofira_levinson/2025/January/Ofira_Levinson_170125_VOD_ab12ab12/Ofira_Levinson_170125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4ccb958140a64910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-4ccb958140a6491027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_levinson-2025/VOD-4ccb958140a6491027.htm",
           "ShortDescriptionLine2": "Towards the first stage in the kidnapping deal",
           "Date": "2025-01-17T18:00:20+02:00",
           "Live": false,
@@ -2140,6 +2139,30 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "קבינט שישי 17.1.24",
+          "StreamerId": "6367255639112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5cf092f1-250e-4fab-a5b8-19666156012e/e76aae0d-9034-4520-9348-3162b5608e90/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367255639112",
+          "Date": "2025-01-17T20:19:12Z",
+          "ShortDescriptionLine1": "Cabinet Friday 17.1.24",
+          "ShortDescriptionLine2": "2025-01-17T20:19:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5cf092f1-250e-4fab-a5b8-19666156012e/10s/master.m3u8?fastly_token=NjdhZmNlNWZfYjcwYTIxYzdkNjgxYTY5OTk5ZmM1NDhkNDllNDM4MDU1ZDNmZDczOTFhYmFhNjAwY2MwZTY4NWIzMzY2NzEyMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "קבינט שישי 17.1.24",
+          "StreamerId": "6367255235112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/69db8818-ef9a-47b1-8bea-94bcab4dd17e/41a4e286-2fb1-4e0e-b475-3b2bc7be450b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367255235112",
+          "Date": "2025-01-17T20:09:48Z",
+          "ShortDescriptionLine1": "Cabinet Friday 17.1.24",
+          "ShortDescriptionLine2": "2025-01-17T20:09:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/69db8818-ef9a-47b1-8bea-94bcab4dd17e/10s/master.m3u8?fastly_token=NjdhZmNjY2RfYTJiZTY3MzIxMjdkNGVlOWEzOWU2ZGRjYTc3Y2EyNTFkOTFiMTM4MDZiYzY2Yzk3MGZiY2UxYWQ0ZDFlOWY2YQ%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המוקדמת 17.1.25",
           "StreamerId": "6367243168112",
@@ -2390,30 +2413,6 @@
           "ShortDescriptionLine2": "2025-01-11T20:36:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/eec8f870-63dc-46bb-93ee-9c9e0c4ee5e5/10s/master.m3u8?fastly_token=NjdhN2Q2OTNfNjRiNjMzZWRlNzNiY2YxM2MwZGVmZTM0N2E1NTFhNWFjNDkxNzAzN2UwMmUwOGJkMjhhYmU5OWE1ZTlmOWZlZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי חלק ב' 10.01.25",
-          "StreamerId": "6366925158112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b46ad3ff-bd88-4b49-b12a-aa2c1ed9b8fa/ed5e326d-01e6-49d1-acd3-bf9505785da8/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366925158112",
-          "Date": "2025-01-10T20:15:38Z",
-          "ShortDescriptionLine1": "Sixth cabinet part 2 10.01.25",
-          "ShortDescriptionLine2": "2025-01-10T20:15:38Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b46ad3ff-bd88-4b49-b12a-aa2c1ed9b8fa/10s/master.m3u8?fastly_token=NjdhNjdkY2JfMjg0YjEzYjFlMTRhZjFjZDgyMWZiOGM2NzJjODBjNzlkZWFlMzkzNWUyYjUzNjBlMTcxYTUxZjI1NDk1ZThkYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי חלק א' 10.01.25",
-          "StreamerId": "6366925352112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3f8e13ea-7ab4-473c-a8ed-8c3ffdb30d99/7ad1f0fd-c1ff-4cc1-9a0e-e8d68cd6f35e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6366925352112",
-          "Date": "2025-01-10T20:14:02Z",
-          "ShortDescriptionLine1": "Sixth Cabinet Part I 10.01.25",
-          "ShortDescriptionLine2": "2025-01-10T20:14:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3f8e13ea-7ab4-473c-a8ed-8c3ffdb30d99/10s/master.m3u8?fastly_token=NjdhNjg5NjFfNDk5MDU2ODg3YWQ5YTg4YmQ1YzFjNmUxOTZmMDQyYTczMGRkNTAwMzE3MGZkYWE3YWNiNTZjZjBmYzNmMjA3ZA%3D%3D"
           ]
         },
         {
