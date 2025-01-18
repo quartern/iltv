@@ -1000,6 +1000,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "מה שתגידו עונה 4 | פרק 18 - 18.01.25",
+          "ShortDescriptionLine1": "Whatever you say season 4 | Chapter 18 - 18.01.25",
+          "ShortDescriptionLine2": "2025-01-18 19:36:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_231nzcp0/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_231nzcp0/a.m3u8"
+          ],
+          "StreamerId": "1_231nzcp0",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/848124",
+          "Date": "2025-01-18 19:36:24"
+        },
+        {
           "Title": "שאלון קצר קצר עם אבי נוסבאום",
           "ShortDescriptionLine1": "A short short questionnaire with Avi Nussbaum",
           "ShortDescriptionLine2": "2025-01-17 21:01:21",
@@ -1226,18 +1238,6 @@
           "StreamerId": "1_7ji62j8u",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812149",
           "Date": "2025-01-14 20:02:37"
-        },
-        {
-          "Title": "קופה ראשית עונה 5 | פרק 10 - הטיפ של ראמזי",
-          "ShortDescriptionLine1": "KupaRashit (checkout) season 5 | Chapter 10 - Ramsay's tip",
-          "ShortDescriptionLine2": "2025-01-14 19:31:34",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_obykbxe5/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_obykbxe5/a.m3u8"
-          ],
-          "StreamerId": "1_obykbxe5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809173",
-          "Date": "2025-01-14 19:31:34"
         }
       ]
     },
@@ -1836,19 +1836,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 18.01.25 [live]",
+          "Title": "חדשות סוף השבוע: 18.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20468749/20468749_noAdds/20468749_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20468749/20468749_noAdds/20468749_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "856126c79b034910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-856126c79b03491026.htm",
           "ShortDescriptionLine2": "All the updates from the delay in transferring the list of abductees",
           "Date": "2025-01-18T19:54:20+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 18.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 18.01.25"
         },
         {
           "Title": "שבת בחמש: 18.01.25",
