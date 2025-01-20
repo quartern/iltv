@@ -1837,19 +1837,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 20.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 20.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "1dbc6dbb1bf64910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-1dbc6dbb1bf6491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-20T16:55:40+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 20.01.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 20.01.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20468796/20468796_noAdds/20468796_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20468796/20468796_noAdds/20468796_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "a1aa18098af64910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-a1aa18098af6491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-20T14:59:46+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 20.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 20.01.25"
         },
         {
           "Title": "המהדורה המרכזית: 19.01.25",
@@ -1948,20 +1962,6 @@
           "Date": "2025-01-16T17:56:11+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 16.01.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 16.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/16/Hamesh_160125_VOD_vkf432_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_160125_VOD_vkf876/Hamesh_160125_VOD_vkf876_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_160125_VOD_vkf876/Hamesh_160125_VOD_vkf876_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b0b7344680134910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-b0b734468013491026.htm",
-          "ShortDescriptionLine2": "Approval of the deal - and the crisis with Smotrich",
-          "Date": "2025-01-16T16:55:05+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 16.01.25"
         },
         {
           "Title": "פגוש את העיתונות: 11.01.25",
