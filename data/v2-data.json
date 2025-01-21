@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 21.01.25 - התכנית המלאה",
+          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_yxd7agag",
+          "Date": "2025-01-21 18:40:32",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/t9mnk-904428538/",
+          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine2": "2025-01-21 18:40:32",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_yxd7agag/flavorIds/1_kb0rktyr,1_z7r783bx,1_xw6m09rf,1_mr93uk0o,1_t25zu3dr,1_s7xva6jx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 21.01.25 - התכנית המלאה",
           "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1733147989/uploads/2024/904361797.jpg",
           "StreamerId": "1_dxc2te4i",
@@ -683,18 +695,6 @@
           "ShortDescriptionLine2": "2025-01-16 21:49:03",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_54l7qr9k/flavorIds/1_40u9633y,1_2cuczf6p,1_mrvnn9xs,1_f6plo5ba,1_74k46q78,1_d8b83cgy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 16.01.25 - התכנית המלאה",
-          "Poster": "https://media.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_h1l7qn1z",
-          "Date": "2025-01-16 18:49:01",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/tp9a0-904422058/",
-          "ShortDescriptionLine1": "Todays Talk",
-          "ShortDescriptionLine2": "2025-01-16 18:49:01",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_h1l7qn1z/flavorIds/1_978vuv3r,1_xtewukrh,1_jq44tt11,1_4dmlkp1z,1_2s7lv9uh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1837,29 +1837,43 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 21.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 21.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d3uk3m7y9dycog.cloudfront.net/k12dvr/index.m3u8?b-in-range=0-800?rv=aws"
           ],
+          "StreamerId": "011684fa56d74910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-011684fa56d7491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-21T18:58:12+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 21.01.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 21.01.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20468828/20468828_noAdds/20468828_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20468828/20468828_noAdds/20468828_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "aaa64510ea874910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-aaa64510ea87491027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-21T17:55:55+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.21.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.21.25"
         },
         {
           "Title": "חמש עם רפי רשף: 21.01.25",
           "Poster": "https://img.mako.co.il/2025/01/21/Hamesh_210125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20468827/20468827_noAdds/20468827_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20468827/20468827_noAdds/20468827_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_210125_VOD_fd14d5/Hamesh_210125_VOD_fd14d5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_210125_VOD_fd14d5/Hamesh_210125_VOD_fd14d5_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "5f1d6dbb1bf64910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-5f1d6dbb1bf6491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-5f1d6dbb1bf6491026.htm",
           "ShortDescriptionLine2": "A shakeup in the IDF: the Chief of Staff announced his resignation",
           "Date": "2025-01-21T16:55:45+02:00",
           "Live": false,
@@ -1948,20 +1962,6 @@
           "Date": "2025-01-17T19:56:13+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Studio Friday: 17.01.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 16.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/16/Mahadura_Mukdemet_160125_VOD_vfr345_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_160125_VOD_frk345/Mahadura_Mukdemet_160125_VOD_frk345_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_160125_VOD_frk345/Mahadura_Mukdemet_160125_VOD_frk345_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "15f8993cd0234910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-15f8993cd023491026.htm",
-          "ShortDescriptionLine2": "The crisis is resolved - the cabinet will meet tomorrow",
-          "Date": "2025-01-16T18:58:21+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 16.01.25"
         },
         {
           "Title": "פגוש את העיתונות: 11.01.25",
