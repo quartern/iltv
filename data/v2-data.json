@@ -989,6 +989,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "קופה ראשית עונה 5 | פרק 11 - הקללה של שירה",
+          "ShortDescriptionLine1": "KupaRashit (checkout) Season 5 | Chapter 11 - The curse of poetry",
+          "ShortDescriptionLine2": "2025-01-21 19:59:30",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_zxfko38u/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_zxfko38u/a.m3u8"
+          ],
+          "StreamerId": "1_zxfko38u",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809175",
+          "Date": "2025-01-21 19:59:30"
+        },
+        {
           "Title": "בואו לאכול איתי - ערבית | פרק 13 - הצפון, הערב של מנאל",
           "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 13 - The North, the evening of Manal",
           "ShortDescriptionLine2": "2025-01-21 18:10:57",
@@ -1215,18 +1227,6 @@
           "StreamerId": "1_lj2n6g5x",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-794147/s1/794169",
           "Date": "2025-01-15 09:56:25"
-        },
-        {
-          "Title": "קארפול קריוקי עונה 4 | פרק 6 - זהבה בן",
-          "ShortDescriptionLine1": "Carpool Karaoke Season 4 | Chapter 6 - Golden Ben",
-          "ShortDescriptionLine2": "2025-01-14 20:31:48",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_n7muxm9t/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_n7muxm9t/a.m3u8"
-          ],
-          "StreamerId": "1_n7muxm9t",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/846643",
-          "Date": "2025-01-14 20:31:48"
         }
       ]
     },
@@ -1825,19 +1825,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 21.01.25 [live]",
+          "Title": "המהדורה המרכזית: 21.01.25",
           "Poster": "https://img.mako.co.il/2025/01/21/Mahadura_Merkazit_210125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468831/20468831_noAdds/20468831_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468831/20468831_noAdds/20468831_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "73ae1082e7d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-73ae1082e7d7491026.htm",
           "ShortDescriptionLine2": "Disclosure: The difficult conversation between the Defense Minister and the Chief of Staff",
           "Date": "2025-01-21T19:54:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 21.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 21.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 21.01.25",
