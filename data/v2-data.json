@@ -1984,19 +1984,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: היחידה למלחמה [live]",
+          "Title": "עובדה: היחידה למלחמה",
           "Poster": "https://img.mako.co.il/2025/01/23/Ovda_230125_08_Poster_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20468893/20468893_noAdds/20468893_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20468893/20468893_noAdds/20468893_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "80c4851a94294910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-80c4851a9429491027.htm",
           "ShortDescriptionLine2": "The Navy fighters open up about everything that happened on 7.10",
           "Date": "2025-01-23T21:30:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Uvda: the unit for war [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Uvda: the unit for war"
         },
         {
           "Title": "נסלי ויואב: לקראת השלב הבא בעסקה",
