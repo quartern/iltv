@@ -1837,19 +1837,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 23.01.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 23.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "597d6dbb1bf64910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-597d6dbb1bf6491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-23T16:55:52+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 23.01.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 23.01.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20468887/20468887_noAdds/20468887_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20468887/20468887_noAdds/20468887_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "cd2b18098af64910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-cd2b18098af6491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-23T15:00:07+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 23.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 23.01.25"
         },
         {
           "Title": "המהדורה המרכזית: 22.01.25",
@@ -1892,20 +1906,6 @@
           "Date": "2025-01-22T17:55:17+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.22.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 22.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/22/Hamesh_220125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_220125_VOD_ab12ab12/Hamesh_220125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_220125_VOD_ab12ab12/Hamesh_220125_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "cc4d6dbb1bf64910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-cc4d6dbb1bf6491026.htm",
-          "ShortDescriptionLine2": "The attack in Tel Aviv, the terrorist from abroad and the question marks",
-          "Date": "2025-01-22T16:55:20+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 22.01.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.01.25",
@@ -2142,6 +2142,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 23.01.25 ",
+          "StreamerId": "6367563171112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/727f40f4-7650-4198-be5e-b7dd55a8d146/fe4b33cf-8f11-4bf9-9dd7-726021699d66/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367563171112",
+          "Date": "2025-01-23T14:56:44Z",
+          "ShortDescriptionLine1": "15th edition 01.23.25",
+          "ShortDescriptionLine2": "2025-01-23T14:56:44Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/727f40f4-7650-4198-be5e-b7dd55a8d146/10s/master.m3u8?fastly_token=NjdiNzZhMzVfZTFiNzBkNzQwZjJjOTI1NzE2OTVkMzY2MDQxYWIyZDZkNjQyYzFkNWViOWJjNDFlNDRlYmQzY2ZhYWVhNTZmOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים חלק ב' 23.01.25",
           "StreamerId": "6367558095112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/099302ee-e261-4820-ab79-b2742269914f/b2bd308f-b71f-47da-9b03-02100af816e2/320x180/match/image.jpg",
@@ -2331,18 +2343,6 @@
           "ShortDescriptionLine2": "2025-01-21T15:58:42Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/47ad6b07-a608-489b-a872-6c9322b6d490/10s/master.m3u8?fastly_token=NjdiNGM4MTdfYTNjNzFmODQyY2NjMmJmN2RiYjIwNWFiNThiZmFkY2E0ZTAzODU1NmJiM2E2YzYxZmNlODEzNGI4YTE4MWNmZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 21.01.25",
-          "StreamerId": "6367447185112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ac26ea2d-f6b5-40e6-a8c3-76fb882a819f/03284bcd-cf51-4fb6-a639-13cb9f18742b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367447185112",
-          "Date": "2025-01-21T14:59:17Z",
-          "ShortDescriptionLine1": "15th edition 01.21.25",
-          "ShortDescriptionLine2": "2025-01-21T14:59:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ac26ea2d-f6b5-40e6-a8c3-76fb882a819f/10s/master.m3u8?fastly_token=NjdiNGM3ZjZfZDljZGU2M2FkNjEwZGEwYTdkMDQ2MzRkMTU4OWI2ZTZhNWRmYjRmMjlhODE0MDU5NzJjMDRkZWJjNDcyYWI5MA%3D%3D"
           ]
         },
         {
