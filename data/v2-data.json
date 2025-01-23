@@ -989,6 +989,30 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בואו לאכול איתי - ערבית | פרק 15 - הצפון, הערב של אמל",
+          "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 15 - The North, Amal's evening",
+          "ShortDescriptionLine2": "2025-01-23 19:35:22",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_dgr39g4m/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_dgr39g4m/a.m3u8"
+          ],
+          "StreamerId": "1_dgr39g4m",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s100/843134",
+          "Date": "2025-01-23 19:35:22"
+        },
+        {
+          "Title": "פגישה עם רוני קובן עונה 9 | פרק 14 - יאיר גולן",
+          "ShortDescriptionLine1": "A meeting with Ronnie Cuban season 9 | Chapter 14 - Yair Golan",
+          "ShortDescriptionLine2": "2025-01-23 19:32:17",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nxlx2iph/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nxlx2iph/a.m3u8"
+          ],
+          "StreamerId": "1_nxlx2iph",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/851030",
+          "Date": "2025-01-23 19:32:17"
+        },
+        {
           "Title": "בתי מלון בקצה העולם | פרק 3 - הקסבה של טובקאל, מרוקו",
           "ShortDescriptionLine1": "Hotels at the end of the world Chapter 3 - The Kasbah of Toubkal, Morocco",
           "ShortDescriptionLine2": "2025-01-23 10:00:30",
@@ -1203,30 +1227,6 @@
           "StreamerId": "1_367uw97d",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-844380/844636",
           "Date": "2025-01-18 20:11:13"
-        },
-        {
-          "Title": "מה שתגידו עונה 4 | פרק 18 - 18.01.25",
-          "ShortDescriptionLine1": "Whatever you say season 4 | Chapter 18 - 18.01.25",
-          "ShortDescriptionLine2": "2025-01-18 19:36:24",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_231nzcp0/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_231nzcp0/a.m3u8"
-          ],
-          "StreamerId": "1_231nzcp0",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/848124",
-          "Date": "2025-01-18 19:36:24"
-        },
-        {
-          "Title": "שאלון קצר קצר עם אבי נוסבאום",
-          "ShortDescriptionLine1": "A short short questionnaire with Avi Nussbaum",
-          "ShortDescriptionLine2": "2025-01-17 21:01:21",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4nudzivp/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4nudzivp/a.m3u8"
-          ],
-          "StreamerId": "1_4nudzivp",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-700467/s4/848712",
-          "Date": "2025-01-17 21:01:21"
         }
       ]
     },
@@ -1825,19 +1825,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 23.01.25 [live]",
+          "Title": "המהדורה המרכזית: 23.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468892/20468892_noAdds/20468892_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468892/20468892_noAdds/20468892_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "defe1082e7d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-defe1082e7d7491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-23T19:54:23+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 23.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 23.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 23.01.25",
@@ -1985,6 +1984,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "עובדה: היחידה למלחמה [live]",
+          "Poster": "https://img.mako.co.il/2025/01/23/Ovda_230125_08_Poster_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "80c4851a94294910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-80c4851a9429491027.htm",
+          "ShortDescriptionLine2": "The Navy fighters open up about everything that happened on 7.10",
+          "Date": "2025-01-23T21:30:39+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Uvda: the unit for war [live]"
+        },
+        {
           "Title": "נסלי ויואב: לקראת השלב הבא בעסקה",
           "Poster": "https://img.mako.co.il/2025/01/23/Nesli_Yoav_230125_VOD_vcx543_3_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2109,20 +2123,6 @@
           "Date": "2024-12-12T21:34:53+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Uvda: 6:29 before the war"
-        },
-        {
-          "Title": "עובדה: המצוד בלבנון",
-          "Poster": "https://img.mako.co.il/2024/11/13/Uvda2024_03_131124_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_03_131124_VOD_g8d77s7/Uvda2024_03_131124_VOD_g8d77s7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_03_131124_VOD_g8d77s7/Uvda2024_03_131124_VOD_g8d77s7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "7f308394f36f2910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-7f308394f36f291026.htm",
-          "ShortDescriptionLine2": "After 18 years with Itai Engel, he returns to the hospital",
-          "Date": "2024-11-13T21:35:55+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: The hunt in Lebanon"
         }
       ]
     },
