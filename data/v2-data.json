@@ -1837,6 +1837,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חדשות סוף השבוע: 25.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4e8126c79b034910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-4e8126c79b03491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-25T19:54:22+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend news: 25.01.25 [live]"
+        },
+        {
           "Title": "המהדורה הצעירה: 25.01.25",
           "Poster": "https://img.mako.co.il/2025/01/25/Hamahadura_Hatzeira_250125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1933,20 +1948,6 @@
           "Date": "2025-01-23T15:00:07+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 23.01.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 18.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/18/Hadshot_Sof_Hashavua_180125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/January/Hadshot_Sof_Hashavua_180125_VOD_jge7583/Hadshot_Sof_Hashavua_180125_VOD_jge7583_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/January/Hadshot_Sof_Hashavua_180125_VOD_jge7583/Hadshot_Sof_Hashavua_180125_VOD_jge7583_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "856126c79b034910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2025/6e3c5b6053ee3910/VOD-856126c79b03491026.htm",
-          "ShortDescriptionLine2": "Doron Steinbracher's sister on expectations and concerns",
-          "Date": "2025-01-18T19:54:20+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend news: 18.01.25"
         },
         {
           "Title": "שבת בחמש: 18.01.25",
