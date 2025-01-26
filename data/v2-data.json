@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 26.01.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-01-26 18:16:08",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_x1ai1hls/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_x1ai1hls/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_x1ai1hls",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/852119",
+          "Date": "2025-01-26 18:16:08"
+        },
+        {
           "Title": "העולם היום | 26.01.25",
           "ShortDescriptionLine1": "The World Today",
           "ShortDescriptionLine2": "2025-01-26 16:27:58",
@@ -547,18 +559,6 @@
           "StreamerId": "1_c8gfenx7",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/851027",
           "Date": "2025-01-23 20:26:11"
-        },
-        {
-          "Title": "שבע עם קרן אוזן | 23.01.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-01-23 18:53:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y4mcbrlm/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y4mcbrlm/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_y4mcbrlm",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/851026",
-          "Date": "2025-01-23 18:53:40"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 5 - 12.01.25",
@@ -1001,6 +1001,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בואו לאכול איתי - ערבית | פרק 16 - מרכז, הערב של חוריה",
+          "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 16 - Center, Horiya's evening",
+          "ShortDescriptionLine2": "2025-01-26 18:10:49",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_812gr3fk/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_812gr3fk/a.m3u8"
+          ],
+          "StreamerId": "1_812gr3fk",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s100/850759",
+          "Date": "2025-01-26 18:10:49"
+        },
+        {
           "Title": "החטופות חוזרות עם מנדי ביתאן",
           "ShortDescriptionLine1": "The kidnappers come back with Mandy Betan",
           "ShortDescriptionLine2": "2025-01-24 21:18:59",
@@ -1227,18 +1239,6 @@
           "StreamerId": "1_bcl0r23m",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/849283",
           "Date": "2025-01-21 20:56:23"
-        },
-        {
-          "Title": "מועדון הסטנד-אפ עונה 2 | פרק 10 - טסט, פיקניק ודילר",
-          "ShortDescriptionLine1": "The Stand-Up Club Season 2 | Chapter 10 - Test, Picnic and Dealer",
-          "ShortDescriptionLine2": "2025-01-21 20:27:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3nvxi4dx/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3nvxi4dx/a.m3u8"
-          ],
-          "StreamerId": "1_3nvxi4dx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-441828/s2/812151",
-          "Date": "2025-01-21 20:27:45"
         }
       ]
     },
@@ -1849,7 +1849,7 @@
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-26T19:53:16+02:00",
           "Live": true,
-          "ShortDescriptionLine1": "The main edition: 26.01.25 [live]"
+          "ShortDescriptionLine1": "Central Edition: 26.01.25 [live]"
         },
         {
           "Title": "המהדורה המוקדמת: 26.01.25",
