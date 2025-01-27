@@ -1869,11 +1869,11 @@
           "Title": "מהדורת היום: 27.01.25",
           "Poster": "https://img.mako.co.il/2025/01/27/Mahadurat_Hayom_270125_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20468991/20468991_noAdds/20468991_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20468991/20468991_noAdds/20468991_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/January/Mahadurat_Hayom_270125_VOD_lov542/Mahadurat_Hayom_270125_VOD_lov542_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/January/Mahadurat_Hayom_270125_VOD_lov542/Mahadurat_Hayom_270125_VOD_lov542_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "cddb18098af64910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-cddb18098af6491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-cddb18098af6491026.htm",
           "ShortDescriptionLine2": "Agreement: Hamas will release 6 kidnappers this week",
           "Date": "2025-01-27T15:00:50+02:00",
           "Live": false,
@@ -2142,6 +2142,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש - 27.01.25",
+          "StreamerId": "6367834558112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0bdd292a-a70f-4f65-952d-7376e25510b1/681dfef9-a435-40d0-9d44-677d1738e75b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367834558112",
+          "Date": "2025-01-27T16:14:03Z",
+          "ShortDescriptionLine1": "Edition five - 27.01.25",
+          "ShortDescriptionLine2": "2025-01-27T16:14:03Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0bdd292a-a70f-4f65-952d-7376e25510b1/10s/master.m3u8?fastly_token=NjdiY2I2YTZfNDk4YzhiYzU1NTUzYjdjYmVkOWQzYjhkZjZmYzE3ZDBjNjI0MmE5MDQyMDNiYzMyM2FmZTFlMWVhYjVlNmVhOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 -27.01.25",
           "StreamerId": "6367831518112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0f8e0f40-45c0-4e7f-9e3d-eb3ac5e3be70/055e6490-2ff4-42a2-9c5c-a9814dea859f/320x180/match/image.jpg",
@@ -2307,18 +2319,6 @@
           "ShortDescriptionLine2": "2025-01-23T21:37:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0e97ebae-1ed1-488a-b3b0-5812c6c6eeaa/10s/master.m3u8?fastly_token=NjdiN2IyZjVfMTAzYjIxZDhlZDMxNTY5YjZmYTgyNTkwODk5ZGRiNDhkYjUxYjdjOTJhMTg5M2EzMThhOWM3NjhiNjRhM2ExYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 23.01.25",
-          "StreamerId": "6367566830112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2a5e84d2-4914-4b94-bcaf-ad7506a12b24/17696737-ece3-4f27-843f-c2eb70ea4a64/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367566830112",
-          "Date": "2025-01-23T15:59:50Z",
-          "ShortDescriptionLine1": "Five edition 23.01.25",
-          "ShortDescriptionLine2": "2025-01-23T15:59:50Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2a5e84d2-4914-4b94-bcaf-ad7506a12b24/10s/master.m3u8?fastly_token=NjdiNzZiZGVfMjkxYTVkZjMxMDZmYzNlYmVlMTdmZDAwNTdlZTA1ZWRmYjM0Mzc4NWU2ODk5MDQ1MWRiZDZlZGI4OWQyODc1NA%3D%3D"
           ]
         },
         {
