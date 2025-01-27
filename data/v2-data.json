@@ -1001,6 +1001,30 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "טהרן עונה 3 | פרק 7 - רגע האמת של ניסן",
+          "ShortDescriptionLine1": "Tehran Season 3 | Episode 7 - Nissan's C and",
+          "ShortDescriptionLine2": "2025-01-27 19:33:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y2ldj9td/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y2ldj9td/a.m3u8"
+          ],
+          "StreamerId": "1_y2ldj9td",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/852555",
+          "Date": "2025-01-27 19:33:33"
+        },
+        {
+          "Title": "טהרן עונה 3 | פרק 8 - על סף תהום",
+          "ShortDescriptionLine1": "Tehran season 3 | Chapter 8 - On the brink of an abyss",
+          "ShortDescriptionLine2": "2025-01-27 19:33:31",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vszyia2l/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vszyia2l/a.m3u8"
+          ],
+          "StreamerId": "1_vszyia2l",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/852556",
+          "Date": "2025-01-27 19:33:31"
+        },
+        {
           "Title": "בואו לאכול איתי - ערבית | פרק 17 - מרכז, הערב של שריף",
           "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 17 - Center, Sharif's evening",
           "ShortDescriptionLine2": "2025-01-27 18:24:59",
@@ -1215,30 +1239,6 @@
           "StreamerId": "1_nxlx2iph",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/851030",
           "Date": "2025-01-23 19:32:17"
-        },
-        {
-          "Title": "בתי מלון בקצה העולם | פרק 3 - הקסבה של טובקאל, מרוקו",
-          "ShortDescriptionLine1": "Hotels at the end of the world Chapter 3 - The Kasbah of Toubkal, Morocco",
-          "ShortDescriptionLine2": "2025-01-23 10:00:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_aooyptgo/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_aooyptgo/a.m3u8"
-          ],
-          "StreamerId": "1_aooyptgo",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-845122/s1/845130",
-          "Date": "2025-01-23 10:00:30"
-        },
-        {
-          "Title": "המרדף עונה 8 | פרק 32",
-          "ShortDescriptionLine1": "The Chase Season 8 | Chapter 32",
-          "ShortDescriptionLine2": "2025-01-22 19:30:38",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7b2ts3yu/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7b2ts3yu/a.m3u8"
-          ],
-          "StreamerId": "1_7b2ts3yu",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11534/s8/775341",
-          "Date": "2025-01-22 19:30:38"
         }
       ]
     },
@@ -1837,19 +1837,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 27.01.25 [live]",
+          "Title": "המהדורה המרכזית: 27.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20468996/20468996_noAdds/20468996_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20468996/20468996_noAdds/20468996_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "79a01082e7d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-79a01082e7d7491026.htm",
-          "ShortDescriptionLine2": "The country that Trump is pressuring to accept Gazans",
+          "ShortDescriptionLine2": "State Trump presses her to get goats",
           "Date": "2025-01-27T19:54:29+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 27.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 27.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 27.01.25",
@@ -1860,7 +1859,7 @@
           ],
           "StreamerId": "083784fa56d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-083784fa56d7491026.htm",
-          "ShortDescriptionLine2": "Hamas will release 6 hostages this week",
+          "ShortDescriptionLine2": "Hamas will release 6 kidnappers this week",
           "Date": "2025-01-27T18:59:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 27.01.25"
@@ -2142,6 +2141,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית - 27.01.25",
+          "StreamerId": "6367844579112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5e8e55ca-2b60-47f4-a11e-23f6cc24ee27/3f2a5d82-a4fd-4932-9fc5-5e34f58a422b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367844579112",
+          "Date": "2025-01-27T19:35:23Z",
+          "ShortDescriptionLine1": "Central Edition - 27.01.25",
+          "ShortDescriptionLine2": "2025-01-27T19:35:23Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5e8e55ca-2b60-47f4-a11e-23f6cc24ee27/10s/master.m3u8?fastly_token=NjdiY2VhMjJfNTA2YTY0YWMwMTM3NjZmZjc0ZTM0NThhM2ViMjNkMjhlZmUwY2U4ZTQyNTVmOTkzMDVhMmRmYzcxOWNkYjZjMQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת - 27.01.25",
+          "StreamerId": "6367843913112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/403a95c8-39d3-4e23-8dd1-ba92c505284d/646dc96a-1799-4c94-9ba0-5bbaaf7a5128/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367843913112",
+          "Date": "2025-01-27T19:32:34Z",
+          "ShortDescriptionLine1": "The early edition - 27.01.25",
+          "ShortDescriptionLine2": "2025-01-27T19:32:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/403a95c8-39d3-4e23-8dd1-ba92c505284d/10s/master.m3u8?fastly_token=NjdiY2UwNWVfN2Y4Yjk1NmY1ODBlZDg1Yjk0Yjg4OWMzN2QwNGJjYTFkMjdkNTZkMTEzNTNiMmVlMDljMDY3ZjI5ZGUxMGFmZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע - 27.01.25",
           "StreamerId": "6367840524112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/26be058d-ba94-4aba-bfee-cf65f14380cd/8de5da6c-a335-4a0a-a70b-187a8084247e/320x180/match/image.jpg",
@@ -2283,30 +2306,6 @@
           "ShortDescriptionLine2": "2025-01-26T06:02:02Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/56686264-3cdb-4d38-8bc8-706065b21b54/10s/master.m3u8?fastly_token=NjdiYWNkOGNfNGYxODE2YzNiZjViY2I2MGZkNTU1NWI2ZTdhMzlhYWQzNTk5MDY4Y2NlYTFkZDQyYTcxMTlmZmJhOTY2ZTRmOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית חלק א' 25.01.25",
-          "StreamerId": "6367753724112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d48aa252-8eb9-467c-9fba-e0ba3e942d5e/68dca6b0-a4ac-4e2b-96c9-79af6a72344d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367753724112",
-          "Date": "2025-01-25T20:25:02Z",
-          "ShortDescriptionLine1": "The central edition, part I, 01.25.25",
-          "ShortDescriptionLine2": "2025-01-25T20:25:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d48aa252-8eb9-467c-9fba-e0ba3e942d5e/10s/master.m3u8?fastly_token=NjdiYTVmMmJfYzBiYzg5Mzg4NjM1NWIyMzRmYzEwZWQ5MTYxODk0OWNlYWI0NDYxYWMwZGVkOGExZjlhYjhiYjhmMDI5NGU3NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 24.01.25",
-          "StreamerId": "6367698468112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a6a7160c-76a3-417b-902c-14b31fd0de72/0ed26b45-183f-4d84-8a71-331404679efd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367698468112",
-          "Date": "2025-01-24T21:33:17Z",
-          "ShortDescriptionLine1": "The early edition 24.01.25",
-          "ShortDescriptionLine2": "2025-01-24T21:33:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a6a7160c-76a3-417b-902c-14b31fd0de72/10s/master.m3u8?fastly_token=NjdiOTFhNWVfODA2MmVjOGY2MzljM2I0MDM3NTU5YjIwNjllNDBkMmE3YzA4OTgzYjJhODBkNTNiYzFkNDBjNDA1NTMxNWM3Yg%3D%3D"
           ]
         },
         {
