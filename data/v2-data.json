@@ -525,18 +525,6 @@
           "Date": "2025-01-27 22:36:31"
         },
         {
-          "Title": "מהצד השני עם גיא זהר | 27.01.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-01-27 21:05:26",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nlim6x2a/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nlim6x2a/a.m3u8"
-          ],
-          "StreamerId": "1_nlim6x2a",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/852550",
-          "Date": "2025-01-27 21:05:26"
-        },
-        {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
           "ShortDescriptionLine1": "Will be good with Asenheim and Coven Season 2 | Chapter 6 - 26.01.25",
           "ShortDescriptionLine2": "2025-01-26 22:29:47",
@@ -1996,19 +1984,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: עמית סוסנה מדברת [live]",
+          "Title": "עובדה: עמית סוסנה מדברת",
           "Poster": "https://img.mako.co.il/2025/01/28/Uvda2024_09_280125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20469084/20469084_noAdds/20469084_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20469084/20469084_noAdds/20469084_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3f0e156522ca4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-3f0e156522ca491026.htm",
           "ShortDescriptionLine2": "Amit Susana, Survivor in Disposable Switch",
           "Date": "2025-01-28T21:30:51+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "UVDA: A colleague speaks [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "UVDA: A colleague speaks"
         },
         {
           "Title": "נסלי ויואב: החטופים שיחזרו בשתי פעימות",
