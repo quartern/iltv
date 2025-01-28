@@ -1001,6 +1001,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "קופה ראשית עונה 5 | פרק 12 - אחות של כוכבה",
+          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 12 - A sister of a star",
+          "ShortDescriptionLine2": "2025-01-28 19:29:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tlmlvinr/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tlmlvinr/a.m3u8"
+          ],
+          "StreamerId": "1_tlmlvinr",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809179",
+          "Date": "2025-01-28 19:29:24"
+        },
+        {
           "Title": "בואו לאכול איתי - ערבית | פרק 18 - מרכז, הערב של מאיא",
           "ShortDescriptionLine1": "Come eat with me - Arabic | Episode 18 - Center, the evening of Maya",
           "ShortDescriptionLine2": "2025-01-28 18:21:20",
@@ -1227,18 +1239,6 @@
           "StreamerId": "1_cii550oq",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13401/s7/851018",
           "Date": "2025-01-23 23:13:57"
-        },
-        {
-          "Title": "זהו זה! עונה 7 | פרק 12 - 23.01.25",
-          "ShortDescriptionLine1": "ZehuZe! Season 7 | Chapter 12 - 23.01.25",
-          "ShortDescriptionLine2": "2025-01-23 20:14:29",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_1vkcj5g5/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_1vkcj5g5/a.m3u8"
-          ],
-          "StreamerId": "1_1vkcj5g5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s7/851019",
-          "Date": "2025-01-23 20:14:29"
         }
       ]
     },
@@ -1837,30 +1837,29 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 28.01.25 [live]",
+          "Title": "המהדורה המרכזית: 28.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20469025/20469025_noAdds/20469025_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20469025/20469025_noAdds/20469025_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b0e01082e7d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-b0e01082e7d7491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-28T19:53:41+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 28.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 28.01.25"
         },
         {
           "Title": "המהדורה המוקדמת: 28.01.25",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/01/28/Mahadura_Mukdemet_280125_VOD_01_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20469024/20469024_noAdds/20469024_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20469024/20469024_noAdds/20469024_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_280125_VOD_trew9863/Mahadura_Mukdemet_280125_VOD_trew9863_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/January/Mahadura_Mukdemet_280125_VOD_trew9863/Mahadura_Mukdemet_280125_VOD_trew9863_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "506784fa56d74910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-506784fa56d7491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-506784fa56d7491026.htm",
+          "ShortDescriptionLine2": "An interview with former Defense Minister Avigdor Lieberman",
           "Date": "2025-01-28T18:58:57+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 28.01.25"
