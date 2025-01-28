@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 28.01.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-01-28 19:11:54",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kbhxg1on/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_kbhxg1on/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_kbhxg1on",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/852963",
+          "Date": "2025-01-28 19:11:54"
+        },
+        {
           "Title": "העולם היום | 28.01.25",
           "ShortDescriptionLine1": "The World Today",
           "ShortDescriptionLine2": "2025-01-28 16:35:36",
@@ -523,18 +535,6 @@
           "StreamerId": "1_osksyom5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/852549",
           "Date": "2025-01-27 20:35:10"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 27.01.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-01-27 18:54:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_iaw4zn4e/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_iaw4zn4e/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_iaw4zn4e",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/852547",
-          "Date": "2025-01-27 18:54:30"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 28.01.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_4j6r2zg8",
+          "Date": "2025-01-28 21:00:10",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/sjpob-904438579/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-01-28 21:00:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4j6r2zg8/flavorIds/1_mh2uuot3,1_o44bxr75,1_xi3eiqkc,1_7l2lmptl,1_h2ana31i,1_mbgjawbl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות שש 28.01.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_q2bjh82g",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-01-27 22:30:06",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8gfpxlue/flavorIds/1_wnvx35n5,1_3xa1qov4,1_xvrq8buu,1_4mmcmxmh,1_74uijzml,1_8z7e0i8e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 27.01.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_7gqjb2st",
-          "Date": "2025-01-27 20:30:51",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/krghv-904437069/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-01-27 20:30:51",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_7gqjb2st/flavorIds/1_1uaj975l,1_8fkmc7w8,1_0xqelaj9,1_4s12hyk3,1_w6aakwg9,1_y5g1h3zr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1883,11 +1883,11 @@
           "Title": "חמש עם רפי רשף: 28.01.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20469021/20469021_noAdds/20469021_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20469021/20469021_noAdds/20469021_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_280125_VOD_qew8765/Hamesh_280125_VOD_qew8765_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/January/Hamesh_280125_VOD_qew8765/Hamesh_280125_VOD_qew8765_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "99ce6dbb1bf64910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-99ce6dbb1bf6491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/e6ed5b6053ee3910/VOD-99ce6dbb1bf6491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-28T16:55:48+02:00",
           "Live": false,
