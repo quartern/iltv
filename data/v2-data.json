@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 28.01.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-01-28 20:37:45",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_koa1adry/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_koa1adry/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_koa1adry",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/852965",
+          "Date": "2025-01-28 20:37:45"
+        },
+        {
           "Title": "שבע עם איילה חסון | 28.01.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-01-28 19:11:54",
@@ -523,18 +535,6 @@
           "StreamerId": "1_nlim6x2a",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/852550",
           "Date": "2025-01-27 21:05:26"
-        },
-        {
-          "Title": "חדשות הערב | 27.01.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-01-27 20:35:10",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_osksyom5/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_osksyom5/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_osksyom5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/852549",
-          "Date": "2025-01-27 20:35:10"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 28.01.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1652258985/uploads/2022/903041301.jpg",
+          "StreamerId": "1_zhtvr12h",
+          "Date": "2025-01-28 22:29:23",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/faax5-904438685/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-01-28 22:29:23",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zhtvr12h/flavorIds/1_opkr6sc9,1_8ug75ena,1_gko3g0rx,1_qqaa8b27,1_3c2y2fzo/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 28.01.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_4j6r2zg8",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-01-27 23:59:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_269tn3ie/flavorIds/1_fm4q6zta,1_twgwrsm0,1_jla03bwq,1_9ggsbwdd,1_1izk9n2v,1_imykoxb6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 27.01.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1652258985/uploads/2022/903041301.jpg",
-          "StreamerId": "1_8gfpxlue",
-          "Date": "2025-01-27 22:30:06",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/py17e-904437238/",
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2025-01-27 22:30:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8gfpxlue/flavorIds/1_wnvx35n5,1_3xa1qov4,1_xvrq8buu,1_4mmcmxmh,1_74uijzml,1_8z7e0i8e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1840,11 +1840,11 @@
           "Title": "המהדורה המרכזית: 28.01.25",
           "Poster": "https://img.mako.co.il/2025/01/28/Mahadura_Merkazit_280125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20469025/20469025_noAdds/20469025_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20469025/20469025_noAdds/20469025_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_280125_VOD_cds456/Mahadura_Merkazit_280125_VOD_cds456_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_280125_VOD_cds456/Mahadura_Merkazit_280125_VOD_cds456_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b0e01082e7d74910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-b0e01082e7d7491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-b0e01082e7d7491026.htm",
           "ShortDescriptionLine2": "Quotes from the head of the institution with the abducted families",
           "Date": "2025-01-28T19:53:41+02:00",
           "Live": false,
