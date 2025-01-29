@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 29.01.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-01-29 15:18:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jqi29qvy/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jqi29qvy/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_jqi29qvy",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/853512",
+          "Date": "2025-01-29 15:18:43"
+        },
+        {
           "Title": "חדשות הלילה | 28.01.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-01-29 08:02:38",
@@ -523,18 +535,6 @@
           "StreamerId": "1_ptfov5sg",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/852954",
           "Date": "2025-01-28 16:35:36"
-        },
-        {
-          "Title": "משחקי הכיס | 28.01.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-01-28 15:56:42",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_x5qil15r/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_x5qil15r/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_x5qil15r",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/852953",
-          "Date": "2025-01-28 15:56:42"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -1837,19 +1837,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 29.01.25 [live]",
+          "Title": "מהדורת היום: 29.01.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20469051/20469051_noAdds/20469051_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20469051/20469051_noAdds/20469051_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "899c18098af64910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d1db7fba37804910/VOD-899c18098af6491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-01-29T15:00:24+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 29.01.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 29.01.25"
         },
         {
           "Title": "המהדורה המרכזית: 28.01.25",
@@ -1878,20 +1877,6 @@
           "Date": "2025-01-28T18:58:57+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 28.01.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 28.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/28/Shesh_280125_VOD_csa456_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_280125_VOD_cad562/Shesh_280125_VOD_cad562_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/January/Shesh_280125_VOD_cad562/Shesh_280125_VOD_cad562_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "06b886c1ac874910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-06b886c1ac87491027.htm",
-          "ShortDescriptionLine2": "The confidential discussion with the chief of staff",
-          "Date": "2025-01-28T17:55:39+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 28.01.25"
         },
         {
           "Title": "חמש עם רפי רשף: 28.01.25",
