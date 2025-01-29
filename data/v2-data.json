@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 29.01.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1652258985/uploads/2022/903041301.jpg",
+          "StreamerId": "1_katfth50",
+          "Date": "2025-01-29 22:37:10",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/odrn1-904440208/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-01-29 22:37:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_katfth50/flavorIds/1_jpgiyc7h,1_lf7xutmu,1_rapnwy77,1_x0sozpc7,1_nqhmib0l,1_0i1eve8s/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 29.01.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_s3h2vulp",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-01-28 23:59:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_kszb8z8k/flavorIds/1_hzkby9lv,1_vzb5o6r1,1_1tfer3mu,1_regvprql,1_mawlades,1_5ot0a4su/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 28.01.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1652258985/uploads/2022/903041301.jpg",
-          "StreamerId": "1_zhtvr12h",
-          "Date": "2025-01-28 22:29:23",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/faax5-904438685/",
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2025-01-28 22:29:23",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zhtvr12h/flavorIds/1_opkr6sc9,1_8ug75ena,1_gko3g0rx,1_qqaa8b27,1_3c2y2fzo/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1996,19 +1996,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: תכנית מיוחדת לשבוע מיוחד [live]",
+          "Title": "ארץ נהדרת: תכנית מיוחדת לשבוע מיוחד",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20493796/20493796_noAdds/20493796_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20493796/20493796_noAdds/20493796_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4cb58129911b4910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-4cb58129911b491027.htm",
           "ShortDescriptionLine2": "A great country in a special edition for the unusual week",
           "Date": "2025-01-29T21:39:55+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEEDERET: SPECIAL Plan for Special Week [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEEDERET: SPECIAL Plan for Special Week"
         },
         {
           "Title": "נסלי ויואב: שלושת החטופים שישוחררו מחר",
