@@ -1996,6 +1996,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: תכנית מיוחדת לשבוע מיוחד [live]",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4cb58129911b4910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-4cb58129911b491027.htm",
+          "ShortDescriptionLine2": "A great country in a special edition for the unusual week",
+          "Date": "2025-01-29T21:39:55+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "ERETZ NeHEEDERET: SPECIAL Plan for Special Week [live]"
+        },
+        {
           "Title": "נסלי ויואב: שלושת החטופים שישוחררו מחר",
           "Poster": "https://img.mako.co.il/2025/01/29/Nesli_Yoav_290125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2094,20 +2109,6 @@
           "ShortDescriptionLine1": "Uvda: All for one"
         },
         {
-          "Title": "ארץ נהדרת: מהדורה מיוחדת",
-          "Poster": "https://img.mako.co.il/2025/01/16/Eretz_Nehederet22_10_150125_VOD_autoOrient_i_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_10_VOD_ab12ab12/Eretz_Nehederet22_10_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_10_VOD_ab12ab12/Eretz_Nehederet22_10_VOD_ab12ab12_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ea490aa772964910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-ea490aa77296491026.htm",
-          "ShortDescriptionLine2": "A special program for the dramatic events",
-          "Date": "2025-01-15T21:51:50+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: Special Edition"
-        },
-        {
           "Title": "עובדה: מתחזה בחזית",
           "Poster": "https://img.mako.co.il/2025/01/09/Uvda2024_06_090125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2140,6 +2141,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית - 29.01.25",
+          "StreamerId": "6367959009112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/de4c1875-d820-4397-ac2f-454ef294c5f8/a6672bce-e448-41f1-8ae5-7aa83633ec3f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367959009112",
+          "Date": "2025-01-29T19:23:43Z",
+          "ShortDescriptionLine1": "Central Edition - 29.01.25",
+          "ShortDescriptionLine2": "2025-01-29T19:23:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/de4c1875-d820-4397-ac2f-454ef294c5f8/10s/master.m3u8?fastly_token=NjdiZjhhZTJfNDc2MGM3YTZkOGYxZWY2ZmUwMmJiMjMxNTkzZWUyYmRmYTMyYjkzZmJlYzYzZWIyYzI4MTgzYzQyNjBmZDBlMg%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המוקדמת - 29.01.25",
           "StreamerId": "6367954645112",
@@ -2330,18 +2343,6 @@
           "ShortDescriptionLine2": "2025-01-27T20:56:25Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b6e41b1-5517-4509-9ce9-0bda26f9d7c4/10s/master.m3u8?fastly_token=NjdiY2Y3M2NfZTlhMTBkYmE4NzMyNThhN2FjMTdlMGYyNGY5OTczMzI1MzNkNDNhODgyMTVjZjExMDUxZWRhOWQ5ODczNjhkNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - 27.01.25",
-          "StreamerId": "6367844579112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5e8e55ca-2b60-47f4-a11e-23f6cc24ee27/3f2a5d82-a4fd-4932-9fc5-5e34f58a422b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367844579112",
-          "Date": "2025-01-27T19:35:23Z",
-          "ShortDescriptionLine1": "Central Edition - 27.01.25",
-          "ShortDescriptionLine2": "2025-01-27T19:35:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5e8e55ca-2b60-47f4-a11e-23f6cc24ee27/10s/master.m3u8?fastly_token=NjdiY2VhMjJfNTA2YTY0YWMwMTM3NjZmZjc0ZTM0NThhM2ViMjNkMjhlZmUwY2U4ZTQyNTVmOTkzMDVhMmRmYzcxOWNkYjZjMQ%3D%3D"
           ]
         },
         {
