@@ -1837,6 +1837,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 31.01.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "224e47531ec24910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/db485b6053ee3910/VOD-224e47531ec2491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-01-31T19:54:20+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Friday Studio: 31.01.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 30.01.25",
           "Poster": "https://img.mako.co.il/2025/01/30/Mahadura_Merkazit_300125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1935,20 +1950,6 @@
           "ShortDescriptionLine1": "Young Edition: 25.01.25"
         },
         {
-          "Title": "אולפן שישי: 24.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/24/Ulpan_Shishi_240125_VOD_hgr765_1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2025/January/Ulpan_Shishi_240125_VOD_vcc432/Ulpan_Shishi_240125_VOD_vcc432_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2025/January/Ulpan_Shishi_240125_VOD_vcc432/Ulpan_Shishi_240125_VOD_vcc432_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f81e47531ec24910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/ulpan-shishi-2025/db485b6053ee3910/VOD-f81e47531ec2491026.htm",
-          "ShortDescriptionLine2": "All the details on the list of abductions provided by Hamas",
-          "Date": "2025-01-24T19:54:32+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Friday Studio: 24.01.25"
-        },
-        {
           "Title": "שבת בחמש: 18.01.25",
           "Poster": "https://img.mako.co.il/2025/01/18/Shabat_Behamesh_180125_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1996,19 +1997,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: ראש המוסד לשעבר תמיר פרדו [live]",
+          "Title": "אופירה ולוינסון: ראש המוסד לשעבר תמיר פרדו",
           "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/20469120/20469120_noAdds/20469120_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/20469120/20469120_noAdds/20469120_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6ae6fc66e67b4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-6ae6fc66e67b491026.htm",
           "ShortDescriptionLine2": "Towards the additional liberation beat",
           "Date": "2025-01-31T17:59:16+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ofira and Levinson: former head of the institution Tamir Fredo [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira and Levinson: former head of the institution Tamir Fredo"
         },
         {
           "Title": "נסלי ויואב: נסלי ויואב",
