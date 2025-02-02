@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 02.02.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_ixadvpes",
+          "Date": "2025-02-02 19:36:40",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/cx8cg-904445120/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-02-02 19:36:40",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ixadvpes/flavorIds/1_6e1fo2gv,1_7mlhizp9,1_rt3hwmxo,1_wny7h6s8,1_41tlj72l,1_k6ka9ba5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 02.02.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_uknml62d",
@@ -695,18 +707,6 @@
           "ShortDescriptionLine2": "2025-01-30 21:06:03",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8ujjfd84/flavorIds/1_zr4l444b/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 29.01.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_3bdicmlu",
-          "Date": "2025-01-29 19:48:30",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/mddio-904439906/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2025-01-29 19:48:30",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_3bdicmlu/flavorIds/1_j06sbfqx,1_e3i3li0d,1_y5ta2vx4,1_2mnwq7rs,1_qb29h98y,1_dh0599hk/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1825,19 +1825,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 02.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 02.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "d9b3bf15fa6c4910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-d9b3bf15fa6c491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-02T19:54:14+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 02.02.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 02.02.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584356/20584356_noAdds/20584356_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584356/20584356_noAdds/20584356_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "e8e184fa56d74910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-e8e184fa56d7491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-02T18:59:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 02.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 02.02.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 02.02.25",
@@ -1936,20 +1950,6 @@
           "Date": "2025-01-31T19:54:20+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Friday Studio: 31.01.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 30.01.25",
-          "Poster": "https://img.mako.co.il/2025/01/30/Mahadura_Merkazit_300125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_300125_VOD_kji8/Mahadura_Merkazit_300125_VOD_kji8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/January/Mahadura_Merkazit_300125_VOD_kji8/Mahadura_Merkazit_300125_VOD_kji8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d2811082e7d74910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/63d85b6053ee3910/VOD-d2811082e7d7491026.htm",
-          "ShortDescriptionLine2": "The confrontation in front of the terrorists and refusal to go down to tunnels",
-          "Date": "2025-01-30T19:53:36+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 30.01.25"
         },
         {
           "Title": "פגוש את העיתונות: 25.01.25",
@@ -2129,6 +2129,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדד גלבוע - 02.02.25",
+          "StreamerId": "6368161993112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cbc2dea-60f5-4b98-975f-ddbfe6421a25/615cd6bc-2549-4b8d-ade4-dca240964a7c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368161993112",
+          "Date": "2025-02-02T17:30:00Z",
+          "ShortDescriptionLine1": "Gilboa Index - 02.02.25",
+          "ShortDescriptionLine2": "2025-02-02T17:30:00Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cbc2dea-60f5-4b98-975f-ddbfe6421a25/10s/master.m3u8?fastly_token=NjdjNGFlMzBfYTNjZjBhZDQ0NGYyMGRhMzk2MGNjYWE2MDkzMDMxM2Q3MjgwNDEwM2YxMTU1ZWYzZDA4ODk3ODRjNjk4MjU5MQ%3D%3D"
+          ]
+        },
         {
           "Title": "מהדורת חמש - 02.02.25",
           "StreamerId": "6368158838112",
@@ -2343,18 +2355,6 @@
           "ShortDescriptionLine2": "2025-01-29T05:13:15Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ce5550bb-1314-4dfb-a103-3d4757c9c698/10s/master.m3u8?fastly_token=NjdiZWIwZDJfOGU2ZWNmMDA1YTBkNWVlODQzOTAxN2RlNDU0Yjc1ZDVjZTVjYmJjYTBhODM4ODIxMDNiZGFlYWVjYWUyZDRjOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 28.01.25",
-          "StreamerId": "6367892823112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0983aab3-6e9b-447b-9a62-068f32776178/3d28fa15-349e-4335-8f3d-cfb5249af70f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367892823112",
-          "Date": "2025-01-28T17:30:00Z",
-          "ShortDescriptionLine1": "Gilboa Index 28.01.25",
-          "ShortDescriptionLine2": "2025-01-28T17:30:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0983aab3-6e9b-447b-9a62-068f32776178/10s/master.m3u8?fastly_token=NjdiZTE1NjBfYTkyODQyNzljNWMwNTlkNTRmNWJlMDU1MGE1MTQ0MGY4ZTQ2Y2JlNDhjNTg0MDU2ZGJhNDUzZjMyYmFmZTgwOA%3D%3D"
           ]
         },
         {
