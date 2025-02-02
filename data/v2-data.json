@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 02.02.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-02-02 20:18:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u8c4smdg/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_u8c4smdg/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_u8c4smdg",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/855068",
+          "Date": "2025-02-02 20:18:55"
+        },
+        {
           "Title": "שבע עם איילה חסון | 02.02.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-02-02 19:02:12",
@@ -535,18 +547,6 @@
           "StreamerId": "1_jh4sgi7w",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/854449",
           "Date": "2025-01-31 20:51:46"
-        },
-        {
-          "Title": "חדשות הערב | 30.01.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-01-30 20:17:12",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kyn73rxa/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_kyn73rxa/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_kyn73rxa",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/853776",
-          "Date": "2025-01-30 20:17:12"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 29.01.25",
@@ -2129,6 +2129,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית - 02.02.25",
+          "StreamerId": "6368165423112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9c592a05-c12b-47d7-a066-9f3b13284696/e9232ea8-3b33-4f65-bfee-400e8922687b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368165423112",
+          "Date": "2025-02-02T19:42:35Z",
+          "ShortDescriptionLine1": "Central Edition - 02.02.25",
+          "ShortDescriptionLine2": "2025-02-02T19:42:35Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9c592a05-c12b-47d7-a066-9f3b13284696/10s/master.m3u8?fastly_token=NjdjNGQ4NGRfYTAzODg4M2M0ZmZjOGNkYzY1MDE0YTRhMmNiOWQzY2U1MWNlZWRhYmY0ZWNkODA0ODM3MTY2ZGZlOTgwNThjMg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת - 02.02.25",
           "StreamerId": "6368165529112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c977d31f-6749-4f2c-8806-8935bc39b062/f7e08a65-81a7-4be6-9cfa-05a05abc96e6/320x180/match/image.jpg",
@@ -2258,18 +2270,6 @@
           "ShortDescriptionLine2": "2025-01-30T21:22:24Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f52816e9-71aa-48b9-a835-67ce198d63d1/10s/master.m3u8?fastly_token=NjdjMGVmNTJfZWYyNWFjMzNkNmIwMmRlNzhjZjY5ODU0ZGY5YjI5ZGY1YmYzYzYyNTQ3ZWZjNDdiNGY2ZGJmYjU1MzYxNzkyNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית חלק א' 30.01.25",
-          "StreamerId": "6368013403112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cc23f93d-2fca-4c95-8001-452865859796/1f12b173-8b24-4711-a07b-370be38a28eb/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368013403112",
-          "Date": "2025-01-30T20:07:53Z",
-          "ShortDescriptionLine1": "Central Edition Part I. 30.01.25",
-          "ShortDescriptionLine2": "2025-01-30T20:07:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cc23f93d-2fca-4c95-8001-452865859796/10s/master.m3u8?fastly_token=NjdjMGVlNGJfNDU5NmU5NGNjNDczN2NmNmMyY2JkNmIzZGNiMDY0NGIzY2I2MDFkZTkxYWViZmYzNTEyODI5ZTZhZGJhMDIwZQ%3D%3D"
           ]
         },
         {
