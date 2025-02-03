@@ -989,6 +989,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אויבים עונה 4 | פרק 1 - יחיא סינוואר",
+          "ShortDescriptionLine1": "Enemies Season 4 | Chapter 1 - Yahya Sinwar",
+          "ShortDescriptionLine2": "2025-02-03 19:31:39",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3scff9my/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3scff9my/a.m3u8"
+          ],
+          "StreamerId": "1_3scff9my",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12210/s4/844253",
+          "Date": "2025-02-03 19:31:39"
+        },
+        {
           "Title": "בתי מלון בקצה העולם | פרק 7 - מלון בודיר, איסלנד",
           "ShortDescriptionLine1": "Hotels at the edge of the world | Episode 7 - Budder Hotel, Iceland",
           "ShortDescriptionLine2": "2025-02-03 10:00:51",
@@ -1215,18 +1227,6 @@
           "StreamerId": "1_ypucorsm",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833724/%D7%A2%D7%95%D7%A0%D7%94-1/833731",
           "Date": "2025-01-28 20:57:35"
-        },
-        {
-          "Title": "תום יער בסטנד-אפ | כיתה ה'",
-          "ShortDescriptionLine1": "Tom Forest in Stand-Up | The fifth grade",
-          "ShortDescriptionLine2": "2025-01-28 20:27:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fsg4ez1q/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fsg4ez1q/a.m3u8"
-          ],
-          "StreamerId": "1_fsg4ez1q",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/852190",
-          "Date": "2025-01-28 20:27:28"
         }
       ]
     },
@@ -1825,19 +1825,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 03.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 03.02.25",
+          "Poster": "https://img.mako.co.il/2025/02/03/Mahadura_Merkazit_030225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584386/20584386_noAdds/20584386_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584386/20584386_noAdds/20584386_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6887d54b8b6c4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-6887d54b8b6c491026.htm",
           "ShortDescriptionLine2": "Prime Minister will offer Trump - first Iran and Saudi Arabia",
           "Date": "2025-02-03T19:53:57+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 03.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 03.02.25"
         },
         {
           "Title": "המהדורה המוקדמת: 03.02.25",
