@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 03.02.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-02-03 15:19:58",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3mxxt3bh/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3mxxt3bh/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_3mxxt3bh",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/855511",
+          "Date": "2025-02-03 15:19:58"
+        },
+        {
           "Title": "חדשות הלילה | 02.02.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-02-02 21:31:20",
@@ -523,18 +535,6 @@
           "StreamerId": "1_h7d1j8ki",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/855063",
           "Date": "2025-02-02 16:43:26"
-        },
-        {
-          "Title": "משחקי הכיס | 02.02.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-02-02 15:26:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ydzglgfm/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ydzglgfm/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ydzglgfm",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/855060",
-          "Date": "2025-02-02 15:26:50"
         },
         {
           "Title": "חדשות השבת | 01.02.25",
@@ -1840,19 +1840,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 03.02.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 03.02.25 [live]",
+          "Title": "מהדורת היום: 03.02.25",
           "Poster": "https://img.mako.co.il/2025/02/03/Mahadurat_Hayom_030225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20584382/20584382_noAdds/20584382_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20584382/20584382_noAdds/20584382_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "440952d8e1db4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-440952d8e1db491026.htm",
           "ShortDescriptionLine2": "Hamas: Hija Sasha Tropenov will be released soon",
           "Date": "2025-02-03T15:00:30+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 03.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 03.02.25"
         },
         {
           "Title": "המהדורה המרכזית: 02.02.25",
@@ -2131,6 +2130,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 03.02.25",
+          "StreamerId": "6368203421112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0e517d0b-f4b0-4ef2-b672-ee7aa27201a6/a8acfcc6-e399-44bb-b413-ba298c043220/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368203421112",
+          "Date": "2025-02-03T14:56:29Z",
+          "ShortDescriptionLine1": "Edition 15 03.02.25",
+          "ShortDescriptionLine2": "2025-02-03T14:56:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0e517d0b-f4b0-4ef2-b672-ee7aa27201a6/10s/master.m3u8?fastly_token=NjdjNWVhZTVfOWFmMjdkZWMxYzY2YmYyMTUwMGI3OTRhMjlkZjBjZDAzODViOTdmZWM4YjUxYWYxMzNkOTA0MzE5NmRmZjYxMg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים חלק ב' - 03.02.25",
           "StreamerId": "6368197094112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/89197222-4fe2-43e3-b955-82a96b69d185/dde5fa49-b594-4765-8acb-241a80a407e5/320x180/match/image.jpg",
@@ -2368,18 +2379,6 @@
           "ShortDescriptionLine2": "2025-01-29T05:13:15Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ce5550bb-1314-4dfb-a103-3d4757c9c698/10s/master.m3u8?fastly_token=NjdiZWIwZDJfOGU2ZWNmMDA1YTBkNWVlODQzOTAxN2RlNDU0Yjc1ZDVjZTVjYmJjYTBhODM4ODIxMDNiZGFlYWVjYWUyZDRjOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 28.01.25",
-          "StreamerId": "6367885308112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0c99242f-d072-41d3-923e-e614df735c68/09811019-889b-4ef8-9085-d9d588ca38df/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6367885308112",
-          "Date": "2025-01-28T15:00:07Z",
-          "ShortDescriptionLine1": "Edition 15 28.01.25",
-          "ShortDescriptionLine2": "2025-01-28T15:00:07Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0c99242f-d072-41d3-923e-e614df735c68/10s/master.m3u8?fastly_token=NjdiZTA1ZWRfZWRhODcwMGJmZDVjYjY1YzJiMzA5MDhjNGY3Y2NmODNiY2EwZmE4ODZiZTdkOWQxNzkyYjcyNDdmNzIxM2RiMQ%3D%3D"
           ]
         },
         {
