@@ -1825,19 +1825,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 03.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 03.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "842584fa56d74910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/a85b7fba37804910/VOD-842584fa56d7491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-03T18:56:09+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 03.02.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 03.02.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20584383/20584383_noAdds/20584383_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20584383/20584383_noAdds/20584383_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "01864510ea874910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4a5f5b6053ee3910/VOD-01864510ea87491027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-03T17:55:27+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.02.25"
         },
         {
           "Title": "חמש עם רפי רשף: 03.02.25",
@@ -1857,11 +1871,11 @@
           "Title": "מהדורת היום: 03.02.25",
           "Poster": "https://img.mako.co.il/2025/02/03/Mahadurat_Hayom_030225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20584382/20584382_noAdds/20584382_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20584382/20584382_noAdds/20584382_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_030225_VOD_sdf235/Mahadurat_Hayom_030225_VOD_sdf235_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_030225_VOD_sdf235/Mahadurat_Hayom_030225_VOD_sdf235_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "440952d8e1db4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-440952d8e1db491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-440952d8e1db491026.htm",
           "ShortDescriptionLine2": "Hamas: Hija Sasha Tropenov will be released soon",
           "Date": "2025-02-03T15:00:30+02:00",
           "Live": false,
@@ -1880,20 +1894,6 @@
           "Date": "2025-02-02T19:54:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 02.02.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 02.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/02/Mahadura_Mukdemet_020225_VOD_vcx432_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_020225_VOD_vcx321/Mahadura_Mukdemet_020225_VOD_vcx321_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_020225_VOD_vcx321/Mahadura_Mukdemet_020225_VOD_vcx321_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e8e184fa56d74910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-e8e184fa56d7491026.htm",
-          "ShortDescriptionLine2": "Next Chief of Staff: Maj. Gen. Eyal Zamir",
-          "Date": "2025-02-02T18:59:19+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 02.02.25"
         },
         {
           "Title": "חדשות סוף השבוע: 01.02.25",
