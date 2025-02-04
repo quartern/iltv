@@ -989,6 +989,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "קופה ראשית עונה 5 | פרק 13 -  הו הא מי זה בא?",
+          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 13 - Oh who is it coming?",
+          "ShortDescriptionLine2": "2025-02-04 19:40:17",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7nsefeax/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7nsefeax/a.m3u8"
+          ],
+          "StreamerId": "1_7nsefeax",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809183",
+          "Date": "2025-02-04 19:40:17"
+        },
+        {
           "Title": "בתי מלון בקצה העולם | פרק 8 - קאסר אל סאראב של אננטרה, איחוד האמירויות הערביות",
           "ShortDescriptionLine1": "Hotels at the edge of the world | Episode 8 - Kasser al Sunb's Sarab, the United Arab Emirates",
           "ShortDescriptionLine2": "2025-02-04 10:03:56",
@@ -1215,18 +1227,6 @@
           "StreamerId": "1_255j0yia",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s100/850774",
           "Date": "2025-01-29 18:10:14"
-        },
-        {
-          "Title": "בואו לאכול איתי - ערבית | פרק 19 - מרכז, הערב של נע'ם",
-          "ShortDescriptionLine1": "Come eat with me - Arabic | Chapter 19 - Center, Na'am's evening",
-          "ShortDescriptionLine2": "2025-01-29 18:10:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l41s5xf1/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l41s5xf1/a.m3u8"
-          ],
-          "StreamerId": "1_l41s5xf1",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s100/850773",
-          "Date": "2025-01-29 18:10:06"
         }
       ]
     },
@@ -1825,29 +1825,28 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 04.02.25 [live]",
+          "Title": "המהדורה המרכזית: 04.02.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584415/20584415_noAdds/20584415_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584415/20584415_noAdds/20584415_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1358e3e56c6c4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-1358e3e56c6c491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-04T19:54:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 04.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 04.02.25"
         },
         {
           "Title": "המהדורה המוקדמת: 04.02.25",
           "Poster": "https://img.mako.co.il/2025/02/04/Mahadura_Mukdemet_040225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584414/20584414_noAdds/20584414_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584414/20584414_noAdds/20584414_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_040225_VOD_cfe546/Mahadura_Mukdemet_040225_VOD_cfe546_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_040225_VOD_cfe546/Mahadura_Mukdemet_040225_VOD_cfe546_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ac04d686d66c4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-ac04d686d66c491027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-ac04d686d66c491027.htm",
           "ShortDescriptionLine2": "Hours for the crucial meeting in Washington",
           "Date": "2025-02-04T18:58:34+02:00",
           "Live": false,
@@ -2130,6 +2129,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 04.02.25",
+          "StreamerId": "6368259449112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f5dc9bba-6a85-4763-875c-1dfbf7492c5e/de99bd5f-dfb7-4429-87ae-c387b5a07a7a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368259449112",
+          "Date": "2025-02-04T19:19:09Z",
+          "ShortDescriptionLine1": "Central Edition 04.02.25",
+          "ShortDescriptionLine2": "2025-02-04T19:19:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f5dc9bba-6a85-4763-875c-1dfbf7492c5e/10s/master.m3u8?fastly_token=NjdjNzcxOWVfZDFiNzBlZmU1YmJlYjM2ODlmMzA1ZTY1Njg0Y2QyOTM5YjdmN2ZjOGI3YjE2NmZjZjhkZTJjYzQ4NDY0NjI1Yw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 04.02.25",
           "StreamerId": "6368257693112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a99e2832-2ce1-427e-9e24-b8f3f328199c/7b094669-f020-4f19-a0ef-ae2326dd1145/320x180/match/image.jpg",
@@ -2307,18 +2318,6 @@
           "ShortDescriptionLine2": "2025-02-03T11:38:40Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/daa49e78-4268-4b71-b4ab-1a6f48575e02/10s/master.m3u8?fastly_token=NjdjNWIwNDZfNWEyZWFhYTFlOWE4YTFmZDMzNGRjNzQzZmRkNWYwZDdhMzQ3ZmYwMjY0YmI4YWIxYWIzZTRmMGM2YzQyZGNmYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - 02.02.25",
-          "StreamerId": "6368165423112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9c592a05-c12b-47d7-a066-9f3b13284696/e9232ea8-3b33-4f65-bfee-400e8922687b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368165423112",
-          "Date": "2025-02-02T19:42:35Z",
-          "ShortDescriptionLine1": "Central Edition - 02.02.25",
-          "ShortDescriptionLine2": "2025-02-02T19:42:35Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9c592a05-c12b-47d7-a066-9f3b13284696/10s/master.m3u8?fastly_token=NjdjNGQ4NGRfYTAzODg4M2M0ZmZjOGNkYzY1MDE0YTRhMmNiOWQzY2U1MWNlZWRhYmY0ZWNkODA0ODM3MTY2ZGZlOTgwNThjMg%3D%3D"
           ]
         },
         {
