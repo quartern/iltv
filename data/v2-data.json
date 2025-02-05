@@ -1987,11 +1987,11 @@
           "Title": "ארץ נהדרת: מהדורה מיוחדת מהבית הלבן",
           "Poster": "https://img.mako.co.il/2025/02/05/Eretz_Nehederet22_12_050225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20584457/20584457_noAdds/20584457_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20584457/20584457_noAdds/20584457_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_12_050225_VOD_jkhbe8/Eretz_Nehederet22_12_050225_VOD_jkhbe8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_12_050225_VOD_jkhbe8/Eretz_Nehederet22_12_050225_VOD_jkhbe8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e821c36b815d4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-e821c36b815d491026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-e821c36b815d491026.htm",
           "ShortDescriptionLine2": "Special broadcast from the Washington summit",
           "Date": "2025-02-05T22:18:40+02:00",
           "Live": false,
@@ -2128,6 +2128,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 05.02.25",
+          "StreamerId": "6368325610112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2e49ae1e-e6d2-4d9e-87b9-5fe91d753724/477cf41a-c07f-4fde-9de4-db50a7f26a44/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368325610112",
+          "Date": "2025-02-05T21:36:06Z",
+          "ShortDescriptionLine1": "News of News 05.02.25",
+          "ShortDescriptionLine2": "2025-02-05T21:36:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2e49ae1e-e6d2-4d9e-87b9-5fe91d753724/10s/master.m3u8?fastly_token=NjdjOGQ1ZGZfZGJmM2RmZjY5NWMyMDRmZTZiMGZmYzYxM2FlNjc3NjEzNGU5NWNlYWZjZTAxM2YxMzhmYjJmMDQyZWQ5MmRmMQ%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי 05.02.25",
           "StreamerId": "6368326542112",
@@ -2306,18 +2318,6 @@
           "ShortDescriptionLine2": "2025-02-03T21:46:31Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0ea0f75e-5608-4454-9058-f6202746bd09/10s/master.m3u8?fastly_token=NjdjNjMxOGZfY2VlMTM5NTAyOWQyMTUwMWUzMWU5NjIzOGIxYjkyOTA1MGEwYmExOWQ3NGY0MmQ2M2I4OWJjY2MzNWMzZjEwMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "ח\"כ אביחי בוארון מהליכוד: \"אסור לנו לרדת מהמחויבות שלנו לעצמנו להשמיד את חמאס\" ",
-          "StreamerId": "6368217651112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1979e9fa-c316-45f8-af98-266a8f67afb4/fb4601a6-a85f-49fb-bb72-721085e41a20/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368217651112",
-          "Date": "2025-02-03T21:32:24Z",
-          "ShortDescriptionLine1": "MK Avihai Bareon of the Likud: \"We must not go down from our commitment to ourselves to destroy Hamas\"",
-          "ShortDescriptionLine2": "2025-02-03T21:32:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1979e9fa-c316-45f8-af98-266a8f67afb4/10s/master.m3u8?fastly_token=NjdjNjI4YzJfNTVjMTlmMDJjMTVlOTg1OWE5MWNmMzg4MzBiYjc5MTg3ZWIwOWEzYjhmNGQ4ZTA2MGRlOTZjYjNiM2MxZmNkOA%3D%3D"
           ]
         },
         {
