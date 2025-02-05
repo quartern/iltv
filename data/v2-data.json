@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 05.02.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-02-05 20:08:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g7w0h2jc/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g7w0h2jc/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_g7w0h2jc",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/856376",
+          "Date": "2025-02-05 20:08:48"
+        },
+        {
           "Title": "שבע עם איילה חסון | 05.02.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-02-05 19:48:47",
@@ -499,18 +511,6 @@
           "StreamerId": "1_puqo0v5f",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/856375",
           "Date": "2025-02-05 15:56:34"
-        },
-        {
-          "Title": "חדשות הערב | 04.02.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-02-04 20:52:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jg376d9g/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jg376d9g/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_jg376d9g",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/855930",
-          "Date": "2025-02-04 20:52:23"
         },
         {
           "Title": "חדשות הלילה | 03.02.25",
@@ -1984,19 +1984,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: מהדורה מיוחדת מהבית הלבן [live]",
+          "Title": "ארץ נהדרת: מהדורה מיוחדת מהבית הלבן",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20584457/20584457_noAdds/20584457_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20584457/20584457_noAdds/20584457_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e821c36b815d4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-e821c36b815d491026.htm",
           "ShortDescriptionLine2": "Special broadcast from the Washington summit",
           "Date": "2025-02-05T21:46:14+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Special Edition from White House [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Special Edition from White House"
         },
         {
           "Title": "נסלי ויואב: המפגש של טראמפ-נתניהו",
