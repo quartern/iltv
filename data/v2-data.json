@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 05.02.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-02-05 19:48:47",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_40gjhea4/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_40gjhea4/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_40gjhea4",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/856371",
+          "Date": "2025-02-05 19:48:47"
+        },
+        {
           "Title": "העולם היום | 05.02.25",
           "ShortDescriptionLine1": "The World Today",
           "ShortDescriptionLine2": "2025-02-05 16:34:27",
@@ -499,18 +511,6 @@
           "StreamerId": "1_jg376d9g",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/855930",
           "Date": "2025-02-04 20:52:23"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 04.02.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-02-04 18:29:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nx1n905z/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_nx1n905z/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_nx1n905z",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/855929",
-          "Date": "2025-02-04 18:29:28"
         },
         {
           "Title": "חדשות הלילה | 03.02.25",
@@ -1984,6 +1984,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: מהדורה מיוחדת מהבית הלבן [live]",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e821c36b815d4910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-e821c36b815d491026.htm",
+          "ShortDescriptionLine2": "Special broadcast from the Washington summit",
+          "Date": "2025-02-05T21:46:14+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Special Edition from White House [live]"
+        },
+        {
           "Title": "נסלי ויואב: המפגש של טראמפ-נתניהו",
           "Poster": "https://img.mako.co.il/2025/02/05/Nesli_Yoav_050225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2038,20 +2053,6 @@
           "Date": "2025-01-30T22:32:57+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Status report with Einav and Yaron: towards the liberation beat"
-        },
-        {
-          "Title": "ארץ נהדרת: תכנית מיוחדת לשבוע מיוחד",
-          "Poster": "https://img.mako.co.il/2025/01/29/Eretz_Nehederet22_11_290125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_11_290125_VOD_arc542/Eretz_Nehederet22_11_290125_VOD_arc542_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_11_290125_VOD_arc542/Eretz_Nehederet22_11_290125_VOD_arc542_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4cb58129911b4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-4cb58129911b491027.htm",
-          "ShortDescriptionLine2": "A great country in a special edition for the unusual week",
-          "Date": "2025-01-29T22:39:22+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "ERETZ NeHEEDERET: SPECIAL Plan for Special Week"
         },
         {
           "Title": "עובדה: עמית סוסנה מדברת",
@@ -2128,6 +2129,30 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 05.02.25",
+          "StreamerId": "6368323218112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b713263e-07dd-40aa-b2ed-1cc62bc59666/12aa2031-c2c0-40a5-8043-166e3c25136d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368323218112",
+          "Date": "2025-02-05T19:43:02Z",
+          "ShortDescriptionLine1": "Central Edition 05.02.25",
+          "ShortDescriptionLine2": "2025-02-05T19:43:02Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b713263e-07dd-40aa-b2ed-1cc62bc59666/10s/master.m3u8?fastly_token=NjdjOGM5NTNfYTI2YTcxYTc3ZTc4NmNlYzBmZDU2YTlmNTM1ZTI5ZDY5M2NhN2M4ZTY1ODZhYWU1ZDYxNGNhYTczMjlmMWE0MQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת 05.02.25",
+          "StreamerId": "6368322830112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/75131ce8-8b27-4d6f-a8db-f691798e8920/67e9c35b-4df0-40f5-9fb8-dd2cc43a01d0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368322830112",
+          "Date": "2025-02-05T19:41:00Z",
+          "ShortDescriptionLine1": "The early edition 05.02.25",
+          "ShortDescriptionLine2": "2025-02-05T19:41:00Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/75131ce8-8b27-4d6f-a8db-f691798e8920/10s/master.m3u8?fastly_token=NjdjOGMwOGFfM2EyYmI3OWIzM2ZlYzZiZTAwMmUyZWRiYjcxZmM0OTlmZjg5NjcyMDRlMzEwMTE3YTAyMmQ5ZmRjZGZmZDBmYQ%3D%3D"
+          ]
+        },
         {
           "Title": "מדד גלבוע 05.02.225",
           "StreamerId": "6368316159112",
@@ -2282,30 +2307,6 @@
           "ShortDescriptionLine2": "2025-02-03T20:40:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/72d31963-7231-42ec-88b1-ece1109586e6/10s/master.m3u8?fastly_token=NjdjNjJlNzBfYjQwYTUzZmRjOWRjNGQzYTg2Y2YzODI4OWJiNmQ0MWQxZmQ2OGY1NTczNTEwZDA4MjYyYjY0ZDc3NWIxMjY1YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 03.02.25",
-          "StreamerId": "6368214511112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b05b5850-b7a2-49b1-b5b7-a4f7d5b0692a/cd2db970-b90b-4a65-beec-6eede2e07873/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368214511112",
-          "Date": "2025-02-03T19:39:01Z",
-          "ShortDescriptionLine1": "Central Edition 03.02.25",
-          "ShortDescriptionLine2": "2025-02-03T19:39:01Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b05b5850-b7a2-49b1-b5b7-a4f7d5b0692a/10s/master.m3u8?fastly_token=NjdjNjI3OGRfMTRmYmI2YjIxMDQzZDUzNjIzMmYyNjU5OGM5NjhhMzMxNzNiYzY0NjNiM2U0ZGNjMzQ4MjkyOTc3YjRhNjFjNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 03.02.25",
-          "StreamerId": "6368212954112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aac5c809-5636-4675-aa3a-d3b6e7adeb0e/ecd48bb5-f3a5-49d4-a9e0-ca24bee5a07c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368212954112",
-          "Date": "2025-02-03T18:20:41Z",
-          "ShortDescriptionLine1": "The early edition 03.02.25",
-          "ShortDescriptionLine2": "2025-02-03T18:20:41Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aac5c809-5636-4675-aa3a-d3b6e7adeb0e/10s/master.m3u8?fastly_token=NjdjNjA4ZjlfYTRhYjIxOWY3NjFiNzlhZjA4ZDkzZDc4YmQ2YWIyMWNhYmRiMTA5YTE1NjIxNmJlYmVjYWFiNDhmNTdmOTEwNA%3D%3D"
           ]
         },
         {
