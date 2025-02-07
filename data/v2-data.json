@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "עושים שישי עם אריק וייס 07.02.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
+          "StreamerId": "1_bzgsjn4t",
+          "Date": "2025-02-07 18:00:10",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/j4vb1-904452048/",
+          "ShortDescriptionLine1": "Osim Shishi",
+          "ShortDescriptionLine2": "2025-02-07 18:00:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bzgsjn4t/flavorIds/1_16nlabwc,1_07741e0v,1_negekzix,1_ncyf8o6y,1_v4jptlwr,1_4ibhtwn4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 06.02.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
           "StreamerId": "1_yk9f5avp",
@@ -695,18 +707,6 @@
           "ShortDescriptionLine2": "2025-01-31 23:05:13",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hjqc9fbg/flavorIds/1_ptuwsegm,1_mqfl4aft,1_twnb9uau,1_u64ci1xv,1_rnie0489,1_nrn1ms61/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "עושים שישי עם אריק וייס 31.01.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
-          "StreamerId": "1_z3c6avif",
-          "Date": "2025-01-31 19:30:58",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/d4uwv-904444842/",
-          "ShortDescriptionLine1": "Osim Shishi",
-          "ShortDescriptionLine2": "2025-01-31 19:30:58",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_z3c6avif/flavorIds/1_ouxkmwp4,1_jcobejrb,1_m6v7m1xt,1_itfgqlmu,1_vheuan1e,1_rijt1ib7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1984,19 +1984,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: לקראת פעימת השחרור [live]",
-          "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
+          "Title": "אופירה ולוינסון: לקראת פעימת השחרור",
+          "Poster": "https://img.mako.co.il/2025/02/07/Ophira_levinson_070225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/20584518/20584518_noAdds/20584518_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/20584518/20584518_noAdds/20584518_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "935c57d5907b4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-935c57d5907b491026.htm",
           "ShortDescriptionLine2": "After Trump's statement and toward the liberation beat",
           "Date": "2025-02-07T17:59:36+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ophira and Levinson: Towards the Piping [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ophira and Levinson: Towards the Piping"
         },
         {
           "Title": "דוח מצב עם עינב וירון: התגובות לראיון של גלנט",
