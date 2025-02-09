@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 09.02.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-02-09 16:52:31",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3tuc6fvu/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3tuc6fvu/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_3tuc6fvu",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/857919",
+          "Date": "2025-02-09 16:52:31"
+        },
+        {
           "Title": "משחקי הכיס | 09.02.25",
           "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
           "ShortDescriptionLine2": "2025-02-09 15:22:09",
@@ -547,18 +559,6 @@
           "StreamerId": "1_9fu0rt6p",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/856902",
           "Date": "2025-02-06 20:46:39"
-        },
-        {
-          "Title": "העולם היום | 06.02.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-02-06 17:52:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3nc98fxf/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3nc98fxf/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_3nc98fxf",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/856885",
-          "Date": "2025-02-06 17:52:59"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -1825,30 +1825,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 09.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 09.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "6ef4d686d66c4910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-6ef4d686d66c491027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-09T18:58:57+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early Edition: 09.02.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 09.02.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20584549/20584549_noAdds/20584549_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20584549/20584549_noAdds/20584549_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "82387076466c4910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/bfa292597df74910/VOD-82387076466c491027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-09T17:55:56+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.02.25"
         },
         {
           "Title": "חמש עם רפי רשף: 09.02.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/02/09/Hamesh_090225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20584570/20584570_noAdds/20584570_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20584570/20584570_noAdds/20584570_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/February/Hamesh_090225_VOD_ds823e/Hamesh_090225_VOD_ds823e_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/February/Hamesh_090225_VOD_ds823e/Hamesh_090225_VOD_ds823e_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ce6ef809bc5c4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/2696b43b78f74910/VOD-ce6ef809bc5c491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/2696b43b78f74910/VOD-ce6ef809bc5c491026.htm",
+          "ShortDescriptionLine2": "Releasing the 3 kidnapped - and the next step in the transaction",
           "Date": "2025-02-09T16:55:36+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 09.02.25"
@@ -1857,11 +1871,11 @@
           "Title": "מהדורת היום: 09.02.25",
           "Poster": "https://img.mako.co.il/2025/02/09/Mahadurat_Hayom_090225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20584548/20584548_noAdds/20584548_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20584548/20584548_noAdds/20584548_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_090225_VOD_ayy6t9/Mahadurat_Hayom_090225_VOD_ayy6t9_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_090225_VOD_ayy6t9/Mahadurat_Hayom_090225_VOD_ayy6t9_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "093a52d8e1db4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-093a52d8e1db491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-093a52d8e1db491026.htm",
           "ShortDescriptionLine2": "The IDF completed the retreat from wicker axis",
           "Date": "2025-02-09T15:00:12+02:00",
           "Live": false,
@@ -1922,20 +1936,6 @@
           "Date": "2025-02-06T19:54:54+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 06.02.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 06.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/06/Mahadura_Mukdemet_060225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_060225_VOD_vds564/Mahadura_Mukdemet_060225_VOD_vds564_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_060225_VOD_vds564/Mahadura_Mukdemet_060225_VOD_vds564_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2764d686d66c4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-2764d686d66c491027.htm",
-          "ShortDescriptionLine2": "Parallel Panel on Trump Plan",
-          "Date": "2025-02-06T18:58:55+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 06.02.25"
         },
         {
           "Title": "פגוש את העיתונות: 01.02.25",
