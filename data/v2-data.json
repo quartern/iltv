@@ -989,6 +989,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "המרדף עונה 8 | פרק 36",
+          "ShortDescriptionLine1": "Pursuit Season 8 | Chapter 36",
+          "ShortDescriptionLine2": "2025-02-09 19:31:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2sljwoeg/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2sljwoeg/a.m3u8"
+          ],
+          "StreamerId": "1_2sljwoeg",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11534/s8/775385",
+          "Date": "2025-02-09 19:31:50"
+        },
+        {
           "Title": "סינדרום עזה | פרק 1 - נקודת העיוורון",
           "ShortDescriptionLine1": "Gaza Syndrome | Chapter 1 - The Blind Point",
           "ShortDescriptionLine2": "2025-02-09 07:39:17",
@@ -1215,18 +1227,6 @@
           "StreamerId": "1_6up8n8gu",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/852617",
           "Date": "2025-02-04 20:33:38"
-        },
-        {
-          "Title": "שי וידר בסטנד-אפ | טירונות בגולני",
-          "ShortDescriptionLine1": "Shai Vader in Stand-Up | Tyriers in the Golani",
-          "ShortDescriptionLine2": "2025-02-04 20:33:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_epc5ugr8/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_epc5ugr8/a.m3u8"
-          ],
-          "StreamerId": "1_epc5ugr8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-546636/s2/852616",
-          "Date": "2025-02-04 20:33:30"
         }
       ]
     },
@@ -1825,19 +1825,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 09.02.25 [live]",
+          "Title": "המהדורה המרכזית: 09.02.25",
           "Poster": "https://img.mako.co.il/2025/02/09/Mahadura_Merkazit_090225_VOD_01_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584552/20584552_noAdds/20584552_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584552/20584552_noAdds/20584552_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d409e3e56c6c4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-d409e3e56c6c491026.htm",
           "ShortDescriptionLine2": "New jollow evidence from captivity",
           "Date": "2025-02-09T19:54:20+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 09.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 09.02.25"
         },
         {
           "Title": "המהדורה המוקדמת: 09.02.25",
