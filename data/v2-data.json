@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 09.02.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-02-09 20:31:52",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3yc1ngy0/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3yc1ngy0/a.m3u8"
+          ],
+          "StreamerId": "1_3yc1ngy0",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/857930",
+          "Date": "2025-02-09 20:31:52"
+        },
+        {
+          "Title": "חדשות הערב | 09.02.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-02-09 20:22:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tdl8cj1w/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_tdl8cj1w/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_tdl8cj1w",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/857928",
+          "Date": "2025-02-09 20:22:53"
+        },
+        {
           "Title": "שבע עם איילה חסון | 09.02.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-02-09 18:46:18",
@@ -535,30 +559,6 @@
           "StreamerId": "1_qgk8ahgb",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/857256",
           "Date": "2025-02-07 20:59:54"
-        },
-        {
-          "Title": "חדשות הערב | 06.02.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-02-06 23:03:12",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_wk3dh6rs/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wk3dh6rs/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_wk3dh6rs",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/856898",
-          "Date": "2025-02-06 23:03:12"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 06.02.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-02-06 20:46:39",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9fu0rt6p/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9fu0rt6p/a.m3u8"
-          ],
-          "StreamerId": "1_9fu0rt6p",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/856902",
-          "Date": "2025-02-06 20:46:39"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -1828,11 +1828,11 @@
           "Title": "המהדורה המרכזית: 09.02.25",
           "Poster": "https://img.mako.co.il/2025/02/09/Mahadura_Merkazit_090225_VOD_01_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584552/20584552_noAdds/20584552_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584552/20584552_noAdds/20584552_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_090225_VOD_sopi789/Mahadura_Merkazit_090225_VOD_sopi789_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_090225_VOD_sopi789/Mahadura_Merkazit_090225_VOD_sopi789_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d409e3e56c6c4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-d409e3e56c6c491026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-d409e3e56c6c491026.htm",
           "ShortDescriptionLine2": "New jollow evidence from captivity",
           "Date": "2025-02-09T19:54:20+02:00",
           "Live": false,
