@@ -1825,19 +1825,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 10.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 10.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "6355d686d66c4910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-6355d686d66c491027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-10T18:58:35+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 10.02.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 10.02.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20584577/20584577_noAdds/20584577_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20584577/20584577_noAdds/20584577_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "5c787076466c4910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/bfa292597df74910/VOD-5c787076466c491027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-10T17:55:28+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 10.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 10.02.25"
         },
         {
           "Title": "חמש עם רפי רשף: 10.02.25",
@@ -1880,20 +1894,6 @@
           "Date": "2025-02-09T19:54:20+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 09.02.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 09.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/09/Mahadura_Mukdemet_090225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_090225_VOD_sce435/Mahadura_Mukdemet_090225_VOD_sce435_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/February/Mahadura_Mukdemet_090225_VOD_sce435/Mahadura_Mukdemet_090225_VOD_sce435_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6ef4d686d66c4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-6ef4d686d66c491027.htm",
-          "ShortDescriptionLine2": "New evidence of Or Levi's hard conditions in captivity",
-          "Date": "2025-02-09T18:58:57+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early Edition: 09.02.25"
         },
         {
           "Title": "חדשות סוף השבוע: 08.02.25",
@@ -2130,6 +2130,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 10.02.25",
+          "StreamerId": "6368611170112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/32bbdbaa-e1d1-4cba-8b7a-51296d13c2f5/3b5afa5c-492c-4993-9a52-a7c4304cc4a8/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368611170112",
+          "Date": "2025-02-10T17:09:01Z",
+          "ShortDescriptionLine1": "Gilboa Index 10.02.25",
+          "ShortDescriptionLine2": "2025-02-10T17:09:01Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/32bbdbaa-e1d1-4cba-8b7a-51296d13c2f5/10s/master.m3u8?fastly_token=NjdjZjMzZjJfNGZlZDgzNDU0ZTUwZTNlMWU5NjM0NjhhZTFhYTJmOTUxZWU1NDFkOGE3MTY2OGRjMWNkZjgzNzA4YTlkY2Y3Nw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 10.02.25",
           "StreamerId": "6368606645112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c48ee079-c08e-492a-a50e-17f7f55e0883/2daa3896-d6d0-4fdb-86a2-dc6a8f90c65e/320x180/match/image.jpg",
@@ -2343,18 +2355,6 @@
           "ShortDescriptionLine2": "2025-02-06T20:50:34Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/72fab33c-c72c-4593-9af5-d4f510aa1668/10s/master.m3u8?fastly_token=NjdjYTIxMzZfZWIzNjJkZDVkOGY5ZjQwZTY4YmU3ZDBlZDFlMTg3ODc4YmRiOGY0YWUzOGJiYzY4ZTk2YzUwZDlhNDRlNmU0NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 06.02.25",
-          "StreamerId": "6368384331112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3eac365-c836-4b30-9d98-2b88a27d7d5c/087e7f71-c690-440c-aff6-c9611fa606b7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368384331112",
-          "Date": "2025-02-06T18:00:10Z",
-          "ShortDescriptionLine1": "Gilboa Index 06.02.25",
-          "ShortDescriptionLine2": "2025-02-06T18:00:10Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3eac365-c836-4b30-9d98-2b88a27d7d5c/10s/master.m3u8?fastly_token=NjdjOWZmODdfZWFiOGU1YThiMTNhYmRiYTY4NWMzODM1ZmY2NGI0MjZkNWI0YjA0ODBmMDAxY2EwY2ViY2VjZTM0OWIyZmI0YQ%3D%3D"
           ]
         },
         {
