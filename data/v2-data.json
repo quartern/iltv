@@ -1813,6 +1813,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 12.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ef397076466c4910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/bfa292597df74910/VOD-ef397076466c491027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-12T17:55:30+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 12.02.25 [live]"
+        },
+        {
           "Title": "חמש עם רפי רשף: 12.02.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1867,20 +1882,6 @@
           "Date": "2025-02-11T18:59:54+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 11.02.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 11.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/11/Shesh_110225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/February/Shesh_110225_VOD_fdhj873w/Shesh_110225_VOD_fdhj873w_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/February/Shesh_110225_VOD_fdhj873w/Shesh_110225_VOD_fdhj873w_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "54097076466c4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/bfa292597df74910/VOD-54097076466c491027.htm",
-          "ShortDescriptionLine2": "Trump's ultimatum",
-          "Date": "2025-02-11T17:55:33+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 11.02.25"
         },
         {
           "Title": "חדשות סוף השבוע: 08.02.25",
@@ -2117,6 +2118,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 12.02.25",
+          "StreamerId": "6368711075112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/83ba4f97-23e4-4e0a-aca4-4b51b67ca9a7/47e70481-3a04-43a5-82db-3587ac85df97/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368711075112",
+          "Date": "2025-02-12T16:00:00Z",
+          "ShortDescriptionLine1": "Edition five 12.02.25",
+          "ShortDescriptionLine2": "2025-02-12T16:00:00Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/83ba4f97-23e4-4e0a-aca4-4b51b67ca9a7/10s/master.m3u8?fastly_token=NjdkMWM5NzRfZGQyZDI4NjFhMzU4OTIyNWQ0ZTIwMzYwZDdkNjQxNDFhODY5MDk3YjNlNGYxMmEzZDFjNWU3OTcwM2E0ZmVjOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 12.02.25",
           "StreamerId": "6368706435112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/70c0c7f7-c6b6-492f-878c-ee88adba2354/4eeefc13-40a4-471a-bf16-6853644f44cf/320x180/match/image.jpg",
@@ -2342,18 +2355,6 @@
           "ShortDescriptionLine2": "2025-02-10T17:09:01Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/32bbdbaa-e1d1-4cba-8b7a-51296d13c2f5/10s/master.m3u8?fastly_token=NjdjZjMzZjJfNGZlZDgzNDU0ZTUwZTNlMWU5NjM0NjhhZTFhYTJmOTUxZWU1NDFkOGE3MTY2OGRjMWNkZjgzNzA4YTlkY2Y3Nw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 10.02.25",
-          "StreamerId": "6368606645112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c48ee079-c08e-492a-a50e-17f7f55e0883/2daa3896-d6d0-4fdb-86a2-dc6a8f90c65e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368606645112",
-          "Date": "2025-02-10T15:59:40Z",
-          "ShortDescriptionLine1": "The edition five 10.02.25",
-          "ShortDescriptionLine2": "2025-02-10T15:59:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c48ee079-c08e-492a-a50e-17f7f55e0883/10s/master.m3u8?fastly_token=NjdjZjI2ZTVfMTAxNTU1YTk4NDk2MGNhYzllYTVkNDRkYjVkYzBiMGJkMzE3ZTBkZGEwMTJkZmVkMTQ0MGI0NDBhZGJkMmU2Mw%3D%3D"
           ]
         },
         {
