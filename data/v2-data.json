@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 12.02.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-02-12 21:38:15",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4mn1z7er/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4mn1z7er/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_4mn1z7er",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/859291",
+          "Date": "2025-02-12 21:38:15"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 12.02.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-02-12 20:30:28",
@@ -523,18 +535,6 @@
           "StreamerId": "1_ocj2zq4g",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/859267",
           "Date": "2025-02-12 15:19:42"
-        },
-        {
-          "Title": "חדשות הלילה | 11.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-11 21:35:33",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_c0x4wewr/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_c0x4wewr/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_c0x4wewr",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/858714",
-          "Date": "2025-02-11 21:35:33"
         },
         {
           "Title": "חדשות השבת | 08.02.25",
@@ -2101,10 +2101,11 @@
           "Title": "ארץ נהדרת: תכנית מיוחדת",
           "Poster": "https://img.mako.co.il/2025/02/12/Eretz_Nehederet22_13_120225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/makostore-hd.akamaized.net/i/SHORT/ErrorMessage/eror_2/eror_2_,550,850,1400,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_13_120225_VOD_yh56y/Eretz_Nehederet22_13_120225_VOD_yh56y_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_13_120225_VOD_yh56y/Eretz_Nehederet22_13_120225_VOD_yh56y_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0672a866fa9f4910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-0672a866fa9f491027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-0672a866fa9f491027.htm",
           "ShortDescriptionLine2": "Trump, Bibi, Smutrich and more come to the studio",
           "Date": "",
           "Live": false,
