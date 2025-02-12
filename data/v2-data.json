@@ -1813,19 +1813,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 12.02.25",
+          "Poster": "https://img.mako.co.il/2025/02/12/Mahadura_Merkazit_120225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584639/20584639_noAdds/20584639_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584639/20584639_noAdds/20584639_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f41ae3e56c6c4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-f41ae3e56c6c491026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Three days before beating - heavy pressure on Hamas",
           "Date": "2025-02-12T19:54:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 12.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 12.02.25"
         },
         {
           "Title": "המהדורה המוקדמת: 12.02.25",
@@ -1973,6 +1972,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: תכנית מיוחדת",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/makostore-hd.akamaized.net/i/SHORT/ErrorMessage/eror_2/eror_2_,550,850,1400,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "0672a866fa9f4910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-0672a866fa9f491027.htm",
+          "ShortDescriptionLine2": "Trump, Bibi, Smutrich and more come to the studio",
+          "Date": "2025-02-12T22:33:34+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: SPECIAL Plan"
+        },
+        {
           "Title": "נסלי ויואב: חזרתו של אוהד בן עמי",
           "Poster": "https://img.mako.co.il/2025/02/12/Nesli_Yoav_120225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2027,20 +2039,6 @@
           "Date": "2025-02-06T22:53:58+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Status Report with Einav and Yaron: The reactions to the interview of Galant"
-        },
-        {
-          "Title": "ארץ נהדרת: מהדורה מיוחדת מהבית הלבן",
-          "Poster": "https://img.mako.co.il/2025/02/05/Eretz_Nehederet22_12_050225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_12_050225_VOD_jkhbe8/Eretz_Nehederet22_12_050225_VOD_jkhbe8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_12_050225_VOD_jkhbe8/Eretz_Nehederet22_12_050225_VOD_jkhbe8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e821c36b815d4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-e821c36b815d491026.htm",
-          "ShortDescriptionLine2": "Special broadcast from the Washington summit",
-          "Date": "2025-02-05T22:18:40+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Special Edition from White House"
         },
         {
           "Title": "עובדה: עמית סוסנה מדברת",
@@ -2117,6 +2115,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 12.02.25",
+          "StreamerId": "6368720275112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c944c3b4-f717-4df4-b053-1bfac0d5220e/8ce1fc0c-e7be-4d7a-93e2-78dc958283d1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368720275112",
+          "Date": "2025-02-12T19:24:24Z",
+          "ShortDescriptionLine1": "Central Edition 12.02.25",
+          "ShortDescriptionLine2": "2025-02-12T19:24:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c944c3b4-f717-4df4-b053-1bfac0d5220e/10s/master.m3u8?fastly_token=NjdkMjAxMTZfZmUwMTMzYTA2NjYwMzRkODYzYTY3MzJjZDY5OTM4NGQ3NjcxZDhmMGEzNzVhNjc0NWY2ZDNkNGJlYzg2NzcwOQ%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המוקדמת - 12.12.25",
           "StreamerId": "6368715080112",
@@ -2343,18 +2353,6 @@
           "ShortDescriptionLine2": "2025-02-10T20:38:46Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7614ae4c-425d-4e0d-9a4c-c9c8ede171d5/10s/master.m3u8?fastly_token=NjdjZjY3MTBfMTQ5ZDhiMDMwMzMwMDI5YjAyZTYzMWUxYzgxN2E5NDQwZjUyNmQzNjM4ZGI5NTgyNGQ4OTViYWIyNWYxMWNmNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 10.02.25",
-          "StreamerId": "6368615041112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/eacf72b9-5587-448f-9ba7-5c80030f1608/83c081be-1124-477e-b052-fe2a75427d4e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368615041112",
-          "Date": "2025-02-10T19:36:58Z",
-          "ShortDescriptionLine1": "Central Edition 10.02.25",
-          "ShortDescriptionLine2": "2025-02-10T19:36:58Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/eacf72b9-5587-448f-9ba7-5c80030f1608/10s/master.m3u8?fastly_token=NjdjZjVlYjVfZjk0Y2Y1ODEzYWRmNTM4MmQyNWU4NmRmMzY5YTExZjNhNzFkOGE4MGQzYTEyYWRjOTViZDkwOTVlMDRkMTk5NQ%3D%3D"
           ]
         },
         {
