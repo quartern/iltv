@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 13.02.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-02-13 22:01:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_eknxmc4m/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_eknxmc4m/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_eknxmc4m",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/859645",
+          "Date": "2025-02-13 22:01:29"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 13.02.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-02-13 20:54:03",
@@ -511,18 +523,6 @@
           "StreamerId": "1_gc2jnmn5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/859638",
           "Date": "2025-02-13 15:37:24"
-        },
-        {
-          "Title": "חדשות הלילה | 12.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-12 21:38:15",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4mn1z7er/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4mn1z7er/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_4mn1z7er",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/859291",
-          "Date": "2025-02-12 21:38:15"
         },
         {
           "Title": "חדשות השבת | 08.02.25",
@@ -1996,19 +1996,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: אם החטוף שוברת שתיקה [live]",
+          "Title": "דוח מצב עם עינב וירון: אם החטוף שוברת שתיקה",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20584669/20584669_noAdds/20584669_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20584669/20584669_noAdds/20584669_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "cde707c6d7ef4910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-cde707c6d7ef491027.htm",
           "ShortDescriptionLine2": "After receiving a life signal - if the kidnapped silence",
           "Date": "2025-02-13T22:58:16+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: If the kidnapped silence [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: If the kidnapped silence"
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
