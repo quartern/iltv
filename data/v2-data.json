@@ -1849,6 +1849,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 14.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9370a5a07e5c4910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/7469b43b78f74910/VOD-9370a5a07e5c491026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-14T19:52:05+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Friday Studio: 14.02.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 13.02.25",
           "Poster": "https://img.mako.co.il/2025/02/13/Mahadura_Merkazit_130225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1945,20 +1960,6 @@
           "Date": "2025-02-08T06:56:58+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Young Edition: 08.02.25"
-        },
-        {
-          "Title": "אולפן שישי: 07.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/07/Ulpan_Shishi_070225_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2025/February/Ulpan_Shishi_070225_VOD_fww242/Ulpan_Shishi_070225_VOD_fww242_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2025/February/Ulpan_Shishi_070225_VOD_fww242/Ulpan_Shishi_070225_VOD_fww242_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23d09dd0dd5c4910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/ulpan-shishi-2025/7469b43b78f74910/VOD-23d09dd0dd5c491026.htm",
-          "ShortDescriptionLine2": "Special Document: Keith Sigal returns to life",
-          "Date": "2025-02-07T19:55:22+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Friday Studio: 07.02.25"
         },
         {
           "Title": "פגוש את העיתונות: 01.02.25",
