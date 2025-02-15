@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 15.02.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_a36fst4n",
+          "Date": "2025-02-15 21:00:33",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/sxy4b-904463996/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-02-15 21:00:33",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_a36fst4n/flavorIds/1_2fxhjubq,1_fcmhiche,1_c90upfhb,1_z8fzsf06,1_h3cqgeqh,1_nlw8mwaf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "זמן שישי 14.02.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1704450783/uploads/2024/903879561.jpg",
           "StreamerId": "1_7bioxhw5",
@@ -647,18 +659,6 @@
           "ShortDescriptionLine2": "2025-02-13 22:45:40",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_th7kwv41/flavorIds/1_31loqz38,1_b7zhucjs,1_6raaz1v7,1_lvgxtyk6,1_zcot3x5v/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 13.02.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_pdsytzv0",
-          "Date": "2025-02-13 21:03:48",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/hmhwo-904461738/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-02-13 21:03:48",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pdsytzv0/flavorIds/1_5nn6gu4k,1_8t8hqcxd,1_946l0eru,1_4g65f3y8,1_hdmbw5sa/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1510,6 +1510,18 @@
           "Date": "2024-01-10 10:35:56"
         },
         {
+          "Title": "מוקף באהבה: שגיא חזר לאשתו הלביאה - ושמע שנולדה לו ילדה",
+          "ShortDescriptionLine1": "Surrounded with love: Sagi returned to his wife's wife - and heard that he was born to a girl",
+          "ShortDescriptionLine2": "2025-02-15 19:52:00",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h14flatf/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h14flatf/a.m3u8"
+          ],
+          "StreamerId": "1_h14flatf",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/860453",
+          "Date": "2025-02-15 19:52:00"
+        },
+        {
           "Title": "בשביל הגיבורות: הטקס לזכר התצפיתניות שנפלו בנחל עוז",
           "ShortDescriptionLine1": "For the heroines: the ceremony in the observational fell in Nahal Oz",
           "ShortDescriptionLine2": "2025-02-14 21:08:37",
@@ -1556,18 +1568,6 @@
           "StreamerId": "1_owparvix",
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/859942",
           "Date": "2025-02-13 20:52:06"
-        },
-        {
-          "Title": "כפפת אמילי דמארי ותחפושות של לוחמות: המלחמה כובשת את פורים",
-          "ShortDescriptionLine1": "Emily Damari glove and warriors' costumes: the war occupies Purim",
-          "ShortDescriptionLine2": "2025-02-13 20:26:44",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_94e22n5a/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_94e22n5a/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_94e22n5a",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/859953",
-          "Date": "2025-02-13 20:26:44"
         }
       ]
     },
@@ -1861,19 +1861,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 15.02.25 [live]",
+          "Title": "חדשות סוף השבוע: 15.02.25",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20584724/20584724_noAdds/20584724_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20584724/20584724_noAdds/20584724_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3b1b4d35e26c4910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/8ed5b43b78f74910/VOD-3b1b4d35e26c491026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-15T19:53:49+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend News: 15.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend News: 15.02.25"
         },
         {
           "Title": "שבת בחמש: 15.02.25",
@@ -2180,6 +2179,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 15.02.25",
+          "StreamerId": "6368891214112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a2aae34d-e4e6-4512-bd69-ce48eef997a4/0b42c004-87cf-4c3d-88e6-97686558b305/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368891214112",
+          "Date": "2025-02-15T19:35:00Z",
+          "ShortDescriptionLine1": "Central Edition 15.02.25",
+          "ShortDescriptionLine2": "2025-02-15T19:35:00Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a2aae34d-e4e6-4512-bd69-ce48eef997a4/10s/master.m3u8?fastly_token=NjdkNWY5M2NfYzYxOTNmN2MwNDQ3ZDhlYTg5MzJiYjdlNDI0YjBhODZhYzAyMmRmNjY4MzA1MDMwOGYwNGEyZmMzM2IxOTE1Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי 14.2.25",
           "StreamerId": "6368841061112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8424f14a-7c9d-49ac-99b3-4777b3737e4c/5aeac288-a9c4-4286-857b-8d31ae066425/320x180/match/image.jpg",
@@ -2321,18 +2332,6 @@
           "ShortDescriptionLine2": "2025-02-12T20:54:23Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a1310d12-e4ee-4050-9794-8525af8dc2bf/10s/master.m3u8?fastly_token=NjdkMjEyMDlfYzMxMjI0ZWY3YTlhYjYxOGRjNmNmNzI4YzAxMjlmZjM5YTZkMzJjZjM2MDIwNWNmMTdhMmQxNzc4MTlkNzFjYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 12.02.25",
-          "StreamerId": "6368720275112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c944c3b4-f717-4df4-b053-1bfac0d5220e/8ce1fc0c-e7be-4d7a-93e2-78dc958283d1/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6368720275112",
-          "Date": "2025-02-12T19:24:24Z",
-          "ShortDescriptionLine1": "Central Edition 12.02.25",
-          "ShortDescriptionLine2": "2025-02-12T19:24:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c944c3b4-f717-4df4-b053-1bfac0d5220e/10s/master.m3u8?fastly_token=NjdkMjAxMTZfZmUwMTMzYTA2NjYwMzRkODYzYTY3MzJjZDY5OTM4NGQ3NjcxZDhmMGEzNzVhNjc0NWY2ZDNkNGJlYzg2NzcwOQ%3D%3D"
           ]
         },
         {
