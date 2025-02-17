@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 17.02.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
+          "StreamerId": "1_0nzm68gu",
+          "Date": "2025-02-17 23:59:36",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/hasps-904467541/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-02-17 23:59:36",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0nzm68gu/flavorIds/1_k1vmulpa,1_87ylg2h1,1_mtwqfx6b,1_2c2elwvy,1_cr95ffdx,1_efc7hugg/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 17.02.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_g4vjyweh",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-02-17 18:00:11",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zokf3iif/flavorIds/1_sxgbhmjn,1_hfob677n,1_2pfe8cpm,1_ojdvvjwk,1_vlqgqdnq,1_pkyjs8t5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 16.02.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
-          "StreamerId": "1_stpo6ax2",
-          "Date": "2025-02-16 23:59:34",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/tmgsw-904465809/",
-          "ShortDescriptionLine1": "On This Day",
-          "ShortDescriptionLine2": "2025-02-16 23:59:34",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_stpo6ax2/flavorIds/1_8t57uejt,1_9y84t73w,1_heml8a5u,1_1snumi08,1_mgr2eqqb,1_227nsryh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2044,19 +2044,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20584786/20584786_noAdds/20584786_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20584786/20584786_noAdds/20584786_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "89a2281f96315910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-89a2281f9631591026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-02-17T23:42:43+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: 500 ימים למלחמה",
