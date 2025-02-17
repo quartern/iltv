@@ -989,6 +989,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אוכל מהצומח | פרק 5 - סין",
+          "ShortDescriptionLine1": "Food from plant | Chapter 5 - China",
+          "ShortDescriptionLine2": "2025-02-17 10:03:21",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yejrtwvq/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yejrtwvq/a.m3u8"
+          ],
+          "StreamerId": "1_yejrtwvq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833777/%D7%A2%D7%95%D7%A0%D7%94-1/833787",
+          "Date": "2025-02-17 10:03:21"
+        },
+        {
           "Title": "בוש | פרק 9 - טירת הקסמים",
           "ShortDescriptionLine1": "Bush | Chapter 9 - The vineyard castle",
           "ShortDescriptionLine2": "2025-02-16 21:50:31",
@@ -1215,18 +1227,6 @@
           "StreamerId": "1_wm8gfvsw",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11606/s4/851299",
           "Date": "2025-02-11 19:58:45"
-        },
-        {
-          "Title": "קופה ראשית עונה 5 | פרק 14 - המזל של ניסים",
-          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 14 - Luck of miracles",
-          "ShortDescriptionLine2": "2025-02-11 19:29:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vi0ry1k9/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vi0ry1k9/a.m3u8"
-          ],
-          "StreamerId": "1_vi0ry1k9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809185",
-          "Date": "2025-02-11 19:29:50"
         }
       ]
     },
@@ -2020,19 +2020,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: 500 ימים למלחמה [live]",
+          "Title": "נסלי ויואב: 500 ימים למלחמה",
           "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/20584785/20584785_noAdds/20584785_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/20584785/20584785_noAdds/20584785_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "74133511ddd05910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-74133511ddd0591026.htm",
           "ShortDescriptionLine2": "American pressure and Netanyahu's decision",
           "Date": "2025-02-17T09:35:01+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: 500 days for war [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: 500 days for war"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: היום ה-500 למלחמה",
