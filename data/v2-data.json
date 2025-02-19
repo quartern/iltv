@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 19.02.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-02-19 22:05:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8hecaqdt/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_8hecaqdt/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_8hecaqdt",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/861930",
+          "Date": "2025-02-19 22:05:40"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 19.02.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-02-19 21:05:12",
@@ -523,18 +535,6 @@
           "StreamerId": "1_t0ljhrzj",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/861880",
           "Date": "2025-02-19 15:22:17"
-        },
-        {
-          "Title": "חדשות הלילה | 18.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-19 07:33:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_wlwb67hw/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wlwb67hw/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_wlwb67hw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/861380",
-          "Date": "2025-02-19 07:33:50"
         },
         {
           "Title": "חדשות השבת | 15.02.25",
@@ -1888,11 +1888,11 @@
           "Title": "המהדורה המרכזית: 19.02.25",
           "Poster": "https://img.mako.co.il/2025/02/19/Mahadura_Merkazit_190225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20584832/20584832_noAdds/20584832_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20584832/20584832_noAdds/20584832_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_190225_VOD_iui8/Mahadura_Merkazit_190225_VOD_iui8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_190225_VOD_iui8/Mahadura_Merkazit_190225_VOD_iui8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2417c9bd35905910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-2417c9bd3590591026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-2417c9bd3590591026.htm",
           "ShortDescriptionLine2": "Israel has received the list of spaces that are supposed to be released",
           "Date": "2025-02-19T19:53:46+02:00",
           "Live": false,
