@@ -1897,19 +1897,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 23.02.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 23.02.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "2197c9bd35905910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-2197c9bd3590591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-02-23T19:53:22+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 23.02.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 23.02.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584938/20584938_noAdds/20584938_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20584938/20584938_noAdds/20584938_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "52a18a6824905910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-52a18a682490591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-23T18:58:52+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early Edition: 23.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 23.02.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 23.02.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-02-21T19:53:27+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Friday Studio: 21.02.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 20.02.25",
-          "Poster": "https://img.mako.co.il/2025/02/20/Mahadura_Merkazit_200225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_200225_VOD_ytr852/Mahadura_Merkazit_200225_VOD_ytr852_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/February/Mahadura_Merkazit_200225_VOD_ytr852/Mahadura_Merkazit_200225_VOD_ytr852_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ef37c9bd35905910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/12beb43b78f74910/VOD-ef37c9bd3590591026.htm",
-          "ShortDescriptionLine2": "4 The abducted spaces were returned to Israel",
-          "Date": "2025-02-20T19:54:47+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 20.02.25"
         },
         {
           "Title": "פגוש את העיתונות: 15.02.25",
