@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 24.02.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
+          "StreamerId": "1_rsyb20f4",
+          "Date": "2025-02-25 00:28:17",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/ufd4v-904478191/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-02-25 00:28:17",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rsyb20f4/flavorIds/1_9bi1tqsi,1_aif7de9f,1_apz54wrk,1_ywuhesen,1_cp2khilv,1_d3yte55p/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 24.02.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_7vndqtok",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-02-24 18:17:06",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_d0elc2c4/flavorIds/1_9am2kcnk,1_toxmt83h,1_val1d6v8,1_z2p3s1uz,1_x70a3ass,1_znx05pnk/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 23.02.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
-          "StreamerId": "1_gjaavld3",
-          "Date": "2025-02-23 23:59:39",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/ml6g9-904476563/",
-          "ShortDescriptionLine1": "On This Day",
-          "ShortDescriptionLine2": "2025-02-23 23:59:39",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gjaavld3/flavorIds/1_4p07l1b0,1_8pjmbwm3,1_6qaudij5,1_541od97o,1_jay0c35j,1_e43rfe7e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2056,19 +2056,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/02/25/Avri_Sherki_240225_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20584981/20584981_noAdds/20584981_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20584981/20584981_noAdds/20584981_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "66196f7a31735910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-66196f7a3173591026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-02-24T23:42:16+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "עובדה: וולקאם טו דמשק",
@@ -2079,7 +2078,7 @@
           ],
           "StreamerId": "6f036f7a31735910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-6f036f7a3173591026.htm",
-          "ShortDescriptionLine2": "Me Angel with special documentation from the Syrian capital",
+          "ShortDescriptionLine2": "Me Angel in a special documentation from the Syrian capital",
           "Date": "2025-02-24T21:32:46+02:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: Volcam Tu Damascus"
