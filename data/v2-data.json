@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 25.02.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-02-25 21:38:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3gd0vybw/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3gd0vybw/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_3gd0vybw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/864334",
+          "Date": "2025-02-25 21:38:55"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 25.02.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-02-25 20:38:00",
@@ -523,18 +535,6 @@
           "StreamerId": "1_uiiyfs4w",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/864325",
           "Date": "2025-02-25 15:55:49"
-        },
-        {
-          "Title": "חדשות הלילה | 24.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-24 22:15:11",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ujonibpj/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ujonibpj/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ujonibpj",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/863920",
-          "Date": "2025-02-24 22:15:11"
         },
         {
           "Title": "חדשות השבת | 22.02.25",
@@ -2056,6 +2056,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c168a68f62c35910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-c168a68f62c3591026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-02-25T23:41:54+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: הסכם החטופים יימשך?",
           "Poster": "https://img.mako.co.il/2025/02/25/Nesli_Yoav_250225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2082,20 +2097,6 @@
           "Date": "2025-02-25T07:11:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: Signal from captivity"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/25/Avri_Sherki_240225_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/February/Avri_Sherki_240225_VOD_poja0912/Avri_Sherki_240225_VOD_poja0912_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/February/Avri_Sherki_240225_VOD_poja0912/Avri_Sherki_240225_VOD_poja0912_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "66196f7a31735910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-66196f7a3173591026.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-02-24T23:42:16+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "עובדה: וולקאם טו דמשק",
@@ -2229,6 +2230,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "שעות דרמטיות לקראת הכרעה: האם מתקרב רגע החזרה ללחימה בעזה? ",
+          "StreamerId": "6369315378112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/659a9555-113a-4b84-ba95-d58633914b57/8655b83b-ffd4-4937-8662-d75da824c459/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369315378112",
+          "Date": "2025-02-25T21:26:43Z",
+          "ShortDescriptionLine1": "Dramatic hours for a decision: Is it approaching the repetition of fighting in Gaza?",
+          "ShortDescriptionLine2": "2025-02-25T21:26:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/659a9555-113a-4b84-ba95-d58633914b57/10s/master.m3u8?fastly_token=NjdlMzI4ZjRfNzVhZDQ2ZjQzYzFjMTM2YTg2OTRmMTJjNjc5Mzk1ZDQ0NzczYjhlNzVlOGY5MDNmZGMxN2Y2NWYyMTBkMWQwNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "המועדון העסקי 25.02.25",
+          "StreamerId": "6369314183112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/516bcde8-5cff-4507-8a86-ea078cbe1b56/aa2e53ec-4b39-42a0-9488-f25a5fa623c1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369314183112",
+          "Date": "2025-02-25T21:20:27Z",
+          "ShortDescriptionLine1": "Business Club 25.02.25",
+          "ShortDescriptionLine2": "2025-02-25T21:20:27Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/516bcde8-5cff-4507-8a86-ea078cbe1b56/10s/master.m3u8?fastly_token=NjdlMzMwY2VfNjAxZGMxOTA4ZTZhYzgwOTE5ODQ0Njk1M2M0NTlkYjVmYTJkNTYxZWNkMTAwNDJkYWNkNzAxN2RkOGQ3ZDQ0ZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 25.02.25",
           "StreamerId": "6369314647112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/05d630e8-d323-4e42-abbc-4652cf219408/bd73c1f0-1d0e-4e97-8882-72c628c496ca/320x180/match/image.jpg",
@@ -2346,18 +2371,6 @@
           "ShortDescriptionLine2": "2025-02-24T22:00:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b3c6b9f9-4cc3-4de4-8cc6-3b6ed5b2a053/10s/master.m3u8?fastly_token=NjdlMWUzYmFfMDM0ZGM0NTM2MTY4ZjE5MTYyMTU5Mjk4MTlkZDg4MGZmZjRkYTFmYWM1Nzg3Y2IxYzJlZDU2YzgwYWYzOGQ0Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "האם ראש הממשלה יכול לנהל משפט ומלחמה בו זמנית?",
-          "StreamerId": "6369275560112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/02868aeb-982b-4287-92d1-5428ca4c690c/e921e08f-8b8b-42b0-ba04-bb06f21cb42d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369275560112",
-          "Date": "2025-02-24T21:32:42Z",
-          "ShortDescriptionLine1": "Can the prime minister run a trial and war at the same time?",
-          "ShortDescriptionLine2": "2025-02-24T21:32:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/02868aeb-982b-4287-92d1-5428ca4c690c/10s/master.m3u8?fastly_token=NjdlMWQ3OGJfZjI1NzAyYjgyOWEzZjFlNzFiMGE0OGQ5YmNmYTA0MDE2MDUwMTVmZTUwMjIyOTViOTlhNDhiY2M2ZDVhMWYxYQ%3D%3D"
           ]
         },
         {
@@ -2514,18 +2527,6 @@
           "ShortDescriptionLine2": "2025-02-21T21:51:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8038e9f9-1fbd-4f90-8f59-e74269ad6965/10s/master.m3u8?fastly_token=NjdkZTA4NzBfYmVjZmYyNzM1NGU3ODgzZDE5NmVjMTVmNjgzYTFlOGI1ZmU1YzhlY2E5YTQzMjUwNWM5MDU0YTg0MGIwZTc5Yg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 19.02.25",
-          "StreamerId": "6369063598112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5c20d5b6-63bc-4185-842d-ac93c3ec2d0b/66dd3af6-833f-4e84-970a-a7be592507f5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369063598112",
-          "Date": "2025-02-19T21:06:42Z",
-          "ShortDescriptionLine1": "Business Club 19.02.25",
-          "ShortDescriptionLine2": "2025-02-19T21:06:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5c20d5b6-63bc-4185-842d-ac93c3ec2d0b/10s/master.m3u8?fastly_token=NjdkYjNmYzRfMDFhZTBlMzYzNTU3MmViYjhhODY2NDdjMGMxM2JlNTNkOGRjNDg5NzZiOTM1NDUxYWI1MTkyZTZkYmI1ZTRlOA%3D%3D"
           ]
         },
         {
