@@ -2074,11 +2074,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: 4 חטופים חללים בישראל",
           "Poster": "https://img.mako.co.il/2025/02/27/Hadshot_Haboker_270225_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/20585061/20585061_noAdds/20585061_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/20585061/20585061_noAdds/20585061_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/February/Hadshot_Haboker_270225_VOD_lwqe654/Hadshot_Haboker_270225_VOD_lwqe654_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/February/Hadshot_Haboker_270225_VOD_lwqe654/Hadshot_Haboker_270225_VOD_lwqe654_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "22676331c1145910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-22676331c114591027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-22676331c114591027.htm",
           "ShortDescriptionLine2": "4 Hooded Spaces have been transferred to Israel",
           "Date": "2025-02-27T07:11:54+02:00",
           "Live": false,
@@ -2230,6 +2230,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים חלק ב' 27.02.25",
+          "StreamerId": "6369393510112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/46bc4833-99d9-4f55-afea-4274a20c0c51/f5e59a96-decb-4663-ae87-91f2be269667/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369393510112",
+          "Date": "2025-02-27T13:19:06Z",
+          "ShortDescriptionLine1": "Lunch Edition Part 27.02.25",
+          "ShortDescriptionLine2": "2025-02-27T13:19:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/46bc4833-99d9-4f55-afea-4274a20c0c51/10s/master.m3u8?fastly_token=NjdlNTZmZTdfMDIwZGNkM2M2OWVmMDgzMTg5YTMzZDJkYWQwZTE1MzBhYTNjZTZmNDZjNmU0NjVmOGRiMDU1YWNhOTdmNmVjNw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת הצוהריים חלק א' 27.02.25",
+          "StreamerId": "6369390663112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2837081c-1fe8-4622-8f72-0153994ec890/b4b72e3f-179f-4c42-8919-412c195d5a9e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369390663112",
+          "Date": "2025-02-27T13:17:37Z",
+          "ShortDescriptionLine1": "Lunch Edition Part I. 27.02.25",
+          "ShortDescriptionLine2": "2025-02-27T13:17:37Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2837081c-1fe8-4622-8f72-0153994ec890/10s/master.m3u8?fastly_token=NjdlNTcwYTVfMWJjMGU1NGE0MzUyMmJmODg1NWE3ZTYzMTMyMWEzNzU1MGM2NGY1M2Y3OWM5OTM4ZGEzNTliNzQxYWM5ODYyMw%3D%3D"
+          ]
+        },
+        {
           "Title": "לואיס הר שחולץ משבי חמאס: \"כמה שזה עצוב, צריך לעבור את התהליך הזה ולהבין שהם לא חוזרים וזו המציאות\"",
           "StreamerId": "6369383056112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/007edc98-0434-4d57-b321-9c5b714b8a1d/31a0b553-ebe1-44f3-ab11-3991c129a416/320x180/match/image.jpg",
@@ -2311,30 +2335,6 @@
           "ShortDescriptionLine2": "2025-02-26T15:57:44Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fc6d8441-9522-44b0-a82c-5c09188d7f5e/10s/master.m3u8?fastly_token=NjdlNDQxZTJfOWY3NTRjMWIyZGY3NzJiODE1ZGJmMWVkMWEwMzM5ODZiNTM1Njc2NjU0ZjFlNzVkMzRhOGNjYTY5OTk3NzVjZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 26.02.25 חלק א'",
-          "StreamerId": "6369343855112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4a9361a7-4dae-463e-80d6-5893714728eb/48eb68fe-f156-4b29-90c9-d519cbab6f05/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369343855112",
-          "Date": "2025-02-26T13:44:41Z",
-          "ShortDescriptionLine1": "Lunch Edition 26.02.25 Part I",
-          "ShortDescriptionLine2": "2025-02-26T13:44:41Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4a9361a7-4dae-463e-80d6-5893714728eb/10s/master.m3u8?fastly_token=NjdlNDJkMWFfOGM1NzMxOTIwOTg4NzAyOTJmZTMyOTQ4YTg2NmQ1MzA3MTJhNjQ2N2Y1NDE3OWEzYmU0NGNiOTg5YWNkYmRlNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 26.02.25 חלק ב'",
-          "StreamerId": "6369343854112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/faa5218f-eccc-4910-a588-39a58f5a3bf6/92e299ac-b8c7-4cbc-8549-053e90413d09/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369343854112",
-          "Date": "2025-02-26T13:44:13Z",
-          "ShortDescriptionLine1": "The Lunch Edition 26.02.25 Part II",
-          "ShortDescriptionLine2": "2025-02-26T13:44:13Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/faa5218f-eccc-4910-a588-39a58f5a3bf6/10s/master.m3u8?fastly_token=NjdlNDFjY2FfM2FlMGQ1NjcwNTg5Yzc3NDk0ODQyMTk2NDUxYTFiYzhkZTlmM2IzYjUwNjBhM2E1MDdjYjM1Yzk4MDIyMzhhZg%3D%3D"
           ]
         },
         {
