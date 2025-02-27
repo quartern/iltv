@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 27.02.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-02-27 21:49:18",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_os37n5l9/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_os37n5l9/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_os37n5l9",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/865245",
+          "Date": "2025-02-27 21:49:18"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 27.02.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-02-27 20:43:06",
@@ -499,18 +511,6 @@
           "StreamerId": "1_o9ombiqo",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/865252",
           "Date": "2025-02-27 18:32:20"
-        },
-        {
-          "Title": "חדשות הלילה | 26.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-27 07:48:33",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9t6o7dit/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9t6o7dit/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_9t6o7dit",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/864848",
-          "Date": "2025-02-27 07:48:33"
         },
         {
           "Title": "העולם היום | 26.02.25",
@@ -2068,19 +2068,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון [live]",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20585057/20585057_noAdds/20585057_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20585057/20585057_noAdds/20585057_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "51dd297f2c645910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-51dd297f2c64591027.htm",
           "ShortDescriptionLine2": "Einav Galili and Yaron Abraham Documents this week",
           "Date": "2025-02-27T22:51:56+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron"
         },
         {
           "Title": "עובדה: אלי שרעבי מדבר",
@@ -2242,6 +2241,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 27.02.25",
+          "StreamerId": "6369412257112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0f97613d-6ad9-4bd7-b448-9700b9489702/e86bd34f-5b2a-4f6b-85b0-3eb9a91fd27b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369412257112",
+          "Date": "2025-02-27T21:37:33Z",
+          "ShortDescriptionLine1": "Talk News 27.02.25",
+          "ShortDescriptionLine2": "2025-02-27T21:37:33Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0f97613d-6ad9-4bd7-b448-9700b9489702/10s/master.m3u8?fastly_token=NjdlNWQ3Y2VfMzc0YmRkOTJkNzdiYjZlM2Y4MmRlZTlhZDFkYTgyNDY3ZjEyNDMwMTdhMjIzOTFmNzQxZDU4NDI2OWQyNmI1Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 27.02.25",
           "StreamerId": "6369410636112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/edc142d6-ba27-4988-80c7-5aaf5ddc4fc5/39b18a8d-9ec2-4cb9-9f1f-c0be190f0730/320x180/match/image.jpg",
@@ -2371,18 +2382,6 @@
           "ShortDescriptionLine2": "2025-02-27T08:00:40Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/007edc98-0434-4d57-b321-9c5b714b8a1d/10s/master.m3u8?fastly_token=NjdlNTBlOTNfYmY2ZjExYzBmYmEyMTJkYTdhZmEwNzJiMmEzMzZiOWIyZTVhNDcxYjIyMzUyMzIwOWFiY2RjYTQ3Yjg0Njg4Yg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 27.02.25",
-          "StreamerId": "6369380455112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f30ec42e-76ca-4ab1-9e19-b0b964322499/b7013699-1862-478f-9072-9aecf5a64dc5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369380455112",
-          "Date": "2025-02-27T06:31:00Z",
-          "ShortDescriptionLine1": "Talk News 27.02.25",
-          "ShortDescriptionLine2": "2025-02-27T06:31:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f30ec42e-76ca-4ab1-9e19-b0b964322499/10s/master.m3u8?fastly_token=NjdlNTE5NzBfMzA4MDFkZjZkNGJhMDQxMjEwZjYxMjkxOTAxN2RjMTk1Y2Y5NTg0ZjY5MzQ1MDBkNjI2MjQ0OTA3NTc0NGVjOQ%3D%3D"
           ]
         },
         {
