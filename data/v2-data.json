@@ -1897,19 +1897,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 27.02.25 [live]",
+          "Title": "המהדורה המוקדמת: 27.02.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20585054/20585054_noAdds/20585054_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20585054/20585054_noAdds/20585054_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c4038a6824905910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/3df9b43b78f74910/VOD-c4038a682490591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-02-27T18:58:56+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early Edition: 27.02.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 27.02.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 27.02.25",
@@ -1943,11 +1942,11 @@
           "Title": "מהדורת היום: 27.02.25",
           "Poster": "https://img.mako.co.il/2025/02/27/Mahadurat_Hayom_270225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20585052/20585052_noAdds/20585052_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20585052/20585052_noAdds/20585052_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_270225_VOD_asd345/Mahadurat_Hayom_270225_VOD_asd345_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/February/Mahadurat_Hayom_270225_VOD_asd345/Mahadurat_Hayom_270225_VOD_asd345_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "aedaa02d61505910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-aedaa02d6150591027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/e10811dd69f74910/VOD-aedaa02d6150591027.htm",
           "ShortDescriptionLine2": "Were restored to Israel 4 abducted spaces",
           "Date": "2025-02-27T15:00:04+02:00",
           "Live": false,
@@ -2230,6 +2229,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 27.02.25",
+          "StreamerId": "6369403770112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/823ecee1-6048-4c11-b53f-efb2a10d0784/5a2cb626-b702-4d6d-8b84-b5159a9d59bd/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369403770112",
+          "Date": "2025-02-27T17:54:23Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 27.02.25",
+          "ShortDescriptionLine2": "2025-02-27T17:54:23Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/823ecee1-6048-4c11-b53f-efb2a10d0784/10s/master.m3u8?fastly_token=NjdlNWEzZjFfNTVlMjJkN2FhMmQyZDJiM2FlODkzNGIwNTkxZTVjYjFkZGUyNzIzYmY3MzQzMzQzNWVjYjRlMTgxMmM1YzBkMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "\"לא היית מפקד הצבא ב-7 באוקטובר - היית מפקד המחדל!\": פאנל \"7 שרון גל\" לא מתרשם מנאום הרמטכ\"ל",
+          "StreamerId": "6369404570112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/353868c7-cd8b-4099-9be4-0592f809d92c/4eb6a6c1-c532-4ac8-8ab5-acb8bc7b38c4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369404570112",
+          "Date": "2025-02-27T17:47:46Z",
+          "ShortDescriptionLine1": "\"You were not the commander of the army on October 7 - you were the default commander!\": Panel \"7 Sharon Gal\" is not impressed by the chief of staff's speech",
+          "ShortDescriptionLine2": "2025-02-27T17:47:46Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/353868c7-cd8b-4099-9be4-0592f809d92c/10s/master.m3u8?fastly_token=NjdlNTkzZjRfYTRjYzk2ZjViZmRmODViYTU3MWY2ZDFhNWNiNzZiNGQzNTM3NjUwZDQ3NDAwMTgyNmViNTBmOTA0OGIwOGNjMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 27.02.25",
           "StreamerId": "6369404511112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/095afb77-25dd-4cc8-b628-ab86af7e3eb6/63d8b9b6-902f-4a41-91a4-4977452f463d/320x180/match/image.jpg",
@@ -2350,18 +2373,6 @@
           ]
         },
         {
-          "Title": "7 שרון גל 26.02.25",
-          "StreamerId": "6369358587112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/229d5ac3-d97f-4d84-967e-b9d20d3356a0/909147ea-c4df-45e1-a864-ad34e11db358/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369358587112",
-          "Date": "2025-02-26T18:02:22Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 26.02.25",
-          "ShortDescriptionLine2": "2025-02-26T18:02:22Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/229d5ac3-d97f-4d84-967e-b9d20d3356a0/10s/master.m3u8?fastly_token=NjdlNDU2YjJfMWI1MmQ1OWI1ODlhNzhlMTBmMDA5MmVlY2UzNmJiYmZjODcyYzExMDNlYWQ1YmM4ZGM4ZmQ5NjczY2NiMTI4MA%3D%3D"
-          ]
-        },
-        {
           "Title": "מדד גלבוע 26.02.25",
           "StreamerId": "6369354472112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6a75cd6a-249a-46a7-bffe-807895b97553/4b1e03d0-05d5-4f5e-90af-f386cd017b80/320x180/match/image.jpg",
@@ -2419,18 +2430,6 @@
           "ShortDescriptionLine2": "2025-02-25T20:22:43Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e00336d6-d9d8-4a35-b1a6-bdf7f6b54891/10s/master.m3u8?fastly_token=NjdlMzMwNGZfMWZiYTU2MmUzOTZhZGVhYzQ3YjFiNzYyMGRiZmMwNTJiOWJkOTRiMjc1YWI5ZmY5OTliYmVmYWUwMzRmODE4ZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 25.02.25",
-          "StreamerId": "6369307816112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/076be465-ee6f-442b-bbf3-fc635980aaa6/42560921-459c-4745-9f54-ea4939cee5cf/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369307816112",
-          "Date": "2025-02-25T17:58:03Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 25.02.25",
-          "ShortDescriptionLine2": "2025-02-25T17:58:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/076be465-ee6f-442b-bbf3-fc635980aaa6/10s/master.m3u8?fastly_token=NjdlMzA0ZTlfYWQ1ODJlMDE1Mjg3Y2Q2ODliM2VhZWViOTAzMDE1NjUyMmU0Y2IzZTk0Njc4M2QxNzdjOWZkZWU0YmNlODM5Yw%3D%3D"
           ]
         },
         {
