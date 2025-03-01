@@ -1924,19 +1924,18 @@
           "ShortDescriptionLine1": "Weekend News: 01.03.25 [live]"
         },
         {
-          "Title": "פגוש את העיתונות: 01.03.25 [live]",
+          "Title": "פגוש את העיתונות: 01.03.25",
           "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/20633709/20633709_noAdds/20633709_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/20633709/20633709_noAdds/20633709_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ea677b70c0925910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/d60f7f578e225910/VOD-ea677b70c092591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-01T18:00:25+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the Press: 01.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the Press: 01.03.25"
         },
         {
           "Title": "שבת בחמש: 01.03.25",
@@ -2243,6 +2242,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 01.03.25",
+          "StreamerId": "6369491199112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65213c5d-76b1-4389-aad3-3b6ea16d2f0b/b75701d1-3ba2-4387-8a68-57667cf67809/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369491199112",
+          "Date": "2025-03-01T17:55:32Z",
+          "ShortDescriptionLine1": "Central Edition 01.03.25",
+          "ShortDescriptionLine2": "2025-03-01T17:55:32Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65213c5d-76b1-4389-aad3-3b6ea16d2f0b/10s/master.m3u8?fastly_token=NjdlODViMWRfMmY3MDA5MmQ0OWU0OTU5Y2JjZWE1ZGQ0Y2IzNDIwOTM5MjQwNTZhMWM0Y2MzZjUxOTBmNDZhNTYzNTE4MTg1NA%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי 28.2.25",
           "StreamerId": "6369454580112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1356da1a-a5e8-4935-88af-01bbac51d28f/83227415-bee5-4aee-8d35-1d9915203ac7/320x180/match/image.jpg",
@@ -2528,18 +2539,6 @@
           "ShortDescriptionLine2": "2025-02-23T21:36:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cf5e24db-4172-4d27-85c6-a68c59d72d66/10s/master.m3u8?fastly_token=NjdlMDkyZDdfYmEwZWU4ZDZiYWVjNzY5YTc2OTRkOWE0NmM4MWZmNTdlNjhiYjhmYzc3N2Y5ZGVkY2RlNjQ5M2ZjN2U1ZTFlMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת - 22.02.25",
-          "StreamerId": "6369194944112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9ccbc303-6d97-4f99-9eaa-bdce9058a43f/eef20fef-6536-4647-a657-33667e6c57ca/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369194944112",
-          "Date": "2025-02-22T18:00:03Z",
-          "ShortDescriptionLine1": "The early edition - 22.02.25",
-          "ShortDescriptionLine2": "2025-02-22T18:00:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9ccbc303-6d97-4f99-9eaa-bdce9058a43f/10s/master.m3u8?fastly_token=NjdkZjFlZDFfNjgyMTJmOWVhZWMyZDI1YjE2MzI4NGQxNmQ1OTdiYjg5NTE1Nzc0OTVlYjhkOWVlOTI5ZjQ2MjdlZTA5OWZmNw%3D%3D"
           ]
         },
         {
