@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 02.03.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-03-02 21:50:42",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jlkzcv1j/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jlkzcv1j/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_jlkzcv1j",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/866083",
+          "Date": "2025-03-02 21:50:42"
+        },
+        {
           "Title": "חדשות הערב | 02.03.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-03-02 20:53:54",
@@ -547,18 +559,6 @@
           "StreamerId": "1_x3a0xo3g",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/865603",
           "Date": "2025-02-28 21:33:31"
-        },
-        {
-          "Title": "חדשות הלילה | 27.02.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-02-27 21:49:18",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_os37n5l9/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_os37n5l9/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_os37n5l9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/865245",
-          "Date": "2025-02-27 21:49:18"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -2092,6 +2092,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "fa124873e1655910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-fa124873e165591027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-03-02T23:33:47+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: ההיערכות לחזרה ללחימה בעזה",
           "Poster": "https://img.mako.co.il/2025/03/02/Nesli_Yoav_020325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2118,20 +2133,6 @@
           "Date": "2025-03-02T07:12:17+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: The crisis in contacts on continuing to deal"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/03/02/Avri_Sherki_010325_VOD_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/March/Avri_Sherki_010325_VOD_sbn43/Avri_Sherki_010325_VOD_sbn43_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/March/Avri_Sherki_010325_VOD_sbn43/Avri_Sherki_010325_VOD_sbn43_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "df4ba16cce645910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-df4ba16cce64591027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-03-01T23:18:25+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "אופירה ולוינסון: תכנית מיוחדת",
@@ -2264,6 +2265,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 02.03.25",
+          "StreamerId": "6369532696112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/88616a71-126d-466f-ad6c-2b99db1b6bfc/ac44d5a4-b014-49d3-a1a1-deef979daac3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369532696112",
+          "Date": "2025-03-02T21:33:26Z",
+          "ShortDescriptionLine1": "News of News 02.03.25",
+          "ShortDescriptionLine2": "2025-03-02T21:33:26Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/88616a71-126d-466f-ad6c-2b99db1b6bfc/10s/master.m3u8?fastly_token=NjdlOWM5OTBfZGMxMzg3MWI4MjFjZjk2YWQ0ZDk5MDNhODg1YjA5ZGIzNmE0ODk3YjAxNjY0MTdhZTMwNjYwMTYyMDVlODU5Ng%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי 02.03.25",
           "StreamerId": "6369531005112",
@@ -2502,18 +2515,6 @@
           "ShortDescriptionLine2": "2025-02-27T13:17:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2837081c-1fe8-4622-8f72-0153994ec890/10s/master.m3u8?fastly_token=NjdlNTcwYTVfMWJjMGU1NGE0MzUyMmJmODg1NWE3ZTYzMTMyMWEzNzU1MGM2NGY1M2Y3OWM5OTM4ZGEzNTliNzQxYWM5ODYyMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "לואיס הר שחולץ משבי חמאס: \"כמה שזה עצוב, צריך לעבור את התהליך הזה ולהבין שהם לא חוזרים וזו המציאות\"",
-          "StreamerId": "6369383056112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/007edc98-0434-4d57-b321-9c5b714b8a1d/31a0b553-ebe1-44f3-ab11-3991c129a416/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369383056112",
-          "Date": "2025-02-27T08:00:40Z",
-          "ShortDescriptionLine1": "Lewis Har Hamas Shake: \"As sad, you have to go through this process and realize that they are not returning and it is reality\"",
-          "ShortDescriptionLine2": "2025-02-27T08:00:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/007edc98-0434-4d57-b321-9c5b714b8a1d/10s/master.m3u8?fastly_token=NjdlNTBlOTNfYmY2ZjExYzBmYmEyMTJkYTdhZmEwNzJiMmEzMzZiOWIyZTVhNDcxYjIyMzUyMzIwOWFiY2RjYTQ3Yjg0Njg4Yg%3D%3D"
           ]
         },
         {
