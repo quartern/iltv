@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 03.03.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_zqr66yta",
+          "Date": "2025-03-03 22:50:56",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/h1ml0-904487908/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-03-03 22:50:56",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zqr66yta/flavorIds/1_hlzbo6xe,1_rztnsh2t,1_6pyyloph,1_ca7huzxu,1_4yzfyej0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 03.03.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_43fwq2xi",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-03-02 23:59:53",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_loe7us02/flavorIds/1_by2k9z3o,1_cnskwh1h,1_rfz2413a,1_akzb56ay,1_rt397ybx,1_skdvjl50/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 02.03.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_w89jjj4b",
-          "Date": "2025-03-02 22:26:03",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/ctr00-904486227/",
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2025-03-02 22:26:03",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_w89jjj4b/flavorIds/1_usutfls9,1_03wye50d,1_pk312jov,1_pmpfytkc,1_llcql88i,1_ewf6jasv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2092,19 +2092,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: \"כן, נלחמנו\" [live]",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=db0e7e3a14b55910VgnVCM100000700a10acRCRD&ts=1741031411",
+          "Title": "עובדה: \"כן, נלחמנו\"",
+          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=db0e7e3a14b55910VgnVCM100000700a10acRCRD&ts=1741035740",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda/20680951/20680951_noAdds/20680951_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda/20680951/20680951_noAdds/20680951_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "db0e7e3a14b55910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-db0e7e3a14b5591027.htm",
           "ShortDescriptionLine2": "The breathtaking documentation from Nahal Oz",
           "Date": "2025-03-03T21:34:11+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "UVDA: \"Yes, we fought\" [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "UVDA: \"Yes, we fought\""
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
