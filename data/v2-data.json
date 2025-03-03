@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 03.03.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-03-03 21:20:10",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7j7bsuuw/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_7j7bsuuw/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_7j7bsuuw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/866484",
+          "Date": "2025-03-03 21:20:10"
+        },
+        {
+          "Title": "מהצד השני עם גיא זהר | 03.03.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-03-03 21:17:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l44062fl/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l44062fl/a.m3u8"
+          ],
+          "StreamerId": "1_l44062fl",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/866485",
+          "Date": "2025-03-03 21:17:43"
+        },
+        {
           "Title": "שבע עם איילה חסון | 03.03.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-03-03 19:15:34",
@@ -511,30 +535,6 @@
           "StreamerId": "1_jlkzcv1j",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/866083",
           "Date": "2025-03-02 21:50:42"
-        },
-        {
-          "Title": "חדשות הערב | 02.03.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-03-02 20:53:54",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6h5rlu28/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6h5rlu28/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_6h5rlu28",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/866078",
-          "Date": "2025-03-02 20:53:54"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 02.03.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-03-02 20:35:49",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_k2782fy1/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_k2782fy1/a.m3u8"
-          ],
-          "StreamerId": "1_k2782fy1",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/866081",
-          "Date": "2025-03-02 20:35:49"
         },
         {
           "Title": "חדשות השבת | 01.03.25",
@@ -2093,7 +2093,7 @@
       "Items": [
         {
           "Title": "עובדה: \"כן, נלחמנו\"",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=db0e7e3a14b55910VgnVCM100000700a10acRCRD&ts=1741035740",
+          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=db0e7e3a14b55910VgnVCM100000700a10acRCRD&ts=1741036199",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda/20680951/20680951_noAdds/20680951_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda/20680951/20680951_noAdds/20680951_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2264,6 +2264,30 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המועדון העסקי - 03.03.25",
+          "StreamerId": "6369566782112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3a092481-5399-4f16-9e9f-f056dfa2d5f7/2d2e5d60-ff09-4f87-871a-6975d4e8d0d5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369566782112",
+          "Date": "2025-03-03T21:09:44Z",
+          "ShortDescriptionLine1": "Business Club - 03.03.25",
+          "ShortDescriptionLine2": "2025-03-03T21:09:44Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3a092481-5399-4f16-9e9f-f056dfa2d5f7/10s/master.m3u8?fastly_token=NjdlYjEzM2NfZTUzNGQ1MjY3Y2NmYTgyODU4NzY0MmM2YzJiNTI1MjQxYWVjNjZjNmYxZTE2NTM4NGFjM2RhMWYwNWE4NGEzMQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים - 03.03.25",
+          "StreamerId": "6369568238112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65246b8e-3fd2-48af-81bd-09a1ad3ec6d5/eb00ea7f-6e30-41e1-b653-10ca1d49aeb6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369568238112",
+          "Date": "2025-03-03T21:09:41Z",
+          "ShortDescriptionLine1": "Israelis - 03.03.25",
+          "ShortDescriptionLine2": "2025-03-03T21:09:41Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65246b8e-3fd2-48af-81bd-09a1ad3ec6d5/10s/master.m3u8?fastly_token=NjdlYjFmMTBfYmFhNTU1YTNjODIwNDRiYmFiYjgyNjJmNjkyMTg3MzkyY2Q5MWNjNjllYjBiODc3NmIxNThjNGE3Mzc4MzVlYg%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית - 03.03.25",
           "StreamerId": "6369564481112",
@@ -2517,18 +2541,6 @@
           ]
         },
         {
-          "Title": "הישראלים 26.02.25",
-          "StreamerId": "6369365055112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/347b931b-19ac-4762-9613-6ca28bb3a41e/37091754-e48b-45a9-b32b-208663dfa095/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369365055112",
-          "Date": "2025-02-26T20:54:59Z",
-          "ShortDescriptionLine1": "Israelis 26.02.25",
-          "ShortDescriptionLine2": "2025-02-26T20:54:59Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/347b931b-19ac-4762-9613-6ca28bb3a41e/10s/master.m3u8?fastly_token=NjdlNDg5MTNfNzI1NTc0MTQzYWI0YmI5OWVlMzNlMzJmYTJhYzYyNzFiOWM1NzU5MTQ5OWU3YTk4NjBlMTBiMGQ3MGJjZDU5MA%3D%3D"
-          ]
-        },
-        {
           "Title": "בשורה התחתונה, 25.02.25 | תוכן ממומן",
           "StreamerId": "6369331624112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0e7234c6-d3b1-4e2a-8744-526264693bed/f2792ef6-209c-42d7-a5e6-8b49d114d3ec/320x180/match/image.jpg",
@@ -2538,18 +2550,6 @@
           "ShortDescriptionLine2": "2025-02-26T05:21:20Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0e7234c6-d3b1-4e2a-8744-526264693bed/10s/master.m3u8?fastly_token=NjdlMzliMzNfODFjNzkzYjExMTdlYWZmYjgxYTkxNTJhNDViODM1ODc3MzQyYzMxZWMwZDE4YmFkYjhiMzc3NzMxYWRlOTVhNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 25.02.25",
-          "StreamerId": "6369314183112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/516bcde8-5cff-4507-8a86-ea078cbe1b56/aa2e53ec-4b39-42a0-9488-f25a5fa623c1/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369314183112",
-          "Date": "2025-02-25T21:20:27Z",
-          "ShortDescriptionLine1": "Business Club 25.02.25",
-          "ShortDescriptionLine2": "2025-02-25T21:20:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/516bcde8-5cff-4507-8a86-ea078cbe1b56/10s/master.m3u8?fastly_token=NjdlMzMwY2VfNjAxZGMxOTA4ZTZhYzgwOTE5ODQ0Njk1M2M0NTlkYjVmYTJkNTYxZWNkMTAwNDJkYWNkNzAxN2RkOGQ3ZDQ0ZQ%3D%3D"
           ]
         },
         {
