@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 05.03.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-03-05 20:55:22",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ze0lev08/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ze0lev08/a.m3u8"
+          ],
+          "StreamerId": "1_ze0lev08",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/867344",
+          "Date": "2025-03-05 20:55:22"
+        },
+        {
           "Title": "חדשות הערב | 05.03.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-03-05 20:13:44",
@@ -523,18 +535,6 @@
           "StreamerId": "1_86ep1bpl",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/866884",
           "Date": "2025-03-04 21:45:27"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 04.03.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-03-04 20:31:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_oslnecir/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_oslnecir/a.m3u8"
-          ],
-          "StreamerId": "1_oslnecir",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/866882",
-          "Date": "2025-03-04 20:31:56"
         },
         {
           "Title": "חדשות השבת | 01.03.25",
@@ -1936,11 +1936,11 @@
           "Title": "המהדורה המרכזית: 05.03.25",
           "Poster": "https://img.mako.co.il/2025/03/05/Mahadura_Merkazit_050325_VOD_hiuy6879_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20633833/20633833_noAdds/20633833_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20633833/20633833_noAdds/20633833_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_050325_VOD_hb987/Mahadura_Merkazit_050325_VOD_hb987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_050325_VOD_hb987/Mahadura_Merkazit_050325_VOD_hb987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0efaa65df4d45910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-0efaa65df4d4591026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-0efaa65df4d4591026.htm",
           "ShortDescriptionLine2": "Levin's decision to open in the IDF ouster process",
           "Date": "2025-03-05T19:53:39+02:00",
           "Live": false,
@@ -2092,19 +2092,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: ערב פליטות הפה הגדול [live]",
+          "Title": "ארץ נהדרת: ערב פליטות הפה הגדול",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20770135/20770135_noAdds/20770135_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20770135/20770135_noAdds/20770135_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c7350db0b3565910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-c7350db0b356591027.htm",
           "ShortDescriptionLine2": "After a week of emissions here, everyone comes to apologize",
           "Date": "2025-03-05T21:40:32+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NHEEDERET: ENDAGE OVER GIRL [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NHEEDERET: ENDAGE OVER GIRL"
         },
         {
           "Title": "נסלי ויואב: ממצאי התחקיר של שב\"כ",
@@ -2265,6 +2264,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הישראלים 05.03.25",
+          "StreamerId": "6369648160112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5abd82e8-2851-40e6-b7ba-941b0d524c86/2f545e8c-acc9-4f74-9162-ab30c742038a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369648160112",
+          "Date": "2025-03-05T20:35:22Z",
+          "ShortDescriptionLine1": "Israelis 05.03.25",
+          "ShortDescriptionLine2": "2025-03-05T20:35:22Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5abd82e8-2851-40e6-b7ba-941b0d524c86/10s/master.m3u8?fastly_token=NjdlZGJkZjBfNjU5MzBhMzM5MmUwYWMzMDE1NTI2N2IyNGRkYWE4MjE0NTQ4MmI1YjVkMzBlYTIyMjE3ZTY0OGI3NDAyNmViNg%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית 05.03.25",
           "StreamerId": "6369644826112",
@@ -2479,18 +2490,6 @@
           "ShortDescriptionLine2": "2025-03-03T21:09:44Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3a092481-5399-4f16-9e9f-f056dfa2d5f7/10s/master.m3u8?fastly_token=NjdlYjEzM2NfZTUzNGQ1MjY3Y2NmYTgyODU4NzY0MmM2YzJiNTI1MjQxYWVjNjZjNmYxZTE2NTM4NGFjM2RhMWYwNWE4NGEzMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים - 03.03.25",
-          "StreamerId": "6369568238112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65246b8e-3fd2-48af-81bd-09a1ad3ec6d5/eb00ea7f-6e30-41e1-b653-10ca1d49aeb6/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369568238112",
-          "Date": "2025-03-03T21:09:41Z",
-          "ShortDescriptionLine1": "Israelis - 03.03.25",
-          "ShortDescriptionLine2": "2025-03-03T21:09:41Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65246b8e-3fd2-48af-81bd-09a1ad3ec6d5/10s/master.m3u8?fastly_token=NjdlYjFmMTBfYmFhNTU1YTNjODIwNDRiYmFiYjgyNjJmNjkyMTg3MzkyY2Q5MWNjNjllYjBiODc3NmIxNThjNGE3Mzc4MzVlYg%3D%3D"
           ]
         },
         {
