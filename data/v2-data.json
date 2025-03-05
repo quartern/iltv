@@ -1933,19 +1933,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 05.03.25 [live]",
+          "Title": "המהדורה המרכזית: 05.03.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20633833/20633833_noAdds/20633833_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20633833/20633833_noAdds/20633833_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0efaa65df4d45910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-0efaa65df4d4591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-05T19:53:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 05.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 05.03.25"
         },
         {
           "Title": "המהדורה המוקדמת: 05.03.25",
@@ -2093,6 +2092,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: ערב פליטות הפה הגדול [live]",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c7350db0b3565910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-c7350db0b356591027.htm",
+          "ShortDescriptionLine2": "After a week of emissions here, everyone comes to apologize",
+          "Date": "2025-03-05T21:40:32+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "ERETZ NHEEDERET: ENDAGE OVER GIRL [live]"
+        },
+        {
           "Title": "נסלי ויואב: ממצאי התחקיר של שב\"כ",
           "Poster": "https://img.mako.co.il/2025/03/05/Nesli_Yoav_050325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2203,20 +2217,6 @@
           "Date": "2025-02-24T21:32:46+02:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: Volcam Tu Damascus"
-        },
-        {
-          "Title": "ארץ נהדרת: מהדורה קפואה רותחת",
-          "Poster": "https://img.mako.co.il/2025/02/20/Eretz_Nehederet_Pikud_Haoref_autoOrient._autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_14_190225_VOD_bvc432/Eretz_Nehederet22_14_190225_VOD_bvc432_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_14_190225_VOD_bvc432/Eretz_Nehederet22_14_190225_VOD_bvc432_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b1fe445b04d15910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-b1fe445b04d1591027.htm",
-          "ShortDescriptionLine2": "The Middle East reaches a boiling point!",
-          "Date": "2025-02-19T21:36:44+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "ERETZ NeHEDERET: Frozen edition boiling"
         },
         {
           "Title": "חשיפה: עפרה חזה הסיפור המלא",
