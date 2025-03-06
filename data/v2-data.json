@@ -2104,29 +2104,28 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון:  יאיר גולן [live]",
+          "Title": "דוח מצב עם עינב וירון:  יאיר גולן",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Status_report_2025/20633866/20633866_noAdds/20633866_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Status_report_2025/20633866/20633866_noAdds/20633866_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d91855a52aa65910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-d91855a52aa6591026.htm",
           "ShortDescriptionLine2": "After returning the legal revolution - Yair Golan in the studio",
           "Date": "2025-03-06T23:18:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Yair Golan [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Yair Golan"
         },
         {
           "Title": "עובדה: קול של תקווה מנחל עוז",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=166ef9cda9a65910VgnVCM200000650a10acRCRD&ts=1741294817",
+          "Poster": "https://img.mako.co.il/2025/03/06/UVDA_VoiceOfHope_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20633874/20633874_noAdds/20633874_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20633874/20633874_noAdds/20633874_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_13_VOD_060325_hgsd832/Uvda2024_13_VOD_060325_hgsd832_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_13_VOD_060325_hgsd832/Uvda2024_13_VOD_060325_hgsd832_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "166ef9cda9a65910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-166ef9cda9a6591026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-166ef9cda9a6591026.htm",
           "ShortDescriptionLine2": "Matan's heroic battle in Nahal Oz River",
           "Date": "2025-03-06T21:23:28+02:00",
           "Live": false,
