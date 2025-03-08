@@ -1945,6 +1945,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חדשות סוף השבוע: 08.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a387f96b33235910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/45944afb1e225910/VOD-a387f96b3323591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-08T19:54:12+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend News: 08.03.25 [live]"
+        },
+        {
           "Title": "שבת בחמש: 08.03.25",
           "Poster": "https://img.mako.co.il/2025/03/08/Shabat_Behamesh_080325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2055,20 +2070,6 @@
           "Date": "2025-03-06T15:00:28+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 06.03.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 01.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/01/Hadshot_Sof_Hashavoa_010325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/March/Hadshot_Sof_Hashavoa_010325_VOD/Hadshot_Sof_Hashavoa_010325_VOD_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/March/Hadshot_Sof_Hashavoa_010325_VOD/Hadshot_Sof_Hashavoa_010325_VOD_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5544fd860e825910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2025/45944afb1e225910/VOD-5544fd860e82591026.htm",
-          "ShortDescriptionLine2": "Locomotive method",
-          "Date": "2025-03-01T19:54:56+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend News: 01.03.25"
         },
         {
           "Title": "פגוש את העיתונות: 01.03.25",
@@ -2276,6 +2277,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המוקדמת 08.03.25",
+          "StreamerId": "6369781228112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ffc3ee62-f864-425e-a949-33c3413b0c59/3e078fb2-a707-444b-a8e5-dae8fe7e55e7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369781228112",
+          "Date": "2025-03-08T17:56:24Z",
+          "ShortDescriptionLine1": "The early edition 08.03.25",
+          "ShortDescriptionLine2": "2025-03-08T17:56:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ffc3ee62-f864-425e-a949-33c3413b0c59/10s/master.m3u8?fastly_token=NjdmMTk2YWRfZDQ0MjRlNjliMzBjZjJjZjJhMzg5MDdiODQyNTJjYTA0OWJlNGI0ZDcwYmE1YTc0ZDI4MzE2YjI4NDY1ZTg4ZA%3D%3D"
+          ]
+        },
         {
           "Title": "קבינט שישי 7.3.25",
           "StreamerId": "6369741822112",
@@ -2550,18 +2563,6 @@
           "ShortDescriptionLine2": "2025-03-01T20:17:44Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/49e22458-406c-4e50-b570-aaaf1d840b94/10s/master.m3u8?fastly_token=NjdlODY4ZjZfZjllMTYwMDFhZjhlNGExMzQ2NWU0YTZjMTlhZjExMThhNDdkZWNhMDRhOWRmYTc4OTJjZWFhYmRhZTA3M2VmMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 01.03.25",
-          "StreamerId": "6369491199112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65213c5d-76b1-4389-aad3-3b6ea16d2f0b/b75701d1-3ba2-4387-8a68-57667cf67809/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369491199112",
-          "Date": "2025-03-01T17:55:32Z",
-          "ShortDescriptionLine1": "Central Edition 01.03.25",
-          "ShortDescriptionLine2": "2025-03-01T17:55:32Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65213c5d-76b1-4389-aad3-3b6ea16d2f0b/10s/master.m3u8?fastly_token=NjdlODViMWRfMmY3MDA5MmQ0OWU0OTU5Y2JjZWE1ZGQ0Y2IzNDIwOTM5MjQwNTZhMWM0Y2MzZjUxOTBmNDZhNTYzNTE4MTg1NA%3D%3D"
           ]
         },
         {
