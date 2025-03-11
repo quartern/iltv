@@ -1945,19 +1945,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 11.03.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 11.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "ac3735b43e665910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-ac3735b43e66591027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-11T19:52:58+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 11.03.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 11.03.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634015/20634015_noAdds/20634015_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634015/20634015_noAdds/20634015_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "2f6373944d665910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/4e4a35ef6d225910/VOD-2f6373944d66591027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-11T18:59:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early Edition: 11.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 11.03.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 11.03.25",
@@ -1989,31 +2003,17 @@
         },
         {
           "Title": "מהדורת היום: 11.03.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/11/Mahadurat_Hayom_110325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20634013/20634013_noAdds/20634013_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20634013/20634013_noAdds/20634013_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/march/Mahadurat_Hayom_110325_VOD_u988jh/Mahadurat_Hayom_110325_VOD_u988jh_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/march/Mahadurat_Hayom_110325_VOD_u988jh/Mahadurat_Hayom_110325_VOD_u988jh_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a37712fe1c565910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-a37712fe1c56591027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-a37712fe1c56591027.htm",
+          "ShortDescriptionLine2": "Tzrifin default: How did the Knight come on to the military base?",
           "Date": "2025-03-11T15:00:27+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 11.03.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 10.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/10/Mahadura_Merkazit_100325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_100325_VOD_xcv890/Mahadura_Merkazit_100325_VOD_xcv890_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_100325_VOD_xcv890/Mahadura_Merkazit_100325_VOD_xcv890_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4fe635b43e665910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-4fe635b43e66591027.htm",
-          "ShortDescriptionLine2": "All the details for negotiations",
-          "Date": "2025-03-10T19:55:09+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 10.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 08.03.25",
