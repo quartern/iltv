@@ -2104,19 +2104,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: מהדורת פורים [live]",
+          "Title": "ארץ נהדרת: מהדורת פורים",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20634068/20634068_noAdds/20634068_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20634068/20634068_noAdds/20634068_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "8d5cdf545b985910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-8d5cdf545b98591027.htm",
           "ShortDescriptionLine2": "Great country in Purim edition",
           "Date": "2025-03-12T21:41:48+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEDERET: Purim edition [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: Purim edition"
         },
         {
           "Title": "נסלי ויואב: העדות של עומר ונקרט",
@@ -2277,6 +2276,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הערביסטים 12.03.25",
+          "StreamerId": "6369938072112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/47a1d63c-eef2-46ac-96d4-263bbbfc8fdf/82372bcc-dba3-4c5d-87ba-6c9e250f9314/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369938072112",
+          "Date": "2025-03-12T20:33:35Z",
+          "ShortDescriptionLine1": "The Arabists 12.03.25",
+          "ShortDescriptionLine2": "2025-03-12T20:33:35Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/47a1d63c-eef2-46ac-96d4-263bbbfc8fdf/10s/master.m3u8?fastly_token=NjdmNmVjMWVfOGMxNzFhMDMwMDc4NWNhNzJlNDQzNWE0NTY4YzFkNGYxYzIyMWVlYjNhZDYxMTY1Yzg1MzQyYzI0MjkyZDAxZA%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית 12.03.25",
           "StreamerId": "6369936848112",
@@ -2599,18 +2610,6 @@
           "ShortDescriptionLine2": "2025-02-28T20:14:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1356da1a-a5e8-4935-88af-01bbac51d28f/10s/master.m3u8?fastly_token=NjdlNzJlMDVfNWY3OWQ5MzMyM2VjNGNiMjdiOWI4N2NhMjZmNmJlYzc0YmUwODI0NWE0ODM5MmZlZWVlMWU4YzRkNTM4YjNiMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 27.02.25",
-          "StreamerId": "6369410636112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/edc142d6-ba27-4988-80c7-5aaf5ddc4fc5/39b18a8d-9ec2-4cb9-9f1f-c0be190f0730/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369410636112",
-          "Date": "2025-02-27T20:46:53Z",
-          "ShortDescriptionLine1": "The Arabs 27.02.25",
-          "ShortDescriptionLine2": "2025-02-27T20:46:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/edc142d6-ba27-4988-80c7-5aaf5ddc4fc5/10s/master.m3u8?fastly_token=NjdlNWNlYmFfMGM4NWM3NDEzMDQ3MmM5MzhiNmE3NmMyODVkMGRjMjEwNTBlMmJkYzc4Mzc2ZmIyODJhMTEzZTNiOGY0YzU5Yw%3D%3D"
           ]
         }
       ]
