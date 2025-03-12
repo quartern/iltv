@@ -1945,19 +1945,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.03.25 [live]",
+          "Title": "המהדורה המרכזית: 12.03.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20634050/20634050_noAdds/20634050_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20634050/20634050_noAdds/20634050_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7e9735b43e665910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-7e9735b43e66591027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-12T19:55:00+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 12.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 12.03.25"
         },
         {
           "Title": "המהדורה המוקדמת: 12.03.25",
@@ -1975,14 +1974,14 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 12.03.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/12/Shesh_120325_VOD_01_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20634048/20634048_noAdds/20634048_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20634048/20634048_noAdds/20634048_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/March/Shesh_120325_VOD_bvc543/Shesh_120325_VOD_bvc543_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/March/Shesh_120325_VOD_bvc543/Shesh_120325_VOD_bvc543_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1262f79b4c665910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/84127f578e225910/VOD-1262f79b4c66591027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/84127f578e225910/VOD-1262f79b4c66591027.htm",
+          "ShortDescriptionLine2": "Negotiations in Ketter - New details",
           "Date": "2025-03-12T17:55:55+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 12.03.25"
@@ -2105,6 +2104,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: מהדורת פורים [live]",
+          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8d5cdf545b985910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-8d5cdf545b98591027.htm",
+          "ShortDescriptionLine2": "Great country in Purim edition",
+          "Date": "2025-03-12T21:41:48+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: Purim edition [live]"
+        },
+        {
           "Title": "נסלי ויואב: העדות של עומר ונקרט",
           "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2189,20 +2203,6 @@
           "ShortDescriptionLine1": "UVDA: Voice of Hope from River Oz"
         },
         {
-          "Title": "ארץ נהדרת: ערב פליטות הפה הגדול",
-          "Poster": "https://img.mako.co.il/2025/03/05/Eretz_Nehederet22_15_050325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_15_050325_VOD_buyb76809/Eretz_Nehederet22_15_050325_VOD_buyb76809_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_15_050325_VOD_buyb76809/Eretz_Nehederet22_15_050325_VOD_buyb76809_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c7350db0b3565910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-c7350db0b356591027.htm",
-          "ShortDescriptionLine2": "After a week of emissions here, everyone comes to apologize",
-          "Date": "2025-03-05T21:40:32+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "ERETZ NHEEDERET: ENDAGE OVER GIRL"
-        },
-        {
           "Title": "עובדה: \"כן, נלחמנו\"",
           "Poster": "https://img.mako.co.il/2024/12/12/Ovda2025_01N2_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2277,6 +2277,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 12.03.25",
+          "StreamerId": "6369936848112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/55128c68-6571-4b18-8142-44f4f9cb7e6b/bac3a2b1-9579-401b-805c-4756d6bb6dac/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369936848112",
+          "Date": "2025-03-12T19:38:31Z",
+          "ShortDescriptionLine1": "Central Edition 12.03.25",
+          "ShortDescriptionLine2": "2025-03-12T19:38:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/55128c68-6571-4b18-8142-44f4f9cb7e6b/10s/master.m3u8?fastly_token=NjdmNmVmNWNfYWZhZjg2MTdkY2ZlNGExNTFhZTYxN2Q1ZDg4ZDMxMzRhYWI0NmEwNTIyMzQyMGQ5M2ZjY2RlNjllMzE1YzI4Ng%3D%3D"
+          ]
+        },
         {
           "Title": "7 שרון גל 12.03.25",
           "StreamerId": "6369934711112",
@@ -2479,18 +2491,6 @@
           "ShortDescriptionLine2": "2025-03-10T19:21:36Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00c80893-7d7f-4260-b592-9aa015c22d28/10s/master.m3u8?fastly_token=NjdmNTg3OTFfZmM4ZDdmNGE3MDkyYTM0ZjI1ZGQyZTJiZTY5NjQwOGZlMzEyMjdiNDNiM2M0NDdiNTc0MzEyMDQ1OGVmMTc3MQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - 10.03.25",
-          "StreamerId": "6369852727112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/67acdc43-589a-4336-b17a-0d64ca0149d8/a62da02e-ea2b-457c-8b58-00bf44cf6eb4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369852727112",
-          "Date": "2025-03-10T19:21:13Z",
-          "ShortDescriptionLine1": "Central Edition - 10.03.25",
-          "ShortDescriptionLine2": "2025-03-10T19:21:13Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/67acdc43-589a-4336-b17a-0d64ca0149d8/10s/master.m3u8?fastly_token=NjdmNDQ4ODNfYWZkYWIxMzIzZmY2MzE5NzBkYjhiZDFiYzMzOTc2N2QwM2JhZDEwYmRiNTdiNTM5MGE2ODIwYjcxMWI1MGMyMg%3D%3D"
           ]
         },
         {
