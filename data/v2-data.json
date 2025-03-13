@@ -2116,19 +2116,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: חיים ומנחם [live]",
+          "Title": "אברי ושרקי: חיים ומנחם",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/haim_menachem/20789580/20789580_noAdds/20789580_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/haim_menachem/20789580/20789580_noAdds/20789580_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bb2dcce777e85910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-bb2dcce777e8591027.htm",
           "ShortDescriptionLine2": "Haim Challenge and Menachem Horowitz on a special program",
           "Date": "2025-03-13T22:50:21+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Life and Menachem [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Life and Menachem"
         },
         {
           "Title": "נסלי ויואב: עסקת חטופים או חזרה ללחימה?",
@@ -2290,6 +2289,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 13.03.25",
+          "StreamerId": "6369995773112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/87bfcae5-e2a3-4806-a65d-3e48cea3b986/49c7f6dc-a994-4a5b-9e77-bdcc0438e065/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369995773112",
+          "Date": "2025-03-13T21:41:07Z",
+          "ShortDescriptionLine1": "News of News 13.03.25",
+          "ShortDescriptionLine2": "2025-03-13T21:41:07Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/87bfcae5-e2a3-4806-a65d-3e48cea3b986/10s/master.m3u8?fastly_token=NjdmODRjMzdfODE3MWZjYTQyYjJiMzI5OTdhZTc3Y2ViMjkxYzJlMGVmM2U5YmFjM2IwNWJlMTU3MWUyMjQ0NjcyYmIyOTZmOQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "אחרי ארבעים שנות מלחמה, ארמניה ואזרבייג'ן גיבשו הסכם שלום",
+          "StreamerId": "6369995079112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3c058c3b-d9d9-4b4b-aea8-12a5f53d7a36/eb5e6a39-4d22-4134-9ced-83d74dde543a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369995079112",
+          "Date": "2025-03-13T21:40:58Z",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-03-13T21:40:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3c058c3b-d9d9-4b4b-aea8-12a5f53d7a36/10s/master.m3u8?fastly_token=NjdmODQ1YjZfNTA5NzZmYTJjMjEyMGZjYWU3OWVmYThjYjQ5YmM1YjFiMjBjNTM0YTJlODAxODE4NGRhYWU5YzcxNjkyZDNiMA%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 13.03.25",
           "StreamerId": "6369991357112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f949154a-05a7-405d-8c05-f3bf4e674c13/02e59812-1a05-42fc-9b5d-f2056e48f30a/320x180/match/image.jpg",
@@ -2386,18 +2409,6 @@
           ]
         },
         {
-          "Title": "מדברים חדשות 12.03.25",
-          "StreamerId": "6369939091112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bbd3f092-cf58-451d-8b5c-78730996c857/36bc5c4e-67fd-44c6-81f7-7715449f6cab/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369939091112",
-          "Date": "2025-03-12T21:33:37Z",
-          "ShortDescriptionLine1": "Talk News 12.03.25",
-          "ShortDescriptionLine2": "2025-03-12T21:33:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bbd3f092-cf58-451d-8b5c-78730996c857/10s/master.m3u8?fastly_token=NjdmNmY3MzdfMGJkZTMwM2IxZmM0NGUyYmU3ZGI5YjU5MTA1YTE5NDEyMTQwN2JlMDZjZTlkOGMwOTk2MjIxMzg1YWRkZmRlNw%3D%3D"
-          ]
-        },
-        {
           "Title": "המועדון העסקי 12.03.25",
           "StreamerId": "6369939888112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0a3f9b2f-dcaf-46bb-9ee8-9b7ae934b744/5240ee77-bc31-4fc4-bf69-d00fa5f77288/320x180/match/image.jpg",
@@ -2491,18 +2502,6 @@
           "ShortDescriptionLine2": "2025-03-11T22:03:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3c7ab1cf-b9de-46d2-a3b9-be7307b0535c/10s/master.m3u8?fastly_token=NjdmNWFjOGNfMWU0MTdhMmQyNjQ2ODAwNDU1M2IyMGRiZGZmMTNjOWY3MTg2MDJlY2FhYmRjMDEzMjc2YzQzY2IxNmU5NjdkZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 11.03.25",
-          "StreamerId": "6369898271112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d05d8773-819e-4efa-a541-a9d97987bc2c/6be762bf-dd35-4bfa-a308-7e92078e208d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369898271112",
-          "Date": "2025-03-11T21:37:28Z",
-          "ShortDescriptionLine1": "Talk News 11.03.25",
-          "ShortDescriptionLine2": "2025-03-11T21:37:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d05d8773-819e-4efa-a541-a9d97987bc2c/10s/master.m3u8?fastly_token=NjdmNWE5ZWVfYjQxYjM4ZTE3MmZlYTM0YWQzYzBjYmIyZmQzZjhiN2Q1YzMyNDdiYWE4MDQ1OGYxMjZmNTcxNTVkZWMyYmU3Mg%3D%3D"
           ]
         },
         {
