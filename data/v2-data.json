@@ -1972,19 +1972,18 @@
           "ShortDescriptionLine1": "Early edition: 17.03.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 17.03.25 [live]",
+          "Title": "שש עם עודד בן עמי: 17.03.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20634198/20634198_noAdds/20634198_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20634198/20634198_noAdds/20634198_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "40e2f79b4c665910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/84127f578e225910/VOD-40e2f79b4c66591027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-17T17:55:31+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.03.25"
         },
         {
           "Title": "חמש עם רפי רשף: 17.03.25 [live]",
@@ -2293,6 +2292,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע - 17.03.25",
+          "StreamerId": "6370154282112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/687dadf0-4232-4719-bda8-39092a1d2074/d26ac370-5d84-4463-b8ba-5b8107b1632c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370154282112",
+          "Date": "2025-03-17T17:03:52Z",
+          "ShortDescriptionLine1": "Gilboa Index - 17.03.25",
+          "ShortDescriptionLine2": "2025-03-17T17:03:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/687dadf0-4232-4719-bda8-39092a1d2074/10s/master.m3u8?fastly_token=NjdmZDU4NDJfYjFhYTk2MGMxNDQ5Nzg1OTdhYTEwMjZjMDEwYzUxZWE0NWFkZGU0NTIxOTUzZDVkMTQyZmJlYWExNjdkZWQ1ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 17.03.25",
           "StreamerId": "6370151450112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6e508944-4978-413f-9c7f-6d9d369a7878/90fa2410-2c12-4596-9b22-2f0ecb108402/320x180/match/image.jpg",
@@ -2530,18 +2541,6 @@
           "ShortDescriptionLine2": "2025-03-13T17:52:56Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/660b1afd-4f11-44d2-b91b-4811738f661a/10s/master.m3u8?fastly_token=NjdmODFhYTlfZTk2M2U2ODg4YzViNTFjYjI0ZjIzNWI4YjJjYmVkNWZhMzYzOWUwOGMyNzY4NTk3YzlkOGFiYWU5ZTBiOGUxYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 13.03.25",
-          "StreamerId": "6369978067112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5c2e7f50-2546-487a-8535-bd977d111bd3/95439c9f-e6c2-4279-86af-17e926cdef35/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369978067112",
-          "Date": "2025-03-13T17:08:57Z",
-          "ShortDescriptionLine1": "Gilboa Index 13.03.25",
-          "ShortDescriptionLine2": "2025-03-13T17:08:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5c2e7f50-2546-487a-8535-bd977d111bd3/10s/master.m3u8?fastly_token=NjdmODEzOGJfOGVmMjdlODdkNWE4YWI1ZTgzODA3OTQxMjhlYjJkNDE5NDY1Y2ViZjM5NjRlMWRjMDE0NDc2ODhjNTc4ZmU2Mw%3D%3D"
           ]
         },
         {
