@@ -1957,6 +1957,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 18.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "497953f22f665910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-497953f22f66591027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-18T19:53:59+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 18.03.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 18.03.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2011,20 +2026,6 @@
           "Date": "2025-03-18T15:00:27+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 18.03.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 17.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/17/Mahadura_Merkazit_170325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_170325_VOD_ihoi8/Mahadura_Merkazit_170325_VOD_ihoi8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_170325_VOD_ihoi8/Mahadura_Merkazit_170325_VOD_ihoi8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1dd853f22f665910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-1dd853f22f66591027.htm",
-          "ShortDescriptionLine2": "All the details about the DIFFERGE DIFFERENT DRACK",
-          "Date": "2025-03-17T19:54:14+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 17.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 15.03.25",
