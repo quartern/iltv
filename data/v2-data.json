@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 19.03.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-03-19 20:54:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_owf8as8r/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_owf8as8r/a.m3u8"
+          ],
+          "StreamerId": "1_owf8as8r",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/872411",
+          "Date": "2025-03-19 20:54:40"
+        },
+        {
           "Title": "חדשות הערב | 19.03.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-03-19 20:25:54",
@@ -499,18 +511,6 @@
           "StreamerId": "1_0q282a71",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/872047",
           "Date": "2025-03-18 21:55:56"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 18.03.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-03-18 20:48:35",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_do364aqx/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_do364aqx/a.m3u8"
-          ],
-          "StreamerId": "1_do364aqx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/872045",
-          "Date": "2025-03-18 20:48:35"
         },
         {
           "Title": "העולם היום | 17.03.25",
@@ -2116,19 +2116,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: בחזרה ללחימה [live]",
+          "Title": "ארץ נהדרת: בחזרה ללחימה",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/20634285/20634285_noAdds/20634285_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/20634285/20634285_noAdds/20634285_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b28ef51be6da5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-b28ef51be6da591026.htm",
           "ShortDescriptionLine2": "A special edition following the return to fight in Gaza",
           "Date": "2025-03-19T21:43:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEDERET: Back to fighting [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: Back to fighting"
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
