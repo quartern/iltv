@@ -2116,8 +2116,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8105bd66a18a5910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-8105bd66a18a591027.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-03-19T07:10:25+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/19/Avri_Sherki_180325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20634242/20634242_noAdds/20634242_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20634242/20634242_noAdds/20634242_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2142,20 +2157,6 @@
           "Date": "2025-03-18T09:34:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: The ceasefire ended"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: חידוש הלחימה בעזה",
-          "Poster": "https://img.mako.co.il/2025/03/18/Hadshot_Haboker_180325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/March/Hadshot_Haboker_180325_VOD_asw345/Hadshot_Haboker_180325_VOD_asw345_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/March/Hadshot_Haboker_180325_VOD_asw345/Hadshot_Haboker_180325_VOD_asw345_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0286e454c43a5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-0286e454c43a591026.htm",
-          "ShortDescriptionLine2": "Israel Renewed the fighting in Gaza",
-          "Date": "2025-03-18T07:08:56+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Renewal of fighting in Gaza"
         },
         {
           "Title": "אופירה ולוינסון: יאיר גולן",
@@ -2288,6 +2289,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "בשורה התחתונה | תוכן ממומן - 18.03.25",
+          "StreamerId": "6370217316112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/abf0618f-9f88-4872-888a-6cd966f7ead0/4013af65-c61e-4d31-ae4b-dfe4054ac1cd/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370217316112",
+          "Date": "2025-03-19T05:01:29Z",
+          "ShortDescriptionLine1": "Bottom line | Sponsored Content - 18.03.25",
+          "ShortDescriptionLine2": "2025-03-19T05:01:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/abf0618f-9f88-4872-888a-6cd966f7ead0/10s/master.m3u8?fastly_token=NjdmZjQ4NzlfMDg3NDRiYTgyYjcwM2I2YzhmZTRkNGQ3NTVhZTZhNjk4OTAyZjA0ZjU3MWRmYWIzZDIzZjBkYjJmY2NhZjU1NQ%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי - 18.03.25",
           "StreamerId": "6370205560112",
@@ -2610,18 +2623,6 @@
           "ShortDescriptionLine2": "2025-03-07T20:30:41Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6fcbfc2e-b5af-4b18-9d8b-6dd7483d7a58/10s/master.m3u8?fastly_token=NjdmMDY5YmVfNzRiMjY4MjRhZDEwY2E3NTE0MzhkMjI0NGViOTE1OTQ5NDk5Nzg3YjVhOWVlZDljZWVjOTIxY2MyZTYwNGI3Ng%3D%3D"
-          ]
-        },
-        {
-          "Title": "בשורה התחתונה 04.03.25",
-          "StreamerId": "6369606561112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/53db7921-8e80-416f-aee1-09b1ee3fd68e/4936efbc-9055-4717-b162-2f385cd4de59/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6369606561112",
-          "Date": "2025-03-04T21:55:51Z",
-          "ShortDescriptionLine1": "Bottom line 04.03.25",
-          "ShortDescriptionLine2": "2025-03-04T21:55:51Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/53db7921-8e80-416f-aee1-09b1ee3fd68e/10s/master.m3u8?fastly_token=NjdlYzcwNThfNzU5MDA2ZmNmODJlMTU3MzhmNTFlMGI4OTZiMDYzMzY2MGNiZjU4MzBiMWJkZDUwZTk4MWJkOThmOTNlMzg4NA%3D%3D"
           ]
         }
       ]
