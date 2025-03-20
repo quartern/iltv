@@ -1957,6 +1957,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 20.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "071fa3495d565910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-071fa3495d56591027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-20T15:00:09+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Edition today: 20.03.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 19.03.25",
           "Poster": "https://img.mako.co.il/2025/03/19/Madura_Merkazit_190325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2011,20 +2026,6 @@
           "Date": "2025-03-19T16:56:09+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 19.03.25"
-        },
-        {
-          "Title": "מהדורת היום: 19.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/19/Mahadurat_Hayom_190325_VOD_autoOrient._autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/march/Mahadurat_Hayom_190325_VOD_sdf432/Mahadurat_Hayom_190325_VOD_sdf432_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/march/Mahadurat_Hayom_190325_VOD_sdf432/Mahadurat_Hayom_190325_VOD_sdf432_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b3cda3495d565910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-b3cda3495d56591027.htm",
-          "ShortDescriptionLine2": "Fire in Gaza continues",
-          "Date": "2025-03-19T15:00:28+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 19.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 15.03.25",
@@ -2117,13 +2118,13 @@
       "Items": [
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
-          "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/20/Nesli_Yoav_200325_VOD_ctre321_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/20634307/20634307_noAdds/20634307_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/20634307/20634307_noAdds/20634307_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2025/March/Nesli_Yoav_200325_VOD_ctre321/Nesli_Yoav_200325_VOD_ctre321_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2025/March/Nesli_Yoav_200325_VOD_ctre321/Nesli_Yoav_200325_VOD_ctre321_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "07b9109824da5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-07b9109824da591026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2025/VOD-07b9109824da591026.htm",
           "ShortDescriptionLine2": "The battle of kidnapped families, and also: return to fighting",
           "Date": "2025-03-20T09:34:44+02:00",
           "Live": false,
