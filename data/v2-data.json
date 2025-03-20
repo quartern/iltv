@@ -1972,19 +1972,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 20.03.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 20.03.25 [live]",
+          "Title": "מהדורת היום: 20.03.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20634295/20634295_noAdds/20634295_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20634295/20634295_noAdds/20634295_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "071fa3495d565910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-071fa3495d56591027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-20T15:00:09+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 20.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 20.03.25"
         },
         {
           "Title": "המהדורה המרכזית: 19.03.25",
@@ -2291,6 +2290,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 20.03.25 חלק א'",
+          "StreamerId": "6370275954112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7f0587ae-7ea2-4d7e-aca2-f3bd3a30d33e/78979475-4cc3-477e-9066-dc7cf638339d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370275954112",
+          "Date": "2025-03-20T15:05:59Z",
+          "ShortDescriptionLine1": "Lunch Edition 20.03.25 Part I",
+          "ShortDescriptionLine2": "2025-03-20T15:05:59Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7f0587ae-7ea2-4d7e-aca2-f3bd3a30d33e/10s/master.m3u8?fastly_token=NjgwMTJmOTdfZWZiODVjY2RmYWEzNjZkZDc5ZDliNzRlMGUwZDM4N2ZiYzVlM2VkZTU5Y2M2YmRmZGI0NzFlMTgwNjY1NjcyMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15 20.03.25",
+          "StreamerId": "6370276141112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/80c5ab60-9006-417e-98d2-3d511469f641/007ed498-efb5-453a-be91-fb5f2add71c3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370276141112",
+          "Date": "2025-03-20T14:55:50Z",
+          "ShortDescriptionLine1": "Edition 15 20.03.25",
+          "ShortDescriptionLine2": "2025-03-20T14:55:50Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/80c5ab60-9006-417e-98d2-3d511469f641/10s/master.m3u8?fastly_token=NjgwMTNlNzBfMTFmNjY2MmY1MTQzMTdhMTFjOWI3NDc4MDAyYmUwMTMwMWJiNmQ3YTg5ZTJjNDExYjAzZDAwZDlkYTQ5NGFmNw%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 19.03.25",
           "StreamerId": "6370252009112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f8145556-6c42-48df-98f5-a00f51dce884/ed02e832-a921-40c0-bb7b-c223803092e1/320x180/match/image.jpg",
@@ -2399,18 +2422,6 @@
           ]
         },
         {
-          "Title": "מהדורת הצוהריים חלק א' 19.03.25",
-          "StreamerId": "6370229893112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1b9ea314-b6a6-4755-9bf3-b9161b4663ab/a61ccddf-f9fa-4aa8-9ec5-38d17489ec28/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370229893112",
-          "Date": "2025-03-19T13:01:58Z",
-          "ShortDescriptionLine1": "Lunch Edition Part I. 19.03.25",
-          "ShortDescriptionLine2": "2025-03-19T13:01:58Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1b9ea314-b6a6-4755-9bf3-b9161b4663ab/10s/master.m3u8?fastly_token=NjdmZmNkODlfMGJjZTYyNzI0NWUyMWMxYmI1OWNkMmM1OTgwNTI5YzM4NWQxOTk1Y2I0YmQyYjE4ZmE0ZTg5YWZjNjc2MmE0MA%3D%3D"
-          ]
-        },
-        {
           "Title": "בשורה התחתונה | תוכן ממומן - 18.03.25",
           "StreamerId": "6370217316112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/abf0618f-9f88-4872-888a-6cd966f7ead0/4013af65-c61e-4d31-ae4b-dfe4054ac1cd/320x180/match/image.jpg",
@@ -2492,18 +2503,6 @@
           "ShortDescriptionLine2": "2025-03-18T15:56:24Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2af62eeb-7703-4b26-9021-7d7299937b56/10s/master.m3u8?fastly_token=NjdmZTk4ZjJfMWFjNTUyOGIwNmM1YmY5N2IwMTJjYjIzYjk1Y2ZmNzI5OGE5MTRmZjZkNWFiMDA3M2Q3ZTMwYWNiMWQ3Y2Y2Nw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 - 18.03.25",
-          "StreamerId": "6370191751112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bc018036-3694-4b88-af15-6a62b27cec6e/aef3aabe-b206-4cfb-8c8f-3b5cf97803d3/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370191751112",
-          "Date": "2025-03-18T14:51:57Z",
-          "ShortDescriptionLine1": "Edition 15 - 18.03.25",
-          "ShortDescriptionLine2": "2025-03-18T14:51:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bc018036-3694-4b88-af15-6a62b27cec6e/10s/master.m3u8?fastly_token=NjdmZTk3YTBfY2E1ZDI2ZTllYjk2ZmI0MGNkN2RmY2Q5MDE3YTljYTc3ZTRkYjAxMjk5ZTk5MTMwNjdlOTM0ZDRmNjY4MWEwNw%3D%3D"
           ]
         },
         {
