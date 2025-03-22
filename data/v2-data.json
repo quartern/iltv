@@ -1957,19 +1957,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבת בחמש: 22.03.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "Title": "פגוש את העיתונות: 22.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "eeb5362cc0235910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/d60f7f578e225910/VOD-eeb5362cc023591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-22T18:00:06+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the Press: 22.03.25 [live]"
+        },
+        {
+          "Title": "שבת בחמש: 22.03.25",
+          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/shabat_at_5/20634360/20634360_noAdds/20634360_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/shabat_at_5/20634360/20634360_noAdds/20634360_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "af66cb7c9f135910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2025/9c407f578e225910/VOD-af66cb7c9f13591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-22T16:59:01+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Saturday at five: 22.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Saturday at five: 22.03.25"
         },
         {
           "Title": "המהדורה הצעירה: 22.03.25",
@@ -2096,20 +2110,6 @@
           "Date": "2025-03-15T18:00:21+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the Press: 15.03.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 08.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/08/Pgosh_080325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/March/Pgosh_080325_VOD_asw234/Pgosh_080325_VOD_asw234_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/March/Pgosh_080325_VOD_asw234/Pgosh_080325_VOD_asw234_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "dfe5362cc0235910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/meet_the_press-2025/d60f7f578e225910/VOD-dfe5362cc023591026.htm",
-          "ShortDescriptionLine2": "An interview with opposition head Yair Lapid",
-          "Date": "",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 08.03.25"
         }
       ]
     },
