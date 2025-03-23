@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 23.03.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-03-23 19:59:06",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_i2xeeiz6/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_i2xeeiz6/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_i2xeeiz6",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/874023",
+          "Date": "2025-03-23 19:59:06"
+        },
+        {
           "Title": "חדשות השבת | 22.03.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-03-22 20:11:50",
@@ -511,18 +523,6 @@
           "StreamerId": "1_eiu926w6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/872866",
           "Date": "2025-03-20 21:54:46"
-        },
-        {
-          "Title": "חדשות הערב | 20.03.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-03-20 20:52:41",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qzy8c7om/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qzy8c7om/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_qzy8c7om",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/872858",
-          "Date": "2025-03-20 20:52:41"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 20.03.25",
@@ -1957,44 +1957,43 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 23.03.25 [live]",
+          "Title": "המהדורה המרכזית: 23.03.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20634388/20634388_noAdds/20634388_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20634388/20634388_noAdds/20634388_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "626ed4a5595b5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-626ed4a5595b591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-23T19:54:07+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 23.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 23.03.25"
         },
         {
           "Title": "המהדורה המוקדמת: 23.03.25",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/23/Mahadura_Mukdemet_230325_VOD_jhb8_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634387/20634387_noAdds/20634387_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634387/20634387_noAdds/20634387_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e39d1082285b5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/4e4a35ef6d225910/VOD-e39d1082285b591026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The UNFECT IMPACT LEGE",
           "Date": "2025-03-23T18:59:21+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early Edition: 23.03.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 23.03.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/23/Shesh_230325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20634386/20634386_noAdds/20634386_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20634386/20634386_noAdds/20634386_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/March/Shesh_230325_VOD_er7ug/Shesh_230325_VOD_er7ug_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/March/Shesh_230325_VOD_er7ug/Shesh_230325_VOD_er7ug_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b070215ce65b5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/84127f578e225910/VOD-b070215ce65b591026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/84127f578e225910/VOD-b070215ce65b591026.htm",
+          "ShortDescriptionLine2": "The PA's ouster procedure set off",
           "Date": "2025-03-23T17:55:48+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 23.03.25"
@@ -2290,6 +2289,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית - 23.03.25",
+          "StreamerId": "6370436593112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/02e7ca1e-7d7f-410c-ae4a-b7f383811f27/be9f85a3-54ef-4483-b7ad-193a57c08519/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370436593112",
+          "Date": "2025-03-23T19:50:50Z",
+          "ShortDescriptionLine1": "Central Edition - 23.03.25",
+          "ShortDescriptionLine2": "2025-03-23T19:50:50Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/02e7ca1e-7d7f-410c-ae4a-b7f383811f27/10s/master.m3u8?fastly_token=NjgwNTZkZjBfNzlmZGM5OGIyMTY5MmYwOTU2NTJmMzZkN2U0MTYwYWFiMDlmYmM5MDY5YjAwNmY3NjExOTg1OTIyNTlhYjlkOA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל 23.03.25",
           "StreamerId": "6370432346112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/df7232b8-6280-4d2b-8447-025cc6249630/f14692eb-63db-4d22-a687-73e7b9cc45aa/320x180/match/image.jpg",
@@ -2515,18 +2526,6 @@
           "ShortDescriptionLine2": "2025-03-19T20:50:23Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/98d1d723-bbee-4316-b1d6-4c3dbcef43a5/10s/master.m3u8?fastly_token=NjgwMDM0YTlfNDc0ZWViYmEzMTVhY2IxMzI0ZmYzYTVmZjEyNjBlOTU4ZmM4ODRhOGY5ZDk4NzRjYTRmMDQ5ZTkxMTZkMGJlMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 19.03.25",
-          "StreamerId": "6370246871112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bb4c18fd-22ef-4838-9c35-dc0b18241fdf/4c90f7d3-b5fa-445d-9dd4-372b15a8e12a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370246871112",
-          "Date": "2025-03-19T20:12:28Z",
-          "ShortDescriptionLine1": "Central Edition 19.03.25",
-          "ShortDescriptionLine2": "2025-03-19T20:12:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bb4c18fd-22ef-4838-9c35-dc0b18241fdf/10s/master.m3u8?fastly_token=NjgwMDJkMGRfNjU2ZWQ3ZjMzNGVlODYzMDk1MTk4NWJjYzk0ODlmNjc2NTcwZWQ1OTg1NGEzMjkzOTc1NjYzOGNjMTQzN2FmYg%3D%3D"
           ]
         },
         {
