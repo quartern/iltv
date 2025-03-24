@@ -2116,6 +2116,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "89edeeee637c5910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-89edeeee637c591026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki on a special program",
+          "Date": "2025-03-24T23:42:41+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: הבדיקה החשאית של השב\"כ",
           "Poster": "https://img.mako.co.il/2025/03/24/Nesli_Yoav_240325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2142,20 +2157,6 @@
           "Date": "2025-03-24T07:10:53+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: interview with Yair Golan"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/March/Avri_Sherki_230325_VOD_yty632/Avri_Sherki_230325_VOD_yty632_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/March/Avri_Sherki_230325_VOD_yty632/Avri_Sherki_230325_VOD_yty632_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c445d2303c2c5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-c445d2303c2c591027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki on a special program",
-          "Date": "2025-03-23T23:26:09+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "אופירה ולוינסון: יאיר לפיד",
@@ -2288,6 +2289,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 24.03.25",
+          "StreamerId": "6370493309112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d8af55eb-cba7-45df-8008-e59fc1ab91a0/da304aa9-686c-45b6-a9d2-489201fd4556/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370493309112",
+          "Date": "2025-03-24T21:48:06Z",
+          "ShortDescriptionLine1": "News News 24.03.25",
+          "ShortDescriptionLine2": "2025-03-24T21:48:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d8af55eb-cba7-45df-8008-e59fc1ab91a0/10s/master.m3u8?fastly_token=NjgwNmNkOWFfODM0ZTA4NTc5MmFiMmU2MmY4MDRhYzJmODIxOTM4MGIxNjkxMWFmNDZmMDZhMjIyODQ2ZTU0NDcwZjBjMjVhNQ%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי 24.03.25",
           "StreamerId": "6370489936112",
@@ -2526,18 +2539,6 @@
           "ShortDescriptionLine2": "2025-03-21T17:55:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/75d72d7a-f2e6-4cf0-bd61-7c5e57a36a51/10s/master.m3u8?fastly_token=NjgwMmI3N2ZfYjg5MjA0ZTcwNjQ0OWU0ZjFhZWViYTBkZWQwNjk5MjNlNDZmMDlkODEzZTc2ZjRlODdhYWVlMjE0NTQ3OWM0Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 20.03.25",
-          "StreamerId": "6370293676112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/666cf808-2896-4afb-9854-040f4e2d4d88/ca617a60-930a-4d86-ac6e-0f3a24f3ee90/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370293676112",
-          "Date": "2025-03-20T21:31:55Z",
-          "ShortDescriptionLine1": "News of News 20.03.25",
-          "ShortDescriptionLine2": "2025-03-20T21:31:55Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/666cf808-2896-4afb-9854-040f4e2d4d88/10s/master.m3u8?fastly_token=NjgwMTg2ODJfZGY3NjJkNDA3NjQyYWVlNDM1ZGMxYzFlYTI1MjllM2RjMDU0ZWU0MDNhZGQ5MDQzNGYxODJlMGRhMWRhYWJkMw%3D%3D"
           ]
         },
         {
