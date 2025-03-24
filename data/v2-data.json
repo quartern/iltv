@@ -1957,6 +1957,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 24.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8e22d4a5595b5910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-8e22d4a5595b591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-24T19:54:48+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 24.03.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 24.03.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2011,20 +2026,6 @@
           "Date": "2025-03-24T15:00:19+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 24.03.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 23.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/23/Madura_Merkazit_230325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Madura_Merkazit_230325_VOD_xsdy673/Madura_Merkazit_230325_VOD_xsdy673_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Madura_Merkazit_230325_VOD_xsdy673/Madura_Merkazit_230325_VOD_xsdy673_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "626ed4a5595b5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-626ed4a5595b591026.htm",
-          "ShortDescriptionLine2": "Today's events",
-          "Date": "2025-03-23T19:54:07+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 23.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.03.25",
@@ -2289,6 +2290,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 24.03.25",
+          "StreamerId": "6370478045112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/86105a6c-0f58-4e6c-b674-51fce0e3349e/8d17c33c-a928-410c-9b5f-83e5aeb6ff5a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370478045112",
+          "Date": "2025-03-24T17:51:58Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 24.03.25",
+          "ShortDescriptionLine2": "2025-03-24T17:51:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/86105a6c-0f58-4e6c-b674-51fce0e3349e/10s/master.m3u8?fastly_token=NjgwNjliOWNfMThkYWIyNTY3MzBiODI3MTdmNGM5MTkwMDFmOWVlYWRiMWI4ODUxMTBlNGM4ZmViMGY3MGQ2OWJjYjZmMzc0Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 23.3.25",
           "StreamerId": "6370475655112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c52fbd66-7f76-4096-9f9d-35d56baebeaf/6ec631d2-7762-4363-b834-3e5bba7f449f/320x180/match/image.jpg",
@@ -2514,18 +2527,6 @@
           "ShortDescriptionLine2": "2025-03-20T19:35:34Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/153534b0-dd54-4c3a-a8de-bc37bdb17cb3/10s/master.m3u8?fastly_token=NjgwMTdhMWZfMDcyOGJlMmVkZDJiOTkyMzMxYTI2OTlhODQ3YjkwMzVkYTA5YzEwNzE1ZjIzODk1MGI4MmM1YzQ4NzNiNjlkYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 20.03.25",
-          "StreamerId": "6370283357112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/96b99aa2-73c8-47b3-968a-ef11c5561a6e/25b47c86-ab32-46dc-84e1-d916529d08ba/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370283357112",
-          "Date": "2025-03-20T17:53:28Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 20.03.25",
-          "ShortDescriptionLine2": "2025-03-20T17:53:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/96b99aa2-73c8-47b3-968a-ef11c5561a6e/10s/master.m3u8?fastly_token=NjgwMTU4YWVfZGZlODZmMjEyMWEyNzQ3MzM5NDNmOTY2MDYzOGRhMzRiNGU5OTcyZTU4MmI5ZGUzNGQ2ZjJhZTg1MjhlOTM1YQ%3D%3D"
           ]
         },
         {
