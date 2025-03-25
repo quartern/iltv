@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 25.03.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-03-25 22:48:47",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_01nrk6yf/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_01nrk6yf/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_01nrk6yf",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/874900",
+          "Date": "2025-03-25 22:48:47"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 25.03.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-03-25 20:40:47",
@@ -511,18 +523,6 @@
           "StreamerId": "1_cc9lx4bf",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/874894",
           "Date": "2025-03-25 15:51:11"
-        },
-        {
-          "Title": "חדשות הלילה | 24.03.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-03-24 21:21:11",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_543mssqz/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_543mssqz/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_543mssqz",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/874471",
-          "Date": "2025-03-24 21:21:11"
         },
         {
           "Title": "חדשות הערב | 24.03.25",
@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 25.03.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
+          "StreamerId": "1_0shlbfjn",
+          "Date": "2025-03-26 00:24:07",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/cwm9j-904518601/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-03-26 00:24:07",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0shlbfjn/flavorIds/1_5xb9atxr,1_wlh14nx5,1_nznal0kd,1_38tjzjri,1_8wdqqjsp,1_irwsbevq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 25.03.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_nlniy385",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-03-25 18:19:40",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5w7kqwgu/flavorIds/1_161fxh28,1_f1hhtw06,1_8s316sel,1_9h9icc8k,1_aw2kd9l6,1_79mrao3h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 24.03.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
-          "StreamerId": "1_9yql7nc0",
-          "Date": "2025-03-24 23:59:03",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/syxw8-904517197/",
-          "ShortDescriptionLine1": "On This Day",
-          "ShortDescriptionLine2": "2025-03-24 23:59:03",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9yql7nc0/flavorIds/1_6mpruvfj,1_2x08xja3,1_nodsqzjc,1_ddz1az3g,1_smobvoql,1_03o2ecd9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2116,19 +2116,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/03/26/Avri_Sherki_250325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20634461/20634461_noAdds/20634461_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20634461/20634461_noAdds/20634461_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "168bd8e417cc5910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-168bd8e417cc591027.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-03-25T23:44:13+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: אות החיים משני חטופים",
