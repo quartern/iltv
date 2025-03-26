@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 26.03.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
+          "StreamerId": "1_sb3prq0e",
+          "Date": "2025-03-27 00:16:13",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/ike1c-904520132/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-03-27 00:16:13",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sb3prq0e/flavorIds/1_4w206747,1_tgo0vg3v,1_tl53a2ej,1_zjz5oya3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 26.03.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_egdgr2gz",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-03-26 18:24:39",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dfvugehs/flavorIds/1_k4br94ys,1_3awxk2qz,1_linjivcb,1_9x88kqh3,1_6ndef1ot,1_bs5ek9qs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 25.03.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714900720/uploads/2024/904042930.jpg",
-          "StreamerId": "1_0shlbfjn",
-          "Date": "2025-03-25 23:59:07",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/cwm9j-904518601/",
-          "ShortDescriptionLine1": "On This Day",
-          "ShortDescriptionLine2": "2025-03-25 23:59:07",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0shlbfjn/flavorIds/1_5xb9atxr,1_wlh14nx5,1_nznal0kd,1_38tjzjri,1_8wdqqjsp,1_irwsbevq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2116,19 +2116,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: חוזרים ל-6 באוקטובר  [live]",
+          "Title": "ארץ נהדרת: חוזרים ל-6 באוקטובר ",
           "Poster": "https://img.mako.co.il/2025/03/26/Eretz_Nehederet22_18_260325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_18_260325_VOD_asjke2904/Eretz_Nehederet22_18_260325_VOD_asjke2904_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_18_260325_VOD_asjke2904/Eretz_Nehederet22_18_260325_VOD_asjke2904_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1b3e84bce61d5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-1b3e84bce61d591027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-1b3e84bce61d591027.htm",
           "ShortDescriptionLine2": "Return to October 6 and continue from where we stopped",
           "Date": "2025-03-26T21:36:47+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEDERET: Return to October 6 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: Return to October 6"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
