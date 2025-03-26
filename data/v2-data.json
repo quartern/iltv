@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 26.03.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-03-26 20:41:44",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8zwpou3w/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8zwpou3w/a.m3u8"
+          ],
+          "StreamerId": "1_8zwpou3w",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/875272",
+          "Date": "2025-03-26 20:41:44"
+        },
+        {
           "Title": "חדשות הערב | 26.03.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-03-26 20:06:59",
@@ -523,18 +535,6 @@
           "StreamerId": "1_01nrk6yf",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/874900",
           "Date": "2025-03-25 22:48:47"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 25.03.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-03-25 20:40:47",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_aw5zxdxa/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_aw5zxdxa/a.m3u8"
-          ],
-          "StreamerId": "1_aw5zxdxa",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/874899",
-          "Date": "2025-03-25 20:40:47"
         },
         {
           "Title": "חדשות השבת | 22.03.25",
@@ -2116,17 +2116,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: חוזרים ל-6 באוקטובר",
+          "Title": "ארץ נהדרת: חוזרים ל-6 באוקטובר  [live]",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/makostore-hd.akamaized.net/i/SHORT/ErrorMessage/eror_2/eror_2_,550,850,1400,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
           "StreamerId": "1b3e84bce61d5910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-1b3e84bce61d591027.htm",
           "ShortDescriptionLine2": "Return to October 6 and continue from where we stopped",
-          "Date": "2025-03-26T22:19:28+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "ERETZ NeHEDERET: Return to October 6"
+          "Date": "2025-03-26T21:36:47+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "ERETZ NeHEDERET: Return to October 6 [live]"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
