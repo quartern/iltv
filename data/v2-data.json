@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 26.03.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_fz5e4z0g",
+          "Date": "2025-03-26 19:53:51",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/tecte-904519930/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-03-26 19:53:51",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_fz5e4z0g/flavorIds/1_bi9nth9q,1_hbl5kgf1,1_9cx32q2j,1_gq4zgku3,1_r8looxpj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 26.03.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_7rzm40jv",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-03-25 21:05:49",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_z8q7hy8t/flavorIds/1_m3f2f810,1_w0n7pj8l,1_3rq9u62s,1_zrvi3p9o,1_epo99ib1,1_yanzoptb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 25.03.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_iglnout3",
-          "Date": "2025-03-25 19:54:08",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/ee2xp-904518339/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2025-03-25 19:54:08",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_iglnout3/flavorIds/1_97xegt7i,1_4cpsyo19,1_0c5myanb,1_uh7q5vbb,1_xubjfyju,1_5ysbh5m7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1957,19 +1957,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 26.03.25 [live]",
+          "Title": "המהדורה המוקדמת: 26.03.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634484/20634484_noAdds/20634484_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634484/20634484_noAdds/20634484_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "834f1082285b5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/4e4a35ef6d225910/VOD-834f1082285b591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-26T18:59:15+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 26.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 26.03.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 26.03.25",
