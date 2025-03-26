@@ -1957,19 +1957,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 26.03.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 26.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "67947425e55b5910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/e2687f578e225910/VOD-67947425e55b591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-26T16:55:23+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 26.03.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 26.03.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20634482/20634482_noAdds/20634482_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20634482/20634482_noAdds/20634482_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "4cabcb24205b5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/5beb7f578e225910/VOD-4cabcb24205b591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-26T14:59:51+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 26.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 26.03.25"
         },
         {
           "Title": "המהדורה המרכזית: 25.03.25",
@@ -2012,20 +2026,6 @@
           "Date": "2025-03-25T17:55:45+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.03.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 25.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/25/Hamesh_250325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/March/Hamesh_250325_VOD_4b56bf/Hamesh_250325_VOD_4b56bf_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/March/Hamesh_250325_VOD_4b56bf/Hamesh_250325_VOD_4b56bf_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ad647425e55b5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/e2687f578e225910/VOD-ad647425e55b591026.htm",
-          "ShortDescriptionLine2": "A collision between the chief of staff and the Minister of Defense",
-          "Date": "2025-03-25T16:55:24+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.03.25",
@@ -2290,6 +2290,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 26.03.25 חלק ב'",
+          "StreamerId": "6370585102112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7bd71530-a1ef-4a10-befc-b02d54253101/0b874f3b-bba9-4fbc-92b0-b40173e43980/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370585102112",
+          "Date": "2025-03-26T14:56:49Z",
+          "ShortDescriptionLine1": "Lunch edition 26.03.25 Part II",
+          "ShortDescriptionLine2": "2025-03-26T14:56:49Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7bd71530-a1ef-4a10-befc-b02d54253101/10s/master.m3u8?fastly_token=NjgwOTFkMGFfODdlOWYzOTQ0OTIxOGY5ODY5NzNiNTRjODY2ZTgyMTk3MjdkM2VjNmU3YmZlNWEyMGJlOTRjYzQ1MzFjMGRhOA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת הצוהריים 26.03.25 חלק א'",
+          "StreamerId": "6370582570112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b15eb5ee-7413-4cc6-a3a3-360ccb52c64e/e13b121d-b458-4b1c-9a6d-462a1040e63e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370582570112",
+          "Date": "2025-03-26T14:55:32Z",
+          "ShortDescriptionLine1": "Lunch Edition 26.03.25 Part I",
+          "ShortDescriptionLine2": "2025-03-26T14:55:32Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b15eb5ee-7413-4cc6-a3a3-360ccb52c64e/10s/master.m3u8?fastly_token=NjgwOTFkMDNfNjg2NjdhMzRiZTliNDgwM2QzODRmMjFhZTJiNTA2NjEyMDkyZThjOTVlZTIzM2MwNzVlZTVjZjZkOTc3NmM2Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "אלירז שדה על אישור תקציב המדינה: “אולי ברגעים כאלה אנחנו צריכים מדינה לא מושלמת, אבל מתפקדת”",
           "StreamerId": "6370551304112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7896f0d9-3a31-4417-8271-6d2deaabaf3e/4cc1eeac-01d9-493e-af4f-628939df5655/320x180/match/image.jpg",
@@ -2383,30 +2407,6 @@
           "ShortDescriptionLine2": "2025-03-25T15:17:00Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cad4a6ef-bd1a-47e3-a560-661079a0ef8b/10s/master.m3u8?fastly_token=NjgwN2Q5NDlfZGZiNTQxZTc0OTUyNTgxZDFlM2I0MjEwNTQxODY0ODkxZWU5N2FlODNhYmUxMTgwOTMwODk2NTU5Y2EwNzE4OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 25.03.25 חלק ב'",
-          "StreamerId": "6370519585112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2a39564f-ed3e-4307-9d82-97ff975f9b0e/4805c1db-5110-4f78-8ee8-0a8e29951ee9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370519585112",
-          "Date": "2025-03-25T13:02:53Z",
-          "ShortDescriptionLine1": "The Lunch Edition 25.03.25 Part II",
-          "ShortDescriptionLine2": "2025-03-25T13:02:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2a39564f-ed3e-4307-9d82-97ff975f9b0e/10s/master.m3u8?fastly_token=NjgwN2IzNWJfYjI2MmEwMTM1NjhlODRlMDc5OGMxMTFmMGJiOGMzZjgwMzAzYzU0YmQyNjNlNmI3NTVkMGYwMTA3MGI3ODA4NQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 25.03.25 חלק א'",
-          "StreamerId": "6370519477112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/480f0e7f-52de-4b65-86da-e6737cb02d6d/6aa7c57c-2dbb-436b-b9e2-1865627df537/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370519477112",
-          "Date": "2025-03-25T13:01:31Z",
-          "ShortDescriptionLine1": "Mitzvah edition 25.03.25 Part I",
-          "ShortDescriptionLine2": "2025-03-25T13:01:31Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/480f0e7f-52de-4b65-86da-e6737cb02d6d/10s/master.m3u8?fastly_token=NjgwN2IzMThfODg3MTM3MWUwYjNkNjA2MzRhYmJiZDUxYWMxY2M4Njc4MTY2N2YxZTA3YjRkYTU1MjJmMjBmMmI4NDM4YzhjOA%3D%3D"
           ]
         },
         {
