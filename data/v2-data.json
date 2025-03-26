@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בוש עונה 4 | פרק 2 - חלומות על באנקר היל",
+          "ShortDescriptionLine1": "Bush Season 4 | Chapter 2 - Dreams on Banker Hill",
+          "ShortDescriptionLine2": "2025-03-26 21:26:45",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3re90012/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3re90012/a.m3u8"
+          ],
+          "StreamerId": "1_3re90012",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833724/s4/862035",
+          "Date": "2025-03-26 21:26:45"
+        },
+        {
           "Title": "אלופות | פרק 3 - הרכב מנצח",
           "ShortDescriptionLine1": "Champions | Chapter 3 - Winning Composition",
           "ShortDescriptionLine2": "2025-03-26 20:06:37",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_2x78e9bg",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13173/866531",
           "Date": "2025-03-23 14:27:03"
-        },
-        {
-          "Title": "מתיר עגונות - הצצה | עקרות הלכתית",
-          "ShortDescriptionLine1": "Congratulations - glimpse | Halakhic bargains",
-          "ShortDescriptionLine2": "2025-03-23 14:14:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_w9792wpt/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_w9792wpt/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_w9792wpt",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13688/866545",
-          "Date": "2025-03-23 14:14:51"
         }
       ]
     },
@@ -2117,7 +2117,7 @@
       "Items": [
         {
           "Title": "ארץ נהדרת: חוזרים ל-6 באוקטובר  [live]",
-          "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/26/Eretz_Nehederet22_18_260325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
@@ -2289,6 +2289,30 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 26.03.25",
+          "StreamerId": "6370606213112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d33a61cc-81a6-4bb4-bc1e-470e54c8c9bb/4dad1113-48dd-41e0-8f2b-7c36fd3ee748/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370606213112",
+          "Date": "2025-03-26T21:32:38Z",
+          "ShortDescriptionLine1": "Talk News 26.03.25",
+          "ShortDescriptionLine2": "2025-03-26T21:32:38Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d33a61cc-81a6-4bb4-bc1e-470e54c8c9bb/10s/master.m3u8?fastly_token=NjgwOTY5OWJfZDlkMjk2ZTc3MGNkN2I0ZjZhZWQwNjgwNTJhNTlmOTAwODgyYmM3YmNmZWUyZDg2NTA2OGY0ZWI0ODRjNzVjMg%3D%3D"
+          ]
+        },
+        {
+          "Title": "המועדון העסקי 26.03.25",
+          "StreamerId": "6370602953112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3ff7da52-675e-4aaa-94b2-7e678dc53144/10c65bdc-ebc7-4ae5-a07e-3049af803459/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370602953112",
+          "Date": "2025-03-26T21:03:09Z",
+          "ShortDescriptionLine1": "Business Club 26.03.25",
+          "ShortDescriptionLine2": "2025-03-26T21:03:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3ff7da52-675e-4aaa-94b2-7e678dc53144/10s/master.m3u8?fastly_token=NjgwOTY5ODdfZGYwOGRhZTFjMGQzMzQyNzM0ZmZmMDMyODg0Y2VjN2NhY2NiMjJhMjMxODVjMzc1ZWEzODdmOGE2MjcwYzhmYQ%3D%3D"
+          ]
+        },
         {
           "Title": "הישראלים 26.03.25",
           "StreamerId": "6370602834112",
@@ -2467,30 +2491,6 @@
           "ShortDescriptionLine2": "2025-03-25T15:17:00Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cad4a6ef-bd1a-47e3-a560-661079a0ef8b/10s/master.m3u8?fastly_token=NjgwN2Q5NDlfZGZiNTQxZTc0OTUyNTgxZDFlM2I0MjEwNTQxODY0ODkxZWU5N2FlODNhYmUxMTgwOTMwODk2NTU5Y2EwNzE4OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 24.03.25",
-          "StreamerId": "6370493309112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d8af55eb-cba7-45df-8008-e59fc1ab91a0/da304aa9-686c-45b6-a9d2-489201fd4556/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370493309112",
-          "Date": "2025-03-24T21:48:06Z",
-          "ShortDescriptionLine1": "News News 24.03.25",
-          "ShortDescriptionLine2": "2025-03-24T21:48:06Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d8af55eb-cba7-45df-8008-e59fc1ab91a0/10s/master.m3u8?fastly_token=NjgwNmNkOWFfODM0ZTA4NTc5MmFiMmU2MmY4MDRhYzJmODIxOTM4MGIxNjkxMWFmNDZmMDZhMjIyODQ2ZTU0NDcwZjBjMjVhNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 24.03.25",
-          "StreamerId": "6370489936112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/15bd235c-8c14-437a-bbc5-9438b254650f/c9982b33-9d31-4312-9d86-d339e6ecc8bd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370489936112",
-          "Date": "2025-03-24T21:12:02Z",
-          "ShortDescriptionLine1": "Business Club 24.03.25",
-          "ShortDescriptionLine2": "2025-03-24T21:12:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/15bd235c-8c14-437a-bbc5-9438b254650f/10s/master.m3u8?fastly_token=NjgwNmMyMzZfNTZlZGE4NGNlZjRlMDE5OTI2MTg5OGZiN2E4M2JmMTQxY2U4OGNkYTk1ODNmYzEzZDNjZDIzZmRmMjhiZDAxMw%3D%3D"
           ]
         },
         {
