@@ -1957,19 +1957,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 27.03.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 27.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "eea2d4a5595b5910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-eea2d4a5595b591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-27T19:53:03+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 27.03.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 27.03.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634516/20634516_noAdds/20634516_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20634516/20634516_noAdds/20634516_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "db6f1082285b5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/4e4a35ef6d225910/VOD-db6f1082285b591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-27T18:59:01+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 27.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 27.03.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 27.03.25",
@@ -2012,20 +2026,6 @@
           "Date": "2025-03-27T15:00:24+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 27.03.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 26.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/26/Mahadura_Merkazit_260325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_260325_VOD_54v16f/Mahadura_Merkazit_260325_VOD_54v16f_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/March/Mahadura_Merkazit_260325_VOD_54v16f/Mahadura_Merkazit_260325_VOD_54v16f_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c582d4a5595b5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/968c35ef6d225910/VOD-c582d4a5595b591026.htm",
-          "ShortDescriptionLine2": "Steps that Hamas weighs to thwart the protests in the Gaza Strip",
-          "Date": "2025-03-26T19:54:48+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 26.03.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.03.25",
