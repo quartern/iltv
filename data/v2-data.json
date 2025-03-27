@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 27.03.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-03-27 22:00:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5vpjymhp/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5vpjymhp/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_5vpjymhp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/875966",
+          "Date": "2025-03-27 22:00:43"
+        },
+        {
+          "Title": "חדשות הלילה | 27.03.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-03-27 21:57:09",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_dx9yw4lp/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_dx9yw4lp/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_dx9yw4lp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/875970",
+          "Date": "2025-03-27 21:57:09"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 27.03.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-03-27 20:54:17",
@@ -511,30 +535,6 @@
           "StreamerId": "1_soufyhio",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/875959",
           "Date": "2025-03-27 15:42:42"
-        },
-        {
-          "Title": "חדשות הלילה | 26.03.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-03-26 21:47:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kqq9mmdh/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_kqq9mmdh/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_kqq9mmdh",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/875274",
-          "Date": "2025-03-26 21:47:45"
-        },
-        {
-          "Title": "חדשות הערב | 26.03.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-03-26 20:06:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_wwqhzlvb/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wwqhzlvb/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_wwqhzlvb",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/875268",
-          "Date": "2025-03-26 20:06:59"
         },
         {
           "Title": "חדשות השבת | 22.03.25",
@@ -2290,6 +2290,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 27.03.25",
+          "StreamerId": "6370652744112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/32394331-d3bf-4857-b9a5-a656fd112ea2/f8ba2ea1-01cd-4b3e-a2b1-50bbc9705762/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370652744112",
+          "Date": "2025-03-27T21:38:25Z",
+          "ShortDescriptionLine1": "Talking News 27.03.25",
+          "ShortDescriptionLine2": "2025-03-27T21:38:25Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/32394331-d3bf-4857-b9a5-a656fd112ea2/10s/master.m3u8?fastly_token=NjgwYWMxNWFfNGViNjc4ZGM4ODg2ZmRmODlkZjA0NWY2ZTNmOWJhYmU0NzAwYTFiZWU3YmQxNTZkZDJjMGRiZDU4Y2YxZjM4NQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל 27.03.25",
           "StreamerId": "6370643548112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5c04b640-ca20-4618-94b9-ff72eed75802/9a53e6db-72ee-4326-b323-f7b829dc1bda/320x180/match/image.jpg",
@@ -2443,18 +2455,6 @@
           "ShortDescriptionLine2": "2025-03-26T14:58:43Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ae2699be-c5ba-4f1b-9ca8-387fc1502181/10s/master.m3u8?fastly_token=NjgwOTJhMGRfNDhiYjJjMDU0YzI4MjFiODJjNDFkODQxNTJmYjQ0ZDNmZTQ2MmZmMDM0OTMwOTE4N2MzMjJlY2Q3NmVmNjJlZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "אלירז שדה על אישור תקציב המדינה: “אולי ברגעים כאלה אנחנו צריכים מדינה לא מושלמת, אבל מתפקדת”",
-          "StreamerId": "6370551304112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7896f0d9-3a31-4417-8271-6d2deaabaf3e/4cc1eeac-01d9-493e-af4f-628939df5655/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370551304112",
-          "Date": "2025-03-25T22:04:00Z",
-          "ShortDescriptionLine1": "Eliraz Sadeh on the approval of the state budget: \"Maybe in such moments we need an in perfect state, but functions\"",
-          "ShortDescriptionLine2": "2025-03-25T22:04:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7896f0d9-3a31-4417-8271-6d2deaabaf3e/10s/master.m3u8?fastly_token=NjgwODFiMzVfZGNlMzYzZTU0OTlhMTcyYTA1MWFjYzk1NDg0NzZlOGU5NjcwMjQxNzg3YTE3OGM1N2YyODdjMTM0NDFjNDNlYw%3D%3D"
           ]
         },
         {
