@@ -1945,30 +1945,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבת בחמש: 29.03.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "Title": "פגוש את העיתונות: 29.03.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "c0da80a341235910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/d60f7f578e225910/VOD-c0da80a34123591026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-03-29T18:00:19+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the Press: 29.03.25 [live]"
+        },
+        {
+          "Title": "שבת בחמש: 29.03.25",
+          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/shabat_at_5/20634578/20634578_noAdds/20634578_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/shabat_at_5/20634578/20634578_noAdds/20634578_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "0028b19c30235910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2025/9c407f578e225910/VOD-0028b19c3023591026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-03-29T16:59:10+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Saturday at five: 29.03.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Saturday at five: 29.03.25"
         },
         {
           "Title": "המהדורה הצעירה: 29.03.25",
-          "Poster": "https://img.mako.co.il/2023/11/13/MahadoraCheira_3__X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/03/29/hamadura_hatzeira_290325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamhadura_hazeira/A183607/A183607_noAdds/A183607_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamhadura_hazeira/A183607/A183607_noAdds/A183607_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/March/hamadura_hatzeira_290325_VOD_hds329/hamadura_hatzeira_290325_VOD_hds329_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/March/hamadura_hatzeira_290325_VOD_hds329/hamadura_hatzeira_290325_VOD_hds329_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "dc91cd9aae135910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2025/0c9e35ef6d225910/VOD-dc91cd9aae13591026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/young_edition-2025/0c9e35ef6d225910/VOD-dc91cd9aae13591026.htm",
+          "ShortDescriptionLine2": "Flamenco dancing",
           "Date": "2025-03-29T06:56:31+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Young Edition: 29.03.25"
@@ -2084,20 +2098,6 @@
           "Date": "2025-03-22T18:00:06+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the Press: 22.03.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 15.03.25",
-          "Poster": "https://img.mako.co.il/2025/03/15/Pgosh_150325_VOD_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/March/Pgosh_150325_VOD_asfdtr7/Pgosh_150325_VOD_asfdtr7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/March/Pgosh_150325_VOD_asfdtr7/Pgosh_150325_VOD_asfdtr7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e73980a341235910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/meet_the_press-2025/d60f7f578e225910/VOD-e73980a34123591026.htm",
-          "ShortDescriptionLine2": "Tensions between PM and the Head of the Shin Bet",
-          "Date": "2025-03-15T18:00:21+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 15.03.25"
         }
       ]
     },
