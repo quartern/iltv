@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 02.04.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_wrdrfej8",
+          "Date": "2025-04-02 22:39:14",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/wwdby-904528452/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-04-02 22:39:14",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wrdrfej8/flavorIds/1_8ltsj6u8,1_g2d5yptc,1_9ill8scc,1_gh6riy7l,1_d1k0wkn2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 02.04.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_2crud2hn",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-04-01 23:30:12",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_k0gszgtx/flavorIds/1_sp17o86s,1_1nhemnvh,1_lzevbg78,1_vxnaha5j,1_ybthqfj3,1_dnw9yg65/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 01.04.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_zf12s78j",
-          "Date": "2025-04-01 22:31:44",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/byi20-904526927/",
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2025-04-01 22:31:44",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zf12s78j/flavorIds/1_zjs9dilp,1_iur60v09,1_bybzl6hb,1_0agrp1ks,1_2jvi0s1h,1_mg2gpfne/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2104,19 +2104,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: שבוע הטרלול הגדול [live]",
+          "Title": "ארץ נהדרת: שבוע הטרלול הגדול",
           "Poster": "https://img.mako.co.il/2023/10/29/EretzFight_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/A181432/A181432_noAdds/A181432_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/A181432/A181432_noAdds/A181432_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "afd7a6fe245f5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-afd7a6fe245f591026.htm",
           "ShortDescriptionLine2": "The crazy week comes to a great country",
           "Date": "2025-04-02T21:42:34+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Great Terrill Week [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "ERETZ NeHEEDERET: Great Terrill Week"
         },
         {
           "Title": "נסלי ויואב: פרשת קטאר-גייט",
