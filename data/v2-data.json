@@ -1948,11 +1948,11 @@
           "Title": "המהדורה המרכזית: 02.04.25",
           "Poster": "https://img.mako.co.il/2025/04/02/Mahadura_Merkazit_020425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801049/20801049_noAdds/20801049_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801049/20801049_noAdds/20801049_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_020425_VOD_vnj809v/Mahadura_Merkazit_020425_VOD_vnj809v_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_020425_VOD_vnj809v/Mahadura_Merkazit_020425_VOD_vnj809v_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ca4ea40e600f5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-ca4ea40e600f591026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-ca4ea40e600f591026.htm",
           "ShortDescriptionLine2": "First publication: Police confrontation between Netanyahu advisers",
           "Date": "2025-04-02T19:54:21+03:00",
           "Live": false,
@@ -2277,6 +2277,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 02.04.25",
+          "StreamerId": "6370943452112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2dc4f5c8-2867-4652-a803-a339eb7c951e/f8e219bd-2a7e-4859-82a1-7a902177ca7d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370943452112",
+          "Date": "2025-04-02T19:41:04Z",
+          "ShortDescriptionLine1": "Israelis 02.04.25",
+          "ShortDescriptionLine2": "2025-04-02T19:41:04Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2dc4f5c8-2867-4652-a803-a339eb7c951e/10s/master.m3u8?fastly_token=NjgxMjlhN2RfYTNkNWQ2YzdjN2RhYzM3NzU1NTQ1YzMxNTk0N2Y0YzEyZWEwZmI2YmJiM2I4ZDMwMDJmNzFhYWNiYTcwNzcxMA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל",
           "StreamerId": "6370937392112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fcd05b33-94b6-401b-99f5-45c58e5f65a6/bf803ea9-99aa-4a9c-9eec-d59a4de23c8e/320x180/match/image.jpg",
@@ -2466,18 +2478,6 @@
           "ShortDescriptionLine2": "2025-03-31T20:20:48Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/beec8972-884b-46f2-8ef0-137a48d38a15/10s/master.m3u8?fastly_token=NjgwZmY1MWZfMTdiMTE2MjVhYTg0MjU4ZjNhM2Q5MDFmZmQ2YzFiNjBjMmJjNzBlODE5Y2UwNmVhMzBmOWM5MjIzYWUyOTE2Ng%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 31.03.25",
-          "StreamerId": "6370840538112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ba202c98-12f7-43db-a225-8002f6221075/962a357a-7e8c-413c-843f-169ec20ab742/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370840538112",
-          "Date": "2025-03-31T19:32:01Z",
-          "ShortDescriptionLine1": "Israelis 31.03.25",
-          "ShortDescriptionLine2": "2025-03-31T19:32:01Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ba202c98-12f7-43db-a225-8002f6221075/10s/master.m3u8?fastly_token=NjgwZmYyZjBfOWU3OGRjYTg1OGZhODc1MmFhMWIzMjQ4M2M3MGUwNDE0OWNiNTUwYzE2MDMyNTA5NTA1NWVhZjYyYzIwODE1Mg%3D%3D"
           ]
         },
         {
