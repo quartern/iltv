@@ -2200,19 +2200,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: גדי איזנקוט  [live]",
+          "Title": "אופירה ולוינסון: גדי איזנקוט ",
           "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/20801097/20801097_noAdds/20801097_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/20801097/20801097_noAdds/20801097_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d5d05dfee66f5910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-d5d05dfee66f591026.htm",
           "ShortDescriptionLine2": "Gadi Eisenkott in the studio, and also: Who comes to the head?",
           "Date": "2025-04-04T17:59:31+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ofira and Levinson: Gadi Eisenkott [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira and Levinson: Gadi Eisenkott"
         },
         {
           "Title": "דוח מצב עם עינב וירון: אשתו של אלקנה בוחבוט מגיבה",
@@ -2457,6 +2456,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המוקדמת 4.4.25",
+          "StreamerId": "6371042527112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cd27e2e-d0fb-4b45-a2d7-a2c1e25c6e75/d3be8e55-427c-44b6-9d28-a33eea6b08bb/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371042527112",
+          "Date": "2025-04-04T16:56:41Z",
+          "ShortDescriptionLine1": "The early edition 4.4.25",
+          "ShortDescriptionLine2": "2025-04-04T16:56:41Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cd27e2e-d0fb-4b45-a2d7-a2c1e25c6e75/10s/master.m3u8?fastly_token=NjgxNTIzNWVfOGJmNTQ5YTc2YjM4ZDc5NmE4NzQwMDQ0YjRkODFhZjY2ZTUwZTU0YWVkMjA3NzA5ZGI2MjdkYzhlY2UwNWYwMw%3D%3D"
+          ]
+        },
         {
           "Title": "הערביסטים 03.04.25",
           "StreamerId": "6370995699112",
@@ -2719,18 +2730,6 @@
           "ShortDescriptionLine2": "2025-03-29T19:30:45Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/61690e03-6a2f-4122-804f-672eef7bd521/10s/master.m3u8?fastly_token=NjgxMzNiMWNfYWNmODBhZGVmNDNhZjMyZWYyYzA1ZTJkMjM5ZjllZmI1MDJmZmYyYTFmOTQzMDhiZTQ4NTAxNmJlOTNmMGIwOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 28.3.25",
-          "StreamerId": "6370705240112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f00eacba-6016-4716-93e2-1a265ebf1940/03d44bbf-c3ef-4bc7-8f18-a5257f7b697e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370705240112",
-          "Date": "2025-03-28T20:12:52Z",
-          "ShortDescriptionLine1": "The early edition 28.3.25",
-          "ShortDescriptionLine2": "2025-03-28T20:12:52Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f00eacba-6016-4716-93e2-1a265ebf1940/10s/master.m3u8?fastly_token=NjgxMzI5MzBfNTE3NGIzZWUxNWY4ZDFkNjE1ODU4MjgxZjBkNDFhNzkzMzNlNzM3OGRlNTk2ODU2NzQwNjUxMTg3NDcwODQ4NA%3D%3D"
           ]
         },
         {
