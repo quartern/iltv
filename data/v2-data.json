@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 06.04.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-04-06 19:06:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mld7sa2m/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mld7sa2m/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mld7sa2m",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/879593",
+          "Date": "2025-04-06 19:06:43"
+        },
+        {
           "Title": "שבע עם איילה חסון | 06.04.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-04-06 17:15:22",
@@ -547,18 +559,6 @@
           "StreamerId": "1_c31hlnfj",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/878714",
           "Date": "2025-04-03 19:47:09"
-        },
-        {
-          "Title": "חדשות הערב | 03.04.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-04-03 19:15:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nw8m3nra/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_nw8m3nra/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_nw8m3nra",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/878709",
-          "Date": "2025-04-03 19:15:45"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אלופות | פרק 5 - אלופות?",
+          "ShortDescriptionLine1": "Champions | Chapter 5 - Champions?",
+          "ShortDescriptionLine2": "2025-04-06 19:07:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8kbvjfhp/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8kbvjfhp/a.m3u8"
+          ],
+          "StreamerId": "1_8kbvjfhp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-844290/s1/844292",
+          "Date": "2025-04-06 19:07:14"
+        },
+        {
           "Title": "מתחת לבלטות | פרק 5 - מי מרוויח מהמחירים הגבוהים?",
           "ShortDescriptionLine1": "Underneath Parties | Chapter 5 - Who earns the high prices?",
           "ShortDescriptionLine2": "2025-04-06 18:30:38",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_hqndl7wa",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-844290/s1/844296",
           "Date": "2025-03-30 19:09:16"
-        },
-        {
-          "Title": "מתחת לבלטות | פרק 4 - יוצאים מהמרכז",
-          "ShortDescriptionLine1": "Underneath Parties | Chapter 4 - Get out of the center",
-          "ShortDescriptionLine2": "2025-03-30 18:30:47",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ikc7tffr/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ikc7tffr/a.m3u8"
-          ],
-          "StreamerId": "1_ikc7tffr",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-864341/s1/864352",
-          "Date": "2025-03-30 18:30:47"
         }
       ]
     },
@@ -2199,6 +2199,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "הראש: הכי נאמן או הכי מסוכן? [live]",
+          "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "5f75bbd5ae906910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-5f75bbd5ae90691026.htm",
+          "ShortDescriptionLine2": "Is the nearest and loyal man the most dangerous?",
+          "Date": "2025-04-06T21:56:46+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Harosh (The Head): The most loyal or the most dangerous? [live]"
+        },
         {
           "Title": "נסלי ויואב: אות חיים ראשון מבר ומקסים",
           "Poster": "https://img.mako.co.il/2025/04/06/Nesli_Yoav_060425_VOD_autoOrient_I_reduced.jpg",
