@@ -2041,19 +2041,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 07.04.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 07.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "1c177c1be9906910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/7d0784bce61d5910/VOD-1c177c1be990691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-07T16:56:43+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 07.04.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 07.04.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20801188/20801188_noAdds/20801188_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20801188/20801188_noAdds/20801188_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "d59c7c1be9906910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/f7d784bce61d5910/VOD-d59c7c1be990691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-07T15:01:09+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 07.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 07.04.25"
         },
         {
           "Title": "המהדורה המרכזית: 06.04.25",
@@ -2096,20 +2110,6 @@
           "Date": "2025-04-06T17:55:37+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 06.04.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 06.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/06/Hamesh_060425_VOD_vcx423_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_060425_VOD_vcx423/Hamesh_060425_VOD_vcx423_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_060425_VOD_vcx423/Hamesh_060425_VOD_vcx423_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6b8d7c1be9906910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/7d0784bce61d5910/VOD-6b8d7c1be990691026.htm",
-          "ShortDescriptionLine2": "Netanyahu's Belated Visit House",
-          "Date": "2025-04-06T16:55:53+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 06.04.25"
         },
         {
           "Title": "חדשות סוף השבוע: 05.04.25",
@@ -2508,6 +2508,18 @@
           ]
         },
         {
+          "Title": "מדברים חדשות 06.04.25",
+          "StreamerId": "6371146749112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ff7363f4-cd61-40ea-91f9-932af8e55d57/37817417-c02c-4d17-a6ed-244172a4fb2d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371146749112",
+          "Date": "2025-04-06T20:41:40Z",
+          "ShortDescriptionLine1": "News of News 06.04.25",
+          "ShortDescriptionLine2": "2025-04-06T20:41:40Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ff7363f4-cd61-40ea-91f9-932af8e55d57/10s/master.m3u8?fastly_token=NjgxN2UzMWJfYTAwZTgzNjc1Y2E3MzY2ZTQ3OWY1NGE4YTM5ZGVmZWNkYjEwZWQ4NTg3ZjI4NzhmMGJmOGYxYjgxZDY4NzZjNQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 06.04.25",
           "StreamerId": "6371147437112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/14a76b37-37dc-4bb8-9e4b-94535a59fb7b/a3501b0b-453f-48df-823f-17520aeaae28/320x180/match/image.jpg",
@@ -2577,6 +2589,18 @@
           "ShortDescriptionLine2": "2025-04-05T19:17:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c83c5b26-3d39-4284-ba31-9349d5a6e37f/10s/master.m3u8?fastly_token=NjgxNjdmOTVfYzM2OWUwYjQ4MzJlODYzMzk0YmRlYzYxZjE3ZTdlNjcyZTE4Y2I4MjZkOGZhMWYwMTdmYmVlYWUwNzAyYzc0OQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מגזין השבת 05.04.25",
+          "StreamerId": "6371099180112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/55ed88b2-7859-49b1-840d-00f2cf677a78/0d9776d8-ddd6-400f-b5a6-6486effe22ac/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371099180112",
+          "Date": "2025-04-05T18:33:30Z",
+          "ShortDescriptionLine1": "Sabbath magazine 05.04.25",
+          "ShortDescriptionLine2": "2025-04-05T18:33:30Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/55ed88b2-7859-49b1-840d-00f2cf677a78/10s/master.m3u8?fastly_token=NjgxOGU0NWNfMDYyNDcwNzY3OWQwNWQ0NGFkMDQwYTIzYjA2MWEzNmEwYjc0MmNlZmZlMWFmZDlmODVhMjNmOWM4ZWI2NTYxZA%3D%3D"
           ]
         },
         {
@@ -2688,6 +2712,18 @@
           ]
         },
         {
+          "Title": "אלוף (מיל') יום טוב סימה: \"האיום הקיומי במדינת ישראל הוא בתוכנו\"",
+          "StreamerId": "6370944119112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2ddd1440-9a38-48a4-868d-f928410d8e7a/ed59aba7-9ed0-4d3d-9427-5975aef7457b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370944119112",
+          "Date": "2025-04-02T20:44:11Z",
+          "ShortDescriptionLine1": "Gen. (res.) Good day Sima: \"The existential threat in the State of Israel is within us\"",
+          "ShortDescriptionLine2": "2025-04-02T20:44:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2ddd1440-9a38-48a4-868d-f928410d8e7a/10s/master.m3u8?fastly_token=NjgxMzFkYjJfZDEzNTA3OTg2YmI0NzVhNWRhOGQzMDk1NTRmNzAzNGU4OTVkN2NkYWZkMzQ4Y2Y3ZGM4NTMzNWM1NjFlYjNiNg%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 02.04.25",
           "StreamerId": "6370943452112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2dc4f5c8-2867-4652-a803-a339eb7c951e/f8e219bd-2a7e-4859-82a1-7a902177ca7d/320x180/match/image.jpg",
@@ -2745,6 +2781,18 @@
           "ShortDescriptionLine2": "2025-04-01T04:14:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6e79b785-4525-450c-bfd7-ac1023996c6e/10s/master.m3u8?fastly_token=NjgxMzI0NWZfMTcxNmE0ZDNhNmMyMmZkYWY1ZmUxYzU1NGFkMmQzMDY0OWZlNWFkYmE0MTBjZGQ0ZWExMmVkNDFkZGZhOWYzMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מגזין השבת 29.03.25",
+          "StreamerId": "6370759000112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0b3f94f5-5d44-4339-94b2-743283ed1bcf/21c564ef-1768-4530-a1ea-a9b4bbceb5e9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370759000112",
+          "Date": "2025-03-29T19:33:12Z",
+          "ShortDescriptionLine1": "Sabbath magazine 29.03.25",
+          "ShortDescriptionLine2": "2025-03-29T19:33:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b3f94f5-5d44-4339-94b2-743283ed1bcf/10s/master.m3u8?fastly_token=NjgxOGU3NDJfMjk5MTFkYTFkNzJiZWQ1NTRlN2U2Y2E2OWY5NThkYjZlYzJkM2VkMmMxYmM0YTIyYTQ5ZGZhMzI1OTkyYzAwOQ%3D%3D"
           ]
         },
         {
