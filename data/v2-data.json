@@ -2041,6 +2041,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 08.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "5043afc2dde06910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/f7d784bce61d5910/VOD-5043afc2dde0691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-08T15:00:40+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Edition today: 08.04.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 07.04.25",
           "Poster": "https://img.mako.co.il/2025/04/07/Mahadura_Merkazit_070425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2095,20 +2110,6 @@
           "Date": "2025-04-07T16:56:43+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 07.04.25"
-        },
-        {
-          "Title": "מהדורת היום: 07.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/07/Mahadurat_Hayom_070425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/April/Mahadurat_Hayom_070425_VOD_djh126d/Mahadurat_Hayom_070425_VOD_djh126d_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/April/Mahadurat_Hayom_070425_VOD_djh126d/Mahadurat_Hayom_070425_VOD_djh126d_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d59c7c1be9906910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/f7d784bce61d5910/VOD-d59c7c1be990691026.htm",
-          "ShortDescriptionLine2": "Tonight: Trump's meeting - Netanyahu in the White House",
-          "Date": "2025-04-07T15:01:09+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Edition today: 07.04.25"
         },
         {
           "Title": "חדשות סוף השבוע: 05.04.25",
@@ -2471,6 +2472,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 08.04.25 חלק ב'",
+          "StreamerId": "6371219885112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cb5dba3-ec4c-462b-985e-4d450aebdbbd/9d4e28a5-d9da-47d4-a2f1-0731d5cb42e8/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371219885112",
+          "Date": "2025-04-08T12:03:13Z",
+          "ShortDescriptionLine1": "Lunch Edition 08.04.25 Part II",
+          "ShortDescriptionLine2": "2025-04-08T12:03:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cb5dba3-ec4c-462b-985e-4d450aebdbbd/10s/master.m3u8?fastly_token=NjgxYTE5ZDlfNTkxNzJiMWFiNWViZDE5ZmNkOWRmN2UzNjY0YWJhMDk0ZmI2YmY0NTg3MzhiNmU0N2ZlNTE1MTE3MWE2ZDdjOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים 08.04.25 חלק א'",
           "StreamerId": "6371217978112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/75f14fbd-1101-480b-afd9-388e97d5799c/8f6e75bb-bc65-402f-9ed1-19986e727919/320x180/match/image.jpg",
@@ -2576,18 +2589,6 @@
           "ShortDescriptionLine2": "2025-04-07T13:54:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/30a7c612-c620-4ac0-91f6-3bcd00f57e66/10s/master.m3u8?fastly_token=NjgxOGVhNDVfMzljMzhmMThkMTQ0NWI4NWFjNzhkNTU5OTg1ZjE2Yzk4MGM1M2E0ODFhZWQxZWUwYjU5OGFkMTI3YzM5NGQzMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים חלק ב' 07.04.25",
-          "StreamerId": "6371173250112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f0c252d5-03b8-4e06-85fd-cdfaf638ecce/80001155-ec19-4b94-9401-54fa09be6f0c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371173250112",
-          "Date": "2025-04-07T12:15:23Z",
-          "ShortDescriptionLine1": "Lunch Edition Part II 07.04.25",
-          "ShortDescriptionLine2": "2025-04-07T12:15:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f0c252d5-03b8-4e06-85fd-cdfaf638ecce/10s/master.m3u8?fastly_token=NjgxOGNmZjhfODQwZWFmZmIxODVlMTllNmQxMzA2ZjQyZmRhZmVjN2Q2ZTllODVkMTc1MjdmMjhmMDgwZDE4NzY4YzA3YTUxYg%3D%3D"
           ]
         },
         {
