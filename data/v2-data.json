@@ -2200,19 +2200,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20801239/20801239_noAdds/20801239_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20801239/20801239_noAdds/20801239_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "dbc6c7ba03416910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-dbc6c7ba0341691026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-04-08T23:41:10+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: מהומה בדיון בבג\"ץ",
@@ -2471,6 +2470,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 08.04.25",
+          "StreamerId": "6371237907112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/03352704-f94d-41a2-b154-88c813be3549/660d2817-3053-4d95-99ec-b4eafec593e1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371237907112",
+          "Date": "2025-04-08T20:53:42Z",
+          "ShortDescriptionLine1": "News of News 08.04.25",
+          "ShortDescriptionLine2": "2025-04-08T20:53:42Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/03352704-f94d-41a2-b154-88c813be3549/10s/master.m3u8?fastly_token=NjgxYThhZjFfZDFiYjRkZGRjN2E3Y2I4MmI3YWY4NzczNjE1ZGVhY2YzMmJkMjc3NThmNmZjZTA5NGMwZjRkOTM1OTg3MTZmZA%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי 08.04.25",
           "StreamerId": "6371236111112",
@@ -2745,18 +2756,6 @@
           "ShortDescriptionLine2": "2025-04-03T16:30:11Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a0cf73d8-3403-417f-b599-09dd4461f736/10s/master.m3u8?fastly_token=NjgxM2JmMDBfOGM4ZDg1YmM3Yzk0NmUxOTkyNGM1ZjA5ZWRjZjljYzVhODg3OGVjZWRlNTU3NTUyYTE5NmQ3YTZmMWZiMjE1Ng%3D%3D"
-          ]
-        },
-        {
-          "Title": "אלוף (מיל') יום טוב סימה: \"האיום הקיומי במדינת ישראל הוא בתוכנו\"",
-          "StreamerId": "6370944119112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2ddd1440-9a38-48a4-868d-f928410d8e7a/ed59aba7-9ed0-4d3d-9427-5975aef7457b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370944119112",
-          "Date": "2025-04-02T20:44:11Z",
-          "ShortDescriptionLine1": "Gen. (res.) Good day Sima: \"The existential threat in the State of Israel is within us\"",
-          "ShortDescriptionLine2": "2025-04-02T20:44:11Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2ddd1440-9a38-48a4-868d-f928410d8e7a/10s/master.m3u8?fastly_token=NjgxMzFkYjJfZDEzNTA3OTg2YmI0NzVhNWRhOGQzMDk1NTRmNzAzNGU4OTVkN2NkYWZkMzQ4Y2Y3ZGM4NTMzNWM1NjFlYjNiNg%3D%3D"
           ]
         },
         {
