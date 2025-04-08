@@ -2200,6 +2200,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "3980e56b2ee06910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-3980e56b2ee0691027.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-04-08T07:10:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/04/08/Avri_Sherki_070425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2226,20 +2241,6 @@
           "Date": "2025-04-07T09:33:47+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: the battle of kidnapped families"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: שיגורים מרצועת עזה",
-          "Poster": "https://img.mako.co.il/2025/04/07/Hadshot_Haboker_070425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/April/Hadshot_Haboker_070425_VOD_jhgyu76/Hadshot_Haboker_070425_VOD_jhgyu76_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/April/Hadshot_Haboker_070425_VOD_jhgyu76/Hadshot_Haboker_070425_VOD_jhgyu76_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "8c64e8193c906910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-8c64e8193c90691026.htm",
-          "ShortDescriptionLine2": "Commissioner from the Gaza Strip, and also: Netanyahu-Trump's meeting",
-          "Date": "2025-04-07T07:11:23+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Ruskin: Commissioner from the Gaza Strip"
         },
         {
           "Title": "הראש: הכי נאמן או הכי מסוכן?",
@@ -2470,6 +2471,30 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הנדל\"ניסטים 07.04.25 ",
+          "StreamerId": "6371204254112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8e51ec03-9230-4283-b8b2-5edfbd5c3fb2/98df3403-29c5-40b5-bb17-fc528f456b9d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371204254112",
+          "Date": "2025-04-08T04:14:47Z",
+          "ShortDescriptionLine1": "Real estaters 07.04.25",
+          "ShortDescriptionLine2": "2025-04-08T04:14:47Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8e51ec03-9230-4283-b8b2-5edfbd5c3fb2/10s/master.m3u8?fastly_token=NjgxOTlhYWFfMTQ2ZTQxNmJlYjFiM2FjNTRhYTQxNTJiYjBiNWEwNDU5ODQ2OTc0MDllYzg3ZTZhMTQxYTc0YWZmZDlmYWUyYQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים 07.04.25",
+          "StreamerId": "6371202090112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f71aaf17-5ab7-4266-96e4-8681f227847c/09bcb983-21e7-4c18-928d-4da38f0b64b8/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371202090112",
+          "Date": "2025-04-08T04:13:22Z",
+          "ShortDescriptionLine1": "Israelis 07.04.25",
+          "ShortDescriptionLine2": "2025-04-08T04:13:22Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f71aaf17-5ab7-4266-96e4-8681f227847c/10s/master.m3u8?fastly_token=NjgxOTlkZTVfMGExNWMwYmZhYWM1YzExNDU2MmI1NGQ2MjgwNWJkMmQ4MDZkMDZhNzc4MWUzZDcwNmUxMWMyZmQ5NmQyZDU2NQ%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית חלק ב' 07.04.25",
           "StreamerId": "6371190335112",
@@ -2723,18 +2748,6 @@
           ]
         },
         {
-          "Title": "הישראלים 02.04.25",
-          "StreamerId": "6370943452112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2dc4f5c8-2867-4652-a803-a339eb7c951e/f8e219bd-2a7e-4859-82a1-7a902177ca7d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370943452112",
-          "Date": "2025-04-02T19:41:04Z",
-          "ShortDescriptionLine1": "Israelis 02.04.25",
-          "ShortDescriptionLine2": "2025-04-02T19:41:04Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2dc4f5c8-2867-4652-a803-a339eb7c951e/10s/master.m3u8?fastly_token=NjgxMzMxNjhfYmI4ZjQwNWVjZTcwNTliM2I0ZjI2MjU0M2RiNmE2OTdjNmY2Y2FhODUzZDQ4ZjBhYzVjMDljNDE5ZWQxYjI0MA%3D%3D"
-          ]
-        },
-        {
           "Title": "המועדון העסקי 01.04.25",
           "StreamerId": "6370890806112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/074ec812-5507-45a7-aa5f-afcfa29d91b2/037e4b68-c95c-4223-8680-81a93dc19c92/320x180/match/image.jpg",
@@ -2804,18 +2817,6 @@
           "ShortDescriptionLine2": "2025-03-19T05:01:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/abf0618f-9f88-4872-888a-6cd966f7ead0/10s/master.m3u8?fastly_token=NjgxMzIzMDNfZGU1ZmZmOGNkMTU3NDdjNDgyZDljMjhkMTA5MjUzMzhiZDVhODllNGQyNDVjNDhmNjc2M2EwMjkwZDE4NDM0ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הנדל\"ניסטים 17.03.25 ",
-          "StreamerId": "6370174520112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9ab7371d-8029-4a88-8778-85768d0749a3/a9c74650-60a4-46d8-89d0-68a3e9185c37/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6370174520112",
-          "Date": "2025-03-18T05:58:27Z",
-          "ShortDescriptionLine1": "Real estaters 17.03.25",
-          "ShortDescriptionLine2": "2025-03-18T05:58:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9ab7371d-8029-4a88-8778-85768d0749a3/10s/master.m3u8?fastly_token=NjgxMzI1MjVfMWM1ODYwYzdhY2RlYWEwNzU1ZTZkOTk2YzU2OWE5MDUyZTQ1MjYyY2ZiYzM5MzMyMDBiOWNkYzdmNTU1Y2I0OA%3D%3D"
           ]
         },
         {
