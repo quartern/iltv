@@ -2200,14 +2200,29 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "בזמן שעבדתם: מה קורה בשוק הגיימינג? [live]",
+          "Poster": "https://img.mako.co.il/2025/04/10/Bizman_Sheavadetem_090425_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e287771d72916910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-podcasts/while_you_work-s1/VOD-e287771d7291691026.htm",
+          "ShortDescriptionLine2": "Does the gaming market come out of stagnation?",
+          "Date": "2025-04-10T00:07:17+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "While you were working: What's going on in the gaming market? [live]"
+        },
+        {
           "Title": "ארץ נהדרת: ליל הכאוס הגדול",
           "Poster": "https://img.mako.co.il/2025/04/09/Eretz_Nehederet22_20_090425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_nehederet/A181433/A181433_noAdds/A181433_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_nehederet/A181433/A181433_noAdds/A181433_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_20_090425_VOD_fal30/Eretz_Nehederet22_20_090425_VOD_fal30_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S22/EP/Eretz_Nehederet22_20_090425_VOD_fal30/Eretz_Nehederet22_20_090425_VOD_fal30_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fdeee1d6c7516910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s22/VOD-fdeee1d6c751691026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s22/VOD-fdeee1d6c751691026.htm",
           "ShortDescriptionLine2": "Welcome to the great chaos of a great country",
           "Date": "2025-04-09T21:43:46+03:00",
           "Live": false,
@@ -2450,20 +2465,6 @@
           "Date": "2025-02-27T21:37:50+02:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: Eli Sharabi speaks"
-        },
-        {
-          "Title": "בזמן שעבדתם: מה קורה בראש של טראמפ?",
-          "Poster": "https://img.mako.co.il/2025/03/19/Bizman_Sheavadetem_190325_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem_190325_VOD_gft543/Bizman_Sheavadetem_190325_VOD_gft543_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem_190325_VOD_gft543/Bizman_Sheavadetem_190325_VOD_gft543_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4691890606ea5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-4691890606ea591027.htm",
-          "ShortDescriptionLine2": "The branches that have been hit the most since Trump's return",
-          "Date": "",
-          "Live": false,
-          "ShortDescriptionLine1": "While you worked: what's going on in Trump's head?"
         }
       ]
     },
