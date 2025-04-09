@@ -2041,19 +2041,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 09.04.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 09.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "25c202977ee06910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-25c202977ee0691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-09T17:55:29+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.04.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 09.04.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20801252/20801252_noAdds/20801252_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20801252/20801252_noAdds/20801252_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "a30e02977ee06910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/7d0784bce61d5910/VOD-a30e02977ee0691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-09T16:57:03+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.04.25"
         },
         {
           "Title": "מהדורת היום: 09.04.25",
@@ -2096,20 +2110,6 @@
           "Date": "2025-04-08T18:59:34+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 08.04.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 08.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/08/Shesh_080425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_080425_VOD_csh34/Shesh_080425_VOD_csh34_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_080425_VOD_csh34/Shesh_080425_VOD_csh34_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a4a102977ee06910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-a4a102977ee0691026.htm",
-          "ShortDescriptionLine2": "The highlights in the High Court in the Head of the Shin Bet Head",
-          "Date": "2025-04-08T17:55:28+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 08.04.25"
         },
         {
           "Title": "חדשות סוף השבוע: 05.04.25",
@@ -2472,6 +2472,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 09.04.25",
+          "StreamerId": "6371270313112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/04353c0c-6b15-46e1-b112-d8f61ec4cfdb/bd98f419-16b9-447b-be99-ecb24c3f9939/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371270313112",
+          "Date": "2025-04-09T14:56:10Z",
+          "ShortDescriptionLine1": "Edition five 09.04.25",
+          "ShortDescriptionLine2": "2025-04-09T14:56:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/04353c0c-6b15-46e1-b112-d8f61ec4cfdb/10s/master.m3u8?fastly_token=NjgxYjhhZDVfNzk1NmMxMjZmNTI4MzhhODc4MmUzZjc3YTQ0NmJlNDBjYmIyY2YxZTI5MTE2MWE5ZTYzZTEyMTM5NzQ0YzM3YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 09.04.25 ",
           "StreamerId": "6371268599112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/29abe0a8-a026-4897-831a-fae37c147da5/b3089e70-6676-483c-8abc-6b3a6ebd13ca/320x180/match/image.jpg",
@@ -2649,18 +2661,6 @@
           "ShortDescriptionLine2": "2025-04-07T16:46:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2014f9a8-994a-4afb-922e-08f203a0f473/10s/master.m3u8?fastly_token=NjgxOTA3MWRfZTI0Y2ZiMTRhNTUxNTVmNWY1OTQ3ODg0NGRmMGVkYTRlMDNkMTI5MmY4OTBmMDFlOTljZTA4ZjlmY2VjZTNiNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 07.04.25",
-          "StreamerId": "6371177430112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/986795a0-7134-4922-9442-2b240cccf3aa/2dc583c0-9e95-43a6-acaf-9af2fa1ee10e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371177430112",
-          "Date": "2025-04-07T14:58:29Z",
-          "ShortDescriptionLine1": "Edition five 07.04.25",
-          "ShortDescriptionLine2": "2025-04-07T14:58:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/986795a0-7134-4922-9442-2b240cccf3aa/10s/master.m3u8?fastly_token=NjgxOGVjZmFfNTUyNzI2NzlkODQxOTcwYjRmOTM1MDc1YjNkNTVkNmQ5NTkwYjU1YjE0ZjYxOTExZGY0NzBhZTk4M2QyNDAzZA%3D%3D"
           ]
         },
         {
