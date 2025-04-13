@@ -2200,6 +2200,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "הראש: נקודת המפנה [live]",
+          "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1b97051ef9f16910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-1b97051ef9f1691026.htm",
+          "ShortDescriptionLine2": "After this episode nothing will be the same",
+          "Date": "2025-04-13T21:50:40+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Harosh (The Head): The turning point [live]"
+        },
+        {
           "Title": "נסלי ויואב: רגעי ההכרעה מול איראן",
           "Poster": "https://img.mako.co.il/2025/04/10/Nesli_Yoav_100425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2410,20 +2425,6 @@
           "ShortDescriptionLine1": "UVDA: Capricorn Moses, at the top of them"
         },
         {
-          "Title": "הראש: פרק הבכורה",
-          "Poster": "https://img.mako.co.il/2025/03/18/Harosh_01_170325_VOD2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_fjhk385kADf_1/Harosh_01_170325_VOD_fjhk385kADf_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_fjhk385kADf_1/Harosh_01_170325_VOD_fjhk385kADf_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f12fa17fade54910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-f12fa17fade5491027.htm",
-          "ShortDescriptionLine2": "The GSS head faces a huge leakage",
-          "Date": "2025-03-17T21:51:59+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HAROSH (The Head): The premiere"
-        },
-        {
           "Title": "עובדה: קול של תקווה מנחל עוז",
           "Poster": "https://img.mako.co.il/2025/03/06/UVDA_VoiceOfHope_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2470,6 +2471,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 13.04.25",
+          "StreamerId": "6371445453112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/093dbd10-d328-4e19-8130-d6cde5642a02/37c2506f-5cb7-445c-9eae-4d3bce45b1b5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371445453112",
+          "Date": "2025-04-13T18:41:10Z",
+          "ShortDescriptionLine1": "Central Edition 13.04.25",
+          "ShortDescriptionLine2": "2025-04-13T18:41:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/093dbd10-d328-4e19-8130-d6cde5642a02/10s/master.m3u8?fastly_token=NjgyMTEyY2ZfOTQwMmJjMTljMzY1NmM5ZWM4Zjc3ZTRjMDRlOWQzMzc3NDhmZjljMGVlMDY0M2RlNThmNmIyMTYzMDMzNWU2ZQ%3D%3D"
+          ]
+        },
         {
           "Title": "קבינט שישי 11.4.25 ",
           "StreamerId": "6371371406112",
@@ -2696,18 +2709,6 @@
           "ShortDescriptionLine2": "2025-04-08T19:34:34Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dab9898b-5339-4027-bc07-41d8851e18c7/10s/master.m3u8?fastly_token=NjgxYTdmYTRfZDg2MjcwMzlhNjQzMDk1YTNiMTY4YmJjM2UwNTFiZDE2MGE0OGJhMDQyZjBhZWQzNzkwN2FkZGE4N2E0OTM4OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - 08.04.25",
-          "StreamerId": "6371233272112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7c0e1bb3-7c1b-41c0-b981-c1ede4481df6/037bbe4e-4f42-437f-83aa-f13402bf6783/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371233272112",
-          "Date": "2025-04-08T18:38:54Z",
-          "ShortDescriptionLine1": "Central Edition - 08.04.25",
-          "ShortDescriptionLine2": "2025-04-08T18:38:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7c0e1bb3-7c1b-41c0-b981-c1ede4481df6/10s/master.m3u8?fastly_token=NjgxYTc1YzZfZDE1ZjI1ZmQ2ZGFhZjhkYTllZTAzYmE3Y2U5YzE3NWFkNGFlYzU2YTkzMWYzYjhlMTRkYWNjNDgxYTdhNDM5OA%3D%3D"
           ]
         },
         {
