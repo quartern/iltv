@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בואו לאכול איתי - ספיישל פסח | חלק ד - שחף שבתאי",
+          "ShortDescriptionLine1": "Come eat with me - Special Passover | Part D - Shahafbi Saturn",
+          "ShortDescriptionLine2": "2025-04-16 18:33:20",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5pdxfbyo/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5pdxfbyo/a.m3u8"
+          ],
+          "StreamerId": "1_5pdxfbyo",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/all_stars/880100",
+          "Date": "2025-04-16 18:33:20"
+        },
+        {
           "Title": "הזירה | פרק 3",
           "ShortDescriptionLine1": "The arena | Chapter 3",
           "ShortDescriptionLine2": "2025-04-15 19:08:21",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_94f56uu2",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-864341/s1/864353",
           "Date": "2025-04-06 18:30:38"
-        },
-        {
-          "Title": "דה האן - קול מחוץ לזמן",
-          "ShortDescriptionLine1": "De han - a voice outside of time",
-          "ShortDescriptionLine2": "2025-04-05 19:10:55",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e3yerzjq/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e3yerzjq/a.m3u8"
-          ],
-          "StreamerId": "1_e3yerzjq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-855269/855270",
-          "Date": "2025-04-05 19:10:55"
         }
       ]
     },
@@ -2041,19 +2041,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 16.04.25 [live]",
+          "Title": "המהדורה המרכזית: 16.04.25",
           "Poster": "https://img.mako.co.il/2025/04/16/Mahadura_Merkazit_160425_VOD_vxc449_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801424/20801424_noAdds/20801424_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801424/20801424_noAdds/20801424_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f53e2a175d926910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-f53e2a175d92691027.htm",
           "ShortDescriptionLine2": "Rum Braslavsky's mother after his first documentation",
           "Date": "2025-04-16T19:54:31+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 16.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 16.04.25"
         },
         {
           "Title": "המהדורה המוקדמת: 16.04.25",
@@ -2071,14 +2070,14 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 16.04.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/04/16/Shesh_160425_VOD_vfc432_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20801422/20801422_noAdds/20801422_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20801422/20801422_noAdds/20801422_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_160425_VOD_ccc127/Shesh_160425_VOD_ccc127_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_160425_VOD_ccc127/Shesh_160425_VOD_ccc127_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "95872a175d926910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-95872a175d92691027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-95872a175d92691027.htm",
+          "ShortDescriptionLine2": "Iran: Uranium enrichment is not open to negotiations",
           "Date": "2025-04-16T17:56:20+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 16.04.25"
