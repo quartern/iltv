@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 17.04.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-04-17 16:16:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mi1zrdyy/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mi1zrdyy/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mi1zrdyy",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/886936",
+          "Date": "2025-04-17 16:16:34"
+        },
+        {
           "Title": "משחקי הכיס | 17.04.25",
           "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
           "ShortDescriptionLine2": "2025-04-17 14:26:25",
@@ -511,18 +523,6 @@
           "StreamerId": "1_ptc2dpu2",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/886569",
           "Date": "2025-04-16 17:41:49"
-        },
-        {
-          "Title": "העולם היום | 16.04.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-04-16 15:33:55",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_o21gcf4y/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_o21gcf4y/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_o21gcf4y",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/886567",
-          "Date": "2025-04-16 15:33:55"
         },
         {
           "Title": "חדשות החג | 12.04.25",
@@ -2041,30 +2041,44 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 17.04.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 17.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "557d4cbfdb436910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/283cbc686b7c5910/VOD-557d4cbfdb43691027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-17T18:58:56+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 17.04.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 17.04.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20801448/20801448_noAdds/20801448_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20801448/20801448_noAdds/20801448_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "b15c4cbfdb436910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-b15c4cbfdb43691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-17T17:55:41+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 17.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 17.04.25"
         },
         {
           "Title": "חמש עם רפי רשף: 17.04.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/04/17/Hamesh_170425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20801451/20801451_noAdds/20801451_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20801451/20801451_noAdds/20801451_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_170425_VOD_zzs3db/Hamesh_170425_VOD_zzs3db_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_170425_VOD_zzs3db/Hamesh_170425_VOD_zzs3db_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a0d94cbfdb436910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/7d0784bce61d5910/VOD-a0d94cbfdb43691027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/7d0784bce61d5910/VOD-a0d94cbfdb43691027.htm",
+          "ShortDescriptionLine2": "The Iran's assault that wasaed at the last minute",
           "Date": "2025-04-17T16:54:52+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 17.04.25"
@@ -2096,20 +2110,6 @@
           "Date": "2025-04-16T19:54:31+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 16.04.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 16.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/16/Mahadura_Mukdemet_160425_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/April/Mahadura_Mukdemet_160425_VOD_vwo401/Mahadura_Mukdemet_160425_VOD_vwo401_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/April/Mahadura_Mukdemet_160425_VOD_vwo401/Mahadura_Mukdemet_160425_VOD_vwo401_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "93c62a175d926910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/283cbc686b7c5910/VOD-93c62a175d92691027.htm",
-          "ShortDescriptionLine2": "First life signal from Rum Braslavsky",
-          "Date": "2025-04-16T18:59:22+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 16.04.25"
         },
         {
           "Title": "המהדורה הצעירה: 12.04.25",
