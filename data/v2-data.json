@@ -2041,19 +2041,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 19.04.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 19.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "54e6a80570f06910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/2df584bce61d5910/VOD-54e6a80570f0691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-19T19:55:48+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend News: 19.04.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 19.04.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/20801497/20801497_noAdds/20801497_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/20801497/20801497_noAdds/20801497_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "2381a80570f06910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/9b898549c71d5910/VOD-2381a80570f0691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-19T18:00:00+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the Press: 19.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the Press: 19.04.25"
         },
         {
           "Title": "המהדורה המרכזית: 18.04.25",
@@ -2152,20 +2166,6 @@
           "Date": "2025-04-11T19:54:01+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Friday Studio: 11.04.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 05.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/05/Hadshot_Sof_Hashvua_050425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/April/Hadshot_Sof_Hashvua_050425_VOD_dfvs43g/Hadshot_Sof_Hashvua_050425_VOD_dfvs43g_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/April/Hadshot_Sof_Hashvua_050425_VOD_dfvs43g/Hadshot_Sof_Hashvua_050425_VOD_dfvs43g_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d5582b9dafbf5910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2025/2df584bce61d5910/VOD-d5582b9dafbf591026.htm",
-          "ShortDescriptionLine2": "Ahead of Netanyahu-Trump's meeting",
-          "Date": "2025-04-05T19:57:20+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend News: 05.04.25"
         },
         {
           "Title": "פגוש את העיתונות: 05.04.25",
