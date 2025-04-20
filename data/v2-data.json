@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 20.04.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-04-20 19:04:10",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3pde2pmc/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3pde2pmc/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_3pde2pmc",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/887574",
+          "Date": "2025-04-20 19:04:10"
+        },
+        {
           "Title": "שבע עם איילה חסון | 20.04.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-04-20 17:22:16",
@@ -535,18 +547,6 @@
           "StreamerId": "1_qckox5fs",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/886942",
           "Date": "2025-04-17 20:56:27"
-        },
-        {
-          "Title": "חדשות הערב | 17.04.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-04-17 19:24:25",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2krcwo8m/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2krcwo8m/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_2krcwo8m",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/886941",
-          "Date": "2025-04-17 19:24:25"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 10.04.25",
@@ -2128,6 +2128,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "הראש: המלכודת [live]",
+          "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9a51860958346910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-9a5186095834691027.htm",
+          "ShortDescriptionLine2": "The Shin Bet Head makes an extreme move",
+          "Date": "2025-04-20T21:51:14+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Harosh (The Head): The trap [live]"
+        },
+        {
           "Title": "נסלי ויואב: הצהרת רה\"מ",
           "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2322,20 +2337,6 @@
           "Date": "2025-03-27T00:05:03+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: all about the acquisition of Israeli Wiz"
-        },
-        {
-          "Title": "הראש: על מי אפשר לסמוך?",
-          "Poster": "https://img.mako.co.il/2025/03/23/Harosh1_02_230325_07_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_gkecm591ADF/Harosh_02_230325_VOD_gkecm591ADF_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_gkecm591ADF/Harosh_02_230325_VOD_gkecm591ADF_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a4cd2303c2c5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-1a4cd2303c2c591027.htm",
-          "ShortDescriptionLine2": "All the closest people, become suspected",
-          "Date": "2025-03-23T21:55:58+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Harosh (The Head): Who can be trusted?"
         },
         {
           "Title": "עובדה: גדי מוזס, בראש מורם",
