@@ -2128,19 +2128,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "הראש: המלכודת [live]",
+          "Title": "הראש: המלכודת",
           "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/the_head/A176868/A176868_noAdds/A176868_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/the_head/A176868/A176868_noAdds/A176868_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9a51860958346910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-9a5186095834691027.htm",
           "ShortDescriptionLine2": "The Shin Bet Head makes an extreme move",
           "Date": "2025-04-20T21:51:14+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Harosh (The Head): The trap [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Harosh (The Head): The trap"
         },
         {
           "Title": "נסלי ויואב: הצהרת רה\"מ",
@@ -2400,6 +2399,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 20.04.25",
+          "StreamerId": "6371730812112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b2bd902b-5ba0-448a-8e07-7c29ba21a6f4/5d0b6fa1-6e1e-4c7b-bd6a-260f2d006531/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371730812112",
+          "Date": "2025-04-20T19:35:06Z",
+          "ShortDescriptionLine1": "Israelis 20.04.25",
+          "ShortDescriptionLine2": "2025-04-20T19:35:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b2bd902b-5ba0-448a-8e07-7c29ba21a6f4/10s/master.m3u8?fastly_token=NjgyYTUxM2FfYjA1MGNhMDJkODRkNTkxYTg0NzRlYzg3M2NlMzdlMWFhNGQxYjk0YzY2M2VmOWEwM2UzYmY4MDVmNjBmZjAxZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת - 20.04.25",
           "StreamerId": "6371730858112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/804253c9-9f96-44a9-8cc4-ee8a70a0182e/8af37742-42ed-4fcb-924b-4a3bd57f289b/320x180/match/image.jpg",
@@ -2637,18 +2648,6 @@
           "ShortDescriptionLine2": "2025-04-15T20:02:21Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/24560e37-0093-4bd6-863a-c4d7966728f9/10s/master.m3u8?fastly_token=NjgyM2I1MGNfM2YwMDg2MmNhN2UwODg5MGI2NTcyYjE4ODdhYzk3YmYwYWMxNmQ5NTRhZTJjZmE1NWYzMDEyYmI1ZjkyZmE2ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 15.04.25",
-          "StreamerId": "6371530582112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b24bc56c-6f37-4294-a936-0c76c41274fc/424b72c2-a80c-4bca-a28b-bab05ffe3d52/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371530582112",
-          "Date": "2025-04-15T19:34:57Z",
-          "ShortDescriptionLine1": "Israelis 15.04.25",
-          "ShortDescriptionLine2": "2025-04-15T19:34:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b24bc56c-6f37-4294-a936-0c76c41274fc/10s/master.m3u8?fastly_token=NjgyM2JiNjJfODdiZGQ4ZmU1ZGIzNmVhNWZhNmFkMTQwY2M4NzkwYjljNjgyZjA3M2VlZjEwMGZkNjUzNTA5ZWU2ZmRhZmI4MQ%3D%3D"
           ]
         },
         {
