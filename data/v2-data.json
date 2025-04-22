@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 22.04.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-04-22 17:04:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pmf7mwae/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_pmf7mwae/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_pmf7mwae",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/888458",
+          "Date": "2025-04-22 17:04:40"
+        },
+        {
           "Title": "חדשות הלילה | 21.04.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-04-21 20:39:07",
@@ -523,18 +535,6 @@
           "StreamerId": "1_x3d7ycd8",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/887992",
           "Date": "2025-04-21 15:51:44"
-        },
-        {
-          "Title": "משחקי הכיס | 21.04.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-04-21 14:41:19",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_r11xnk8y/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_r11xnk8y/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_r11xnk8y",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/887991",
-          "Date": "2025-04-21 14:41:19"
         },
         {
           "Title": "חדשות השבת | 19.04.25",
@@ -1969,19 +1969,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 22.04.25 [live]",
+          "Title": "המהדורה המוקדמת: 22.04.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20801573/20801573_noAdds/20801573_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20801573/20801573_noAdds/20801573_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0bcca8e123c56910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/283cbc686b7c5910/VOD-0bcca8e123c5691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-22T18:58:39+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 22.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 22.04.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 22.04.25",
@@ -2400,6 +2399,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 22.04.25",
+          "StreamerId": "6371797265112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7bd1e513-720d-47be-832d-fbe2b938fbaf/9835eea3-012d-492d-a56d-1f2f9a1dd4b5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371797265112",
+          "Date": "2025-04-22T16:56:12Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 22.04.25",
+          "ShortDescriptionLine2": "2025-04-22T16:56:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7bd1e513-720d-47be-832d-fbe2b938fbaf/10s/master.m3u8?fastly_token=NjgyY2M4ODhfODFkYjc4ZjA3ZWU0OGZmZTIxYTAyNzBlM2Y5ZDZlNDIwMGYxMWY4ZWI2YzlhMzU3MTQyZWIzYTcwNTNhNjdiYw%3D%3D"
+          ]
+        },
+        {
+          "Title": "7 שרון גל 22.04.25",
+          "StreamerId": "6371796179112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b38e7ce8-2a0d-4840-afca-076fa829d039/48cbff6d-bd9e-469e-b372-3022661d3451/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371796179112",
+          "Date": "2025-04-22T16:54:31Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 22.04.25",
+          "ShortDescriptionLine2": "2025-04-22T16:54:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b38e7ce8-2a0d-4840-afca-076fa829d039/10s/master.m3u8?fastly_token=NjgyY2M4ODlfZDQyOGM3YWIwMDhiMjE1N2ZiOTViMmUyZDg1MGVlNDRlMjQzZmU0YTA1N2I2MjgxOWVkNmEwYjJjYmVlNTNkZg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 22.04.25",
           "StreamerId": "6371794001112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/79a73908-ffb2-4778-92df-811e49704ccd/f1269cb7-2114-4543-b7b8-4be4f3f21c88/320x180/match/image.jpg",
@@ -2481,18 +2504,6 @@
           "ShortDescriptionLine2": "2025-04-21T20:01:22Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f6b3ee6-d946-4e78-b3df-b2724b73cb34/10s/master.m3u8?fastly_token=NjgyYjlhYTFfZjZkZmI4YzA1OWQ1ZmEzODNiZDAwYzE0YWRhNjBkZjg5MWQwMWU1ZDMzZWY5MmQwZGJjZmM1YTNiYWM4MWJlOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 21.04.25",
-          "StreamerId": "6371763549112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/96ebe861-b773-4b4a-a196-58467b481cf9/ae20eaea-b491-419d-a925-572eac328b51/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371763549112",
-          "Date": "2025-04-21T19:45:12Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 21.04.25",
-          "ShortDescriptionLine2": "2025-04-21T19:45:12Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/96ebe861-b773-4b4a-a196-58467b481cf9/10s/master.m3u8?fastly_token=NjgyYjlmYzVfOTVhMWFiMmQ5YWFjYTIzNWU5MjI5NzlkN2M4OTIzZjBiODQwMWNlZjhjNDQ0YTQ0YmI2OTBhZmY0MmRiZmRkNA%3D%3D"
           ]
         },
         {
@@ -2601,18 +2612,6 @@
           "ShortDescriptionLine2": "2025-04-20T18:31:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/804253c9-9f96-44a9-8cc4-ee8a70a0182e/10s/master.m3u8?fastly_token=NjgyYTQ3MzBfMjgzYjhjMDI1MThkNzhjMTU4M2NkNjM0ZWE3OGIxNTlmMWUyNmYzZjBmNjE4NDdlYTdlNjZlOWQ4NDUwOTA3NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 20.04.25",
-          "StreamerId": "6371727178112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6cb60884-e469-4c35-b332-838c10948690/fbc5c68d-42b4-4981-8bd9-8eb67f8636df/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371727178112",
-          "Date": "2025-04-20T16:59:17Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 20.04.25",
-          "ShortDescriptionLine2": "2025-04-20T16:59:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6cb60884-e469-4c35-b332-838c10948690/10s/master.m3u8?fastly_token=NjgyYTI2MWVfODQ0MGYxNmNjMGY1MDUxNGJjYzRlMDUxYzZiZDQxYTEzMjQyNGEzZTAyM2I2ODhjNWMzZTI1NDM1Nzk4ODJmOQ%3D%3D"
           ]
         },
         {
