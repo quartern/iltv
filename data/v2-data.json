@@ -1969,6 +1969,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 22.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f219767e31c56910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/f7d784bce61d5910/VOD-f219767e31c5691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-22T14:59:43+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 22.04.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 21.04.25",
           "Poster": "https://img.mako.co.il/2025/04/21/Mahadura_Merkazit_210425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2009,20 +2024,6 @@
           "Date": "2025-04-21T17:56:11+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.04.25"
-        },
-        {
-          "Title": "מהדורת היום: 21.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/21/Mahadurat_Hayom_210425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/April/Mahadurat_Hayom_210425_VOD_jud089/Mahadurat_Hayom_210425_VOD_jud089_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/April/Mahadurat_Hayom_210425_VOD_jud089/Mahadurat_Hayom_210425_VOD_jud089_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c9ae6754bf256910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/f7d784bce61d5910/VOD-c9ae6754bf25691027.htm",
-          "ShortDescriptionLine2": "The dramatic affidavit of the Shin Bet",
-          "Date": "2025-04-21T15:00:40+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 21.04.25"
         },
         {
           "Title": "חדשות סוף השבוע: 19.04.25",
@@ -2399,6 +2400,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים חלק א' - 22.04.25",
+          "StreamerId": "6371786970112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b9dbbfe0-3e69-4289-88c3-5cb12631bcc6/4cee35fa-be3c-42ba-949d-9df327359631/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371786970112",
+          "Date": "2025-04-22T12:07:02Z",
+          "ShortDescriptionLine1": "Lunch Edition Part I - 22.04.25",
+          "ShortDescriptionLine2": "2025-04-22T12:07:02Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b9dbbfe0-3e69-4289-88c3-5cb12631bcc6/10s/master.m3u8?fastly_token=NjgyYzhmYmJfMTIyZjZmOWUyZWRhMWY4Njc1YTZkMzgyNjY0NGUxOWI2ZWQ2YTcyYWRhMmFkMjA3YjZhNWM0OTgwNDAzMzJlZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הנדל\"ניסטים - 22.04.25",
           "StreamerId": "6371775283112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b84a78b6-6b6d-459e-90c3-8f678c808ef8/83a7ae3f-2261-4971-a2b8-d1718f3e794b/320x180/match/image.jpg",
@@ -2516,18 +2529,6 @@
           "ShortDescriptionLine2": "2025-04-21T12:22:28Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ab588b14-5adc-428b-9e00-679191cc4f6a/10s/master.m3u8?fastly_token=NjgyYjQ0ZGRfMGIyYzI0M2ZkNmNhMmI2M2NmNDQ5NzI2NmQ1OTkxMTRjZThjODQyN2NhN2ZlMTgxODBkYzI4NTdjMTNiOWJlYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים חלק א' 21.04.25",
-          "StreamerId": "6371750895112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3563eafc-31e8-4142-b784-309e00e9e184/5c824800-c9fd-462a-85ae-5354152ba273/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371750895112",
-          "Date": "2025-04-21T12:21:08Z",
-          "ShortDescriptionLine1": "Lunch Edition Part I. 21.04.25",
-          "ShortDescriptionLine2": "2025-04-21T12:21:08Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3563eafc-31e8-4142-b784-309e00e9e184/10s/master.m3u8?fastly_token=NjgyYjQ0YzFfMDhiNWRmODVlZTgyMzBlNzk4YTNlMmI5ZTE5ODA4OWFmODQ5Mzk3MTY2MzJlMTg4N2Y2YjdiYzA4OTAxZmMxZA%3D%3D"
           ]
         },
         {
