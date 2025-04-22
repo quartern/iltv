@@ -2128,19 +2128,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/04/22/Avri_Sherki_220425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20801589/20801589_noAdds/20801589_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20801589/20801589_noAdds/20801589_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bf8ebfddb3c56910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-bf8ebfddb3c5691027.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-04-22T23:13:29+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: משדר מיוחד – עמותת נט\"ל",
@@ -2400,6 +2399,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 22.04.25",
+          "StreamerId": "6371803737112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/faf2b185-5025-4aac-8bd0-e986419e6136/5f8c5e33-f658-4ccd-b29a-db48b8507111/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371803737112",
+          "Date": "2025-04-22T20:50:53Z",
+          "ShortDescriptionLine1": "Talk News 22.04.25",
+          "ShortDescriptionLine2": "2025-04-22T20:50:53Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/faf2b185-5025-4aac-8bd0-e986419e6136/10s/master.m3u8?fastly_token=NjgyY2ZmNGRfZTRlNTUyMTEzYTM0MGMxZWI5MGY2N2QyNWVjMDljYmQ5YTJkODk4NTYzYTQ0YWExYTE4YmQ0ODkxYjk3MzBhYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 22.04.25",
           "StreamerId": "6371802539112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/88f5a71a-9558-4f1a-97d1-bd7ba8eb450f/06640380-a30d-459a-8402-327c210e43ac/320x180/match/image.jpg",
@@ -2601,18 +2612,6 @@
           "ShortDescriptionLine2": "2025-04-21T14:07:39Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/46c024e2-0711-4887-9719-da0b85b05397/10s/master.m3u8?fastly_token=NjgyYjY4MDhfYWQ3MWEzNDFmNjkyNmU2YTExZWQ3ODc5ZjA4MzM4ZTZhOWM2OWQ5M2M0Njg1MWY4OTllM2Q1Yzk1MGZkMmNmNA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 20.04.25",
-          "StreamerId": "6371745087112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8b28338f-e0ce-4d8c-9dad-9f6ee92e5b7d/c6bfbc00-6a44-457e-8b6d-ed030c5de5b7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371745087112",
-          "Date": "2025-04-21T06:58:12Z",
-          "ShortDescriptionLine1": "News of News 20.04.25",
-          "ShortDescriptionLine2": "2025-04-21T06:58:12Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8b28338f-e0ce-4d8c-9dad-9f6ee92e5b7d/10s/master.m3u8?fastly_token=NjgyYWU1YjFfM2E1YTEwNTJmY2ZlMjAzYWE1YTk3MjE4NzczNWE5MDdiYzNmZTA2MzlkNjFkMTM5NGQ3YmE0ZjFmMDRjN2IxYg%3D%3D"
           ]
         },
         {
