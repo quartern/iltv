@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 22.04.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_240ebvlp",
+          "Date": "2025-04-22 23:10:07",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/dee60-904553354/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-04-22 23:10:07",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_240ebvlp/flavorIds/1_w9aplokx,1_672ehx23,1_37x5zfix,1_nj23v38m,1_1z2l5gch/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות שש 22.04.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_tgcgyo89",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-04-21 23:03:47",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qqyv67cp/flavorIds/1_q3e06wa9,1_5j7yrfnh,1_gnof631t,1_69oxehqj,1_kszxsd7b,1_nvji6uai/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 21.04.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_cz51pep3",
-          "Date": "2025-04-21 21:10:03",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/okuxh-904551608/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-04-21 21:10:03",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cz51pep3/flavorIds/1_se6lxlpo,1_9d25of86,1_xxz67cq7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2128,6 +2128,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "bf8ebfddb3c56910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-bf8ebfddb3c5691027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-04-22T23:13:29+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: משדר מיוחד – עמותת נט\"ל",
           "Poster": "https://img.mako.co.il/2025/04/22/Nesli_Yoav_22045_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2154,20 +2169,6 @@
           "Date": "2025-04-22T09:34:37+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Protest Boot in the North"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/04/21/Avri_Sherki_210425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/April/Avri_Sherki_210425_VOD_kij876/Avri_Sherki_210425_VOD_kij876_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/April/Avri_Sherki_210425_VOD_kij876/Avri_Sherki_210425_VOD_kij876_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "bc9ace5fc2756910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-bc9ace5fc275691027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-04-21T23:13:08+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "הראש: המלכודת",
@@ -2399,6 +2400,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המועדון העסקי 22.04.25",
+          "StreamerId": "6371802539112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/88f5a71a-9558-4f1a-97d1-bd7ba8eb450f/06640380-a30d-459a-8402-327c210e43ac/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371802539112",
+          "Date": "2025-04-22T20:03:53Z",
+          "ShortDescriptionLine1": "Business Club 22.04.25",
+          "ShortDescriptionLine2": "2025-04-22T20:03:53Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/88f5a71a-9558-4f1a-97d1-bd7ba8eb450f/10s/master.m3u8?fastly_token=NjgyY2YwNDNfMTkzYmUyZTRmM2E5MzJjZDMxYjQ4OTQ0ZTUzYzI5YjUxMDc3NDA3ODY2MTAzYjc4ODc2ZWFjMmZlNTZjZjBkOA%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 22.04.25",
           "StreamerId": "6371801625112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/32f7478e-5ca5-441f-a53a-aa4c99fb11af/37235c30-9cf6-41c2-b5f5-309cfc9653b1/320x180/match/image.jpg",
@@ -2600,18 +2613,6 @@
           "ShortDescriptionLine2": "2025-04-21T06:58:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8b28338f-e0ce-4d8c-9dad-9f6ee92e5b7d/10s/master.m3u8?fastly_token=NjgyYWU1YjFfM2E1YTEwNTJmY2ZlMjAzYWE1YTk3MjE4NzczNWE5MDdiYzNmZTA2MzlkNjFkMTM5NGQ3YmE0ZjFmMDRjN2IxYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 20.04.25",
-          "StreamerId": "6371743345112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0cd14790-b546-49d0-b020-f16c78e129f8/b182be03-81ec-4706-a222-e844b7b94c92/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371743345112",
-          "Date": "2025-04-21T06:55:53Z",
-          "ShortDescriptionLine1": "Business Club 20.04.25",
-          "ShortDescriptionLine2": "2025-04-21T06:55:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0cd14790-b546-49d0-b020-f16c78e129f8/10s/master.m3u8?fastly_token=NjgyYWU0ZDVfZWE0NjcxYWVhOTU5YzZlNGI2ZmI5NDA3MWVjNjJlZDBlM2RhNGIwMzY0ZDVmNTRkNzQzZjRhODdmMDljY2IxNw%3D%3D"
           ]
         },
         {
