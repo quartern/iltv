@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "פגישה עם רוני קובן עונה 9 | פרק  23 - רזי ברקאי",
+          "ShortDescriptionLine1": "Meeting with Ronnie Kuban Season 9 | Chapter 23 - Barkai Razi",
+          "ShortDescriptionLine2": "2025-04-24 18:30:06",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2vn2e3kk/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2vn2e3kk/a.m3u8"
+          ],
+          "StreamerId": "1_2vn2e3kk",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/893302",
+          "Date": "2025-04-24 18:30:06"
+        },
+        {
           "Title": "לכל איש יש שם - טקס מהכנסת 2025",
           "ShortDescriptionLine1": "Each man has a name - a 2025 Knesset ceremony",
           "ShortDescriptionLine2": "2025-04-24 12:15:56",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_0dk8geyz",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12614/s8/783883",
           "Date": "2025-04-13 19:52:00"
-        },
-        {
-          "Title": "הזירה | פרק 1",
-          "ShortDescriptionLine1": "The arena | Chapter 1",
-          "ShortDescriptionLine2": "2025-04-13 19:05:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_44zou65l/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_44zou65l/a.m3u8"
-          ],
-          "StreamerId": "1_44zou65l",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s1/863483",
-          "Date": "2025-04-13 19:05:07"
         }
       ]
     },
@@ -1969,19 +1969,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 24.04.25 [live]",
+          "Title": "המהדורה המרכזית: 24.04.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801627/20801627_noAdds/20801627_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801627/20801627_noAdds/20801627_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fa2c3bcc47666910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-fa2c3bcc4766691026.htm",
           "ShortDescriptionLine2": "On Auschwitz soil: the interview of the captive survivor",
           "Date": "2025-04-24T19:52:40+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 24.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 24.04.25"
         },
         {
           "Title": "המהדורה המוקדמת: 24.04.25",
@@ -2128,6 +2127,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "עובדה: הקרב ששינה את גולני [live]",
+          "Poster": "https://img.mako.co.il/2024/09/25/Ovda2025_01_x5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6344f91017266910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-6344f9101726691026.htm",
+          "ShortDescriptionLine2": "How one house in Sajaya changed Golani forever",
+          "Date": "2025-04-24T21:26:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "UVDA: the battle that changed Golani [live]"
+        },
         {
           "Title": "נסלי ויואב: משדר מיוחד ליום השואה תשפ\"ה",
           "Poster": "https://img.mako.co.il/2025/04/24/Nesli_Yoav_240425_VOD_autoOrient_I_reduced.jpg",
@@ -2379,20 +2393,6 @@
           "Date": "2025-03-03T21:34:11+02:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: \"Yes, we fought\""
-        },
-        {
-          "Title": "עובדה: אלי שרעבי מדבר",
-          "Poster": "https://img.mako.co.il/2025/02/27/Uvda2024_11_270225_vod_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_11_270225_VOD_d656tg/Uvda2024_11_270225_VOD_d656tg_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_11_270225_VOD_d656tg/Uvda2024_11_270225_VOD_d656tg_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "c379763796645910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-c37976379664591027.htm",
-          "ShortDescriptionLine2": "For the first time, Eli Sharabi talks about everything",
-          "Date": "2025-02-27T21:37:50+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: Eli Sharabi speaks"
         }
       ]
     },
