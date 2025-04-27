@@ -2005,19 +2005,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 27.04.25 [live]",
+          "Title": "המהדורה המרכזית: 27.04.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801699/20801699_noAdds/20801699_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801699/20801699_noAdds/20801699_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "df64bfe9ac576910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-df64bfe9ac57691026.htm",
           "ShortDescriptionLine2": "Exclusive: MK Ronat Bar Records Revealed",
           "Date": "2025-04-27T19:53:45+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 27.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 27.04.25"
         },
         {
           "Title": "המהדורה המוקדמת: 27.04.25",
@@ -2164,6 +2163,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "הראש: מבצע מבריק או טעות מסוכנת [live]",
+          "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ff1655ad05766910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-ff1655ad0576691027.htm",
+          "ShortDescriptionLine2": "The Shin Bet Head sends the fighters to an operation in Gaza",
+          "Date": "2025-04-27T21:54:49+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "HAROSH (The Head): a brilliant performance or a dangerous mistake [live]"
+        },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
           "Poster": "https://img.mako.co.il/2025/04/27/Nesli_Yoav_270425_VOD_autoOrient_I_reduced.jpg",
@@ -2361,20 +2375,6 @@
           "ShortDescriptionLine1": "While you worked: What is the story of Jibli studio?"
         },
         {
-          "Title": "הראש: איתמר חוצה את הקווים",
-          "Poster": "https://img.mako.co.il/2025/03/30/Harosh_03_300325_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_efy8092ad2/Harosh_03_300325_VOD_efy8092ad2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_efy8092ad2/Harosh_03_300325_VOD_efy8092ad2_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ce7c64c3906e5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-ce7c64c3906e591027.htm",
-          "ShortDescriptionLine2": "For the first time Itamar is about to cross the lines",
-          "Date": "2025-03-30T21:55:19+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Harosh (The Head): Itamar crosses the lines"
-        },
-        {
           "Title": "בזמן שעבדתם: הכל על רכישת וויז הישראלית",
           "Poster": "https://img.mako.co.il/2025/03/27/Bizman_Sheavadetem_260325_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2435,6 +2435,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית - 27.05.25",
+          "StreamerId": "6372002380112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7c125f8b-eac0-454c-aa02-70955dc20e8f/da6b1714-adda-44e4-ae71-02f2bd1f86d3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372002380112",
+          "Date": "2025-04-27T18:28:28Z",
+          "ShortDescriptionLine1": "Central Edition - 27.05.25",
+          "ShortDescriptionLine2": "2025-04-27T18:28:28Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7c125f8b-eac0-454c-aa02-70955dc20e8f/10s/master.m3u8?fastly_token=NjgzMzgzYmFfYjNlM2UxY2MzM2ZmMzViNjg1ZjBlZTI1NTRmYWZjNDY2MGUyNWI0YmQyYWU1ZTk1MTJkMGViZmViN2Y1MDhhMQ%3D%3D"
+          ]
+        },
         {
           "Title": "7 שרון גל - 27.04.25",
           "StreamerId": "6372001932112",
@@ -2637,18 +2649,6 @@
           "ShortDescriptionLine2": "2025-04-24T13:56:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9e44e63b-0c14-464b-a59a-916cec125475/10s/master.m3u8?fastly_token=NjgyZjU1ZGNfNDQ4NDVmMjQ4YjUzYmE5NTM1ZDBmOThiNTNlZDQwMjIxMGRjZjg1NjU1M2QzM2IyNGZmNzFhMTQ3NGI5YWNiYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 23.04.25",
-          "StreamerId": "6371839156112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/92f50aa9-b12e-4304-958c-d7cd00ded521/992d8796-28b5-4ad6-bff0-5e0ba82cedbe/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371839156112",
-          "Date": "2025-04-23T17:07:03Z",
-          "ShortDescriptionLine1": "Central Edition 23.04.25",
-          "ShortDescriptionLine2": "2025-04-23T17:07:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/92f50aa9-b12e-4304-958c-d7cd00ded521/10s/master.m3u8?fastly_token=NjgyZTFlZjBfMjFmMTQxYmQ1NDA4ZGRjYjYyZTRhMzNlNDU4MzE2Njc4YjFkMDNmYjNhZWE3M2IyYWQ5OWI0YTIyNWU5MGFkMw%3D%3D"
           ]
         },
         {
