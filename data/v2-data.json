@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 27.04.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-04-27 19:54:04",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ppzc1i65/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ppzc1i65/a.m3u8"
+          ],
+          "StreamerId": "1_ppzc1i65",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/894096",
+          "Date": "2025-04-27 19:54:04"
+        },
+        {
+          "Title": "חדשות הערב | 27.04.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-04-27 19:36:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mljjm3i5/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mljjm3i5/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mljjm3i5",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/894095",
+          "Date": "2025-04-27 19:36:14"
+        },
+        {
           "Title": "משחקי הכיס | 27.04.25",
           "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
           "ShortDescriptionLine2": "2025-04-27 14:30:34",
@@ -475,30 +499,6 @@
           "StreamerId": "1_wn6lk8ni",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/894089",
           "Date": "2025-04-27 14:30:34"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 24.04.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-04-24 19:48:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_shhtqa7p/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_shhtqa7p/a.m3u8"
-          ],
-          "StreamerId": "1_shhtqa7p",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/893300",
-          "Date": "2025-04-24 19:48:13"
-        },
-        {
-          "Title": "חדשות הערב | 24.04.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-04-24 19:06:19",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_uvbcfx53/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_uvbcfx53/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_uvbcfx53",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/893299",
-          "Date": "2025-04-24 19:06:19"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 1 - יומני אוקטובר",
@@ -2176,19 +2176,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "הראש: מבצע מבריק או טעות מסוכנת [live]",
+          "Title": "הראש: מבצע מבריק או טעות מסוכנת",
           "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/the_head/A176869/A176869_noAdds/A176869_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/the_head/A176869/A176869_noAdds/A176869_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ff1655ad05766910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-ff1655ad0576691027.htm",
           "ShortDescriptionLine2": "The Shin Bet Head sends the fighters to an operation in Gaza",
           "Date": "2025-04-27T21:54:49+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "HAROSH (The Head): a brilliant performance or a dangerous mistake [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "HAROSH (The Head): a brilliant performance or a dangerous mistake"
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
@@ -2447,6 +2446,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הישראלים - 27.04.25",
+          "StreamerId": "6372003895112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e16bd222-64b5-41cd-aed2-454fabe2c07f/56c98a96-b97f-472a-9743-a1db9e22fc84/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372003895112",
+          "Date": "2025-04-27T19:34:55Z",
+          "ShortDescriptionLine1": "Israelis - 27.04.25",
+          "ShortDescriptionLine2": "2025-04-27T19:34:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e16bd222-64b5-41cd-aed2-454fabe2c07f/10s/master.m3u8?fastly_token=NjgzMzhjZTNfODMwYmQxMGIyNjhiNDliMmQyZDU2OTQ0Y2U3M2MwOWZkYmYzNTA0Mzk3NTZmZWNhZjhjNjhjMTJlNzg3NDRkMg%3D%3D"
+          ]
+        },
         {
           "Title": "המהדורה המרכזית - 27.05.25",
           "StreamerId": "6372002380112",
@@ -2721,18 +2732,6 @@
           "ShortDescriptionLine2": "2025-04-21T20:01:22Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f6b3ee6-d946-4e78-b3df-b2724b73cb34/10s/master.m3u8?fastly_token=NjgyYjlhYTFfZjZkZmI4YzA1OWQ1ZmEzODNiZDAwYzE0YWRhNjBkZjg5MWQwMWU1ZDMzZWY5MmQwZGJjZmM1YTNiYWM4MWJlOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 21.04.25",
-          "StreamerId": "6371764500112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0c4e1a7f-d4a2-4dd1-9886-de6467c2cd08/c9533af4-949b-4f7d-80a9-3ce133bcdd49/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371764500112",
-          "Date": "2025-04-21T19:37:50Z",
-          "ShortDescriptionLine1": "Israelis 21.04.25",
-          "ShortDescriptionLine2": "2025-04-21T19:37:50Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0c4e1a7f-d4a2-4dd1-9886-de6467c2cd08/10s/master.m3u8?fastly_token=NjgyYmE2NzRfOTY4ZmUyMDQxYmI4MzQyNGQ4MDc4M2FlOTQ3MmJjODA4M2MzOWFiMmQ3NWUwNjllMmZiMTBkYmMyZTU5YThmMQ%3D%3D"
           ]
         },
         {
