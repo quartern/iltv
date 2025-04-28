@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 28.04.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_8eyhjxkp",
+          "Date": "2025-04-28 23:02:56",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/rqkou-904560932/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-04-28 23:02:56",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8eyhjxkp/flavorIds/1_v832pbd3,1_o545kvu6,1_l5tt0sel,1_n5xkf452,1_23psvdaf,1_a263do0z/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 28.04.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_zfuac4os",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-04-27 23:55:12",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xrnf9p1w/flavorIds/1_d2rmxiiq,1_afbaqmyu,1_idy0ux8w,1_992e3952,1_gm5yxhth,1_3zz5yjtb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 27.04.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_gpodza0s",
-          "Date": "2025-04-27 23:12:54",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/zpzil-904559660/",
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2025-04-27 23:12:54",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gpodza0s/flavorIds/1_1wiws665,1_8njwv6h8,1_sg0bjah3,1_t04xf7fd,1_oxfjxq3l,1_lnj1zs13/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2020,11 +2020,11 @@
           "Title": "המהדורה המרכזית: 28.04.25",
           "Poster": "https://img.mako.co.il/2025/04/28/Mahadura_Merkazit_280425_VOD_Vcx432_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801725/20801725_noAdds/20801725_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801725/20801725_noAdds/20801725_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_280425_VOD_vcx322/Mahadura_Merkazit_280425_VOD_vcx322_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_280425_VOD_vcx322/Mahadura_Merkazit_280425_VOD_vcx322_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fc85ec2ae0b76910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-fc85ec2ae0b7691027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-fc85ec2ae0b7691027.htm",
           "ShortDescriptionLine2": "Netanyahu's secret contacts with the ultra -Orthodox",
           "Date": "2025-04-28T19:54:00+03:00",
           "Live": false,
@@ -2176,6 +2176,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c14355c501b76910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-c14355c501b7691026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-04-28T23:00:09+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: המגעים לעסקה ומאבק המשפחות",
           "Poster": "https://img.mako.co.il/2025/04/28/Nesli_Yoav_280425_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2202,20 +2217,6 @@
           "Date": "2025-04-28T07:11:48+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: contacts for deal"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/04/27/Avri_Sherki_270425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/April/Avri_Sherki_270425_VOD_yye9/Avri_Sherki_270425_VOD_yye9_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/April/Avri_Sherki_270425_VOD_yye9/Avri_Sherki_270425_VOD_yye9_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "baf355ad05766910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-baf355ad0576691027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-04-27T22:51:47+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "הראש: מבצע מבריק או טעות מסוכנת",
