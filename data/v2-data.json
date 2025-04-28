@@ -466,7 +466,7 @@
       "Items": [
         {
           "Title": "זמן אמת עונה 9 | פרק 2 - 10 ימים בספטמבר",
-          "ShortDescriptionLine1": "Zman Emet/Real Time",
+          "ShortDescriptionLine1": "Zmanmet Season 9 | Chapter 2 - 10 days in September",
           "ShortDescriptionLine2": "2025-04-28 18:27:42",
           "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jl4trvz2/poster",
           "StreamUrls": [
@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 28.04.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_zfuac4os",
+          "Date": "2025-04-28 21:43:49",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/cyj6z-904560928/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-04-28 21:43:49",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zfuac4os/flavorIds/1_efa7gfwy,1_ji2fg32a,1_uwfj6mpo,1_hw7l35xe,1_6i8dlte4,1_k8xhxia8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות שש 28.04.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_onbmy91u",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-04-27 23:12:54",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gpodza0s/flavorIds/1_1wiws665,1_8njwv6h8,1_sg0bjah3,1_t04xf7fd,1_oxfjxq3l,1_lnj1zs13/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 27.04.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_6hms2g2t",
-          "Date": "2025-04-27 20:58:22",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/k4ay9-904559617/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-04-27 20:58:22",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6hms2g2t/flavorIds/1_h2tccson,1_0x0nyz2d,1_gq52az2c,1_cmpqf8yf,1_uyp0llby,1_4177pdu6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2017,19 +2017,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 28.04.25 [live]",
+          "Title": "המהדורה המרכזית: 28.04.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20801725/20801725_noAdds/20801725_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20801725/20801725_noAdds/20801725_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fc85ec2ae0b76910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-fc85ec2ae0b7691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-28T19:54:00+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 28.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 28.04.25"
         },
         {
           "Title": "המהדורה המוקדמת: 28.04.25",
@@ -2049,11 +2048,11 @@
           "Title": "שש עם עודד בן עמי: 28.04.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20801723/20801723_noAdds/20801723_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20801723/20801723_noAdds/20801723_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_280425_VOD_scuyt27/Shesh_280425_VOD_scuyt27_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/April/Shesh_280425_VOD_scuyt27/Shesh_280425_VOD_scuyt27_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e6edec2ae0b76910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-e6edec2ae0b7691027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/4c0c8549c71d5910/VOD-e6edec2ae0b7691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-28T17:55:42+03:00",
           "Live": false,
