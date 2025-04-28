@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משחקי הכיס | 28.04.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-04-28 17:01:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rqtm7h7i/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rqtm7h7i/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_rqtm7h7i",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/894525",
+          "Date": "2025-04-28 17:01:55"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 27.04.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-04-27 19:54:04",
@@ -487,18 +499,6 @@
           "StreamerId": "1_mljjm3i5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/894095",
           "Date": "2025-04-27 19:36:14"
-        },
-        {
-          "Title": "משחקי הכיס | 27.04.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-04-27 14:30:34",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_wn6lk8ni/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wn6lk8ni/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_wn6lk8ni",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/894089",
-          "Date": "2025-04-27 14:30:34"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 1 - יומני אוקטובר",
@@ -2017,19 +2017,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 28.04.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 28.04.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "fc85ec2ae0b76910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-fc85ec2ae0b7691027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-04-28T19:54:00+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 28.04.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 28.04.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20801724/20801724_noAdds/20801724_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20801724/20801724_noAdds/20801724_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "7b81ec2ae0b76910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/283cbc686b7c5910/VOD-7b81ec2ae0b7691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-04-28T18:59:45+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 28.04.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 28.04.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 28.04.25",
@@ -2072,20 +2086,6 @@
           "Date": "2025-04-28T15:00:01+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 28.04.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 27.04.25",
-          "Poster": "https://img.mako.co.il/2025/04/27/Mahadura_Merkazit_270425_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_270425_VOD_ey8dc/Mahadura_Merkazit_270425_VOD_ey8dc_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/April/Mahadura_Merkazit_270425_VOD_ey8dc/Mahadura_Merkazit_270425_VOD_ey8dc_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "df64bfe9ac576910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/c7a13024361d5910/VOD-df64bfe9ac57691026.htm",
-          "ShortDescriptionLine2": "Exclusive: MK Ronat Bar Records Revealed",
-          "Date": "2025-04-27T19:53:45+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 27.04.25"
         },
         {
           "Title": "חדשות סוף השבוע: 26.04.25",
@@ -2448,6 +2448,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 28.04.25",
+          "StreamerId": "6372033005112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/51ccd2c5-342f-4331-8ceb-fc13dbda00f5/5c80872e-f2eb-4fd9-8df8-adc807650d50/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372033005112",
+          "Date": "2025-04-28T16:36:01Z",
+          "ShortDescriptionLine1": "Gilboa Index 28.04.25",
+          "ShortDescriptionLine2": "2025-04-28T16:36:01Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/51ccd2c5-342f-4331-8ceb-fc13dbda00f5/10s/master.m3u8?fastly_token=NjgzNGI0NzJfYjczZDZkMmJhZjBmMDg5NWZiZTQ3NWFhYWY5M2Q1NThjOWQyYTE0YTM4MThmZDYxODUxMTk5MzQ4NzdkM2NiNw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש 28.04.25",
+          "StreamerId": "6372034369112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bfaf60e5-65b9-4af9-b30b-ce7f067880d6/49edc924-fb58-4d8a-a478-f08ea33a37c0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372034369112",
+          "Date": "2025-04-28T16:33:47Z",
+          "ShortDescriptionLine1": "Edition five 28.04.25",
+          "ShortDescriptionLine2": "2025-04-28T16:33:47Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bfaf60e5-65b9-4af9-b30b-ce7f067880d6/10s/master.m3u8?fastly_token=NjgzNGIzNTNfNzM1OWM5NDU5NWYyM2NjYjFjZjZjNjZmOTAzOTcxNmNjYjM4YThhMzM2ZTQ2ZGJhZWJjNmU3Njc3OWM1YzMxYg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 28.04.25",
           "StreamerId": "6372027071112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d9fa6e05-c125-49b4-9092-6f12f461475e/7284e1aa-9c21-4f72-9544-28a1c90f2e70/320x180/match/image.jpg",
@@ -2661,30 +2685,6 @@
           "ShortDescriptionLine2": "2025-04-24T18:21:58Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6a74e305-d15e-4a52-8d8e-1203a6a7f17d/10s/master.m3u8?fastly_token=NjgyZjhjOTJfNGE3NTY4ZTU4ZjY2ZjlkYmE4ZjEyMWE1ZTQwMTI4MmUzZDRiMDZjOGY2YzZkMDcyODBhNjgxNzk1ZjA0YzljNA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 24.04.25",
-          "StreamerId": "6371887192112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/009b0ba8-ffa0-4384-a993-d5fe75d3ad4f/1a7f5bff-84e7-468b-9eaa-549746db28b4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371887192112",
-          "Date": "2025-04-24T16:03:35Z",
-          "ShortDescriptionLine1": "Gilboa Index 24.04.25",
-          "ShortDescriptionLine2": "2025-04-24T16:03:35Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/009b0ba8-ffa0-4384-a993-d5fe75d3ad4f/10s/master.m3u8?fastly_token=NjgyZjY2ZjhfNzVlMTZjNTk5MWU2NjUxZTA4MDJlNjMxMmRiMWFhOWJjZmM4NWViODQxYzZhNGFiOTk2NTczNzk0ODljMDc2MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 24.04.25",
-          "StreamerId": "6371884070112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7c15d29-40c4-4c8f-9fff-b673d1360997/d735baff-8615-43e1-a796-f6784c45579a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371884070112",
-          "Date": "2025-04-24T14:58:40Z",
-          "ShortDescriptionLine1": "Edition five 24.04.25",
-          "ShortDescriptionLine2": "2025-04-24T14:58:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c7c15d29-40c4-4c8f-9fff-b673d1360997/10s/master.m3u8?fastly_token=NjgyZjU0YmZfNzBiMjE3MTJjNTM3MTMyMWIxNGY0ZWM0MjRiYTBmMmI5OWNiZDI1NzVmMDQ5ZDJkMzZhYzRlYjI0OGVkZmZkNQ%3D%3D"
           ]
         },
         {
