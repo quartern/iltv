@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הקלטות הנאצים | פרק 2",
+          "ShortDescriptionLine1": "Nazi recordings | Chapter 2",
+          "ShortDescriptionLine2": "2025-05-03 18:34:42",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_shetz95z/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_shetz95z/a.m3u8"
+          ],
+          "StreamerId": "1_shetz95z",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-881019/s1/886628",
+          "Date": "2025-05-03 18:34:42"
+        },
+        {
           "Title": "שום פלפל ושמן זית 2025 | פרק 8 - ספיישל עצמאות - יחי זינו וחיילים",
           "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 8 - Special Independence - Live Zeno and Soldiers",
           "ShortDescriptionLine2": "2025-05-02 16:12:47",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_vm9g32nl",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-894236/s1/895064",
           "Date": "2025-04-30 20:31:48"
-        },
-        {
-          "Title": "תן לי כח - שולי רנד",
-          "ShortDescriptionLine1": "Give me power - margins Rand",
-          "ShortDescriptionLine2": "2025-04-30 20:31:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0gvzzlkw/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0gvzzlkw/a.m3u8"
-          ],
-          "StreamerId": "1_0gvzzlkw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-894236/s1/895063",
-          "Date": "2025-04-30 20:31:43"
         }
       ]
     },
@@ -2017,19 +2017,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 03.05.25 [live]",
+          "Title": "חדשות סוף השבוע: 03.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20924639/20924639_noAdds/20924639_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20924639/20924639_noAdds/20924639_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "44849ce8e7586910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/8ed38b9a28586910/VOD-44849ce8e758691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-03T19:54:13+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend News: 03.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend News: 03.05.25"
         },
         {
           "Title": "פגוש את העיתונות: 03.05.25",
@@ -2448,6 +2447,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת 03.05.25",
+          "StreamerId": "6372294239112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8f70805e-8b5f-4c5f-a353-bd5e14778b81/f43aceb6-4546-498d-90fc-40ad118e2f7c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372294239112",
+          "Date": "2025-05-03T18:28:58Z",
+          "ShortDescriptionLine1": "The early edition 03.05.25",
+          "ShortDescriptionLine2": "2025-05-03T18:28:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8f70805e-8b5f-4c5f-a353-bd5e14778b81/10s/master.m3u8?fastly_token=NjgzYjcyNmRfOTMwMzU5Y2ZjYTU5MTBmYmQxMWJmMGM5MzRlMzY0ZjE2NzM5NDJlZWJmMjcwMzA1MDY5YzJjODY4YjBhNzdmNw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 02.05.25",
           "StreamerId": "6372232745112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/19c04246-135f-4c0a-9490-5f881de30cd6/82ad6bca-e096-473a-a66a-1e34552d6018/320x180/match/image.jpg",
@@ -2505,18 +2516,6 @@
           "ShortDescriptionLine2": "2025-04-30T19:26:43Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dc2f3c56-36a1-46d2-b06b-d3d7ece612d6/10s/master.m3u8?fastly_token=NjgzNzdhMGZfOTJhNTA2NGIwYTkxNjcyYzQ1NDA4ZTFhZTgxMTVjOTY5MDI0NzMwM2UxNjM1OWNhOGE2OWU2OWU4ZDViMmQ5OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 30.04.25",
-          "StreamerId": "6372117546112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/dd82d899-4111-4650-8968-aa483f6cf78e/5f601b81-2eb0-46dc-af5e-788cbd5c7ce7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372117546112",
-          "Date": "2025-04-30T15:59:33Z",
-          "ShortDescriptionLine1": "The early edition 30.04.25",
-          "ShortDescriptionLine2": "2025-04-30T15:59:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dd82d899-4111-4650-8968-aa483f6cf78e/10s/master.m3u8?fastly_token=NjgzNzQ5MzBfYWQ2NWM0NGRlOTE1ODg1ZmU4OGUzYjI1Mjc3YzA1ZWQyYmIwZjU2NmU0ZDY5MjQzZTU2NTBkYThhYjYzOTIwNQ%3D%3D"
           ]
         },
         {
