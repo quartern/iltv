@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 05.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_a2emd5rq",
+          "Date": "2025-05-05 21:44:17",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/phzi0-904569319/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-05-05 21:44:17",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_a2emd5rq/flavorIds/1_knr88xwi,1_l9obeni7,1_b3bwwhg2,1_3zzkxdt8,1_baunoant,1_yseujn5k/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות שש 05.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_0jzvwovu",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-05-04 22:36:34",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_tp1afnkn/flavorIds/1_m06wmo47,1_vzjlpu3x,1_60ftzogn,1_1lj8m129,1_x03so2on,1_udpecsor/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 04.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_vb2pb5f5",
-          "Date": "2025-05-04 20:53:25",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/jzjim-904567520/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-05-04 20:53:25",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vb2pb5f5/flavorIds/1_99lcprxg,1_m2ral9g1,1_3bkra8f9,1_ztdebee2,1_t895561y,1_dfujev37/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2041,19 +2041,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 05.05.25 [live]",
+          "Title": "המהדורה המרכזית: 05.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924690/20924690_noAdds/20924690_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924690/20924690_noAdds/20924690_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3598261d85f96910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-3598261d85f9691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-05T19:54:43+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 05.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 05.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 05.05.25",
@@ -2085,14 +2084,14 @@
         },
         {
           "Title": "חמש עם רפי רשף: 05.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/05/Hamesh_050525_VOD_vcc345_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20924703/20924703_noAdds/20924703_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20924703/20924703_noAdds/20924703_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_050525_VOD_vcx433/Hamesh_050525_VOD_vcx433_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/April/Hamesh_050525_VOD_vcx433/Hamesh_050525_VOD_vcx433_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "35e9c68af4f96910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-35e9c68af4f9691026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-35e9c68af4f9691026.htm",
+          "ShortDescriptionLine2": "Widening in Gaza - and the chief of staff",
           "Date": "2025-05-05T16:55:26+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 05.05.25"
