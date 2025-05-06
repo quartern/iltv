@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 06.05.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-05-06 19:02:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y1wpoani/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y1wpoani/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_y1wpoani",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/897068",
+          "Date": "2025-05-06 19:02:43"
+        },
+        {
           "Title": "זמן אמת עונה 9 | פרק 3 - משפט שדה?",
           "ShortDescriptionLine1": "Zmanmet Season 9 | Chapter 3 - Field Trial?",
           "ShortDescriptionLine2": "2025-05-06 18:30:41",
@@ -475,18 +487,6 @@
           "StreamerId": "1_vwi5veuh",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887028",
           "Date": "2025-05-06 18:30:41"
-        },
-        {
-          "Title": "חדשות הערב | 05.05.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-05-05 23:39:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6zl1rpbs/poster",
-          "StreamUrls": [
-            "https://cfvod.kaltura.com/hls/p/2717431/sp/2717431/serveFlavor/entryId/1_6zl1rpbs/flavorId/null/index.m3u8"
-          ],
-          "StreamerId": "1_6zl1rpbs",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/896812",
-          "Date": "2025-05-05 23:39:13"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 05.05.25",
@@ -2042,7 +2042,7 @@
       "Items": [
         {
           "Title": "המהדורה המרכזית: 06.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/06/Mahadura_Merkazit_060525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924706/20924706_noAdds/20924706_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924706/20924706_noAdds/20924706_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2058,11 +2058,11 @@
           "Title": "המהדורה המוקדמת: 06.05.25",
           "Poster": "https://img.mako.co.il/2025/05/06/Mahadura_Mukdemet_060525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924716/20924716_noAdds/20924716_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924716/20924716_noAdds/20924716_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_060525_VOD_vuy908/Mahadura_Mukdemet_060525_VOD_vuy908_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_060525_VOD_vuy908/Mahadura_Mukdemet_060525_VOD_vuy908_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "33fc16f9924a6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-33fc16f9924a691026.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-33fc16f9924a691026.htm",
           "ShortDescriptionLine2": "A series of attacks in Yemen - the results and threats",
           "Date": "2025-05-06T18:59:14+03:00",
           "Live": false,
