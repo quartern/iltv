@@ -466,7 +466,7 @@
       "Items": [
         {
           "Title": "זמן אמת עונה 9 | פרק 3 - משפט שדה?",
-          "ShortDescriptionLine1": "Zman Emet/Real Time",
+          "ShortDescriptionLine1": "Zmanmet Season 9 | Chapter 3 - Field Trial?",
           "ShortDescriptionLine2": "2025-05-06 18:30:41",
           "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vwi5veuh/poster",
           "StreamUrls": [
@@ -2041,19 +2041,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 06.05.25 [live]",
+          "Title": "המהדורה המרכזית: 06.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924706/20924706_noAdds/20924706_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924706/20924706_noAdds/20924706_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6e8116f9924a6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-6e8116f9924a691026.htm",
           "ShortDescriptionLine2": "Shock in Israel after Trump's message",
           "Date": "2025-05-06T19:53:51+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 06.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 06.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 06.05.25",
@@ -2472,6 +2471,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 06.05.25",
+          "StreamerId": "6372427900112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5f96d825-6779-46a4-ae73-57c87040bc51/0d59a400-1014-4b8e-a064-520ce74ca2f3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372427900112",
+          "Date": "2025-05-06T18:22:01Z",
+          "ShortDescriptionLine1": "Central Edition 06.05.25",
+          "ShortDescriptionLine2": "2025-05-06T18:22:01Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5f96d825-6779-46a4-ae73-57c87040bc51/10s/master.m3u8?fastly_token=NjgzZjVkYmRfOTE4YzRiYzhjN2E2ODA3ZGE1OGI0MTViMjIwYzUxMGYxODdiOGYyZmU5YWFiNGJmOGE1MzRmNjUzY2IzODUwMA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל - 06.05.25",
           "StreamerId": "6372424392112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f6a10afd-1db5-4ac8-8676-48087659fced/2ce59b6a-a531-484e-b176-ea88ad141170/320x180/match/image.jpg",
@@ -2685,18 +2696,6 @@
           "ShortDescriptionLine2": "2025-05-04T20:39:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3f0e20fe-6c52-4575-8edc-b414becd1f14/10s/master.m3u8?fastly_token=NjgzY2M4YWFfMmFlM2M3MTAzMTY5MWEwNzE1NTMwZjhkMTNlMGFiZTcwNmE5YTQxNWU2ZjQ0NjM1ZWVhZWQ1ZjE4NzRjYzE2OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 04.05.26",
-          "StreamerId": "6372338819112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0ceeda4b-78f9-4582-a8a8-c82ec61d12c3/0b8ec905-0cd9-472b-ae15-9266994abd6d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372338819112",
-          "Date": "2025-05-04T18:36:58Z",
-          "ShortDescriptionLine1": "Central Edition 04.05.26",
-          "ShortDescriptionLine2": "2025-05-04T18:36:58Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0ceeda4b-78f9-4582-a8a8-c82ec61d12c3/10s/master.m3u8?fastly_token=NjgzY2MxNzVfZTZhNTRkMDhlYTllOTE0YzA2NTAwZTZkZTljYjNhZTE2ZjAwNGU5YTI2MTFhOTQ5MmZiYmY5MDE2ZTZkYTFkNw%3D%3D"
           ]
         },
         {
