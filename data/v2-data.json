@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 07.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_nnoxoz99",
+          "Date": "2025-05-07 19:33:56",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/z6eh5-904572738/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-05-07 19:33:56",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nnoxoz99/flavorIds/1_zd8fvggv,1_ekgb0qpp,1_5kqu41mv,1_4vicb4es,1_h9gizf92,1_8x9gdlau/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 07.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_smndbaba",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-05-06 22:50:19",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hixl6a7u/flavorIds/1_buuu7s6v,1_1z45hepi,1_rqwrowem,1_h5enoxqp,1_knqzsmvj,1_t1vwzvt5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 06.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_ffgf72c5",
-          "Date": "2025-05-06 19:48:31",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/pyt5d-904570339/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2025-05-06 19:48:31",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ffgf72c5/flavorIds/1_gziu3pxg,1_4vjuacip,1_y9te15zc,1_ccgp9z6f,1_ndxuhg2y/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2041,19 +2041,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 07.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 07.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "fd8776a793aa6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-fd8776a793aa691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-07T19:53:32+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 07.05.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 07.05.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924743/20924743_noAdds/20924743_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924743/20924743_noAdds/20924743_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
           "StreamerId": "578576a793aa6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-578576a793aa691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-07T18:58:57+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 07.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 07.05.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 07.05.25",
@@ -2096,20 +2110,6 @@
           "Date": "2025-05-07T15:00:02+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 07.05.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 06.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/06/Mahadura_Merkazit_060525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_060525_VOD_v41s56/Mahadura_Merkazit_060525_VOD_v41s56_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_060525_VOD_v41s56/Mahadura_Merkazit_060525_VOD_v41s56_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6e8116f9924a6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-6e8116f9924a691026.htm",
-          "ShortDescriptionLine2": "Shock in Israel after Trump's message",
-          "Date": "2025-05-06T19:53:51+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 06.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 03.05.25",
