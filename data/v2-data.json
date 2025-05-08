@@ -2041,19 +2041,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 08.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 08.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "c777219876ea6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-c777219876ea691027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-08T19:54:19+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 08.05.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 08.05.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/savings_plan/20924770/20924770_noAdds/20924770_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/savings_plan/20924770/20924770_noAdds/20924770_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "0163219876ea6910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-0163219876ea691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-08T18:59:24+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 08.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 08.05.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 08.05.25",
@@ -2096,20 +2110,6 @@
           "Date": "2025-05-08T14:59:51+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 08.05.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 07.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/07/Mahadura_Merkazit_070525_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_070525_VOD_ijd837/Mahadura_Merkazit_070525_VOD_ijd837_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_070525_VOD_ijd837/Mahadura_Merkazit_070525_VOD_ijd837_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "fd8776a793aa6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-fd8776a793aa691026.htm",
-          "ShortDescriptionLine2": "First publication: peak tension between Netanyahu and the ultra -Orthodox",
-          "Date": "2025-05-07T19:53:32+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 07.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 03.05.25",
@@ -2472,6 +2472,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 08.05.25",
+          "StreamerId": "6372531884112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d2ace1ec-6b87-4f6f-af83-d841b53f9934/c791f669-dfae-4c67-9520-93034942c3b0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372531884112",
+          "Date": "2025-05-08T16:55:24Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 08.05.25",
+          "ShortDescriptionLine2": "2025-05-08T16:55:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d2ace1ec-6b87-4f6f-af83-d841b53f9934/10s/master.m3u8?fastly_token=Njg0MWU0MjZfZjkyNTQwNDBjZmYwYTc1OTliYzhlMTNiYWUzZDkwZjVhODAxYmExMjVhNjc3MmQ4M2U0YmE0OThjMzNkYzU0ZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 08.05.25",
           "StreamerId": "6372529977112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6b12b243-3ecd-4af8-a7d6-39c889a1f2c2/55f55491-c156-408f-b3c6-193796f9db8e/320x180/match/image.jpg",
@@ -2577,18 +2589,6 @@
           "ShortDescriptionLine2": "2025-05-07T16:51:17Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/af4c99b2-5dcd-4cc5-a590-322a28397234/10s/master.m3u8?fastly_token=Njg0MDkyNzRfMjMyNTYyYWEyNDMyNmQzNjY5M2QyNTExOGQxMWU5NWI3OGYwYWMzMjM1MDRhNWJlMmUwYzdkYzRiNjZiYWEzOQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "תימני ועצבני: פאנל 7 שרון גל נהנה מהתגובות על הנזק מהתקיפה הישראלית",
-          "StreamerId": "6372472077112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c382f387-e87e-4884-9f94-cc166e848f49/76a37218-d1d0-4763-bf60-2b583c2696e2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372472077112",
-          "Date": "2025-05-07T16:18:28Z",
-          "ShortDescriptionLine1": "Yemeni and Furious: Panel 7 Sharon Gal enjoys the reactions on Israeli attack damage",
-          "ShortDescriptionLine2": "2025-05-07T16:18:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c382f387-e87e-4884-9f94-cc166e848f49/10s/master.m3u8?fastly_token=Njg0MDc2MWVfNDJkZWEwZWE0ODk3ZGJjYzM3MmExNjU1NzI3NzQ5OTMxMzJlNDU0MDRiMmExYWNkYTFmNDFiNjhjMTE4NjZjYg%3D%3D"
           ]
         },
         {
