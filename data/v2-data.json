@@ -2053,6 +2053,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 11.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "17561b7a5cdb6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-17561b7a5cdb691027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-11T15:00:12+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 11.05.25 [live]"
+        },
+        {
           "Title": "חדשות סוף השבוע: 10.05.25",
           "Poster": "https://img.mako.co.il/2025/05/11/Hadshot_Sof_Hashavua_100525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2177,20 +2192,6 @@
           "Date": "2025-05-08T16:55:14+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 08.05.25"
-        },
-        {
-          "Title": "מהדורת היום: 08.05.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20924768/20924768_noAdds/20924768_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20924768/20924768_noAdds/20924768_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ece9cf29b5ea6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-ece9cf29b5ea691027.htm",
-          "ShortDescriptionLine2": "Today's events",
-          "Date": "2025-05-08T14:59:51+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Edition today: 08.05.25"
         },
         {
           "Title": "פגוש את העיתונות: 03.05.25",
@@ -2483,6 +2484,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 11.05.25",
+          "StreamerId": "6372661911112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1a81a1f4-51f0-4e1f-b748-d4b85fbfa91a/e60c2a25-d361-44ad-8351-add435ae6988/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372661911112",
+          "Date": "2025-05-11T12:00:23Z",
+          "ShortDescriptionLine1": "Mitzvah edition 11.05.25",
+          "ShortDescriptionLine2": "2025-05-11T12:00:23Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1a81a1f4-51f0-4e1f-b748-d4b85fbfa91a/10s/master.m3u8?fastly_token=Njg0NTk0ZGJfM2E5YmZjMmQ1YWVhNzZiOTAyNmZlZWNjNTk2NDE1MTM2OTg2Mjg4ZjVlYTcyYjA5MDZkNDA1NzM3ZGJjMWRjMA%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 10.05.25",
           "StreamerId": "6372637564112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b72e9bb6-b8c4-4818-9770-563bda2c24eb/d1288d69-4a8c-4f48-8cbc-fa48ba3a93f9/320x180/match/image.jpg",
@@ -2723,18 +2736,6 @@
           ]
         },
         {
-          "Title": "מהדורת הצוהריים 07.05.25",
-          "StreamerId": "6372462244112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9ccf58a9-16d1-4c0f-b687-c292fda6f7e6/bd570c27-9c02-4222-8d3d-409c9df6f6f6/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372462244112",
-          "Date": "2025-05-07T12:05:40Z",
-          "ShortDescriptionLine1": "Lunch Edition 07.05.25",
-          "ShortDescriptionLine2": "2025-05-07T12:05:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9ccf58a9-16d1-4c0f-b687-c292fda6f7e6/10s/master.m3u8?fastly_token=Njg0MDRkZmVfZWExOGI1Mzk1ZmJhNzljNDQ1Mzg2Yzc2MjUxZDc0Zjc5MzQ5MmMxOWYwYmQ1NDUzZTVkM2RhMTFlYWY2MmYwMg%3D%3D"
-          ]
-        },
-        {
           "Title": "המועדון העסקי - 06.05.25",
           "StreamerId": "6372430715112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/23914abb-c356-447e-b4c4-ac66dbf662af/85e468f2-3894-4692-a68b-c880fd2e7e31/320x180/match/image.jpg",
@@ -2795,6 +2796,18 @@
           ]
         },
         {
+          "Title": "תוכנית הלילה 04.0525",
+          "StreamerId": "6372340738112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/14b6afef-d7ff-451d-a926-71f8aed0476b/bdae6ed6-e762-4bcd-9652-0181e2716d76/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372340738112",
+          "Date": "2025-05-04T19:37:23Z",
+          "ShortDescriptionLine1": "Night plan 04.0525",
+          "ShortDescriptionLine2": "2025-05-04T19:37:23Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/14b6afef-d7ff-451d-a926-71f8aed0476b/10s/master.m3u8?fastly_token=Njg0NTk0MjZfMmI1NzNmZmIwYmU1YThjZWZhYzJkZjkyYzIxOGRmYjc1NmU3MzBhODg4NTRjNmZmODM2MDY3MWEwNzFiN2FiOA%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי 02.05.25 חלק ב'",
           "StreamerId": "6372230056112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/819f1199-8cec-4ae3-a70e-07aaa883b4e5/bff5aae4-1e86-4ee2-9fef-0cc0d23beebd/320x180/match/image.jpg",
@@ -2804,6 +2817,18 @@
           "ShortDescriptionLine2": "2025-05-02T19:15:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/819f1199-8cec-4ae3-a70e-07aaa883b4e5/10s/master.m3u8?fastly_token=NjgzYTE5MWRfOTY3NmU2OTY0Nzg3NGJhNjlkYTg1OTM4YTEwNDhmNzI1YTVjMjEyOGFhZTU4YzJhYTQxZWQ2NWMwZTBkYTU5OQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "תוכנית הלילה 01.05.25",
+          "StreamerId": "6372184908112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f1eb4403-16a4-43b4-a700-dd184c9a9838/ea9de3b3-91f5-4dc6-99b3-c1beb9a2e128/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372184908112",
+          "Date": "2025-05-01T20:27:33Z",
+          "ShortDescriptionLine1": "Night program 01.05.25",
+          "ShortDescriptionLine2": "2025-05-01T20:27:33Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f1eb4403-16a4-43b4-a700-dd184c9a9838/10s/master.m3u8?fastly_token=Njg0NTk0MDVfNmFhNDJjZTRhODYzNTYyMzhkMzg2OTQwMDViNTNiOGFlNmQ5MzVmY2YzMmE0MzE0ZWM3MDVhYWFkYThlZTI1Yw%3D%3D"
           ]
         },
         {
