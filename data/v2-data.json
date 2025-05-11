@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הערב | 11.05.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-05-11 19:44:37",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mxb7r9l2/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mxb7r9l2/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mxb7r9l2",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/901025",
+          "Date": "2025-05-11 19:44:37"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 08.05.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-05-08 19:35:08",
@@ -475,18 +487,6 @@
           "StreamerId": "1_yf5kix1m",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/900274",
           "Date": "2025-05-08 19:35:08"
-        },
-        {
-          "Title": "חדשות הערב | 08.05.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-05-08 19:15:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4c87lkmy/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4c87lkmy/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_4c87lkmy",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/900272",
-          "Date": "2025-05-08 19:15:07"
         },
         {
           "Title": "משחקי הכיס | 08.05.25",
@@ -2094,11 +2094,11 @@
           "Title": "המהדורה המוקדמת: 11.05.25",
           "Poster": "https://img.mako.co.il/2025/05/11/Mahadura_Mukdemet_110525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924843/20924843_noAdds/20924843_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20924843/20924843_noAdds/20924843_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_110525_VOD_g8754/Mahadura_Mukdemet_110525_VOD_g8754_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_110525_VOD_g8754/Mahadura_Mukdemet_110525_VOD_g8754_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "16a82fd4fddb6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-16a82fd4fddb691027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-16a82fd4fddb691027.htm",
           "ShortDescriptionLine2": "Trump: Operation in Gaza - a wasted effort",
           "Date": "2025-05-11T18:58:36+03:00",
           "Live": false,
@@ -2236,19 +2236,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "הראש: פרק סיום העונה [live]",
+          "Title": "הראש: פרק סיום העונה",
           "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/the_head/A176879/A176879_noAdds/A176879_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/the_head/A176879/A176879_noAdds/A176879_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9fd616ea6fdb6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-9fd616ea6fdb691026.htm",
           "ShortDescriptionLine2": "How will it end? Who leaked and what would happen to the head?",
           "Date": "2025-05-11T21:51:18+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "HAROSH (The Head): Season Finish [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "HAROSH (The Head): Season Finish"
         },
         {
           "Title": "נסלי ויואב: ביקור טראמפ במזרח התיכון",
