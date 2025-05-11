@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 11.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_rniwaw84",
+          "Date": "2025-05-11 19:19:47",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/cp95y-904577166/",
+          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine2": "2025-05-11 19:19:47",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rniwaw84/flavorIds/1_875zqylb,1_sbzh2otr,1_c4qn82as,1_8a8vyhwx,1_ovqo8uea,1_sgp37xfc/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 11.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_u0611hdv",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-05-08 19:39:16",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9xrtl8y6/flavorIds/1_059poxhw,1_4scytiur,1_u9ooighx,1_7fexoaml,1_8p8lg1v0,1_rxdqbo5c/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 08.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_41dw7nft",
-          "Date": "2025-05-08 19:15:38",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/m5vbq-904574486/",
-          "ShortDescriptionLine1": "Todays Talk",
-          "ShortDescriptionLine2": "2025-05-08 19:15:38",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_41dw7nft/flavorIds/1_15qowa6k,1_uzddfw1e,1_21cbrhfd,1_xakbajsg,1_otmc4lnl,1_9txucrfq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2068,30 +2068,29 @@
           "ShortDescriptionLine1": "Early edition: 11.05.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 18:00 [live]",
+          "Title": "שש עם עודד בן עמי: 18:00",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20924842/20924842_noAdds/20924842_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20924842/20924842_noAdds/20924842_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3af71b7a5cdb6910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-3af71b7a5cdb691027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-11T17:55:10+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 18:00 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 18:00"
         },
         {
           "Title": "חמש עם רפי רשף: 11.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/11/Hamesh_110525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20924857/20924857_noAdds/20924857_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20924857/20924857_noAdds/20924857_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_110525_VOD_bg757/Hamesh_110525_VOD_bg757_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_110525_VOD_bg757/Hamesh_110525_VOD_bg757_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "aff61b7a5cdb6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-aff61b7a5cdb691027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-aff61b7a5cdb691027.htm",
+          "ShortDescriptionLine2": "PM Discussion Tonight: Hide Transaction or Back to fighting",
           "Date": "2025-05-11T16:55:03+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 11.05.25"
