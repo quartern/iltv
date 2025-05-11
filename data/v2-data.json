@@ -2236,29 +2236,28 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20924848/20924848_noAdds/20924848_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20924848/20924848_noAdds/20924848_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "23ebaaa740eb6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-23ebaaa740eb691026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-05-11T23:15:00+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "הראש: פרק סיום העונה",
-          "Poster": "https://img.mako.co.il/2025/01/09/TheHead_1_x5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/11/Harosh_09_110525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/the_head/A176879/A176879_noAdds/A176879_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/the_head/A176879/A176879_noAdds/A176879_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_09_110525_VOD_kjnhoi9/Harosh_09_110525_VOD_kjnhoi9_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_09_110525_VOD_kjnhoi9/Harosh_09_110525_VOD_kjnhoi9_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9fd616ea6fdb6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/the_head-s1/VOD-9fd616ea6fdb691026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-9fd616ea6fdb691026.htm",
           "ShortDescriptionLine2": "How will it end? Who leaked and what would happen to the head?",
           "Date": "2025-05-11T21:51:18+03:00",
           "Live": false,
@@ -2508,6 +2507,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות - 11.05.25",
+          "StreamerId": "6372678253112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ab2bb3c4-b79a-40a6-b0b7-0ce121706d39/f41ae296-d398-4e92-a471-35c592c3d49b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372678253112",
+          "Date": "2025-05-11T20:50:47Z",
+          "ShortDescriptionLine1": "News - 11.05.25",
+          "ShortDescriptionLine2": "2025-05-11T20:50:47Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ab2bb3c4-b79a-40a6-b0b7-0ce121706d39/10s/master.m3u8?fastly_token=Njg0NjA3MGNfYzAyYmZjNjk0MWZkMGQ1NzliNDg1NmMzOTg2MDI4ZjI0ZjE3MzkyNDU0YWFkYWE2Njg5NDBmMzY0YWJlN2RkMQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המועדון העסקי - 11.05.25",
+          "StreamerId": "6372676484112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ff562f04-ff33-4771-822c-ceba3564f408/b3897c30-e1af-4577-9ab0-3d7d39ac080e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372676484112",
+          "Date": "2025-05-11T20:37:13Z",
+          "ShortDescriptionLine1": "Business Club - 11.05.25",
+          "ShortDescriptionLine2": "2025-05-11T20:37:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ff562f04-ff33-4771-822c-ceba3564f408/10s/master.m3u8?fastly_token=Njg0NjA5OTFfMDM5NmQzMWNlM2Q4MjA2MWZjMTk2MzVlNTU3YzhlMzVkYzM1OTA0ZjlmN2QzNDdhZjI4NDJiYjkxOGRiZjZiZA%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית - 11.05.25",
           "StreamerId": "6372673944112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8ce77c4a-c40e-41d4-834d-1d2228c27193/1febb14c-0cea-48ca-9b3d-11b41a1add96/320x180/match/image.jpg",
@@ -2712,18 +2735,6 @@
           ]
         },
         {
-          "Title": "מדברים חדשות 07.05.25",
-          "StreamerId": "6372482974112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6a9d96ef-1f8c-4102-ace6-28a5a44d0ca3/551f4766-286e-4ebc-b9be-c363c6e42021/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372482974112",
-          "Date": "2025-05-07T20:42:28Z",
-          "ShortDescriptionLine1": "News of News 07.05.25",
-          "ShortDescriptionLine2": "2025-05-07T20:42:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6a9d96ef-1f8c-4102-ace6-28a5a44d0ca3/10s/master.m3u8?fastly_token=Njg0MGJlOTdfYzE5NTg5MWQ0YjBlODRhM2E5ZGQwMjhiNmE3MzQyNjY0OTY2NGIyZjg4ODVkOTI1NWIxNjZmYjk5N2U2OGI1NQ%3D%3D"
-          ]
-        },
-        {
           "Title": "המועדון העסקי 07.05.25",
           "StreamerId": "6372480747112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/908d7710-220d-4ca3-b21b-806d6ee71a3e/7729f835-7c71-4e0e-9f8d-6fd84d97af20/320x180/match/image.jpg",
@@ -2757,18 +2768,6 @@
           "ShortDescriptionLine2": "2025-05-07T16:00:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cc503016-cc9d-4a22-9163-8e4ebe0de207/10s/master.m3u8?fastly_token=Njg0MDg2OWVfNDdhMDkyODBiNGJlOWM0NzMwOTg4NWUwNzBlYmQ1NGYyYzI3M2NjYTIyMGZmYTkyMmVmODVlODIwMDI0N2NjMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי - 06.05.25",
-          "StreamerId": "6372430715112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/23914abb-c356-447e-b4c4-ac66dbf662af/85e468f2-3894-4692-a68b-c880fd2e7e31/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372430715112",
-          "Date": "2025-05-06T20:03:27Z",
-          "ShortDescriptionLine1": "Business Club - 06.05.25",
-          "ShortDescriptionLine2": "2025-05-06T20:03:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/23914abb-c356-447e-b4c4-ac66dbf662af/10s/master.m3u8?fastly_token=NjgzZjY1Y2VfNmVkZDZlZGZlNTUzZDk0MTc5ZmM3N2E3NWQ5OGE0YTc5Y2I3ODNiYTliY2RiNGIzYTIxYmNkNjBiNTBjZDJiZQ%3D%3D"
           ]
         },
         {
