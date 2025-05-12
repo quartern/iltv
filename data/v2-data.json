@@ -2236,19 +2236,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/05/12/Avri_Sherki_120525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20924874/20924874_noAdds/20924874_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20924874/20924874_noAdds/20924874_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6e394e0f573c6910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-6e394e0f573c691027.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-05-12T22:36:34+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: עידן אלכסנדר חוזר הביתה",
@@ -2508,6 +2507,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הנדל\"ניסטים 12.05.25",
+          "StreamerId": "6372719083112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/38a6e0e3-1d4b-416e-ab8c-db607b1b2449/32f131fb-bf67-456e-b2f3-ae84e1fc1abc/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372719083112",
+          "Date": "2025-05-12T21:01:34Z",
+          "ShortDescriptionLine1": "Real estates 12.05.25",
+          "ShortDescriptionLine2": "2025-05-12T21:01:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/38a6e0e3-1d4b-416e-ab8c-db607b1b2449/10s/master.m3u8?fastly_token=Njg0NzU3YzdfNzI3NGZiM2Y0NTc5Y2U2Yzg2Y2RmZmZjNThjNTVjNTZlNDhjYzRlNWNjZWM0ZjY5YjdjNjFkYTNkNDFlOTA4Mw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדברים חדשות 12.05.25",
+          "StreamerId": "6372719452112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e37ac802-5653-4cdf-8e4b-d7fb12f4dd51/1161390e-2864-484c-b15c-fa8074d60ee7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372719452112",
+          "Date": "2025-05-12T20:43:36Z",
+          "ShortDescriptionLine1": "Talk News 12.05.25",
+          "ShortDescriptionLine2": "2025-05-12T20:43:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e37ac802-5653-4cdf-8e4b-d7fb12f4dd51/10s/master.m3u8?fastly_token=Njg0NzU5OWNfNTQ2ODUwNmMzYzAxYzc3MTYwODE1M2JmYTUwOTAwZjc0MmI2MjIyN2FkYzU0NzdiYTA2ODMxZDQ3M2MyNTQ5MA%3D%3D"
+          ]
+        },
+        {
           "Title": "עידן אלכסנדר חוזר הביתה: ביה\"ח איכילוב יעדכן על מצבו הרפואי",
           "StreamerId": "6372718244112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9cac7ec2-fe55-4efa-8df7-04571cd2b879/921df15a-4b88-4172-ad9c-139c6401a47c/320x180/match/image.jpg",
@@ -2601,18 +2624,6 @@
           "ShortDescriptionLine2": "2025-05-12T11:48:17Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dca29012-54f9-4174-bf33-8582357110bc/10s/master.m3u8?fastly_token=Njg0NmU5NDdfNzI1YTQ1MTI3NzUyMmZkNWQxMTBhYjZlOWMwZjgxZDI0MjEwOTk4MzdmMjAzNzliM2U5MDE0MGU4YTc0YzQyNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות - 11.05.25",
-          "StreamerId": "6372678253112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ab2bb3c4-b79a-40a6-b0b7-0ce121706d39/f41ae296-d398-4e92-a471-35c592c3d49b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372678253112",
-          "Date": "2025-05-11T20:50:47Z",
-          "ShortDescriptionLine1": "News - 11.05.25",
-          "ShortDescriptionLine2": "2025-05-11T20:50:47Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ab2bb3c4-b79a-40a6-b0b7-0ce121706d39/10s/master.m3u8?fastly_token=Njg0NjA3MGNfYzAyYmZjNjk0MWZkMGQ1NzliNDg1NmMzOTg2MDI4ZjI0ZjE3MzkyNDU0YWFkYWE2Njg5NDBmMzY0YWJlN2RkMQ%3D%3D"
           ]
         },
         {
@@ -2853,18 +2864,6 @@
           "ShortDescriptionLine2": "2025-05-01T20:27:33Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f1eb4403-16a4-43b4-a700-dd184c9a9838/10s/master.m3u8?fastly_token=Njg0NTk0MDVfNmFhNDJjZTRhODYzNTYyMzhkMzg2OTQwMDViNTNiOGFlNmQ5MzVmY2YzMmE0MzE0ZWM3MDVhYWFkYThlZTI1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "הנדל\"ניסטים - 22.04.25",
-          "StreamerId": "6371775283112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b84a78b6-6b6d-459e-90c3-8f678c808ef8/83a7ae3f-2261-4971-a2b8-d1718f3e794b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6371775283112",
-          "Date": "2025-04-22T05:14:57Z",
-          "ShortDescriptionLine1": "Real estate - 22.04.25",
-          "ShortDescriptionLine2": "2025-04-22T05:14:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b84a78b6-6b6d-459e-90c3-8f678c808ef8/10s/master.m3u8?fastly_token=NjgyYzFlOTBfYjQ1MWM0NjA1MTQ5ZmIyNjEwNDhmODg4NzA2N2IxZDg3NjhkNzRhNzJjOTRjZGFhOWI4ZmVmYmU2OTI5MzAzYQ%3D%3D"
           ]
         },
         {
