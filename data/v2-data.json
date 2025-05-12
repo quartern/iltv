@@ -2077,19 +2077,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.05.25 [live]",
+          "Title": "המהדורה המרכזית: 12.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924870/20924870_noAdds/20924870_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924870/20924870_noAdds/20924870_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "02cb6c8b713c6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-02cb6c8b713c691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-12T19:50:22+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 12.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 12.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 12.05.25",
@@ -2237,6 +2236,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6e394e0f573c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-6e394e0f573c691027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-05-12T22:36:34+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: עידן אלכסנדר חוזר הביתה",
           "Poster": "https://img.mako.co.il/2025/05/12/Nesli_Yoav_120525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2263,20 +2277,6 @@
           "Date": "2025-05-12T07:11:54+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: The release of Alexander era"
-        },
-        {
-          "Title": "אברי ושרקי: ד\"ר אריאל אדמוני",
-          "Poster": "https://img.mako.co.il/2025/05/12/Avri_Sherki_110525_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/May/Avri_Sherki_110525_VOD_jvfy6/Avri_Sherki_110525_VOD_jvfy6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/May/Avri_Sherki_110525_VOD_jvfy6/Avri_Sherki_110525_VOD_jvfy6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23ebaaa740eb6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-23ebaaa740eb691026.htm",
-          "ShortDescriptionLine2": "And also: Xenia Svetlova, Alon Eviatar, Ronen Nawatra",
-          "Date": "2025-05-11T23:15:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Dr. Ariel Admoni"
         },
         {
           "Title": "הראש: פרק סיום העונה",
