@@ -2080,11 +2080,11 @@
           "Title": "המהדורה המרכזית: 13.05.25",
           "Poster": "https://img.mako.co.il/2025/05/13/Mahadura_Merkazit_130525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924887/20924887_noAdds/20924887_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924887/20924887_noAdds/20924887_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_130525_VOD_hig7/Mahadura_Merkazit_130525_VOD_hig7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_130525_VOD_hig7/Mahadura_Merkazit_130525_VOD_hig7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "713945aed28c6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-713945aed28c691027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-713945aed28c691027.htm",
           "ShortDescriptionLine2": "All details about Sinwar's dramatic assassination attempt",
           "Date": "2025-05-13T19:54:12+03:00",
           "Live": false,
@@ -2507,6 +2507,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המועדון העסקי 13.05.25",
+          "StreamerId": "6372762624112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1588c086-7ebd-4252-b1ea-03723ea8be39/7fc393e2-0f73-4458-83bf-5364d7d985a6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372762624112",
+          "Date": "2025-05-13T20:04:31Z",
+          "ShortDescriptionLine1": "Business Club 13.05.25",
+          "ShortDescriptionLine2": "2025-05-13T20:04:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1588c086-7ebd-4252-b1ea-03723ea8be39/10s/master.m3u8?fastly_token=Njg0ODlmMGVfYWI5ZGU3ZDI4Y2Q0Nzg4NDJkYTgzMjhhZjZjZWExOTI4OTQ3YmJkMmI2N2JmMjMzZmZlZWY0NzI3OGNmZTU4Nw%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים 13.05.25",
+          "StreamerId": "6372764076112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2f79879e-e2c5-49b2-8854-be54e348acbe/1141fbe4-7a82-4bcc-a741-81a45b8700de/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372764076112",
+          "Date": "2025-05-13T19:40:30Z",
+          "ShortDescriptionLine1": "Israelis 13.05.25",
+          "ShortDescriptionLine2": "2025-05-13T19:40:30Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2f79879e-e2c5-49b2-8854-be54e348acbe/10s/master.m3u8?fastly_token=Njg0OGE4NjFfN2E5MzBlMjU1ZWJjMjliMWE4ODAyY2Q0MjUzZWI4YzE0NzI2ODU3NDk0YTgxMjAyYTQ2N2E2NDNiMTkxMzhlYg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 13.05.25",
           "StreamerId": "6372759586112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b610fbac-8dc9-4254-946f-512355265b29/00051de3-28a5-4579-ac8b-6ba6667dc9d7/320x180/match/image.jpg",
@@ -2768,30 +2792,6 @@
           "ShortDescriptionLine2": "2025-05-08T16:19:46Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6b12b243-3ecd-4af8-a7d6-39c889a1f2c2/10s/master.m3u8?fastly_token=Njg0MWUwZTNfNGQ0YzgwNWNjNmQxMzU5MGI5N2Y0Njg5MzM0MTFjNjkxZTBmMDM4ZmVhMzU4ZTc4MTM4MjU0NDZjZTA0ZjUzYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 07.05.25",
-          "StreamerId": "6372480747112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/908d7710-220d-4ca3-b21b-806d6ee71a3e/7729f835-7c71-4e0e-9f8d-6fd84d97af20/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372480747112",
-          "Date": "2025-05-07T20:01:23Z",
-          "ShortDescriptionLine1": "The business club 07.05.25",
-          "ShortDescriptionLine2": "2025-05-07T20:01:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/908d7710-220d-4ca3-b21b-806d6ee71a3e/10s/master.m3u8?fastly_token=Njg0MGI2MDlfZTA3MmI1ZTFjMmQyZjRhOWI0YjU3MDFjMDMwZWM4NmY1YjhmM2I4MWQ2NWNkODliYjNkMmZhYzJlYTk1N2RkYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 07.05.25",
-          "StreamerId": "6372482405112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8bd09660-e246-4ac1-a658-3e3790ce06cd/5f75a276-26ae-4107-a6d9-1dda485ff579/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372482405112",
-          "Date": "2025-05-07T19:32:12Z",
-          "ShortDescriptionLine1": "Israelis 07.05.25",
-          "ShortDescriptionLine2": "2025-05-07T19:32:12Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8bd09660-e246-4ac1-a658-3e3790ce06cd/10s/master.m3u8?fastly_token=Njg0MGJiMzZfMmVkNGVkMDZlNDQ0NGY5YzY5YjQzNjk1YjAwZGUzYzYxOGVkZWUyYzZlNGRhOWEzZTczZTBmMDI5NWNiODcwMQ%3D%3D"
           ]
         },
         {
