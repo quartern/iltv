@@ -466,7 +466,7 @@
       "Items": [
         {
           "Title": "זמן אמת עונה 9 | פרק 4 - להכות במטה",
-          "ShortDescriptionLine1": "Zman Emet/Real Time",
+          "ShortDescriptionLine1": "Zmanmet Season 9 | Chapter 4 - hitting the headquarters",
           "ShortDescriptionLine2": "2025-05-14 18:38:16",
           "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9wtw3gg5/poster",
           "StreamUrls": [
@@ -2089,19 +2089,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 14.05.25 [live]",
+          "Title": "המהדורה המרכזית: 14.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20924925/20924925_noAdds/20924925_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20924925/20924925_noAdds/20924925_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e41a882ac4dc6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-e41a882ac4dc691026.htm",
           "ShortDescriptionLine2": "Trump's historic encounter with Syrian President",
           "Date": "2025-05-14T19:55:09+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 14.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 14.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 14.05.25",
@@ -2520,6 +2519,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 14.05.25 ",
+          "StreamerId": "6372809747112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/866a0085-ecf5-4efc-aed3-b6e7922dcb99/3a3689ca-925a-48f0-ad8f-6965ccdafd58/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372809747112",
+          "Date": "2025-05-14T18:27:14Z",
+          "ShortDescriptionLine1": "Central Edition 14.05.25",
+          "ShortDescriptionLine2": "2025-05-14T18:27:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/866a0085-ecf5-4efc-aed3-b6e7922dcb99/10s/master.m3u8?fastly_token=Njg0OWVhMDNfZDFkMWQwYjI4MjcyYTEzZWZkMWZjMThlY2VjNzUzZjhkM2ZhYTQ0YTU3M2Y5OThmODQ4MmI0YTA5NDNkYTg0Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל 14.05.25",
           "StreamerId": "6372805061112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bb29dbb1-169d-48af-8340-81eadd2a9b0c/9f28b885-2e8e-498a-88ea-a8ca47693176/320x180/match/image.jpg",
@@ -2721,18 +2732,6 @@
           "ShortDescriptionLine2": "2025-05-12T20:06:24Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6281093f-4408-4132-b85f-7c0465f2dab3/10s/master.m3u8?fastly_token=Njg0NzVhMzlfNzAyMTk3ZTEzOTcxMzNlZDE4OGUxNjdhNGE5MmJhMjQ2OTUxMjJhNzc1MzZiNzhkYzM1ZjRlMDIxMzZlMDY5YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 12.05.25",
-          "StreamerId": "6372714356112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7d266de6-f74c-4e8b-81e5-49ce5aeaff75/05403e39-8c7c-4d2d-a59b-4361d5de3a09/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372714356112",
-          "Date": "2025-05-12T18:54:55Z",
-          "ShortDescriptionLine1": "Central Edition 12.05.25",
-          "ShortDescriptionLine2": "2025-05-12T18:54:55Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7d266de6-f74c-4e8b-81e5-49ce5aeaff75/10s/master.m3u8?fastly_token=Njg0NzVjMDhfYmI3MTRkZGRkY2Y0MmI3OTQ1ZjFhYmJlODYxYjE4ZmZiMjVmMGMyM2ViMTg5ZDQxMmIxMTkwNTE3YmU1YzNiZQ%3D%3D"
           ]
         },
         {
