@@ -2077,19 +2077,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 14.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 14.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "b8263a37d3dc6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-b8263a37d3dc691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-14T17:55:31+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 14.05.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 14.05.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20924940/20924940_noAdds/20924940_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20924940/20924940_noAdds/20924940_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "ad843a37d3dc6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-ad843a37d3dc691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-14T16:55:27+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.05.25"
         },
         {
           "Title": "מהדורת היום: 14.05.25",
@@ -2132,20 +2146,6 @@
           "Date": "2025-05-13T18:58:45+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 13.05.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 13.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_130525_VOD_oug7/Shesh_130525_VOD_oug7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_130525_VOD_oug7/Shesh_130525_VOD_oug7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f7853fb4f18c6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-f7853fb4f18c691027.htm",
-          "ShortDescriptionLine2": "Today's events",
-          "Date": "2025-05-13T17:55:33+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 13.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 10.05.25",
