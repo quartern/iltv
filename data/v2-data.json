@@ -2254,11 +2254,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: ביקור טראמפ בסעודיה",
           "Poster": "https://img.mako.co.il/2025/05/14/Hadshot_Haboker_140525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/20924916/20924916_noAdds/20924916_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/20924916/20924916_noAdds/20924916_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/May/Hadshot_Haboker_140525_VOD_b876t/Hadshot_Haboker_140525_VOD_b876t_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/May/Hadshot_Haboker_140525_VOD_b876t/Hadshot_Haboker_140525_VOD_b876t_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "75b43893248c6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-75b43893248c691027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-75b43893248c691027.htm",
           "ShortDescriptionLine2": "Trump's visit to Saudi Arabia and concern in Israel",
           "Date": "2025-05-14T07:09:21+03:00",
           "Live": false,
@@ -2508,6 +2508,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 14.05.25 ",
+          "StreamerId": "6372792257112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9b33b256-7624-457a-b3d3-a377461b070a/d2f38e52-a996-4141-8ccb-ebf4639d0121/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372792257112",
+          "Date": "2025-05-14T11:59:49Z",
+          "ShortDescriptionLine1": "Mitzvah edition 14.05.25",
+          "ShortDescriptionLine2": "2025-05-14T11:59:49Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9b33b256-7624-457a-b3d3-a377461b070a/10s/master.m3u8?fastly_token=Njg0OTg4YzBfNzMzZDE3NzQ2ZWI3MjhhZDMyZDg0MjFmZDhhMjgzMGJkNzkwN2E2YzlmZmI4ZjRkY2U3ZGQ4ODIzYjI4ZjM4YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "בשורה התחתונה 13.05.25",
           "StreamerId": "6372787315112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0188fd79-639b-4b15-9404-41d571cba881/6256a3d1-1f14-4ddf-90cc-a33f19e975d3/320x180/match/image.jpg",
@@ -2613,18 +2625,6 @@
           "ShortDescriptionLine2": "2025-05-13T14:01:28Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f1e03b72-f8d3-4867-942f-03e87d3cacd0/10s/master.m3u8?fastly_token=Njg0ODViODhfMGRmZWMwN2YxNTEyNTMyZTk5MWNjMzIyZmEyMjUxNGRjZTc0YjI3OTk5M2RiYWJlNmM5NTJlMzY2ZGFlZWI4Nw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים חלק א' 13.05.25",
-          "StreamerId": "6372748664112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a528ef6a-9124-439d-80ff-0dae83bc7381/415948f2-1ac3-4a43-a2a3-c44b9bcee00c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372748664112",
-          "Date": "2025-05-13T13:58:36Z",
-          "ShortDescriptionLine1": "Lunch Edition Part I. 13.05.25",
-          "ShortDescriptionLine2": "2025-05-13T13:58:36Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a528ef6a-9124-439d-80ff-0dae83bc7381/10s/master.m3u8?fastly_token=Njg0ODViNGFfMjVjY2UzMjg1ZTVmZTBjYmRhODA5Nzk5ODY0MWFkMTBlZGM0NmYzMzc3M2RjMGQ5MWQyMDZiMWUxYmViODNkNQ%3D%3D"
           ]
         },
         {
