@@ -2077,6 +2077,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חמש עם רפי רשף: 15.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d53bf16d262d6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-d53bf16d262d691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-15T16:55:23+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 15.05.25 [live]"
+        },
+        {
           "Title": "מהדורת היום: 15.05.25 [live]",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2132,20 +2147,6 @@
           "Date": "2025-05-14T17:55:31+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 14.05.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 14.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/14/Hamesh_140525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_140525_VOD_jhf894/Hamesh_140525_VOD_jhf894_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_140525_VOD_jhf894/Hamesh_140525_VOD_jhf894_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ad843a37d3dc6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-ad843a37d3dc691026.htm",
-          "ShortDescriptionLine2": "Trump's visit to Qatar",
-          "Date": "2025-05-14T16:55:27+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 10.05.25",
@@ -2508,6 +2509,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 15.05.25",
+          "StreamerId": "6372845287112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4da2a1a9-05ba-4b95-903c-317e7abcdd62/c1aeaf2b-92aa-40af-b1c7-f725e31070a9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372845287112",
+          "Date": "2025-05-15T13:53:38Z",
+          "ShortDescriptionLine1": "Edition 15.05.25",
+          "ShortDescriptionLine2": "2025-05-15T13:53:38Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4da2a1a9-05ba-4b95-903c-317e7abcdd62/10s/master.m3u8?fastly_token=Njg0YjAzYjFfZThiMGRmNjgyYmUzZGM2OTc3MGM3YmY5OWMxNTQ5YTZkMDdhOTFkZWY1NTdkNjU2YjZlZmVlYTEzN2I0Yjg0Yw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים 15.05.25",
           "StreamerId": "6372840451112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/953a3021-af5d-470e-a81e-152eb048e8e2/1d797997-cd1c-41bb-9b6f-d9b4aea0e6bd/320x180/match/image.jpg",
@@ -2697,18 +2710,6 @@
           "ShortDescriptionLine2": "2025-05-13T14:57:00Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9bc5cfae-a94f-4919-b05a-078add6cfe17/10s/master.m3u8?fastly_token=Njg0ODYxZDVfZmE1N2Q2MGMyYmY3NTY0NWMwZDNjZDkxODNhMTZmMTIxYThiMjJiNjYzOWIxMGI4MjA2OWRhNzI2MzMxZGU1ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 13.05.25",
-          "StreamerId": "6372746190112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4cb04d79-eeed-44b0-b5e6-e1fb59f7ee9d/18aee741-c5d6-42a9-b24e-a639d14b2e3f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372746190112",
-          "Date": "2025-05-13T13:55:30Z",
-          "ShortDescriptionLine1": "Edition 15.05.25",
-          "ShortDescriptionLine2": "2025-05-13T13:55:30Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4cb04d79-eeed-44b0-b5e6-e1fb59f7ee9d/10s/master.m3u8?fastly_token=Njg0ODYxYWNfOTZjZGRhNjk2ZmNkOGI1ZTJlZmU5ZWI5NzQ5NTViYjY4MzllZmIxNmJhNzcxZDM5YTRlYmNlYmE0Y2U5NzRhNQ%3D%3D"
           ]
         },
         {
