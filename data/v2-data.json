@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "עושים שישי עם אריק וייס 16.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
+          "StreamerId": "1_qehipc7l",
+          "Date": "2025-05-16 21:41:53",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/nwl13-904585282/",
+          "ShortDescriptionLine1": "Osim Shishi",
+          "ShortDescriptionLine2": "2025-05-16 21:41:53",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qehipc7l/flavorIds/1_6hca7jfm,1_8t8txyc4,1_cmll9z3i,1_ln10ksfi/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המגזין 16.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
           "StreamerId": "1_tm6ebbfi",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-05-09 22:37:45",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xn30mxkl/flavorIds/1_jx7ifybn,1_c32lk1qm,1_4aic97d3,1_c0yi2wns,1_xh6hns9v,1_umsxxisq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "עושים שישי עם אריק וייס 09.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
-          "StreamerId": "1_azjbhz6z",
-          "Date": "2025-05-09 20:55:47",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/fuqmn-904575273/",
-          "ShortDescriptionLine1": "Osim Shishi",
-          "ShortDescriptionLine2": "2025-05-09 20:55:47",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_azjbhz6z/flavorIds/1_ewp64h2g,1_0xe0uvpf,1_m6v8cskz,1_nv94a39f/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "ערב עם שי שטרן 5 - פרק 15 - ספיישל אירוויזיון",
+          "ShortDescriptionLine1": "Evening with Shai Stern 5 - Episode 15 - Special Eurovision",
+          "ShortDescriptionLine2": "2025-05-16 19:03:25",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lf2omnqp/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lf2omnqp/a.m3u8"
+          ],
+          "StreamerId": "1_lf2omnqp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/903242",
+          "Date": "2025-05-16 19:03:25"
+        },
+        {
           "Title": "שום פלפל ושמן זית 2025 | פרק 10 - רותם אבוהב",
           "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 10 - Rotem Abuhab",
           "ShortDescriptionLine2": "2025-05-16 16:09:30",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_ehmurn5n",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13461/858999",
           "Date": "2025-05-13 11:32:19"
-        },
-        {
-          "Title": "פלאי האוקיינוס - הצצה | הדג המרושע שלא תרצו להתעסק איתו",
-          "ShortDescriptionLine1": "Ocean Wonders - A glimpse | The wicked fish you won't want to mess with",
-          "ShortDescriptionLine2": "2025-05-13 11:30:27",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ivaug82g/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ivaug82g/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ivaug82g",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-794147/858992",
-          "Date": "2025-05-13 11:30:27"
         }
       ]
     },
@@ -2077,19 +2077,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 16.05.25 [live]",
+          "Title": "אולפן שישי: 16.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/20924982/20924982_noAdds/20924982_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/20924982/20924982_noAdds/20924982_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7e89027fc82d6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/c23e8b9a28586910/VOD-7e89027fc82d691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-16T19:55:42+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 16.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 16.05.25"
         },
         {
           "Title": "המהדורה המרכזית: 15.05.25",
