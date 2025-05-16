@@ -2237,19 +2237,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: אביגדור ליברמן [live]",
+          "Title": "אופירה ולוינסון: אביגדור ליברמן",
           "Poster": "https://img.mako.co.il/2025/05/16/Ofira_Levinson_160525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/20924983/20924983_noAdds/20924983_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/20924983/20924983_noAdds/20924983_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0e3ebcb3b23d6910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-0e3ebcb3b23d691027.htm",
           "ShortDescriptionLine2": "Is Israel on the way to a deal or continued war?",
           "Date": "2025-05-16T18:00:04+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ofira and Levinson: Avigdor Lieberman [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira and Levinson: Avigdor Lieberman"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
@@ -2508,6 +2507,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המוקדמת 16.5.25",
+          "StreamerId": "6372916901112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e81900d5-6ac4-41a6-b8d5-65e36c75062d/35d68c71-d62a-4eae-8471-bdb51f7d0eb3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372916901112",
+          "Date": "2025-05-16T17:03:45Z",
+          "ShortDescriptionLine1": "The early edition 16.5.25",
+          "ShortDescriptionLine2": "2025-05-16T17:03:45Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e81900d5-6ac4-41a6-b8d5-65e36c75062d/10s/master.m3u8?fastly_token=Njg0YzgwNmJfNjVhNDU4NWQ5OGEyMzBkMDQzMGJmODVmOTRmZDliN2ViODQ2Nzc5NTg0NjU1ZTc5ZWM4M2M0ZDg1Y2YwMDdiYw%3D%3D"
+          ]
+        },
         {
           "Title": "מדברים חדשות 15.05.25",
           "StreamerId": "6372863703112",
@@ -2794,18 +2805,6 @@
           "ShortDescriptionLine2": "2025-05-09T19:25:45Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/acf22d01-532d-4cf8-8c6c-d466deed9968/10s/master.m3u8?fastly_token=Njg0MzZiN2JfY2U2ZDlkNTc1ZTYyOGY1ZTRkMTcyYmZjNGQ0Yjk4Y2NkYjY2NmI1ZWUwYWU3NzZiYTQ3ZGU5NjZlOTVjZGU5NQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 9.5.25",
-          "StreamerId": "6372586922112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/76e38fef-cde5-438c-8f3c-a8c8111c8bd3/ef1a4988-634e-466c-a173-7499e4543d08/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372586922112",
-          "Date": "2025-05-09T16:58:36Z",
-          "ShortDescriptionLine1": "The early edition 9.5.25",
-          "ShortDescriptionLine2": "2025-05-09T16:58:36Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/76e38fef-cde5-438c-8f3c-a8c8111c8bd3/10s/master.m3u8?fastly_token=Njg0MzQ1MTVfNzZkYmQzMTAzMzU5M2Y0MTU1MWRkY2I1NTgzNGRkMzdjMTg0MTFlNGFmYzEyNGYzNTdkOWE4MWFhOTJmOTYzNw%3D%3D"
           ]
         },
         {
