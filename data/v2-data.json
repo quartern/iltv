@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות היום 18.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
+          "StreamerId": "1_qppooe0x",
+          "Date": "2025-05-18 17:50:43",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/jfd9o-904587475/",
+          "ShortDescriptionLine1": "Daily News",
+          "ShortDescriptionLine2": "2025-05-18 17:50:43",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qppooe0x/flavorIds/1_1sidgdko,1_xrn8q6lw,1_h9yk6obk,1_mtb3nu10,1_icrxgd4z/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מהדורת השבת 17.05.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg",
           "StreamerId": "1_qmojnrjk",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-05-15 18:55:32",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_40trj2do/flavorIds/1_ndn8d7pb,1_0vj9bnzn,1_tmewesv2,1_oheyk0aa,1_j9m2k87l,1_vf2oeq01/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות היום 15.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
-          "StreamerId": "1_4tp9qcom",
-          "Date": "2025-05-15 18:04:40",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/m02b8-904584520/",
-          "ShortDescriptionLine1": "Daily News",
-          "ShortDescriptionLine2": "2025-05-15 18:04:40",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4tp9qcom/flavorIds/1_vouowz4y,1_g8wt4jqy,1_q03u41eb,1_g441gq93,1_vaf3acuy,1_q72mfajb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2077,19 +2077,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 18.05.25 [live]",
+          "Title": "חמש עם רפי רשף: 18.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20925039/20925039_noAdds/20925039_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20925039/20925039_noAdds/20925039_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d435e7f1fd1e6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-d435e7f1fd1e691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-18T16:55:44+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.05.25"
         },
         {
           "Title": "מהדורת היום: 18.05.25",
