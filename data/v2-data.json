@@ -2101,19 +2101,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 19.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 19.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "76574541127e6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-76574541127e691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-19T19:54:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 19.05.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 19.05.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20925051/20925051_noAdds/20925051_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20925051/20925051_noAdds/20925051_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "80b54541127e6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-80b54541127e691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-19T18:59:08+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 19.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 19.05.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 19.05.25",
@@ -2133,43 +2147,29 @@
           "Title": "חמש עם רפי רשף: 19.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/20925064/20925064_noAdds/20925064_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/20925064/20925064_noAdds/20925064_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_190525_VOD_vxc330/Hamesh_190525_VOD_vxc330_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hamesh/2025/May/Hamesh_190525_VOD_vxc330/Hamesh_190525_VOD_vxc330_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "57924541127e6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-57924541127e691026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/rafi_reshef-2025/61158b9a28586910/VOD-57924541127e691026.htm",
+          "ShortDescriptionLine2": "Knesset Homintri - and the storm in the coalition",
           "Date": "2025-05-19T16:55:41+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 19.05.25"
         },
         {
           "Title": "מהדורת היום: 19.05.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/19/Mahadurat_Hayom_190525_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20925049/20925049_noAdds/20925049_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20925049/20925049_noAdds/20925049_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_190525_VOD_gfdc5/Mahadurat_Hayom_190525_VOD_gfdc5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_190525_VOD_gfdc5/Mahadurat_Hayom_190525_VOD_gfdc5_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4c104541127e6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-4c104541127e691026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-4c104541127e691026.htm",
+          "ShortDescriptionLine2": "In International Pressure: Relief trucks enter Gaza",
           "Date": "2025-05-19T15:00:18+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 19.05.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 18.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/18/Mahadura_Merkazit_180525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_180525_VOD_sju845/Mahadura_Merkazit_180525_VOD_sju845_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_180525_VOD_sju845/Mahadura_Merkazit_180525_VOD_sju845_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6f7c84fdce1e6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-6f7c84fdce1e691026.htm",
-          "ShortDescriptionLine2": "Moments of decision in negotiations",
-          "Date": "2025-05-18T19:54:01+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 18.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 17.05.25",
