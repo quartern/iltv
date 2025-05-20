@@ -1936,19 +1936,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 20.05.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 20.05.25 [live]",
+          "Title": "מהדורת היום: 20.05.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20925076/20925076_noAdds/20925076_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20925076/20925076_noAdds/20925076_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "90a9bdbd72ce6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-90a9bdbd72ce691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-20T15:00:02+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 20.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 20.05.25"
         },
         {
           "Title": "המהדורה המרכזית: 19.05.25",
@@ -2353,6 +2352,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 20.05.25 ",
+          "StreamerId": "6373113797112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a05a0363-dc7a-4ddf-b58e-fe385a5f9d52/4dd19a66-c6da-452e-b798-a20d9ae72958/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373113797112",
+          "Date": "2025-05-20T13:55:28Z",
+          "ShortDescriptionLine1": "Edition 15 20.05.25",
+          "ShortDescriptionLine2": "2025-05-20T13:55:28Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a05a0363-dc7a-4ddf-b58e-fe385a5f9d52/10s/master.m3u8?fastly_token=Njg1MTlmZjlfMTA4ZTBjNWJiNWE5Nzc3YWFjOGJkMzlhM2JlOWY1ZDYxY2Y3ZDI1MDEzOTIzZDRlYjI5NDJmMTYxY2JmYWZkMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הכדורגלן גדי קינדה הלך לעולמו | מהדורת 15",
           "StreamerId": "6373110902112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/47570283-456b-4294-9437-f946506514b8/c4166737-7872-4647-a3d7-b3ef5c93c974/320x180/match/image.jpg",
@@ -2458,18 +2469,6 @@
           "ShortDescriptionLine2": "2025-05-19T15:00:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/32349f5f-d7de-4ec0-bc26-284b36e11916/10s/master.m3u8?fastly_token=Njg1MDRiMTRfYjBmYzM1YmVmY2ExNjVjOTFmMTg5Yzg5ZGNlZjJhM2YyOTFmYjIxZjMwNWQ5NTAyMjFkYWEwNTc0YWYwMzY3Zg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 19.05.25 ",
-          "StreamerId": "6373059579112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/535b6e98-5788-4021-949d-8f1b58f15341/ab5ce7db-ff9d-4d1f-9171-c6505b15454c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373059579112",
-          "Date": "2025-05-19T14:03:38Z",
-          "ShortDescriptionLine1": "Edition 15 19.05.25",
-          "ShortDescriptionLine2": "2025-05-19T14:03:38Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/535b6e98-5788-4021-949d-8f1b58f15341/10s/master.m3u8?fastly_token=Njg1MDRhNDJfZjAwNGY0YzllNDFhN2M3OWIwY2UwNGM0N2I1NjM4ZGFkYzgzYTY5YzY1ZmE0NTNjOTJmOTNiODBmOWFlNzBkZA%3D%3D"
           ]
         },
         {
