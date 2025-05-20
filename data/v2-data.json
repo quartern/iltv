@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 20.05.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_4mrpa2b5",
+          "Date": "2025-05-20 19:38:23",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1//",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-05-20 19:38:23",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4mrpa2b5/flavorIds/1_dwsei8vq,1_9anyhv66,1_1aucu27n,1_amwoqp92,1_bchfh1gl,1_nppt6e2b/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 20.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_36i71t5b",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-05-19 19:59:10",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ot8q4jxz/flavorIds/1_3b8rm0h4,1_mfnngxxb,1_1dv3ceoy,1_brr3gfmu,1_ig8gveay,1_qtqwriy9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 19.05.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_7a4n1xa9",
-          "Date": "2025-05-19 19:00:32",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/3783816/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-05-19 19:00:32",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_7a4n1xa9/flavorIds/1_d09n37io,1_kd01fnsf,1_27zkjvfj,1_nfoi5m38,1_sanfyoec,1_9ab7br8u/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1921,19 +1921,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 20.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 20.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "c074bdbd72ce6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-c074bdbd72ce691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-20T19:53:49+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 20.05.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 20.05.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20925078/20925078_noAdds/20925078_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/20925078/20925078_noAdds/20925078_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "babfbdbd72ce6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-babfbdbd72ce691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-20T18:59:23+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 20.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 20.05.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 20.05.25",
@@ -1976,20 +1990,6 @@
           "Date": "2025-05-20T15:00:02+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 20.05.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 19.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/20/Mahadura_Merkazit_190525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_190525_VOD_kjgiu111_1/Mahadura_Merkazit_190525_VOD_kjgiu111_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_190525_VOD_kjgiu111_1/Mahadura_Merkazit_190525_VOD_kjgiu111_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "76574541127e6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-76574541127e691026.htm",
-          "ShortDescriptionLine2": "First publication: The Alexander Age Transport",
-          "Date": "2025-05-19T19:54:16+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 19.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 17.05.25",
@@ -2352,6 +2352,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 20.05.25",
+          "StreamerId": "6373124958112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/054fe24a-d4ab-4029-8263-2d37510d1e41/6eae17d0-cf68-4e0c-89ed-d91c3f61f1ea/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373124958112",
+          "Date": "2025-05-20T16:54:29Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 20.05.25",
+          "ShortDescriptionLine2": "2025-05-20T16:54:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/054fe24a-d4ab-4029-8263-2d37510d1e41/10s/master.m3u8?fastly_token=Njg1MWIxZmRfMTEzZmI0M2JkN2Y5Nzg2ZWZlNGRjNTE1ODUxNzQyZjZhZDAyMTBhMmFlNWY5Yzc4NDA3MGExMDdkNmE4MzBmOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 20.05.25",
           "StreamerId": "6373121546112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/31e3959f-5c75-4831-8bd4-b788e7b0baaf/75665adf-2ad8-4be4-9ffa-6f853d1bae1a/320x180/match/image.jpg",
@@ -2553,18 +2565,6 @@
           "ShortDescriptionLine2": "2025-05-18T19:33:39Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/56ab3a10-cc67-4fe4-9008-229976b3acf5/10s/master.m3u8?fastly_token=Njg0ZjI3ZjBfMzA3MjUwYTQ2MDkwZTVmMWI3NTY0M2JlZDFiZWIwNjlkMGVkM2UyMmUwZjZiNWYyMzRmNGMxNjNiZjNkMGVlZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 18.05.25",
-          "StreamerId": "6373026148112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f17cc3d3-6b44-48f5-a227-da6e7b04f493/aba86e54-3f68-4c2c-9809-62e6c5943a76/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373026148112",
-          "Date": "2025-05-18T18:34:01Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 18.05.25",
-          "ShortDescriptionLine2": "2025-05-18T18:34:01Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f17cc3d3-6b44-48f5-a227-da6e7b04f493/10s/master.m3u8?fastly_token=Njg0ZjJiYmNfN2M5ZTZhZDJiNGExOWJiYjYyZWMxY2RjNjlmYmFiNWE0ZTFjNDBlNjc2MTcyZDRkNjVmODA4NGMyYmQ1OGZiNw%3D%3D"
           ]
         },
         {
