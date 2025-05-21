@@ -2080,19 +2080,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: מאבק המשפחות  [live]",
+          "Title": "נסלי ויואב: מאבק המשפחות ",
           "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/20925109/20925109_noAdds/20925109_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/20925109/20925109_noAdds/20925109_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "afe367eec6ce6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-afe367eec6ce691026.htm",
           "ShortDescriptionLine2": "Familiarity, and the venture to find parity for casualties",
           "Date": "2025-05-21T09:34:08+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: Family Fight [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: Family Fight"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: הרחבת הלחימה, האיום באירופה",
@@ -2112,11 +2111,11 @@
           "Title": "אברי ושרקי: ח\"כ עמית הלוי",
           "Poster": "https://img.mako.co.il/2025/05/21/Avri_Sherki_200525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/20925084/20925084_noAdds/20925084_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/20925084/20925084_noAdds/20925084_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/May/Avri_Sherki_200525_VOD_jg77/Avri_Sherki_200525_VOD_jg77_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/May/Avri_Sherki_200525_VOD_jg77/Avri_Sherki_200525_VOD_jg77_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ec42874497ce6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-ec42874497ce691026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-ec42874497ce691026.htm",
           "ShortDescriptionLine2": "And also: Jackie Levy, Coral Morning, Reut Inbar",
           "Date": "2025-05-20T23:40:22+03:00",
           "Live": false,
