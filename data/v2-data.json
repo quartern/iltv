@@ -1921,6 +1921,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 22.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "fd67db83c56f6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-fd67db83c56f691026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-22T19:53:35+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 22.05.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 22.05.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1975,20 +1990,6 @@
           "Date": "2025-05-22T14:59:46+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 22.05.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 21.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_210525_VOD_vyt68/Mahadura_Merkazit_210525_VOD_vyt68_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2025/May/Mahadura_Merkazit_210525_VOD_vyt68/Mahadura_Merkazit_210525_VOD_vyt68_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "621cd9bf261f6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-621cd9bf261f691027.htm",
-          "ShortDescriptionLine2": "Prime minister at a first -year press conference",
-          "Date": "2025-05-21T19:54:54+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 21.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 17.05.25",
