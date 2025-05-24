@@ -1945,19 +1945,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 24.05.25 [live]",
+          "Title": "חדשות סוף השבוע: 24.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/20925182/20925182_noAdds/20925182_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/20925182/20925182_noAdds/20925182_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "452ace09de7f6910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/8ed38b9a28586910/VOD-452ace09de7f691026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-24T19:54:43+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend News: 24.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend News: 24.05.25"
         },
         {
           "Title": "המהדורה הצעירה: 24.05.25",
@@ -2418,6 +2417,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מגזין השבת 24.05.25",
+          "StreamerId": "6373440348112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4ec21daf-9a6d-4947-81e9-e68c20910c27/2953b61b-5c21-4132-bc7a-c7d2230eb12d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373440348112",
+          "Date": "2025-05-24T18:34:18Z",
+          "ShortDescriptionLine1": "Sabbath magazine 24.05.25",
+          "ShortDescriptionLine2": "2025-05-24T18:34:18Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4ec21daf-9a6d-4947-81e9-e68c20910c27/10s/master.m3u8?fastly_token=Njg1NzE5NWZfZjZmYTJhODdmZmM5ZGVhZjUzYjBhM2Y2ZjJiYmU5MDZiMDMzOThlZWMwYjRhMDA0NmY0MGU4NjNkMTM0N2EwOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 24.05.25",
           "StreamerId": "6373437595112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0833db42-c5d0-4fd8-b17c-837eaf813860/6694a2ad-d5e7-4064-a593-5607f68dde75/320x180/match/image.jpg",
@@ -2775,18 +2786,6 @@
           "ShortDescriptionLine2": "2025-05-12T21:01:34Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/38a6e0e3-1d4b-416e-ab8c-db607b1b2449/10s/master.m3u8?fastly_token=Njg0NzU3YzdfNzI3NGZiM2Y0NTc5Y2U2Yzg2Y2RmZmZjNThjNTVjNTZlNDhjYzRlNWNjZWM0ZjY5YjdjNjFkYTNkNDFlOTA4Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת 10.05.25   ",
-          "StreamerId": "6372634941112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e30a9edf-c632-4515-af19-6e318bbd9b0f/690267bb-f714-41eb-9a93-56f068cff017/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6372634941112",
-          "Date": "2025-05-10T18:21:14Z",
-          "ShortDescriptionLine1": "Sabbath magazine 10.05.25",
-          "ShortDescriptionLine2": "2025-05-10T18:21:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e30a9edf-c632-4515-af19-6e318bbd9b0f/10s/master.m3u8?fastly_token=Njg0ZmY1MzRfMmIzN2Y0Mjg3MjQ4OTI4NDQzNTY5MjIyMDMyNzVhMTJlYWFkMzViNThlYmY2ZWY5Njc1NTUxNDAyM2I1ZTA0MA%3D%3D"
           ]
         },
         {
