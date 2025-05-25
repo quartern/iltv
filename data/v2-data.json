@@ -1945,6 +1945,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 25.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4ea73d739c507910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-4ea73d739c50791026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-25T15:00:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Edition today: 25.05.25 [live]"
+        },
+        {
           "Title": "חדשות סוף השבוע: 24.05.25",
           "Poster": "https://img.mako.co.il/2025/05/25/Hadshot_Sof_Hashavoa_VOD_240525_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2041,20 +2056,6 @@
           "Date": "2025-05-22T16:56:33+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 22.05.25"
-        },
-        {
-          "Title": "מהדורת היום: 22.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/22/Mahadurat_Hayom_220525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_220525_VOD_15bfs6/Mahadurat_Hayom_220525_VOD_15bfs6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_220525_VOD_15bfs6/Mahadurat_Hayom_220525_VOD_15bfs6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "11acdb83c56f6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-11acdb83c56f691026.htm",
-          "ShortDescriptionLine2": "Anti -Semitic attack in the heart of the American capital",
-          "Date": "2025-05-22T14:59:46+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 22.05.25"
         },
         {
           "Title": "פגוש את העיתונות: 17.05.25",
@@ -2417,6 +2418,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 25.05.25 ",
+          "StreamerId": "6373460871112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/46f7b82a-9ef2-49bc-b826-e2dcbf5d3f7e/29ebf718-3e4f-411a-b6ce-9d1f0938d41e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373460871112",
+          "Date": "2025-05-25T11:58:39Z",
+          "ShortDescriptionLine1": "Mitzvah edition 25.05.25",
+          "ShortDescriptionLine2": "2025-05-25T11:58:39Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/46f7b82a-9ef2-49bc-b826-e2dcbf5d3f7e/10s/master.m3u8?fastly_token=Njg1ODA3YTlfMTg0NzBmNjQ0NzQ4NjUxMDg5ZDhmNGI5ZWQ4MzBhMGUzMTU1NjNiYWQ0MzYwNjQ3NGRlMzMyOWRhNDQ0MWZiZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מגזין השבת 24.05.25",
           "StreamerId": "6373440348112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4ec21daf-9a6d-4947-81e9-e68c20910c27/2953b61b-5c21-4132-bc7a-c7d2230eb12d/320x180/match/image.jpg",
@@ -2666,18 +2679,6 @@
           "ShortDescriptionLine2": "2025-05-21T13:56:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1004fb66-5ac8-4436-b81d-4aef65cfaa1d/10s/master.m3u8?fastly_token=Njg1MmVjZjdfNWNlNjAzYTcxYmYyZDcxZWJhMTE5ODBiMmU5M2JiY2JmNjYwZjc0MWUyYjM2Zjg4YjUwZDc3NTAyNTBkYzI1ZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 21.05.25 ",
-          "StreamerId": "6373170103112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d29c68ff-c0d3-4698-9fd8-e1b5e5398a28/9da2d5bd-939c-4758-8220-dfd20059c1fb/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373170103112",
-          "Date": "2025-05-21T12:09:14Z",
-          "ShortDescriptionLine1": "Mitzvah edition 21.05.25",
-          "ShortDescriptionLine2": "2025-05-21T12:09:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d29c68ff-c0d3-4698-9fd8-e1b5e5398a28/10s/master.m3u8?fastly_token=Njg1MmMxNDlfZDk2NTZkZjNiZDBkMTdjYTk0MjU2YTc2ZjdkYmY1YmY5M2Q0MGJiMjNmYjViZmU3ZDgzYjkxOTY1YmJiYmFiNw%3D%3D"
           ]
         },
         {
