@@ -1945,6 +1945,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת: 25.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b5fffb40ef507910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-b5fffb40ef50791026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-25T18:58:38+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 25.05.25 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 25.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2041,20 +2056,6 @@
           "Date": "2025-05-22T19:53:35+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 22.05.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 22.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/22/Mahadura_Mukdemet_220525_VOD_vy8798_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_220525_VOD_vuy879/Mahadura_Mukdemet_220525_VOD_vuy879_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/May/Mahadura_Mukdemet_220525_VOD_vuy879/Mahadura_Mukdemet_220525_VOD_vuy879_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5b31db83c56f6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/ecce8b9a28586910/VOD-5b31db83c56f691026.htm",
-          "ShortDescriptionLine2": "The anti -Semitic attack in Washington",
-          "Date": "2025-05-22T19:00:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 22.05.25"
         },
         {
           "Title": "פגוש את העיתונות: 17.05.25",
@@ -2417,6 +2418,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 25.5.25",
+          "StreamerId": "6373468389112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/98968d1a-c4bc-4f6d-863b-f24705f7da63/aa2cff35-1853-4b69-bc97-b971e46c1a16/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373468389112",
+          "Date": "2025-05-25T16:05:52Z",
+          "ShortDescriptionLine1": "Gilboa Index 25.5.25",
+          "ShortDescriptionLine2": "2025-05-25T16:05:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/98968d1a-c4bc-4f6d-863b-f24705f7da63/10s/master.m3u8?fastly_token=Njg1ODQxNTVfMTY4NzBiMDU2NmMyNWQ0YTkzY2QyMTk5OWZjYjcwNzRlMWUyZGNhMWMxMTdmMTRhYmU3ZDU4NjhkNjUyNzJkZg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש - 25.05.25",
           "StreamerId": "6373465481112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/63ffc42a-557c-480e-9a5b-f84fdf2d6091/ea593c00-1614-4bfe-ad5c-37e039fceac8/320x180/match/image.jpg",
@@ -2666,18 +2679,6 @@
           "ShortDescriptionLine2": "2025-05-21T16:55:24Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0d86a682-b33a-4de2-bf2c-6c420f278b2c/10s/master.m3u8?fastly_token=Njg1MzA3MDJfNWNmMGM5MjkzYjBkOTQxZDRlOWQ1ZTZjNWY4N2NmODQxYTZjODhiM2Y0NDVmYTYxZmZjMTBiNDQ2NWUxNWQ5Mg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 21.05.25",
-          "StreamerId": "6373177344112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8382db7d-1c70-4393-a271-9f1912fa2f05/06eb3b6b-0d88-45e7-a2e0-eab70faa44f0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373177344112",
-          "Date": "2025-05-21T16:10:56Z",
-          "ShortDescriptionLine1": "Gilboa Index 21.05.25",
-          "ShortDescriptionLine2": "2025-05-21T16:10:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8382db7d-1c70-4393-a271-9f1912fa2f05/10s/master.m3u8?fastly_token=Njg1MmZkYTFfY2I4NTdhYTk3YWRkNDcxYzZiMjBhOGY1NzdiYzExMDRjNzZjMTAwZTJlNGQ4MzA5ODY2YzEzZWVmNWYyOTlkNw%3D%3D"
           ]
         },
         {
