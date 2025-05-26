@@ -1969,6 +1969,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 26.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6aa9ba7e94b07910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-6aa9ba7e94b0791026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-26T17:55:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 26.05.25 [live]"
+        },
+        {
           "Title": "חמש עם רפי רשף: 26.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2023,20 +2038,6 @@
           "Date": "2025-05-25T18:58:38+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 25.05.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 25.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/25/Shesh_250525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_250525_VOD_pij90/Shesh_250525_VOD_pij90_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_250525_VOD_pij90/Shesh_250525_VOD_pij90_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "210dfb40ef507910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-210dfb40ef50791026.htm",
-          "ShortDescriptionLine2": "Confrontation between Defense Minister and Chief of Staff",
-          "Date": "2025-05-25T17:55:42+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.05.25"
         },
         {
           "Title": "חדשות סוף השבוע: 24.05.25",
@@ -2443,6 +2444,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש - 26.05.25",
+          "StreamerId": "6373497775112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3dc5b02d-3883-46b5-b59a-9f3c1831f981/667e93b1-47ed-4ffb-b4aa-21c396fc2143/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373497775112",
+          "Date": "2025-05-26T14:58:34Z",
+          "ShortDescriptionLine1": "Edition five - 26.05.25",
+          "ShortDescriptionLine2": "2025-05-26T14:58:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3dc5b02d-3883-46b5-b59a-9f3c1831f981/10s/master.m3u8?fastly_token=Njg1OTg1NmJfYWJkZDVjOTQwYmU2Y2QyZTJkOGM0NDIxZGNlYjkzNzAyYTNjMTAxY2NkMzFhNDhjZDYxYzVmZjVmOGYyZmYxMg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 - 26.05.25",
           "StreamerId": "6373495950112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/20f63c7b-68f3-4ffe-8ab9-c417e949a204/fdbfa3be-43ca-447c-b2c8-86e878b9a325/320x180/match/image.jpg",
@@ -2572,18 +2585,6 @@
           "ShortDescriptionLine2": "2025-05-25T14:55:39Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/63ffc42a-557c-480e-9a5b-f84fdf2d6091/10s/master.m3u8?fastly_token=Njg1ODMxNGVfMjUyYWJhMTY0ZWY2N2JiZjkwMWE1YjViNTllNzUyZTdkNDZiMDVkYzNjY2I1YTZhMWUxNzJkNzA5ZjNjYWU1OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 25.5.25",
-          "StreamerId": "6373466163112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9942b75c-bb72-4fb2-a840-ed9888932fae/cee7a5cc-e631-4ddb-986d-4e98c263863c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373466163112",
-          "Date": "2025-05-25T14:50:49Z",
-          "ShortDescriptionLine1": "Edition five 25.5.25",
-          "ShortDescriptionLine2": "2025-05-25T14:50:49Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9942b75c-bb72-4fb2-a840-ed9888932fae/10s/master.m3u8?fastly_token=Njg1ODMzNTVfZWEzZTA4MTc1YTQ5YzhkNTdkNGRiYTJlOWViZmI2MWU2NjZlZTIxNDZjY2ZlMjgyNjM5MzI0OTc0MjUzYWVhNg%3D%3D"
           ]
         },
         {
