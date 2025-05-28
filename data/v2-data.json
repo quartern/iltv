@@ -1880,6 +1880,18 @@
       "Name": "Reshet 13 Specials",
       "Items": [
         {
+          "Title": "הצינור 28.05.2025 – התוכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
+          "StreamerId": "1_u1pmog1m",
+          "Date": "2025-05-28 23:50:30",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/275/season/1//",
+          "ShortDescriptionLine1": "Tube 28.05.2025 - Full program",
+          "ShortDescriptionLine2": "2025-05-28 23:50:30",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u1pmog1m/a.m3u8"
+          ]
+        },
+        {
           "Title": "הצינור 27.05.2025 – התוכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
           "StreamerId": "1_eki2r7s8",
@@ -1889,18 +1901,6 @@
           "ShortDescriptionLine2": "2025-05-28 00:43:54",
           "StreamUrls": [
             "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_eki2r7s8/a.m3u8"
-          ]
-        },
-        {
-          "Title": "הצינור 25.05.2025 - התוכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
-          "StreamerId": "1_vdaqfrft",
-          "Date": "2025-05-25 23:50:30",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/275/season/1/3794526/",
-          "ShortDescriptionLine1": "Tube 25.05.2025 - Full Plan",
-          "ShortDescriptionLine2": "2025-05-25 23:50:30",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vdaqfrft/a.m3u8"
           ]
         },
         {
@@ -2128,19 +2128,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: ראיון עם גדי איזנקוט [live]",
+          "Title": "דוח מצב עם עינב וירון: ראיון עם גדי איזנקוט",
           "Poster": "https://img.mako.co.il/2025/05/28/Doh_Matzav_280525_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/20925319/20925319_noAdds/20925319_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/20925319/20925319_noAdds/20925319_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bfa6e95a9d517910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-bfa6e95a9d51791026.htm",
           "ShortDescriptionLine2": "Interview with Gadi Eisenkott to mark 600 days for war",
           "Date": "2025-05-28T23:13:33+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Interview with Gadi Eisenkot [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Interview with Gadi Eisenkot"
         },
         {
           "Title": "עובדה: עכשיו אורי",
