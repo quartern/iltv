@@ -1969,19 +1969,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 28.05.25 [live]",
+          "Title": "המהדורה המרכזית: 28.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20925288/20925288_noAdds/20925288_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20925288/20925288_noAdds/20925288_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "8c7a570f4b517910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-8c7a570f4b51791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-28T19:54:34+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 28.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 28.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 28.05.25",
@@ -2128,6 +2127,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "עובדה: עכשיו אורי [live]",
+          "Poster": "https://img.mako.co.il/2025/05/28/Uvda2024_18_280525_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "65bb8938c6117910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-65bb8938c611791027.htm",
+          "ShortDescriptionLine2": "Uri Magidish first tells about the rescue operation",
+          "Date": "2025-05-28T21:35:47+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "UVDA: now Uri [live]"
+        },
         {
           "Title": "נסלי ויואב: 600 ימים למלחמה",
           "Poster": "https://img.mako.co.il/2025/05/28/Nesli_Yoav_280525_Vod_autoOrient_I_reduced.jpg",
@@ -2421,20 +2435,6 @@
           "Date": "2025-03-20T21:33:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: Gadi Moses, at the top of them"
-        },
-        {
-          "Title": "עובדה: קול של תקווה מנחל עוז",
-          "Poster": "https://img.mako.co.il/2025/03/06/UVDA_VoiceOfHope_i_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_13_VOD_060325_hgsd832/Uvda2024_13_VOD_060325_hgsd832_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_13_VOD_060325_hgsd832/Uvda2024_13_VOD_060325_hgsd832_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "166ef9cda9a65910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-166ef9cda9a6591026.htm",
-          "ShortDescriptionLine2": "Matan's heroic battle in Nahal Oz River",
-          "Date": "2025-03-06T21:23:28+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: Voice of Hope from River Oz"
         }
       ]
     },
