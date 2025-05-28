@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 28.05.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-05-28 19:56:09",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_icp5jg6s/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_icp5jg6s/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_icp5jg6s",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/912935",
+          "Date": "2025-05-28 19:56:09"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 28.05.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-05-28 19:36:56",
@@ -511,18 +523,6 @@
           "StreamerId": "1_tbfkknje",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/912441",
           "Date": "2025-05-27 21:35:38"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 27.05.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-05-27 19:44:43",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ex650cm7/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ex650cm7/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ex650cm7",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/912438",
-          "Date": "2025-05-27 19:44:43"
         },
         {
           "Title": "חדשות השבת | 24.05.25",
@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 28.05.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_z15goqy3",
+          "Date": "2025-05-28 22:26:52",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1//",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-05-28 22:26:52",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_z15goqy3/flavorIds/1_mydmkqyd,1_e5aip8bf,1_3yhyvlqa,1_gruerm6j,1_cosryaqm/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 28.05.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_h1954afm",
@@ -647,18 +659,6 @@
           "ShortDescriptionLine2": "2025-05-28 18:04:28",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4jqsz7ms/flavorIds/1_hza39bc6,1_xbqxv89q,1_zkrang1k,1_8epjmp8o,1_a5xwqwu2,1_8o7b6i83/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 27.05.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_v0tp375l",
-          "Date": "2025-05-27 23:56:42",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/3798921/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-05-27 23:56:42",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_v0tp375l/flavorIds/1_ia6645li,1_gvp2g3ne,1_mqrcnkwf,1_3k0fciww,1_4sus8efu,1_zuxya7rl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2128,19 +2128,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: עכשיו אורי [live]",
+          "Title": "עובדה: עכשיו אורי",
           "Poster": "https://img.mako.co.il/2025/05/28/Uvda2024_18_280525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2024/20925274/20925274_noAdds/20925274_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2024/20925274/20925274_noAdds/20925274_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "65bb8938c6117910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2024/VOD-65bb8938c611791027.htm",
           "ShortDescriptionLine2": "Uri Magidish first tells about the rescue operation",
           "Date": "2025-05-28T21:35:47+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "UVDA: now Uri [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "UVDA: now Uri"
         },
         {
           "Title": "נסלי ויואב: 600 ימים למלחמה",
@@ -2442,6 +2441,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 28.05.25",
+          "StreamerId": "6373581568112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b6a234e0-9316-4ede-ace5-f1c7354bb331/7fca051d-6350-4bc2-b6d9-21f80475fba2/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373581568112",
+          "Date": "2025-05-28T19:40:49Z",
+          "ShortDescriptionLine1": "Israelis 28.05.25",
+          "ShortDescriptionLine2": "2025-05-28T19:40:49Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b6a234e0-9316-4ede-ace5-f1c7354bb331/10s/master.m3u8?fastly_token=Njg1YzZkZGRfZDkwZWIxNDE5ZmZlNDlkOWM4MmZiMzUwNzFlZjFkZTYyYWE3MWUyNzZlZGYxMzk5MjIzYmE3NjM2OTBhMGZiMg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 28.05.25",
           "StreamerId": "6373577609112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/781424fa-3ad6-4a3f-b393-a8e25ae10272/d5915708-1aa7-4a93-a56a-57c7791b25ad/320x180/match/image.jpg",
@@ -2643,18 +2654,6 @@
           "ShortDescriptionLine2": "2025-05-26T20:02:35Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c225971f-b9d2-4fcb-ae36-19b655f61f04/10s/master.m3u8?fastly_token=Njg1OWMzMjRfMTFmYzlkZGEyOWRkZjRlZmEzNmVhMTNmMDM1YmM5MDg4NDYyMzcwNzZmYmUwOTI2MWVhYzMyYmM3NzgxNjMxNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים - 26.05.25",
-          "StreamerId": "6373506665112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/62655b13-aca6-467f-9161-d166808642f7/d25f5b60-4461-40ba-8545-13efcc06051f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373506665112",
-          "Date": "2025-05-26T19:59:30Z",
-          "ShortDescriptionLine1": "Israelis - 26.05.25",
-          "ShortDescriptionLine2": "2025-05-26T19:59:30Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/62655b13-aca6-467f-9161-d166808642f7/10s/master.m3u8?fastly_token=Njg1OWNkZGVfMTFlZjhmN2EwODg0NTNhOGIwNjIzYjdiMzcxMWIxNTY4MWY2N2I4OThiNDI3Mzc1Y2Y4MDM0Zjk5YzYyNWU4NQ%3D%3D"
           ]
         },
         {
