@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "מה שתגידו עונה 4 | פרק 32 - 29.05.25",
+          "ShortDescriptionLine1": "What you say season 4 | Chapter 32 - 29.05.25",
+          "ShortDescriptionLine2": "2025-05-29 18:36:00",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qdip5nhq/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qdip5nhq/a.m3u8"
+          ],
+          "StreamerId": "1_qdip5nhq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11510/s4/913311",
+          "Date": "2025-05-29 18:36:00"
+        },
+        {
           "Title": "בוש עונה 5 | פרק 6 - החלל שבין הכוכבים",
           "ShortDescriptionLine1": "Bush Season 5 | Chapter 6 - the space between the stars",
           "ShortDescriptionLine2": "2025-05-28 21:21:09",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_k45bmaho",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833724/%D7%A2%D7%95%D7%A0%D7%94-5/874915",
           "Date": "2025-05-22 20:26:08"
-        },
-        {
-          "Title": "איתי רייכר | אנשים שפגשתי בדמיון",
-          "ShortDescriptionLine1": "Itai Reicher | People I met imagined",
-          "ShortDescriptionLine2": "2025-05-22 19:59:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tjj9j88w/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tjj9j88w/a.m3u8"
-          ],
-          "StreamerId": "1_tjj9j88w",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-904543/s1/904662",
-          "Date": "2025-05-22 19:59:09"
         }
       ]
     },
@@ -1993,19 +1993,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 29.05.25 [live]",
+          "Title": "המהדורה המרכזית: 29.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/20925315/20925315_noAdds/20925315_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/20925315/20925315_noAdds/20925315_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ebe6c6f17ba17910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/69018b9a28586910/VOD-ebe6c6f17ba1791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-29T19:54:29+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 29.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 29.05.25"
         },
         {
           "Title": "המהדורה המוקדמת: 29.05.25",
@@ -2023,14 +2022,14 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 29.05.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/29/Shesh_290525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/20925313/20925313_noAdds/20925313_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/20925313/20925313_noAdds/20925313_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_290525_VOD_dfg456/Shesh_290525_VOD_dfg456_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Shesh/2025/May/Shesh_290525_VOD_dfg456/Shesh_290525_VOD_dfg456_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1536123adaa17910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-1536123adaa1791026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/oded_ben_ami-2025/94d245dea8586910/VOD-1536123adaa1791026.htm",
+          "ShortDescriptionLine2": "American effort to a hijacker and the end of the fighting",
           "Date": "2025-05-29T17:56:05+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.05.25"
@@ -2051,14 +2050,14 @@
         },
         {
           "Title": "מהדורת היום: 29.05.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/05/29/Mahadurat_Hayom_290525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/20925312/20925312_noAdds/20925312_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/20925312/20925312_noAdds/20925312_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_290525_VOD_vuy8790_1/Mahadurat_Hayom_290525_VOD_vuy8790_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2025/May/Mahadurat_Hayom_290525_VOD_vuy8790_1/Mahadurat_Hayom_290525_VOD_vuy8790_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "611b123adaa17910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-611b123adaa1791026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2025/39f68b9a28586910/VOD-611b123adaa1791026.htm",
+          "ShortDescriptionLine2": "The new outline for transaction: Discussion of the Prime Minister",
           "Date": "2025-05-29T15:00:30+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 29.05.25"
