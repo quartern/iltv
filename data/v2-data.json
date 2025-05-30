@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "ערב עם שי שטרן 5 - פרק 17",
+          "ShortDescriptionLine1": "Evening with Shai Stern 5 - Chapter 17",
+          "ShortDescriptionLine2": "2025-05-30 19:05:47",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_679hmnsn/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_679hmnsn/a.m3u8"
+          ],
+          "StreamerId": "1_679hmnsn",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/913653",
+          "Date": "2025-05-30 19:05:47"
+        },
+        {
           "Title": "שום פלפל ושמן זית 2025 | פרק 12 - ירדנה ארזי",
           "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 12 - Jordana Arazi",
           "ShortDescriptionLine2": "2025-05-30 16:08:56",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_15mkqafd",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/912032",
           "Date": "2025-05-26 12:40:12"
-        },
-        {
-          "Title": "בוש עונה 5 | פרק 4 - החיו את המתים",
-          "ShortDescriptionLine1": "Bush Season 5 | Chapter 4 - lived the dead",
-          "ShortDescriptionLine2": "2025-05-25 20:44:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mxhmsuke/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mxhmsuke/a.m3u8"
-          ],
-          "StreamerId": "1_mxhmsuke",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833724/%D7%A2%D7%95%D7%A0%D7%94-5/874916",
-          "Date": "2025-05-25 20:44:45"
         }
       ]
     },
@@ -1981,19 +1981,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 30.05.25 [live]",
+          "Title": "אולפן שישי: 30.05.25",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/20925344/20925344_noAdds/20925344_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/20925344/20925344_noAdds/20925344_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7b21123adaa17910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/c23e8b9a28586910/VOD-7b21123adaa1791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-30T19:51:36+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 30.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 30.05.25"
         },
         {
           "Title": "המהדורה המרכזית: 29.05.25",
@@ -2140,6 +2139,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם דן שילון [live]",
+          "Poster": "https://img.mako.co.il/2025/04/23/WhatHappened_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "3bfab219c9617910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/what_really_happened-s1/VOD-3bfab219c961791027.htm",
+          "ShortDescriptionLine2": "Dan Shilon opens everything in his life interview",
+          "Date": "2025-05-30T21:56:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Dan Shilon [live]"
+        },
         {
           "Title": "אופירה ולוינסון: עסקת חטופים וההסכם עם איראן",
           "Poster": "https://img.mako.co.il/2025/05/30/Ofira_Levinson_300525_VOD_autoOrient_I_reduced.jpg",
@@ -2307,20 +2321,6 @@
           "Date": "2025-05-11T21:51:18+03:00",
           "Live": false,
           "ShortDescriptionLine1": "HAROSH (The Head): Season Finish"
-        },
-        {
-          "Title": "מה באמת קרה שם?: ארז טל עם בן כספית",
-          "Poster": "https://img.mako.co.il/2025/05/09/Ma_Beemet_Kara_Sham_090525_Ben_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_090525_VOD_c35yg6/Ma_Beemet_Kara_Sham_03_090525_VOD_c35yg6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_090525_VOD_c35yg6/Ma_Beemet_Kara_Sham_03_090525_VOD_c35yg6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "85ccefcf7bea6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-85ccefcf7bea691026.htm",
-          "ShortDescriptionLine2": "A financial son for the secret relationship between him and Netanyahu",
-          "Date": "2025-05-09T21:56:52+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "What really happened there?: Erez Tal with a mercury"
         },
         {
           "Title": "עובדה: הביתה. עומר שם טוב מדבר",
