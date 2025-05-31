@@ -1981,19 +1981,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 31.05.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 31.05.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "dd27c6f17ba17910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/8ed38b9a28586910/VOD-dd27c6f17ba1791026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-05-31T19:54:33+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend News: 31.05.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 31.05.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/20925362/20925362_noAdds/20925362_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/20925362/20925362_noAdds/20925362_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "2b25c6f17ba17910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/c95845dea8586910/VOD-2b25c6f17ba1791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-05-31T17:59:42+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the Press: 31.05.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the Press: 31.05.25"
         },
         {
           "Title": "המהדורה הצעירה: 31.05.25",
@@ -2092,20 +2106,6 @@
           "Date": "2025-05-29T15:00:30+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 29.05.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 24.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/25/Hadshot_Sof_Hashavoa_VOD_240525_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/May/Hadshot_Sof_Hashavoa_240525_VOD_eyw898/Hadshot_Sof_Hashavoa_240525_VOD_eyw898_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2025/May/Hadshot_Sof_Hashavoa_240525_VOD_eyw898/Hadshot_Sof_Hashavoa_240525_VOD_eyw898_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "452ace09de7f6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2025/8ed38b9a28586910/VOD-452ace09de7f691026.htm",
-          "ShortDescriptionLine2": "The comeback of chocolate, mint, gum",
-          "Date": "2025-05-24T19:54:43+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend News: 24.05.25"
         },
         {
           "Title": "פגוש את העיתונות: 24.05.25",
