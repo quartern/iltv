@@ -1981,19 +1981,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 02.06.25 [live]",
+          "Title": "המהדורה המרכזית: 02.06.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21020629/21020629_noAdds/21020629_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21020629/21020629_noAdds/21020629_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "ab3f012947a27910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/84ceb471cdb17910/VOD-ab3f012947a2791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-06-02T19:56:18+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 02.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 02.06.25"
         },
         {
           "Title": "חדשות סוף השבוע: 31.05.25",
@@ -2454,6 +2453,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "השרה גילה גמליאל ובעלה בתוכנית הלילה",
+          "StreamerId": "6373797235112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ae2199d9-eb9e-4480-a809-0fd560fd5c4d/e50b4938-efc1-4406-88fa-460985b566d4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373797235112",
+          "Date": "2025-06-02T18:44:44Z",
+          "ShortDescriptionLine1": "Minister Giliel and her husband in the night show",
+          "ShortDescriptionLine2": "2025-06-02T18:44:44Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ae2199d9-eb9e-4480-a809-0fd560fd5c4d/10s/master.m3u8?fastly_token=Njg2MmU0YmJfNTQzNjE3ZTJiODIzYWYxZmUyYmVkYWVhYzJiODc5MjBiZDA1M2FkOWI5ZWU5ODE2Y2NhM2QwNzQxMTJiZjhlMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית 02.06.25",
+          "StreamerId": "6373797027112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fe93e1fe-cd8b-4f79-80f0-fdbaa27b1d27/166690f2-f87b-452a-9495-b3f2b95d57dc/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373797027112",
+          "Date": "2025-06-02T18:32:24Z",
+          "ShortDescriptionLine1": "Central Edition 02.06.25",
+          "ShortDescriptionLine2": "2025-06-02T18:32:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fe93e1fe-cd8b-4f79-80f0-fdbaa27b1d27/10s/master.m3u8?fastly_token=Njg2MmY5MDBfYzBhYzUxOWMzZmVjMjk3ZmI4MmJhMzY1YmRjMzcwNzgzNzlkYmUyZGFhZWZiODY2ZmI0NDhhMTZjNmVkZDFkMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 31.05.25",
           "StreamerId": "6373714833112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3688da27-d94f-484d-8483-002ea22bfbd1/7408547f-f4b9-4158-84ec-7365ce505513/320x180/match/image.jpg",
@@ -2658,18 +2681,6 @@
           ]
         },
         {
-          "Title": "המהדורה המרכזית 28.05.25",
-          "StreamerId": "6373577609112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/781424fa-3ad6-4a3f-b393-a8e25ae10272/d5915708-1aa7-4a93-a56a-57c7791b25ad/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373577609112",
-          "Date": "2025-05-28T18:24:30Z",
-          "ShortDescriptionLine1": "Central Edition 28.05.25",
-          "ShortDescriptionLine2": "2025-05-28T18:24:30Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/781424fa-3ad6-4a3f-b393-a8e25ae10272/10s/master.m3u8?fastly_token=Njg1YzVkODVfOTQxNGYwMzZkZDY3NjJhNmJjMmY1YjM2YThjNDE3NzE3ZjVjNDAzNzAwNmQyZTRmNGM3MGM3NDg2YTlhODEyNQ%3D%3D"
-          ]
-        },
-        {
           "Title": "מדד גלבוע 28.05.25",
           "StreamerId": "6373573375112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4e57fc60-8c37-4aee-9e40-4c453b619a91/58e4500f-51ff-4989-981c-d795451b5677/320x180/match/image.jpg",
@@ -2751,18 +2762,6 @@
           "ShortDescriptionLine2": "2025-05-25T19:35:21Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/35a731a2-ed74-4d0b-aaca-af4bedc4623e/10s/master.m3u8?fastly_token=Njg1ODcyZTNfYWExOWQ4ZTMxYTFhOWQ5OTMwMDNiNTkwNDYwNDk1ZjkwMDljMjZkYzgwZjgyNTI0NWNiOTgwYjViM2E5ZDEwMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "שוקל לרוץ לפוליטיקה, נהנה מהסבאות ולא חושש להביע דעות ימניות בתקשורת: אלי אוחנה בריאיון ",
-          "StreamerId": "6373475242112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9683766c-4d4f-43f4-ad2b-77d9dcbeba3c/97e1c3b6-c115-4400-9bf1-492c61240b32/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373475242112",
-          "Date": "2025-05-25T19:32:45Z",
-          "ShortDescriptionLine1": "Weighs to run for politics, enjoys the thrillers and is not afraid to express right -wing opinions in the media: Eli Ohana in an interview",
-          "ShortDescriptionLine2": "2025-05-25T19:32:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9683766c-4d4f-43f4-ad2b-77d9dcbeba3c/10s/master.m3u8?fastly_token=Njg1ODYxY2VfN2QzN2RkYmM2NjhmYzQwMWFjZWU2YmI2YWEwZTFiMzk1ZWNhY2RiYWFhN2U1MGJiMTg2MjIxNzdjYzVhYWUxZg%3D%3D"
           ]
         },
         {
