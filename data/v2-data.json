@@ -618,8 +618,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_uwr0s0xx",
           "Date": "2025-06-03 18:32:21",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/siqlb-904608922/",
-          "ShortDescriptionLine1": "Daily News",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/3812510/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-06-03 18:32:21",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_uwr0s0xx/flavorIds/1_glti4p9t,1_b8udy155,1_9sf48zwp,1_s02qaapc,1_qa6q3jb7,1_x6rr2egr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1981,19 +1981,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 03.06.25 [live]",
+          "Title": "שש עם עודד בן עמי: 03.06.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21020655/21020655_noAdds/21020655_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21020655/21020655_noAdds/21020655_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "889526d62b127910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/b91d8acf93c17910/VOD-889526d62b12791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-06-03T17:55:45+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.06.25"
         },
         {
           "Title": "חמש עם רפי רשף: 03.06.25",
@@ -2454,6 +2453,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע - 03.06.25",
+          "StreamerId": "6373830570112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f73c165-f118-4240-be87-cb337d902c26/c777a8c6-b42d-4b43-81a1-40c6d61319a0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373830570112",
+          "Date": "2025-06-03T16:07:20Z",
+          "ShortDescriptionLine1": "Gilboa Index - 03.06.25",
+          "ShortDescriptionLine2": "2025-06-03T16:07:20Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f73c165-f118-4240-be87-cb337d902c26/10s/master.m3u8?fastly_token=Njg2NDIxM2RfM2FiMmFhNmVhOGQ4YzRmYjA3MWEzMDA4MmJkZDIxODUzMTE0YzExMDBiNzkyZjAzYTBkZDUwZDA0YmY5NGZmZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 03.06.25",
           "StreamerId": "6373829225112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/406c8264-6e39-4d91-a72c-3d1c733ab4bb/da1b7e19-d10f-4e70-a9d0-34955c80b5d6/320x180/match/image.jpg",
@@ -2703,18 +2714,6 @@
           "ShortDescriptionLine2": "2025-05-28T19:40:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b6a234e0-9316-4ede-ace5-f1c7354bb331/10s/master.m3u8?fastly_token=Njg1YzZkZGRfZDkwZWIxNDE5ZmZlNDlkOWM4MmZiMzUwNzFlZjFkZTYyYWE3MWUyNzZlZGYxMzk5MjIzYmE3NjM2OTBhMGZiMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 28.05.25",
-          "StreamerId": "6373573375112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4e57fc60-8c37-4aee-9e40-4c453b619a91/58e4500f-51ff-4989-981c-d795451b5677/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373573375112",
-          "Date": "2025-05-28T16:09:18Z",
-          "ShortDescriptionLine1": "Gilboa Index 28.05.25",
-          "ShortDescriptionLine2": "2025-05-28T16:09:18Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4e57fc60-8c37-4aee-9e40-4c453b619a91/10s/master.m3u8?fastly_token=Njg1YzM5OWNfZWI4MzFjNjdmOTViODYyYjRiYjkzNDg2NmYyNDE5ZWEzNTQ1OTgzZGJmZDQ3M2Q0MzJjOGI2MWRiMTY1YzFmZg%3D%3D"
           ]
         },
         {
