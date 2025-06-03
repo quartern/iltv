@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת כאן חדשות | 02.06.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-06-02 20:24:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_cuyd497m/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_cuyd497m/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_cuyd497m",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/914456",
-          "Date": "2025-06-02 20:24:06"
-        },
-        {
           "Title": "חדשות השבת | 31.05.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-05-31 19:22:39",
@@ -535,18 +523,6 @@
           "StreamerId": "1_wjthmehh",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/913384",
           "Date": "2025-05-29 19:52:25"
-        },
-        {
-          "Title": "העולם היום | 29.05.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-05-29 15:39:04",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yz3wahbs/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yz3wahbs/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_yz3wahbs",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/913365",
-          "Date": "2025-05-29 15:39:04"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 5 - החגיגה נגמרת",
@@ -2140,19 +2116,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: האלימות המשתוללת בחג [live]",
+          "Title": "נסלי ויואב: האלימות המשתוללת בחג",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21020659/21020659_noAdds/21020659_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21020659/21020659_noAdds/21020659_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a349fa8699717910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-a349fa869971791026.htm",
           "ShortDescriptionLine2": "The rampant violence on the holiday, and also: first alliance in Barry",
           "Date": "2025-06-03T09:33:01+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: the raging violence on the holiday [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: the raging violence on the holiday"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: מאבק משפחות החטופים",
