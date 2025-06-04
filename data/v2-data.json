@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 04.06.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-06-04 21:33:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ja70iv86/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ja70iv86/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ja70iv86",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/915162",
+          "Date": "2025-06-04 21:33:56"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 04.06.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-06-04 19:45:56",
@@ -523,18 +535,6 @@
           "StreamerId": "1_zjdg7x20",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/915151",
           "Date": "2025-06-04 14:41:21"
-        },
-        {
-          "Title": "חדשות הלילה | 03.06.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-06-03 20:49:21",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_8l1qb6d7/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_8l1qb6d7/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_8l1qb6d7",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/914776",
-          "Date": "2025-06-03 20:49:21"
         },
         {
           "Title": "חדשות השבת | 31.05.25",
@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בוש עונה 5 | פרק 9 - להרחיק את הלילה",
+          "ShortDescriptionLine1": "Bush Season 5 | Chapter 9 - keep away the night",
+          "ShortDescriptionLine2": "2025-06-04 21:17:49",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qmzujvs8/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qmzujvs8/a.m3u8"
+          ],
+          "StreamerId": "1_qmzujvs8",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-833724/%D7%A2%D7%95%D7%A0%D7%94-5/874921",
+          "Date": "2025-06-04 21:17:49"
+        },
+        {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
           "ShortDescriptionLine1": "Zmanmet Season 9 | Episode 6 - A hacked space",
           "ShortDescriptionLine2": "2025-06-04 18:27:53",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_c9lmrdy6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-904543/s1/904697",
           "Date": "2025-05-29 19:50:42"
-        },
-        {
-          "Title": "איתי רייכר | אין דבר",
-          "ShortDescriptionLine1": "Itai Reicher | There's nothing",
-          "ShortDescriptionLine2": "2025-05-29 19:50:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hdzntatn/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hdzntatn/a.m3u8"
-          ],
-          "StreamerId": "1_hdzntatn",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-904543/s1/904699",
-          "Date": "2025-05-29 19:50:40"
         }
       ]
     },
@@ -2140,6 +2140,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "בזמן שעבדתם: תעשיית הדיפנס טק [live]",
+          "Poster": "https://img.mako.co.il/2025/06/04/Bizman_Shavadetem_040625_VOD_01_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e50c1c0356537910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-podcasts/while_you_work-s1/VOD-e50c1c035653791026.htm",
+          "ShortDescriptionLine2": "Diphns -Tech is the industry you must know",
+          "Date": "2025-06-05T00:30:41+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "While you worked: the Defense Tech industry [live]"
+        },
+        {
           "Title": "נסלי ויואב: מאבק המשפחות",
           "Poster": "https://img.mako.co.il/2025/06/04/Nesli_Yoav_040625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2292,20 +2307,6 @@
           "Date": "2025-05-16T21:56:55+03:00",
           "Live": false,
           "ShortDescriptionLine1": "What really happened there?: Erez Tal with Lucy Job"
-        },
-        {
-          "Title": "בזמן שעבדתם: וורן באפט מפנה את כיסאו",
-          "Poster": "https://img.mako.co.il/2025/05/14/Bizman_Sheavadetem140525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem140525_VOD_pls098/Bizman_Sheavadetem140525_VOD_pls098_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem140525_VOD_pls098/Bizman_Sheavadetem140525_VOD_pls098_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e364fa95c7dc6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-e364fa95c7dc691027.htm",
-          "ShortDescriptionLine2": "The legendary investor Warren Buffett announces his retirement",
-          "Date": "2025-05-15T00:16:27+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "While you worked: Warren Buffett turns his chair"
         },
         {
           "Title": "הראש: פרק סיום העונה",
