@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 05.06.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-06-05 21:10:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mb1loto5/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mb1loto5/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mb1loto5",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/915689",
+          "Date": "2025-06-05 21:10:56"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 05.06.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-06-05 19:50:58",
@@ -511,18 +523,6 @@
           "StreamerId": "1_ga0e9ca8",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/915682",
           "Date": "2025-06-05 14:28:35"
-        },
-        {
-          "Title": "חדשות הלילה | 04.06.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-06-04 21:33:56",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ja70iv86/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ja70iv86/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ja70iv86",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/915162",
-          "Date": "2025-06-04 21:33:56"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
@@ -2152,19 +2152,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוהרים לבחירות? [live]",
-          "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: דוהרים לבחירות?",
+          "Poster": "https://img.mako.co.il/2025/06/05/Avri_Sherki_050625_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21020716/21020716_noAdds/21020716_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21020716/21020716_noAdds/21020716_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "51f48e42bae37910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-51f48e42bae3791027.htm",
           "ShortDescriptionLine2": "Gloving for elections? And also: bereaved parents speak",
           "Date": "2025-06-05T23:03:12+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Do you gallop for elections? [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Do you gallop for elections?"
         },
         {
           "Title": "נסלי ויואב: המבצע הצבאי בח'אן יונס",
