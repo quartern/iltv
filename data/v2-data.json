@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
           "StreamerId": "1_qosupjnp",
           "Date": "2025-06-06 21:34:03",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/l86xr-904613399/",
-          "ShortDescriptionLine1": "Osim Shishi",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/606/season/1/3845976/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-06-06 21:34:03",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qosupjnp/flavorIds/1_yvk4spt0,1_28ez3irv,1_12664u20,1_nmnqe07z,1_pxxw88cv,1_n66p7efy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1981,19 +1981,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 06.06.25 [live]",
+          "Title": "אולפן שישי: 06.06.25",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21071848/21071848_noAdds/21071848_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21071848/21071848_noAdds/21071848_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7f67031d74127910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/425eb471cdb17910/VOD-7f67031d7412791027.htm",
           "ShortDescriptionLine2": "Eli Sharabi in an interview",
           "Date": "2025-06-06T19:54:49+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 06.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 06.06.25"
         },
         {
           "Title": "המהדורה המרכזית: 05.06.25",
@@ -2140,6 +2139,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם חיים כהן [live]",
+          "Poster": "https://img.mako.co.il/2025/04/23/WhatHappened_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ffb6efcf69537910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/what_really_happened-s1/VOD-ffb6efcf6953791026.htm",
+          "ShortDescriptionLine2": "Haim Cohen reveals about the difficult moments in his life",
+          "Date": "2025-06-06T21:55:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Haim Cohen [live]"
+        },
         {
           "Title": "אופירה ולוינסון: יאיר גולן",
           "Poster": "https://img.mako.co.il/2025/06/06/Ofira_Levinson_060625_VOD_autoOrient_I_reduced.jpg",
@@ -2293,20 +2307,6 @@
           "Date": "2025-05-23T00:00:57+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: Google's artificial intelligence conference"
-        },
-        {
-          "Title": "מה באמת קרה שם?: ארז טל עם לוסי איוב",
-          "Poster": "https://img.mako.co.il/2025/05/16/Ma_Beemet_Kara_Sham_160525_2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_160525_VOD_ikj987/Ma_Beemet_Kara_Sham_160525_VOD_ikj987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_160525_VOD_ikj987/Ma_Beemet_Kara_Sham_160525_VOD_ikj987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7e8c7231333d6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-7e8c7231333d691027.htm",
-          "ShortDescriptionLine2": "Come and first know the real Lucy Job",
-          "Date": "2025-05-16T21:56:55+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Lucy Job"
         },
         {
           "Title": "הראש: פרק סיום העונה",
