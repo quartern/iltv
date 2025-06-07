@@ -1013,6 +1013,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אני, אחימאיר",
+          "ShortDescriptionLine1": "I, Ahimair",
+          "ShortDescriptionLine2": "2025-06-07 20:24:09",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_oqt6f6ey/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_oqt6f6ey/a.m3u8"
+          ],
+          "StreamerId": "1_oqt6f6ey",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-916826/916841",
+          "Date": "2025-06-07 20:24:09"
+        },
+        {
           "Title": "פרויד. האאוטסיידר",
           "ShortDescriptionLine1": "Freud. The outsider",
           "ShortDescriptionLine2": "2025-06-07 19:09:55",
@@ -1239,18 +1251,6 @@
           "StreamerId": "1_rx0h1okp",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-908647/908648",
           "Date": "2025-06-01 18:03:30"
-        },
-        {
-          "Title": "בקצה המזח",
-          "ShortDescriptionLine1": "At the edge of the pier",
-          "ShortDescriptionLine2": "2025-05-31 19:15:46",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_q9qsnzc6/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_q9qsnzc6/a.m3u8"
-          ],
-          "StreamerId": "1_q9qsnzc6",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-908633/908634",
-          "Date": "2025-05-31 19:15:46"
         }
       ]
     },
@@ -2140,6 +2140,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7226e0490a537910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-7226e0490a53791026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-06-07T23:11:55+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "מה באמת קרה שם?: ארז טל עם חיים כהן",
           "Poster": "https://img.mako.co.il/2025/06/06/Ma_Beemet_Kara_Sham_07_060625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2222,20 +2237,6 @@
           "Date": "2025-06-05T00:30:41+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: the Defense Tech industry"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_020625_VOD_pls0987/Avri_Sherki_020625_VOD_pls0987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_020625_VOD_pls0987/Avri_Sherki_020625_VOD_pls0987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "068cfa8699717910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-068cfa869971791026.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-06-04T00:10:24+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "מה באמת קרה שם?: ארז טל עם דן שילון",
