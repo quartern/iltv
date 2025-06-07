@@ -1981,6 +1981,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "פגוש את העיתונות: 07.06.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "aa9e26d62b127910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/e13c8acf93c17910/VOD-aa9e26d62b12791026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-06-07T18:00:20+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the Press: 07.06.25 [live]"
+        },
+        {
           "Title": "שבת בחמש: 07.06.25",
           "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2119,20 +2134,6 @@
           "Date": "2025-05-31T07:03:21+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Young Edition: 31.05.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 24.05.25",
-          "Poster": "https://img.mako.co.il/2025/05/24/Pgosh_240525_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/May/Pgosh_240525_VOD_g755/Pgosh_240525_VOD_g755_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Pgosh/2025/May/Pgosh_240525_VOD_g755/Pgosh_240525_VOD_g755_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d20bce09de7f6910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/meet_the_press-2025/c95845dea8586910/VOD-d20bce09de7f691026.htm",
-          "ShortDescriptionLine2": "The appointment of Zini to the GSS may come to fruition?",
-          "Date": "",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 24.05.25"
         }
       ]
     },
