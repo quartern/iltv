@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 09.06.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_kyczh2l5",
+          "Date": "2025-06-09 19:14:22",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/cuaev-904617390/",
+          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine2": "2025-06-09 19:14:22",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_kyczh2l5/flavorIds/1_b72x79w9,1_ibroy8m5,1_1try4muu,1_cdi08iyc,1_jk81dr32,1_oidoqs17/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 09.06.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_zydiz48g",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-06-08 19:35:23",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_fvaz5iji/flavorIds/1_iyt5djip,1_8oyi3j7w,1_26v64m5h,1_mg5t3g2y,1_6gk9khtd,1_3bjucjj4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 08.06.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_tho4vopu",
-          "Date": "2025-06-08 18:31:25",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/3847673/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-06-08 18:31:25",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_tho4vopu/flavorIds/1_xnqsgy6m,1_w5djc47o,1_hyi3l7tv,1_xmg2cmqf,1_w8ak3go8,1_6tx5p8xi/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1981,19 +1981,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 09.06.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 09.06.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "e389eceee4357910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/969eb471cdb17910/VOD-e389eceee435791027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-06-09T18:58:39+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early Edition: 09.06.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 09.06.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21020808/21020808_noAdds/21020808_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21020808/21020808_noAdds/21020808_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "2b35efecc3357910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/b91d8acf93c17910/VOD-2b35efecc335791027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-06-09T17:55:33+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.06.25"
         },
         {
           "Title": "חמש עם רפי רשף: 09.06.25",
@@ -2036,20 +2050,6 @@
           "Date": "2025-06-08T19:53:42+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 08.06.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 08.06.25",
-          "Poster": "https://img.mako.co.il/2025/06/08/Mahadura_Mukdemet_080625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/June/Mahadura_Mukdemet_080625_VOD_chgf7v/Mahadura_Mukdemet_080625_VOD_chgf7v_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Mukdemet/2025/June/Mahadura_Mukdemet_080625_VOD_chgf7v/Mahadura_Mukdemet_080625_VOD_chgf7v_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0028d4b1e2e47910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/economy-2025/969eb471cdb17910/VOD-0028d4b1e2e4791026.htm",
-          "ShortDescriptionLine2": "4 funerals in one day",
-          "Date": "2025-06-08T18:59:23+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 08.06.25"
         },
         {
           "Title": "חדשות סוף השבוע: 07.06.25",
@@ -2454,6 +2454,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 09.06.25",
+          "StreamerId": "6374055154112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d5eb1bf6-d536-4e14-821d-f649fdac7217/ed8287f2-736f-44d9-9e68-3c3cfaeee3ac/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374055154112",
+          "Date": "2025-06-09T16:08:05Z",
+          "ShortDescriptionLine1": "Gilboa Index 09.06.25",
+          "ShortDescriptionLine2": "2025-06-09T16:08:05Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d5eb1bf6-d536-4e14-821d-f649fdac7217/10s/master.m3u8?fastly_token=Njg2YzA5ZDhfMThmYzA3Y2QzODI3MWQ5OTk0ZmUyZTYxYjJhYWEyYTE2NmM3YmE1MTRhODI1NWZhNDYxYzNiM2E5YmJlYWVlZA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 09.06.25",
           "StreamerId": "6374055505112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cee02cdb-0683-4006-ab8b-5e641f981e4c/fe70a972-6e74-44c5-a6fc-d26ebda3dc74/320x180/match/image.jpg",
@@ -2715,18 +2727,6 @@
           "ShortDescriptionLine2": "2025-06-05T19:12:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4e40cdbb-a01c-4fc5-8117-812325bd032f/10s/master.m3u8?fastly_token=Njg2NmVlNDVfNTUzMDZhOTA4NDU2YzcxN2UwM2RiNjE5ZjgzMTQ1OTgwMmI1MjRiMDNjMjgwNWIxYzk1MjlmN2Q5OTUzYmM3YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 05.06.25",
-          "StreamerId": "6373911777112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/99e69239-f5c2-4baa-ad39-f1b4c1d24aa3/06cec4b3-9449-4992-8e9b-0cd75551fabe/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6373911777112",
-          "Date": "2025-06-05T16:15:00Z",
-          "ShortDescriptionLine1": "Gilboa Index 05.06.25",
-          "ShortDescriptionLine2": "2025-06-05T16:15:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/99e69239-f5c2-4baa-ad39-f1b4c1d24aa3/10s/master.m3u8?fastly_token=Njg2NmM3MWNfYzk3MDViZmRlNWQzMDFlOWJiZTBhMzQyMzhkMWQ1ZGMxZGNhMzk2MjY3M2FkNTc1Mzg5YTNkYzgxYjcwMjFlMw%3D%3D"
           ]
         },
         {
