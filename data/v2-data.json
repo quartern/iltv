@@ -2140,8 +2140,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "828e024fa5777910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-828e024fa577791026.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-06-17T07:13:44+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/06/17/Avri_Sherki_160625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21020998/21020998_noAdds/21020998_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21020998/21020998_noAdds/21020998_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2166,20 +2181,6 @@
           "Date": "2025-06-16T09:30:04+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: 5 Thenas who were injured in the attack"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: 8 הרוגים במטח למרכז ולצפון",
-          "Poster": "https://img.mako.co.il/2025/06/16/Hadshot_Haboker_160625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_160625_VOD_xrt56/Hadshot_Haboker_160625_VOD_xrt56_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_160625_VOD_xrt56/Hadshot_Haboker_160625_VOD_xrt56_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9c16783013277910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-9c1678301327791026.htm",
-          "ShortDescriptionLine2": "The heavy barrier to the center and the north, and what do you get property tax?",
-          "Date": "2025-06-16T07:00:44+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Ruskin: 8 killed in the center and north"
         },
         {
           "Title": "דוח מצב עם עינב וירון: עדכונים מהקבינט",
