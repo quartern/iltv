@@ -2140,8 +2140,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4d72b5f6c9c77910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-4d72b5f6c9c7791027.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-06-18T07:00:10+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/06/18/Avri_Sherki_170625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21021024/21021024_noAdds/21021024_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21021024/21021024_noAdds/21021024_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2166,20 +2181,6 @@
           "Date": "2025-06-17T09:35:12+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: Reports from the Victims are"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: גלי התקיפות באיראן",
-          "Poster": "https://img.mako.co.il/2025/06/17/Hadshot_Haboker_170625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_170625_VOD_xrt56/Hadshot_Haboker_170625_VOD_xrt56_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_170625_VOD_xrt56/Hadshot_Haboker_170625_VOD_xrt56_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "828e024fa5777910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-828e024fa577791026.htm",
-          "ShortDescriptionLine2": "Iranian attack waves, and also: the new evacuees",
-          "Date": "2025-06-17T07:13:44+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Iranian attack waves"
         },
         {
           "Title": "דוח מצב עם עינב וירון: עדכונים מהקבינט",
