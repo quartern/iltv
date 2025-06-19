@@ -727,7 +727,7 @@
         },
         {
           "Title": "The news company stream (aka N12) - Slides instead of ads",
-          "ShortDescriptionLine1": "Live only (see ch12)",
+          "ShortDescriptionLine1": "N12 (just news studio, see ch12) - Slides instead of ads",
           "ShortDescriptionLine2": "See https://www.n12.co.il/",
           "Poster": "news_co.png",
           "StreamUrls": [
@@ -735,18 +735,6 @@
           ],
           "StreamFormat": "hls",
           "Live": true
-        },
-        {
-          "Title": "The news company stream (aka N12) - Audio only",
-          "ShortDescriptionLine1": "Live only (see ch12)",
-          "ShortDescriptionLine2": "See https://www.n12.co.il/",
-          "Poster": "news_co.png",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_b_audio/index.m3u8"
-          ],
-          "StreamFormat": "hls",
-          "Live": true,
-          "Audio": true
         },
         {
           "Title": "Walla News",
