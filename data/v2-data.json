@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 19.06.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-06-19 22:01:51",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0hij25o8/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_0hij25o8/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_0hij25o8",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/922759",
+          "Date": "2025-06-19 22:01:51"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 19.06.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-06-19 20:23:21",
@@ -475,18 +487,6 @@
           "StreamerId": "1_lr15rxu0",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/922752",
           "Date": "2025-06-19 20:23:21"
-        },
-        {
-          "Title": "חדשות הלילה | 18.06.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-06-19 07:02:31",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kpaggo21/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_kpaggo21/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_kpaggo21",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/922525",
-          "Date": "2025-06-19 07:02:31"
         },
         {
           "Title": "חדשות השבת | 14.06.25",
@@ -1907,7 +1907,7 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1731622640/uploads/2024/904338254.jpg",
           "StreamerId": "1_qs5859ld",
           "Date": "2025-06-20 00:31:50",
-          "EpisodeUrl": "https://13tv.co.il/item/entertainment/hatzinor/season-01/episodes/inoxn-904633824/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/275/season/1/3868800/",
           "ShortDescriptionLine1": "Tube 19.06.2025 - The full plan",
           "ShortDescriptionLine2": "2025-06-20 00:31:50",
           "StreamUrls": [
@@ -2151,19 +2151,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: חברת הקבינט, גילה גמליאל [live]",
+          "Title": "דוח מצב עם עינב וירון: חברת הקבינט, גילה גמליאל",
           "Poster": "https://img.mako.co.il/2025/06/19/Doh_Matzav_190625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21021081/21021081_noAdds/21021081_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21021081/21021081_noAdds/21021081_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "38e452cf8f187910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-38e452cf8f18791026.htm",
           "ShortDescriptionLine2": "Gila Gamliel's surprising connection with the Iranian leader",
           "Date": "2025-06-19T22:48:47+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status Report with Einav and Yaron: Cabinet Company, Gilat [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status Report with Einav and Yaron: Cabinet Company, Gilat"
         },
         {
           "Title": "ארץ נהדרת: ארץ נלחמת באיראן",
