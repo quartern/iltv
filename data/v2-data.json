@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "הישראלים חוזרים: המרחב האווירי של ישראל נפתח מחדש",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-06-22 19:18:56",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_yg97whd3/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yg97whd3/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_yg97whd3",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/923909",
-          "Date": "2025-06-22 19:18:56"
-        },
-        {
           "Title": "מהצד השני עם גיא זהר | 22.06.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-06-22 15:57:49",
@@ -1980,19 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 22.06.25 [live]",
+          "Title": "המהדורה המרכזית: 22.06.25",
           "Poster": "https://img.mako.co.il/2025/06/22/Mahadura_Merkazit_220625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21021141/21021141_noAdds/21021141_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21021141/21021141_noAdds/21021141_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "865423726e597910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/84ceb471cdb17910/VOD-865423726e59791026.htm",
           "ShortDescriptionLine2": "The historic attack in Iran",
           "Date": "2025-06-22T19:53:04+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 22.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 22.06.25"
         },
         {
           "Title": "המהדורה המוקדמת: 22.06.25",
@@ -2140,6 +2127,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "eb1615e3d5697910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-eb1615e3d569791026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-06-22T23:05:30+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: אמריקה תוקפת באיראן",
           "Poster": "https://img.mako.co.il/2025/06/22/Nesli_Yoav_220625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2166,20 +2167,6 @@
           "Date": "2025-06-22T07:00:29+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: American assault in Iran"
-        },
-        {
-          "Title": "אברי ושרקי: איתי אנגל",
-          "Poster": "https://img.mako.co.il/2025/06/22/Avri_Sherki_220625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_210625_VOD_jhui9/Avri_Sherki_210625_VOD_jhui9_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_210625_VOD_jhui9/Avri_Sherki_210625_VOD_jhui9_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7d92a2796c687910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-7d92a2796c68791027.htm",
-          "ShortDescriptionLine2": "And also: Bnei Sabati, Doron Holy, Sarah Set",
-          "Date": "2025-06-21T23:11:24+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: With me Angel"
         },
         {
           "Title": "אופירה ולוינסון: שבוע למלחמה עם איראן",
@@ -2453,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 22.06.25",
+          "StreamerId": "6374715879112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9ca950b8-b73a-4bc7-ba3c-7768443fca4c/faa2f7ce-0245-45fa-9672-6b158aa5a662/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374715879112",
+          "Date": "2025-06-22T20:12:48Z",
+          "ShortDescriptionLine1": "Israelis 22.06.25",
+          "ShortDescriptionLine2": "2025-06-22T20:12:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9ca950b8-b73a-4bc7-ba3c-7768443fca4c/10s/master.m3u8?fastly_token=Njg3ZDYzNDRfNTM2N2Y5YTU4ZjBhMjE5ZWEzMGE4ZmU0MzdhYjNkMzFkM2U2ODljOTYxNGVkZTI2NDlmNjE5ZGNlMmI5NTM2Nw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 22.06.25",
           "StreamerId": "6374714819112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b908b9f0-ee50-4ceb-a79f-c03fbadafe7d/1dcf6c7f-58ec-4766-a9b8-325839a79bed/320x180/match/image.jpg",
@@ -2654,18 +2653,6 @@
           "ShortDescriptionLine2": "2025-06-11T20:24:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/757514ad-6bcf-431f-a730-ffaced7a046d/10s/master.m3u8?fastly_token=Njg2ZWRlN2JfOTZlYTgzNTY5OTQ3Yzc2YjQyMjRiZjAyNWRjNzU2YmNjYzJkNDMzNjlhZTgzYTMyYWQxOGJlOWRjYzcwZTNjNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 11.06.25",
-          "StreamerId": "6374146176112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e8a8c5b2-e3a0-4e8b-b56d-b0077d96df2d/49f58a4a-8015-4dbd-885f-bb290eafd71c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374146176112",
-          "Date": "2025-06-11T19:51:09Z",
-          "ShortDescriptionLine1": "Israelis 11.06.25",
-          "ShortDescriptionLine2": "2025-06-11T19:51:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e8a8c5b2-e3a0-4e8b-b56d-b0077d96df2d/10s/master.m3u8?fastly_token=Njg2ZWU4OGRfZTlkMjBmZTg2OTIwZTAzZjZmMGM4MjE2M2RmYmU4YjAyZDVjMjRmNzM0M2EzYTIwMjlhMzQzOGMyYmI2OWQyOA%3D%3D"
           ]
         },
         {
