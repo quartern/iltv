@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
           "StreamerId": "1_xo7j2kd1",
           "Date": "2025-06-26 19:33:16",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/xcw1r-904642050/",
-          "ShortDescriptionLine1": "Six",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/700/season/1/3880604/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-06-26 19:33:16",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xo7j2kd1/flavorIds/1_tkkcvm00,1_3iz2t2nr,1_hwdgh3gg,1_ulcuz4aw,1_b0bpz0t2,1_3kdglrzi/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1992,18 +1992,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 26.06.25 [live]",
+          "Title": "המהדורה המוקדמת: 26.06.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21214267/21214267_noAdds/21214267_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21214267/21214267_noAdds/21214267_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "065ec780aeaa7910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/969eb471cdb17910/VOD-065ec780aeaa791026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-06-26T18:59:07+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 26.06.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 26.06.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 26.06.25",
@@ -2464,6 +2464,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 26.06.25",
+          "StreamerId": "6374901035112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f9b30636-60d8-48a3-bd81-e8885f4fd62a/3ee45e7c-5025-40fd-b0d2-846b828ca113/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374901035112",
+          "Date": "2025-06-26T16:53:04Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 26.06.25",
+          "ShortDescriptionLine2": "2025-06-26T16:53:04Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f9b30636-60d8-48a3-bd81-e8885f4fd62a/10s/master.m3u8?fastly_token=Njg4MjdkMzJfZWM2ZTg2ODk2MGM5YjgwOWNhNGIzMTU0ZWU3Y2U2OWU4ZjYwZDQwMGM0ZjcwMjZhNWZlOWIzOWM1ZWI4YTNkMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 26.06.25",
           "StreamerId": "6374897958112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e9af9ed3-8f78-40c7-aa7c-af3e3a0c6d28/d86ca832-41e6-41bc-abd2-7b114222ad64/320x180/match/image.jpg",
@@ -2605,18 +2617,6 @@
           "ShortDescriptionLine2": "2025-06-23T19:36:14Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cfa5c4dd-7799-4839-baf5-86d3b381f1bf/10s/master.m3u8?fastly_token=Njg3ZWFiNzVfZTEyZjcxMjVkYWM3NDEzYmVkMWQwMDdmNjZlODBlZTE5ZmQwNDdhNmI4Y2JkYTUxOGQ1MWEzYzM3NDI3MDU1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 23.06.25",
-          "StreamerId": "6374749355112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6b18c18c-e013-4a1a-b0cc-44f53a86f7ab/1e87c879-bfe6-498b-9910-76b08fbbf5d9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374749355112",
-          "Date": "2025-06-23T16:54:11Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 23.06.25",
-          "ShortDescriptionLine2": "2025-06-23T16:54:11Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6b18c18c-e013-4a1a-b0cc-44f53a86f7ab/10s/master.m3u8?fastly_token=Njg3ZTk1Y2JfYjFhZjBlOTJlYzNlYjgwMzZlZTJlYzUzNjhjYWU0NWZkYjdiYWY5MTAxZmMxZmE2ZWI0MDE2NjUwNGIxOTJkYQ%3D%3D"
           ]
         },
         {
