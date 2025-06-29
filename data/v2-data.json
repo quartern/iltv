@@ -1449,42 +1449,6 @@
           "Date": "2025-05-21 20:54:35"
         },
         {
-          "Title": "סינדרום עזה | פרק 1 - נקודת העיוורון",
-          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 1 - The Blind Point",
-          "ShortDescriptionLine2": "2025-05-21 20:37:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4tf45try/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4tf45try/a.m3u8"
-          ],
-          "StreamerId": "1_4tf45try",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838880",
-          "Date": "2025-05-21 20:37:28"
-        },
-        {
-          "Title": "סינדרום עזה | פרק 2 - ארץ אחת",
-          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 2 - one country",
-          "ShortDescriptionLine2": "2025-05-21 20:37:29",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_pfd2n8ut/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_pfd2n8ut/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_pfd2n8ut",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838881",
-          "Date": "2025-05-21 20:37:29"
-        },
-        {
-          "Title": "סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים",
-          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 3 - three countries for two peoples",
-          "ShortDescriptionLine2": "2025-05-21 20:37:29",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5735bfwo/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5735bfwo/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_5735bfwo",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838883",
-          "Date": "2025-05-21 20:37:29"
-        },
-        {
           "Title": "טהרן עונה 3 | פרק 1 - עולם רדיואקטיבי",
           "ShortDescriptionLine1": "Tehran Season 3 | Chapter 1 - Radioactive World",
           "ShortDescriptionLine2": "2025-06-17 14:28:35",
@@ -2151,8 +2115,22 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7f63c12a1eaa7910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-7f63c12a1eaa791026.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-06-29T07:10:03+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/06/29/Avri_sherki_280625_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21021302/21021302_noAdds/21021302_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21021302/21021302_noAdds/21021302_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2219,20 +2197,6 @@
           "Date": "2025-06-26T09:35:02+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: the battle of kidnapped families"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: המערכה מול איראן",
-          "Poster": "https://img.mako.co.il/2025/06/26/Hadshot_Haboker_260625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_260625_VOD_qw45hj/Hadshot_Haboker_260625_VOD_qw45hj_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/June/Hadshot_Haboker_260625_VOD_qw45hj/Hadshot_Haboker_260625_VOD_qw45hj_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d5a45442ba5a7910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-d5a45442ba5a791027.htm",
-          "ShortDescriptionLine2": "The campaign against Iran, and also: the battle of kidnapped families",
-          "Date": "2025-06-26T07:10:21+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Ruskin: The campaign against Iran"
         },
         {
           "Title": "ארץ נהדרת: ארץ נלחמת באיראן",
