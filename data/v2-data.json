@@ -486,8 +486,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_6k5dmmio",
           "Date": "2025-07-01 23:12:39",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/gekc9-904648763/",
-          "ShortDescriptionLine1": "The Main Edition",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/3890532/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-01 23:12:39",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6k5dmmio/flavorIds/1_n8ztycnn,1_gaw6psuk,1_8z3fmk3e,1_qca9x7g8,1_i40tl980,1_zqajeyva/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -498,8 +498,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_5utehvz5",
           "Date": "2025-07-01 23:11:13",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/r8ciu-904648760/",
-          "ShortDescriptionLine1": "Vote Zone",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/3890533/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-01 23:11:13",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5utehvz5/flavorIds/1_y5gzbxet,1_fg38uvem,1_en802epy,1_tzk4xs8h,1_3w4e5qfq,1_72ut2hws/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1149,16 +1149,40 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "מגרש הרוסים | פרק 4 - מתחת לחול",
-          "ShortDescriptionLine1": "Russian lot | Chapter 4 - below the sand",
-          "ShortDescriptionLine2": "2025-06-19 16:10:13",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_5l3ykfcl/width/400/vid_sec/5",
+          "Title": "סינדרום עזה | פרק 2 - ארץ אחת",
+          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 2 - one country",
+          "ShortDescriptionLine2": "2025-05-21 20:37:29",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_pfd2n8ut/width/400/vid_sec/5",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5l3ykfcl/a.m3u8"
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_pfd2n8ut/format/applehttp/protocol/https/desiredFileName.m3u8"
           ],
-          "StreamerId": "1_5l3ykfcl",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-829567/s1/840310",
-          "Date": "2025-06-19 16:10:13"
+          "StreamerId": "1_pfd2n8ut",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838881",
+          "Date": "2025-05-21 20:37:29"
+        },
+        {
+          "Title": "סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים",
+          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 3 - three countries for two peoples",
+          "ShortDescriptionLine2": "2025-05-21 20:37:29",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_5735bfwo/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5735bfwo/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_5735bfwo",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838883",
+          "Date": "2025-05-21 20:37:29"
+        },
+        {
+          "Title": "סיפורים מהכורסה 4 | פרק 4 - איזה יופי",
+          "ShortDescriptionLine1": "Stories from Shark 4 | Chapter 4 - What beauty",
+          "ShortDescriptionLine2": "2025-05-21 20:40:00",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_g6104jbj/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g6104jbj/a.m3u8"
+          ],
+          "StreamerId": "1_g6104jbj",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12955/s4/784350",
+          "Date": "2025-05-21 20:40:00"
         }
       ]
     },
@@ -1443,6 +1467,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ca6061f88a4c7910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-ca6061f88a4c791026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-07-01T23:56:57+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: המערכה מול איראן",
           "Poster": "https://img.mako.co.il/2025/07/01/Nesli_Yoav_010725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1469,20 +1507,6 @@
           "Date": "2025-07-01T07:10:40+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: fighting in Gaza"
-        },
-        {
-          "Title": "אברי ושרקי: רונן צור",
-          "Poster": "https://img.mako.co.il/2025/07/01/Avri_Sherki_300625_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_300625_VOD_lh89/Avri_Sherki_300625_VOD_lh89_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/June/Avri_Sherki_300625_VOD_lh89/Avri_Sherki_300625_VOD_lh89_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2fd96cab99fb7910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-2fd96cab99fb791027.htm",
-          "ShortDescriptionLine2": "And also: Sarah Hatzan, Roy Concol, Jackie Levy",
-          "Date": "2025-06-30T23:43:08+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Ronan Tzur"
         },
         {
           "Title": "מה באמת קרה שם?: ארז טל עם ירדנה ארזי",
