@@ -465,16 +465,16 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "חדשות הלילה | 03.07.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-07-04 07:35:36",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_07ypddqc/width/400/vid_sec/5",
+          "Title": "העולם היום | 03.07.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-07-03 15:18:55",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_8avljaa7/width/400/vid_sec/5",
           "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_07ypddqc/format/applehttp/protocol/https/desiredFileName.m3u8"
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_8avljaa7/format/applehttp/protocol/https/desiredFileName.m3u8"
           ],
-          "StreamerId": "1_07ypddqc",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/927692",
-          "Date": "2025-07-04 07:35:36"
+          "StreamerId": "1_8avljaa7",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/927683",
+          "Date": "2025-07-03 15:18:55"
         }
       ]
     },
@@ -1344,18 +1344,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 04.07.25 [live]",
+          "Title": "אולפן שישי: 04.07.25",
           "Poster": "https://img.mako.co.il/2025/07/04/Mahadura_Merkazit_040725_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21121561/21121561_noAdds/21121561_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21121561/21121561_noAdds/21121561_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "667e293cd24d7910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/2ccd2b4a725c7910/VOD-667e293cd24d791027.htm",
           "ShortDescriptionLine2": "The criteria for kidnapping to be released in a transaction",
           "Date": "2025-07-04T19:55:29+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 04.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 04.07.25"
         },
         {
           "Title": "המהדורה המרכזית: 03.07.25",
@@ -1816,6 +1816,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "קבינט שישי חלק ב' 04.07.25",
+          "StreamerId": "6375260017112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7ba4fcad-eb1b-4361-80ef-458fe9f2e66a/c9737673-2820-4b0e-809e-a59686beff14/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375260017112",
+          "Date": "2025-07-04T19:07:24Z",
+          "ShortDescriptionLine1": "Sixth Cabinet Part II 04.07.25",
+          "ShortDescriptionLine2": "2025-07-04T19:07:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7ba4fcad-eb1b-4361-80ef-458fe9f2e66a/10s/master.m3u8?fastly_token=Njg4ZDI1NzZfMDMzMmZkY2M5MWY4MmM3NTVjZTg0YTNkOWZlOTc3ZmE1OGQ4YzQwNjg3NjZjZTk1NGUzMDQwNmFkNzdjYjliMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "קבינט שישי חלק א' 04.07.25",
+          "StreamerId": "6375261099112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/53173573-f2a0-44f6-8d3a-a4c348297600/6ba43fa4-1387-422f-89c2-948db5b2c1f9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375261099112",
+          "Date": "2025-07-04T19:06:43Z",
+          "ShortDescriptionLine1": "Part Friday Cabinet A. 04.07.25",
+          "ShortDescriptionLine2": "2025-07-04T19:06:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/53173573-f2a0-44f6-8d3a-a4c348297600/10s/master.m3u8?fastly_token=Njg4ZDJiNjlfOWVmYzc0ZTE4NWMzNDgzNDBiZjFjY2RjOTk3ODU2OGVhOWQyNTI3YjRlYzg5YWIyNDQ4ZGRkNWFmNGRlZTdiZg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 04.07.25",
           "StreamerId": "6375254831112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/167ac4d3-b09b-455f-8a60-a843428007b4/b79d7142-7ace-4b3b-9135-a5d73d2d6efc/320x180/match/image.jpg",
@@ -2137,30 +2161,6 @@
           "ShortDescriptionLine2": "2025-06-28T16:14:42Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1b0b0be7-7aa5-4bf4-97a0-ae1a303b8f7b/10s/master.m3u8?fastly_token=Njg4NTI0ZTdfOTVlMmU3N2IyODdiZTBlNjYzMzYyZDIzNTYzNGEwNjVmNWJjODQ4MjBlOGQ3NWU2YzczZWViY2ZhY2M5NzA2ZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי חלק ב' 27.06.25",
-          "StreamerId": "6374960816112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3e3dd05-910b-4c74-832b-3a89e25e50fb/645d743c-9073-47d1-8347-80810fd0d1f1/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374960816112",
-          "Date": "2025-06-27T19:06:09Z",
-          "ShortDescriptionLine1": "Sixth Cabinet Part II 27.06.25",
-          "ShortDescriptionLine2": "2025-06-27T19:06:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3e3dd05-910b-4c74-832b-3a89e25e50fb/10s/master.m3u8?fastly_token=Njg4M2U4YmVfOTYzMjViMTY2OGE5OGM0ODgyMDJjYmYwN2UyZmNkODg4ODNiYWUyNWQwODBkNjliYTg4NzgxMzg3MzYyODE5YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי חלק א' 27.06.25",
-          "StreamerId": "6374963163112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/73cc0f0e-fc90-4777-878b-8c0484a19900/9f21e64e-7872-4f91-97dd-50b46fc113b9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6374963163112",
-          "Date": "2025-06-27T19:05:41Z",
-          "ShortDescriptionLine1": "Sixth Cabinet Part I. 27.06.25",
-          "ShortDescriptionLine2": "2025-06-27T19:05:41Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/73cc0f0e-fc90-4777-878b-8c0484a19900/10s/master.m3u8?fastly_token=Njg4M2YyZjRfYjZhNTIzNjQ3MDJiMGRiZWQ1MjBkNzUzMzUyYWE4ZGNhYjgwMTQ1MGFmNTRhNDQyZDk3NzZlZTMwYTc0MWY4ZA%3D%3D"
           ]
         },
         {
