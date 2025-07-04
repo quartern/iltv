@@ -494,12 +494,24 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "זמן שישי 04.07.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1704450783/uploads/2024/903879561.jpg",
+          "StreamerId": "1_rwfjlo5v",
+          "Date": "2025-07-04 22:50:27",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/friday-time/episodes/v2a26-904653714/",
+          "ShortDescriptionLine1": "Friday Time",
+          "ShortDescriptionLine2": "2025-07-04 22:50:27",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rwfjlo5v/flavorIds/1_ag7gestl,1_0qgico4x,1_deuw2ycd,1_kabqaxnz,1_4ndrclaq,1_slb31fam/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "עושים שישי עם אריק וייס 04.07.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
           "StreamerId": "1_e0to0z6b",
           "Date": "2025-07-04 22:30:36",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/qwjyg-904653713/",
-          "ShortDescriptionLine1": "Osim Shishi",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/606/season/1/3896397/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-04 22:30:36",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_e0to0z6b/flavorIds/1_v0slvvem,1_2bhcn5xc,1_uxpy2w9n,1_qk0ugmh9,1_erk0tkh0,1_z6c6qt24/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -611,18 +623,6 @@
           "ShortDescriptionLine2": "2025-06-28 20:53:31",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5q3ch17b/flavorIds/1_m30y9iwv,1_tattonm3,1_w703b6l7,1_5w26dewi,1_1i1hwjna,1_dzj0kor0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "זמן שישי 27.06.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1704450783/uploads/2024/903879561.jpg",
-          "StreamerId": "1_i1m2ejgr",
-          "Date": "2025-06-27 22:47:20",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/582/season/1/3881878/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-06-27 22:47:20",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_i1m2ejgr/flavorIds/1_p1kdf7tt,1_f896oe07,1_u19hu48z,1_lz1c0b4r,1_oum7aey6,1_logo7kp2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1673,18 +1673,18 @@
           "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav"
         },
         {
-          "Title": "מה באמת קרה שם?: ארז טל עם אורנה בנאי [live]",
-          "Poster": "https://img.mako.co.il/2025/04/23/WhatHappened_x5_autoOrient_I_reduced.jpg",
+          "Title": "מה באמת קרה שם?: ארז טל עם אורנה בנאי",
+          "Poster": "https://img.mako.co.il/2025/07/04/Ma_Beemet_Kara_Sham_09_040725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_09_040725_VOD_db456/Ma_Beemet_Kara_Sham_09_040725_VOD_db456_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_09_040725_VOD_db456/Ma_Beemet_Kara_Sham_09_040725_VOD_db456_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "db6386bfc4bc7910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/what_really_happened-s1/VOD-db6386bfc4bc791027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-db6386bfc4bc791027.htm",
           "ShortDescriptionLine2": "For the first time, Erez and Orna dare talk about everything",
           "Date": "2025-07-04T21:57:27+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Orna Banai [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Orna Banai"
         },
         {
           "Title": "אופירה ולוינסון: השר מיקי זוהר",
