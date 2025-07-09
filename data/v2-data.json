@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 09.07.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-07-09 21:27:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4yvi6tqk/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4yvi6tqk/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_4yvi6tqk",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/929644",
+          "Date": "2025-07-09 21:27:24"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 09.07.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-07-09 19:56:26",
@@ -511,18 +523,6 @@
           "StreamerId": "1_iakfp6j6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/929635",
           "Date": "2025-07-09 14:18:35"
-        },
-        {
-          "Title": "חדשות הלילה | 08.07.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-07-09 07:36:18",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_eqv66oah/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_eqv66oah/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_eqv66oah",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/929307",
-          "Date": "2025-07-09 07:36:18"
         },
         {
           "Title": "חדשות השבת | 05.07.25",
@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_gbd546x1",
           "Date": "2025-07-09 23:46:37",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/dwgg6-904661470/",
-          "ShortDescriptionLine1": "The Main Edition",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/3907804/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-09 23:46:37",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gbd546x1/flavorIds/1_zciqpkib,1_49ykig1v,1_9vl9nljg,1_67etwu57,1_7xj1onsm,1_g98olm2r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2139,6 +2139,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "בזמן שעבדתם: נבחרת מהנדסי־העל של צוקרברג [live]",
+          "Poster": "https://img.mako.co.il/2025/07/10/Bizman_Shavadetem_090725_VOD__autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "55974c94139e7910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-podcasts/while_you_work-s1/VOD-55974c94139e791026.htm",
+          "ShortDescriptionLine2": "What does Zuckerberg's procurement campaign look like?",
+          "Date": "2025-07-10T00:25:40+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "While you worked: Zuckerberg's super engineer team [live]"
+        },
+        {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
           "Poster": "https://img.mako.co.il/2025/07/09/Nesli_Yoav_090725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2291,20 +2305,6 @@
           "Date": "2025-06-06T21:55:16+03:00",
           "Live": false,
           "ShortDescriptionLine1": "What really happened there?: Erez Tal with Haim Cohen"
-        },
-        {
-          "Title": "בזמן שעבדתם: תעשיית הדיפנס טק",
-          "Poster": "https://img.mako.co.il/2025/06/04/Bizman_Shavadetem_040625_VOD_01_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Shavadetem_040625_VOD_hbj978/Bizman_Shavadetem_040625_VOD_hbj978_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Shavadetem_040625_VOD_hbj978/Bizman_Shavadetem_040625_VOD_hbj978_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e50c1c0356537910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-e50c1c035653791026.htm",
-          "ShortDescriptionLine2": "Diphns -Tech is the industry you must know",
-          "Date": "2025-06-05T00:30:41+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "While you worked: the Defense Tech industry"
         },
         {
           "Title": "עובדה: עכשיו אורי",
