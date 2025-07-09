@@ -1024,6 +1024,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הזירה עונה 2 | פרק 4",
+          "ShortDescriptionLine1": "The scene season 2 | Chapter 4",
+          "ShortDescriptionLine2": "2025-07-09 18:28:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h7ttjd5p/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h7ttjd5p/a.m3u8"
+          ],
+          "StreamerId": "1_h7ttjd5p",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s2/863506",
+          "Date": "2025-07-09 18:28:23"
+        },
+        {
           "Title": "הזירה עונה 2 | פרק 8",
           "ShortDescriptionLine1": "The scene season 2 | Chapter 8",
           "ShortDescriptionLine2": "2025-07-09 12:00:10",
@@ -1250,18 +1262,6 @@
           "StreamerId": "1_5ovgfs6n",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841987",
           "Date": "2025-07-05 18:26:51"
-        },
-        {
-          "Title": "חוגגים שבוע הספר עם מנדי ביתאן",
-          "ShortDescriptionLine1": "Celebrate a book week with Mandy Betan",
-          "ShortDescriptionLine2": "2025-07-04 20:01:59",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_mtysgxv8/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mtysgxv8/a.m3u8"
-          ],
-          "StreamerId": "1_mtysgxv8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-700467/s1/928027",
-          "Date": "2025-07-04 20:01:59"
         }
       ]
     },
@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 09.07.25 [live]",
+          "Title": "המהדורה המרכזית: 09.07.25",
           "Poster": "https://img.mako.co.il/2025/07/09/Mahadura_Merkazit_090725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21121715/21121715_noAdds/21121715_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21121715/21121715_noAdds/21121715_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "eb0e65811fde7910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-eb0e65811fde791027.htm",
           "ShortDescriptionLine2": "Chasifa (Exposure): The secret meeting in the White House",
           "Date": "2025-07-09T19:54:54+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 09.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 09.07.25"
         },
         {
           "Title": "המהדורה המוקדמת: 09.07.25",
