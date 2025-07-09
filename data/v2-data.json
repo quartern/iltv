@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 09.07.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-07-09 19:56:26",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4djgg0rc/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4djgg0rc/a.m3u8"
+          ],
+          "StreamerId": "1_4djgg0rc",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/929649",
+          "Date": "2025-07-09 19:56:26"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 09.07.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-07-09 19:25:36",
@@ -511,18 +523,6 @@
           "StreamerId": "1_eqv66oah",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/929307",
           "Date": "2025-07-09 07:36:18"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 08.07.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-07-08 21:56:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_31v72sr8/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_31v72sr8/a.m3u8"
-          ],
-          "StreamerId": "1_31v72sr8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/929301",
-          "Date": "2025-07-08 21:56:07"
         },
         {
           "Title": "חדשות השבת | 05.07.25",
@@ -2025,8 +2025,8 @@
           "Title": "חמש עם רפי רשף: 09.07.25",
           "Poster": "https://img.mako.co.il/2025/07/09/Hamesh_090725_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21121722/21121722_noAdds/21121722_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21121722/21121722_noAdds/21121722_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/17hamesh_vtr2_n20250709_v1/17hamesh_vtr2_n20250709_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/17hamesh_vtr2_n20250709_v1/17hamesh_vtr2_n20250709_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f19ff621bdde7910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-f19ff621bdde791027.htm",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "תוכנית הלילה 09.07.25",
+          "StreamerId": "6375461511112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ef7e8b03-bb29-4d57-896d-637b367a2846/c4fc8dc2-b4dd-4ea7-b3a1-61f5aa108b1c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375461511112",
+          "Date": "2025-07-09T19:45:21Z",
+          "ShortDescriptionLine1": "Night program 09.07.25",
+          "ShortDescriptionLine2": "2025-07-09T19:45:21Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ef7e8b03-bb29-4d57-896d-637b367a2846/10s/master.m3u8?fastly_token=Njg5M2M4ZDJfMTIwODI5NjE1NTJhMWI1NDVhNjNmZDJlOGJhZjc3NGI2Y2U2NTQ2NzZiNjZlNTJmOGMyODkzZjlmN2M0YThkMw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 09.07.25",
           "StreamerId": "6375457215112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b17a75e2-613a-4994-878e-14a03c9c5604/fe51cf52-6669-4a5a-9d07-2ebbcd79df9e/320x180/match/image.jpg",
@@ -2773,18 +2785,6 @@
           "ShortDescriptionLine2": "2025-07-02T19:56:56Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/88aa0acd-8a4c-4c80-80e5-96693397b621/10s/master.m3u8?fastly_token=Njg4YTkzMDhfYmU5NWY4MTY3ZWZjOTZlZWI0NTU1YmZiZTlkMTUyYTFhMDMyMmJmYjUyOWJhMjBhM2Y0MmRjMjU0ZGRiMzlkMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "גילי ורמוט ועומרי קנדה בתוכנית הלילה עם דניאל רוט אבנרי: על סטנד-אפ, כדורגל ומה שביניהם",
-          "StreamerId": "6375183811112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d482e83d-2612-4223-9045-373b631c523d/cf60cb12-1c9c-4c36-8f10-46ccf7f1123a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375183811112",
-          "Date": "2025-07-02T19:53:17Z",
-          "ShortDescriptionLine1": "Gili Vermouth and Omri Canada on the night show with Daniel Roth Avnery: on stand-up, football and what is in between",
-          "ShortDescriptionLine2": "2025-07-02T19:53:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d482e83d-2612-4223-9045-373b631c523d/10s/master.m3u8?fastly_token=Njg4YTdmNjlfN2MzN2MzMDY0NzIwMzZmYjk2YTE2ZDMyMWRhMTdkMjBhMzgzMzAxMDk0MDk5MTZkNzljNGMzYjgwNDJlNTBkMg%3D%3D"
           ]
         },
         {
