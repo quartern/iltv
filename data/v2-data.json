@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 14.07.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_uwpq5jhj",
+          "Date": "2025-07-14 19:56:34",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/wt5mr-904667480/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-07-14 19:56:34",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_uwpq5jhj/flavorIds/1_6v0bx63h,1_l429b75y,1_mu06gdi0,1_owhjy3yk,1_6pp01gbk,1_lesmdkt9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 14.07.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_ms7p4mrv",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-07-13 21:49:44",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5cqpgm0b/flavorIds/1_xbtxq030,1_xre55h2m,1_5oiykw2q,1_lmfo191o,1_ihdsqezc,1_57ptmuxl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 13.07.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_keqe0afs",
-          "Date": "2025-07-13 21:36:36",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/700/season/1/3916326/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-07-13 21:36:36",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_keqe0afs/flavorIds/1_0gulg6ne,1_dlkq213u,1_8j8jns8e,1_0v2stfj6,1_fs5qp40m,1_ni4j8kl6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 14.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 14.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "86e9ff08e7708910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-86e9ff08e770891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-14T19:54:05+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 14.07.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 14.07.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21121858/21121858_noAdds/21121858_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21121858/21121858_noAdds/21121858_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "95375a2496708910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-95375a249670891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-14T18:59:12+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 14.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 14.07.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 14.07.25",
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-14T15:00:06+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 14.07.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 13.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/13/Mahadura_Merkazit_130725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/20mahadurafull_vtr2_n20250713_v1/20mahadurafull_vtr2_n20250713_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/20mahadurafull_vtr2_n20250713_v1/20mahadurafull_vtr2_n20250713_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f48c8852e4208910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-f48c8852e420891027.htm",
-          "ShortDescriptionLine2": "The IDF's warning to the political level",
-          "Date": "2025-07-13T19:53:24+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 13.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 12.07.25",
@@ -2452,6 +2452,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 14.07.25",
+          "StreamerId": "6375644846112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/be9a52e2-5902-451c-9a95-6ec36bfb9e19/85ce9f52-243f-4ca9-a2e9-4e17c9bdd104/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375644846112",
+          "Date": "2025-07-14T16:51:25Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 14.07.25",
+          "ShortDescriptionLine2": "2025-07-14T16:51:25Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be9a52e2-5902-451c-9a95-6ec36bfb9e19/10s/master.m3u8?fastly_token=Njg5YTM1MjRfYjgxN2U3ODA3NTVkMTZmODY3NWU5YmFjNGVkN2ZiOTEwZDk2NzY1OWQ5Yzk4ZDE2NzZkNThiMDNiNWVlMzg0MQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדד גלבוע 14.07.25",
+          "StreamerId": "6375643160112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1e32f480-7a97-4c68-bf6a-c10f4c7f864b/ea57c805-1f5d-48e0-b9a8-c689eaa38fc0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375643160112",
+          "Date": "2025-07-14T16:50:39Z",
+          "ShortDescriptionLine1": "Gilboa Index 14.07.25",
+          "ShortDescriptionLine2": "2025-07-14T16:50:39Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1e32f480-7a97-4c68-bf6a-c10f4c7f864b/10s/master.m3u8?fastly_token=Njg5YTM5MDdfMGU1MDkzOTIyMjdiYTgyZGJlZWRlOTRhM2I0NzUwZGNhMjI1MTA0ZTU1YzgxNzE4ZGM3Nzc3YTcxOGRhZWU1Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 14.07.25",
           "StreamerId": "6375641490112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e8973c2b-74d6-4a72-b741-d994b562e434/55379452-9135-43d5-8726-eebf1e5184ed/320x180/match/image.jpg",
@@ -2701,30 +2725,6 @@
           "ShortDescriptionLine2": "2025-07-10T19:09:45Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/572dfc81-c227-460b-8caf-54c5e11d5c5c/10s/master.m3u8?fastly_token=Njg5NTE3NDlfZDMzMWI3ODhmZWEwODQ0NDVlN2JjYThiZWQ5MzA3M2U3ZjJlZjFjMDI4MGJkYzY2OTM1ZjNhODFmMTdjNWNmZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 10.07.25",
-          "StreamerId": "6375502109112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a3e4a76f-206c-4ed4-96db-6ddfeefaa736/d4885e50-b285-41e3-b18c-a86e3b1cd81d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375502109112",
-          "Date": "2025-07-10T16:59:49Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 10.07.25",
-          "ShortDescriptionLine2": "2025-07-10T16:59:49Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a3e4a76f-206c-4ed4-96db-6ddfeefaa736/10s/master.m3u8?fastly_token=Njg5NGYxYzFfY2M3ZTI2NzI5MTRhYjAwNDliYWMxNjVlM2ZmMjFlMjExMzA3YmU0MTgzMTNlYjE3ZTg0NmI4YWI0MzQ0ZDU4YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 10.07.25",
-          "StreamerId": "6375497826112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a1932291-87ab-4b96-96e7-0e1eda46a254/c87e99ad-d06b-4418-8984-314d45fc3193/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375497826112",
-          "Date": "2025-07-10T16:10:43Z",
-          "ShortDescriptionLine1": "Gilboa Index 10.07.25",
-          "ShortDescriptionLine2": "2025-07-10T16:10:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a1932291-87ab-4b96-96e7-0e1eda46a254/10s/master.m3u8?fastly_token=Njg5NGU3NjRfMTllOTAxNGEzMWQ3ZmRkMmZlNTZmMDNhYjhjZGE0ZGVkOWFiYWNjMDBiMjYwZjM2NzY1MWU2ZDBlY2Y5ZDYxNw%3D%3D"
           ]
         },
         {
