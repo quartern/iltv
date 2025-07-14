@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 14.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 14.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a5b35a2496708910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-a5b35a249670891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-14T16:55:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.07.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 14.07.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21121855/21121855_noAdds/21121855_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21121855/21121855_noAdds/21121855_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "44b05a2496708910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-44b05a249670891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-14T15:00:06+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 14.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 14.07.25"
         },
         {
           "Title": "המהדורה המרכזית: 13.07.25",
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-13T17:55:53+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 13.07.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 13.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/13/Hamesh_130725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/17rafi_vtr2_n20250713_v1/17rafi_vtr2_n20250713_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/17rafi_vtr2_n20250713_v1/17rafi_vtr2_n20250713_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "d9d6a43aa3208910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-d9d6a43aa320891027.htm",
-          "ShortDescriptionLine2": "The investigation that ended violently at the council's offices",
-          "Date": "2025-07-13T16:55:12+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 13.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 12.07.25",
