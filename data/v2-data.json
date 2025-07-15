@@ -583,18 +583,6 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
-        },
-        {
-          "Title": "מהדורת חמש | 07.11.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-11-07 20:13:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gv54mbxq/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gv54mbxq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
-          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -2079,6 +2067,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e45a6b2bee208910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-e45a6b2bee20891026.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-07-15T07:09:46+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/07/15/Avri_Sherki_140725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2105,20 +2107,6 @@
           "Date": "2025-07-14T09:36:05+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: A salute day for farmers"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: תושבי מנרה חוזרים הביתה",
-          "Poster": "https://img.mako.co.il/2025/07/14/Hadshot_Haboker_140725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/July/Hadshot_Haboker_140725_VOD_aki987/Hadshot_Haboker_140725_VOD_aki987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/July/Hadshot_Haboker_140725_VOD_aki987/Hadshot_Haboker_140725_VOD_aki987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "10a3800d79208910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-10a3800d7920891026.htm",
-          "ShortDescriptionLine2": "Residents of the north are returning, and also: anti -Semitism in Europe",
-          "Date": "2025-07-14T07:10:21+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Menara residents return home"
         },
         {
           "Title": "מה באמת קרה שם?: ארז טל עם ירון לונדון",
