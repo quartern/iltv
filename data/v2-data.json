@@ -489,18 +489,6 @@
           "Date": "2025-07-14 20:16:30"
         },
         {
-          "Title": "מהדורת כאן חדשות | 14.07.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-07-14 20:10:14",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bxe94q3q/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bxe94q3q/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bxe94q3q",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/931203",
-          "Date": "2025-07-14 20:10:14"
-        },
-        {
           "Title": "שבע עם ליאל קייזר ואליאור לוי | 14.07.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-07-14 18:53:00",
@@ -583,18 +571,6 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
-        },
-        {
-          "Title": "מהדורת חמש | 07.11.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-11-07 20:13:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gv54mbxq/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gv54mbxq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
-          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -2139,18 +2115,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: שלושה לוחמי שריון נפלו [live]",
+          "Title": "נסלי ויואב: שלושה לוחמי שריון נפלו",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21121880/21121880_noAdds/21121880_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21121880/21121880_noAdds/21121880_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b5af9e356e208910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-b5af9e356e20891026.htm",
           "ShortDescriptionLine2": "Three armor fighters fell in a battle in the Gaza Strip",
           "Date": "2025-07-15T09:33:19+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: Three armor fighters fell [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: Three armor fighters fell"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: דרמה פוליטית",
