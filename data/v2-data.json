@@ -1024,6 +1024,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הזירה עונה 2 | פרק 7",
+          "ShortDescriptionLine1": "The scene season 2 | Chapter 7",
+          "ShortDescriptionLine2": "2025-07-15 18:32:45",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_5xdel2y6/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5xdel2y6/a.m3u8"
+          ],
+          "StreamerId": "1_5xdel2y6",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s2/863502",
+          "Date": "2025-07-15 18:32:45"
+        },
+        {
           "Title": "העתיד עם האנה פריי | פרק 1 - החיים בגיל 150",
           "ShortDescriptionLine1": "Future with Hannah Fry | Chapter 1 - Life at 150",
           "ShortDescriptionLine2": "2025-07-15 08:56:23",
@@ -1250,18 +1262,6 @@
           "StreamerId": "1_aq74hhed",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841984",
           "Date": "2025-07-09 07:16:20"
-        },
-        {
-          "Title": "הזירה עונה 2 | פרק 3",
-          "ShortDescriptionLine1": "The scene season 2 | Chapter 3",
-          "ShortDescriptionLine2": "2025-07-08 18:32:32",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_qc396ezu/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qc396ezu/a.m3u8"
-          ],
-          "StreamerId": "1_qc396ezu",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s2/863485",
-          "Date": "2025-07-08 18:32:32"
         }
       ]
     },
@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 15.07.25 [live]",
+          "Title": "המהדורה המרכזית: 15.07.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21121885/21121885_noAdds/21121885_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21121885/21121885_noAdds/21121885_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2e4ce57d6bc08910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-2e4ce57d6bc0891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-15T19:53:47+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 15.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 15.07.25"
         },
         {
           "Title": "המהדורה המוקדמת: 15.07.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 15.07.25",
+          "StreamerId": "6375684730112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fb8cabcb-9c4f-4d27-b6ea-93c17841dfe1/ff71fbf6-9d8a-4ebc-b536-5643dc6da149/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375684730112",
+          "Date": "2025-07-15T18:24:37Z",
+          "ShortDescriptionLine1": "Central Edition 15.07.25",
+          "ShortDescriptionLine2": "2025-07-15T18:24:37Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fb8cabcb-9c4f-4d27-b6ea-93c17841dfe1/10s/master.m3u8?fastly_token=Njg5YmE3ODNfYjJjYmIxNzhiOGRkYzY2NzNlNDIyYjg3ODA0ZTVkYjNlZDA0MzY5Zjg1YTc5OTRkZWJjYWE5NWFmYjRkMGFmNQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל 15.07.25",
           "StreamerId": "6375682459112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/33e08a03-cf8c-41e4-a38f-b1ab7cd76f74/7b3fcf6c-a93f-44d0-8027-1de6484cce32/320x180/match/image.jpg",
@@ -2641,18 +2653,6 @@
           "ShortDescriptionLine2": "2025-07-13T20:47:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a7897b8a-7ab1-4d5e-b86e-9e3e22fefb5d/10s/master.m3u8?fastly_token=Njg5OTEyYTlfZGZjNmYzYjU4YTJlMjFmNzM2YmE0ZDU5ZWU2YzlmYjRiYmM1YTczYzE5YjU4ODI3NzA4MGUxYzgxYmEyOTdlZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 13.07.25",
-          "StreamerId": "6375613046112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e1646096-8184-4c55-bbef-ffa487538f6c/3175e2bb-0c1b-4f13-b59e-ca9ee1a7b3ab/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375613046112",
-          "Date": "2025-07-13T18:23:48Z",
-          "ShortDescriptionLine1": "Central Edition 13.07.25",
-          "ShortDescriptionLine2": "2025-07-13T18:23:48Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e1646096-8184-4c55-bbef-ffa487538f6c/10s/master.m3u8?fastly_token=Njg5OTA0ZjlfOGRiZjVkOGYzYTY3ODkyM2Q4ZTllNjUyNWQyYTY5YjBmNDgwODQxMjk4YTMxNzMwYTIzYTlmNmJiZDlmYWQzNg%3D%3D"
           ]
         },
         {
