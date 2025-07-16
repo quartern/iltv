@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 16.07.25 [live]",
+          "Title": "המהדורה המוקדמת: 16.07.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21121916/21121916_noAdds/21121916_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21121916/21121916_noAdds/21121916_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ec7d8d937e118910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-ec7d8d937e11891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-16T19:00:24+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 16.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 16.07.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 16.07.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 16.07.25",
+          "StreamerId": "6375718177112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7093f847-9780-4327-953d-930b4db2b3e2/f56a82cb-48b4-4925-90d8-7452ee8390a5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375718177112",
+          "Date": "2025-07-16T16:54:28Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 16.07.25",
+          "ShortDescriptionLine2": "2025-07-16T16:54:28Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7093f847-9780-4327-953d-930b4db2b3e2/10s/master.m3u8?fastly_token=Njg5Y2Q3OThfMTBhMTQzMzc4YmJjNGE5OGQ0MWQ5MDY0ODQ0NTliNmMzOTExMWNmZGI5NTIyMWM5NWQ3MjRlZDUwYWM5MTBhNA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 16.07.25",
           "StreamerId": "6375716854112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4651bd46-eaf2-4dea-a1b5-45df9c3ebee4/1b0295b5-47eb-4151-9c94-908b530acf2d/320x180/match/image.jpg",
@@ -2653,18 +2665,6 @@
           "ShortDescriptionLine2": "2025-07-14T18:36:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/373aa13c-0e4d-4aa9-aea0-f18c5010f530/10s/master.m3u8?fastly_token=Njg5YTU2MDVfMjRkNDY2MWE3MDkwMTIzZjkwZTUxMzEyODFkMDgzMWEzOTdlNDg4ZWYxNzEyZTVkODkyMTI2YjdkZTg3NTNjMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 14.07.25",
-          "StreamerId": "6375644846112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/be9a52e2-5902-451c-9a95-6ec36bfb9e19/85ce9f52-243f-4ca9-a2e9-4e17c9bdd104/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375644846112",
-          "Date": "2025-07-14T16:51:25Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 14.07.25",
-          "ShortDescriptionLine2": "2025-07-14T16:51:25Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be9a52e2-5902-451c-9a95-6ec36bfb9e19/10s/master.m3u8?fastly_token=Njg5YTM1MjRfYjgxN2U3ODA3NTVkMTZmODY3NWU5YmFjNGVkN2ZiOTEwZDk2NzY1OWQ5Yzk4ZDE2NzZkNThiMDNiNWVlMzg0MQ%3D%3D"
           ]
         },
         {
