@@ -489,18 +489,6 @@
           "Date": "2025-07-17 20:00:52"
         },
         {
-          "Title": "מהצד השני עם גיא זהר | 17.07.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-07-17 19:48:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_eakxfkix/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_eakxfkix/a.m3u8"
-          ],
-          "StreamerId": "1_eakxfkix",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s1/932391",
-          "Date": "2025-07-17 19:48:43"
-        },
-        {
           "Title": "שבע עם איילה חסון | 17.07.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-07-17 17:47:07",
@@ -537,6 +525,18 @@
           "Date": "2025-07-12 19:14:31"
         },
         {
+          "Title": "חדשות שישי | 11.07.25",
+          "ShortDescriptionLine1": "Friday News Edition",
+          "ShortDescriptionLine2": "2025-07-11 19:48:04",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_i7ls81zb/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_i7ls81zb/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_i7ls81zb",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/930353",
+          "Date": "2025-07-11 19:48:04"
+        },
+        {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
           "ShortDescriptionLine1": "Zman Emet/Real Time",
           "ShortDescriptionLine2": "2025-06-04 18:27:53",
@@ -571,18 +571,6 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
-        },
-        {
-          "Title": "מהדורת חמש | 07.11.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-11-07 20:13:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gv54mbxq/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gv54mbxq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
-          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -2067,18 +2055,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "מה באמת קרה שם?: ישראל קטורזה [live]",
-          "Poster": "https://img.mako.co.il/2025/04/23/WhatHappened_x5_autoOrient_I_reduced.jpg",
+          "Title": "מה באמת קרה שם?: ישראל קטורזה",
+          "Poster": "https://img.mako.co.il/2025/07/18/Ma_Beemet_Kara_Sham_11_180725_VOD__autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/erez_tal/A185857/A185857_noAdds/A185857_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/erez_tal/A185857/A185857_noAdds/A185857_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c115b38292318910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/what_really_happened-s1/VOD-c115b3829231891026.htm",
           "ShortDescriptionLine2": "Israel Katorza opens everything",
           "Date": "2025-07-18T22:00:18+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "What really happened there?: Israel Katorza [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "What really happened there?: Israel Katorza"
         },
         {
           "Title": "אופירה ולוינסון: האם הממשלה בדרך לפירוק?",
