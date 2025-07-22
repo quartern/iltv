@@ -501,6 +501,18 @@
           "Date": "2025-07-21 20:39:09"
         },
         {
+          "Title": "מהדורת כאן חדשות | 21.07.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-07-21 20:16:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3vpv2w34/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3vpv2w34/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_3vpv2w34",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/933561",
+          "Date": "2025-07-21 20:16:55"
+        },
+        {
           "Title": "שבע עם ליאל קייזר ואליאור לוי | 21.07.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-07-21 17:29:52",
@@ -511,6 +523,18 @@
           "StreamerId": "1_e0192s5x",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/933558",
           "Date": "2025-07-21 17:29:52"
+        },
+        {
+          "Title": "חדשות השבת | 19.07.25",
+          "ShortDescriptionLine1": "Saturday News Edition",
+          "ShortDescriptionLine2": "2025-07-20 14:19:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_wlx7patx/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wlx7patx/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_wlx7patx",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/933007",
+          "Date": "2025-07-20 14:19:55"
         },
         {
           "Title": "חדשות שישי | 18.07.25",
@@ -1956,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 22.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 22.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "27da099abc038910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-27da099abc03891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-22T19:53:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 22.07.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 22.07.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21122088/21122088_noAdds/21122088_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21122088/21122088_noAdds/21122088_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4fa597bb1c038910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-4fa597bb1c03891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-22T18:59:18+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early Edition: 22.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early Edition: 22.07.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 22.07.25",
@@ -2010,20 +2048,6 @@
           "Date": "2025-07-22T15:00:56+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 22.07.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 21.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/21/Mahadura_Merkazit_210725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/20mahadura_full_vtr2_n20250721_v1/20mahadura_full_vtr2_n20250721_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/20mahadura_full_vtr2_n20250721_v1/20mahadura_full_vtr2_n20250721_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0227564e25b28910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/7bb08d0bf25c7910/VOD-0227564e25b2891026.htm",
-          "ShortDescriptionLine2": "New details about the Middle Edelstein ouster",
-          "Date": "2025-07-21T19:52:51+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 21.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 19.07.25",
