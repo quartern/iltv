@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 22.07.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-07-22 20:46:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2zkfsyod/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2zkfsyod/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_2zkfsyod",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/933961",
+          "Date": "2025-07-22 20:46:56"
+        },
+        {
           "Title": "מהצד השני עם יואב רבינוביץ' | 22.07.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-07-22 19:31:15",
@@ -511,18 +523,6 @@
           "StreamerId": "1_offqneou",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/933953",
           "Date": "2025-07-22 14:36:32"
-        },
-        {
-          "Title": "חדשות הלילה | 21.07.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-07-21 20:39:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_dlbmyf9t/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_dlbmyf9t/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_dlbmyf9t",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/933563",
-          "Date": "2025-07-21 20:39:09"
         },
         {
           "Title": "חדשות השבת | 19.07.25",
@@ -2139,6 +2139,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d88bddbe8b038910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-d88bddbe8b03891027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-07-22T23:43:56+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: המגעים לעסקת חטופים",
           "Poster": "https://img.mako.co.il/2025/07/22/Nesli_Yoav_220725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2165,20 +2179,6 @@
           "Date": "2025-07-22T07:08:01+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: Edelstein's ouster"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/07/22/Avri_Sherki_210725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/July/Avri_Sherki_210725_VOD_b564fd/Avri_Sherki_210725_VOD_b564fd_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/July/Avri_Sherki_210725_VOD_b564fd/Avri_Sherki_210725_VOD_b564fd_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4c7a13b4fab28910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-4c7a13b4fab2891026.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-07-21T23:31:08+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "מה באמת קרה שם?: ישראל קטורזה",
