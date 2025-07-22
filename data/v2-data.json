@@ -1980,6 +1980,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 22.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0be897bb1c038910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-0be897bb1c03891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-22T15:00:56+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 22.07.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 21.07.25",
           "Poster": "https://img.mako.co.il/2025/07/21/Mahadura_Merkazit_210725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-21T16:53:30+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 21.07.25"
-        },
-        {
-          "Title": "מהדורת היום: 21.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/21/Mahadurat_Hayom_210725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/15hayommmmm_vtr2_n20250721_v1/15hayommmmm_vtr2_n20250721_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/15hayommmmm_vtr2_n20250721_v1/15hayommmmm_vtr2_n20250721_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "cbeb2bcdf6b28910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-cbeb2bcdf6b2891026.htm",
-          "ShortDescriptionLine2": "The IDF is valid in Yemen: Houthis threatens escalation",
-          "Date": "2025-07-21T14:59:52+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 21.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 19.07.25",
@@ -2140,7 +2140,7 @@
       "Items": [
         {
           "Title": "נסלי ויואב: המגעים לעסקת חטופים",
-          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/07/22/Nesli_Yoav_220725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21122082/21122082_noAdds/21122082_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21122082/21122082_noAdds/21122082_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
