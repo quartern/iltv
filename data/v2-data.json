@@ -501,18 +501,6 @@
           "Date": "2025-07-22 19:07:48"
         },
         {
-          "Title": "שבע עם ליאל קייזר ואליאור לוי | 22.07.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-07-22 17:33:55",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_uvcr04j2/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_uvcr04j2/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_uvcr04j2",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/933955",
-          "Date": "2025-07-22 17:33:55"
-        },
-        {
           "Title": "העולם היום | 22.07.25",
           "ShortDescriptionLine1": "The World Today",
           "ShortDescriptionLine2": "2025-07-22 14:36:32",
@@ -571,18 +559,6 @@
           "StreamerId": "1_u1vvqbs5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/900267",
           "Date": "2025-05-08 14:38:40"
-        },
-        {
-          "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
-          "ShortDescriptionLine1": "Yihiye Tov - It will end well",
-          "ShortDescriptionLine2": "2025-01-27 11:53:39",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_hppjgz4h/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_hppjgz4h/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_hppjgz4h",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
-          "Date": "2025-01-27 11:53:39"
         },
         {
           "Title": "מהדורת חמש | 07.11.24",
@@ -1980,18 +1956,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 23.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 23.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9990f67a91638910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-9990f67a9163891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-23T16:55:36+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 23.07.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 23.07.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21122116/21122116_noAdds/21122116_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21122116/21122116_noAdds/21122116_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "a8fef67a91638910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-a8fef67a9163891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-23T15:00:16+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 23.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 23.07.25"
         },
         {
           "Title": "המהדורה המרכזית: 22.07.25",
@@ -2034,20 +2024,6 @@
           "Date": "2025-07-22T17:55:58+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 22.07.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 22.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/22/Hamesh_220725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/17rafi_vtr2_n20250722_v1/17rafi_vtr2_n20250722_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/17rafi_vtr2_n20250722_v1/17rafi_vtr2_n20250722_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c5ee97bb1c038910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-c5ee97bb1c03891027.htm",
-          "ShortDescriptionLine2": "Attempts to oust Edelstein",
-          "Date": "2025-07-22T16:56:12+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 22.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 19.07.25",
