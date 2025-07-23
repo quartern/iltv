@@ -1980,6 +1980,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 23.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a8fef67a91638910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-a8fef67a9163891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-23T15:00:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 23.07.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 22.07.25",
           "Poster": "https://img.mako.co.il/2025/07/22/Mahadura_Merkazit_220725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-22T16:56:12+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 22.07.25"
-        },
-        {
-          "Title": "מהדורת היום: 22.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/22/Mahadurat_Hayom_220725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/15hayomnew_vtr2_n20250722_v1/15hayomnew_vtr2_n20250722_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/15hayomnew_vtr2_n20250722_v1/15hayomnew_vtr2_n20250722_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0be897bb1c038910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-0be897bb1c03891027.htm",
-          "ShortDescriptionLine2": "The heavy price of the war: 2 fighters fell",
-          "Date": "2025-07-22T15:00:56+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 22.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 19.07.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 23.07.25",
+          "StreamerId": "6376013556112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4802c060-67ae-49d8-9534-00e7c91ef3c3/c0c81cd3-8442-420a-90d8-eda000331276/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376013556112",
+          "Date": "2025-07-23T12:10:29Z",
+          "ShortDescriptionLine1": "Lunch Edition 23.07.25",
+          "ShortDescriptionLine2": "2025-07-23T12:10:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4802c060-67ae-49d8-9534-00e7c91ef3c3/10s/master.m3u8?fastly_token=NjhhNWQwZmVfYzdjODYzZjMxN2Q4ZjcwN2ZjZDM1ZDk2NTQzMDZiZGZlYmUzZmY3MGY5NWM4OTQ5YzA4ODVkYTlmODUxYzQ5Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות 22.07.25",
           "StreamerId": "6375998946112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fa99ec87-5c5b-447e-bfe7-70d1dffacbd1/9e1d6cad-80af-41f5-82c3-d54519b8287a/320x180/match/image.jpg",
@@ -2653,18 +2665,6 @@
           "ShortDescriptionLine2": "2025-07-21T12:07:02Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6b319600-c70c-446e-b03d-bb3f7253b17e/10s/master.m3u8?fastly_token=NjhhMzJkMTZfZDI5YjU2ZGQ0ZWRlZmQ2N2IzZTUyZDc2MGQ0OGEwZjMxODg2ODdjYzcwZGM2OTFjNDk5ODFmYTA5OTQ3YWUzMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 20.07.25 ",
-          "StreamerId": "6375877581112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f693bb90-2a05-4924-b719-d813a5a10bcb/d67dcca5-dd53-4f3e-b3c4-cdd12cbc6f9c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6375877581112",
-          "Date": "2025-07-20T12:28:46Z",
-          "ShortDescriptionLine1": "Lunch Edition 20.07.25",
-          "ShortDescriptionLine2": "2025-07-20T12:28:46Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f693bb90-2a05-4924-b719-d813a5a10bcb/10s/master.m3u8?fastly_token=NjhhMWRmN2NfZmJiMGUwNGMwYjVhMTlkMjU2YTNlNzFmYWMyNTI2YWJmNGU0MWMzNTYxM2U0NzNkMDhhMjIxZWFkMzVmMWE2Ng%3D%3D"
           ]
         },
         {
