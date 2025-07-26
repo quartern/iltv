@@ -1416,6 +1416,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "פגוש את העיתונות: 26.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "2d708e6cb3b38910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/dd968d0bf25c7910/VOD-2d708e6cb3b3891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-26T17:59:57+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the Press: 26.07.25 [live]"
+        },
+        {
           "Title": "שבת בחמש: 26.07.25 [live]",
           "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1554,20 +1568,6 @@
           "Date": "2025-07-19T18:00:01+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the Press: 19.07.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 12.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/12/Pgosh_120725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/pgosh_vtr2_n20250712_v2/pgosh_vtr2_n20250712_v2_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/pgosh_vtr2_n20250712_v2/pgosh_vtr2_n20250712_v2_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0f84e9c9184f7910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/dd968d0bf25c7910/VOD-0f84e9c9184f791027.htm",
-          "ShortDescriptionLine2": "Year for rescue: Interview with Coral Meir Jan",
-          "Date": "2025-07-12T17:59:43+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 12.07.25"
         }
       ]
     },
