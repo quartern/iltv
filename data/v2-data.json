@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 28.07.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-07-28 16:06:51",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bqnb5uqa/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bqnb5uqa/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_bqnb5uqa",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/935769",
+          "Date": "2025-07-28 16:06:51"
+        },
+        {
           "Title": "שבע עם ליאל קייזר ושאול אמסטרדמסקי | 27.07.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-07-28 07:01:46",
@@ -499,18 +511,6 @@
           "StreamerId": "1_uhcow0fd",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/935551",
           "Date": "2025-07-27 19:23:06"
-        },
-        {
-          "Title": "העולם היום | 27.07.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-07-27 15:37:39",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_9zlq2ldr/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9zlq2ldr/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_9zlq2ldr",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/935544",
-          "Date": "2025-07-27 15:37:39"
         },
         {
           "Title": "חדשות השבת | 26.07.25",
@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_k46dz7ej",
           "Date": "2025-07-28 18:13:58",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/zetou-904689642/",
-          "ShortDescriptionLine1": "Daily News",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/3943932/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-28 18:13:58",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_k46dz7ej/flavorIds/1_s22d1kqg,1_rrk23pil,1_3vuhjt4a,1_i6do3jf2,1_4oaiyc85,1_j3fjp97n/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 28.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 28.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f77e6eaf87f48910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-f77e6eaf87f4891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-28T18:59:14+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 28.07.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 28.07.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21122261/21122261_noAdds/21122261_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21122261/21122261_noAdds/21122261_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "172e6eaf87f48910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-172e6eaf87f4891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-28T17:55:57+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 28.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 28.07.25"
         },
         {
           "Title": "חמש עם רפי רשף: 28.07.25",
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-27T19:54:33+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 27.07.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 27.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/27/Mahadura_Mukdemet_270725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/19mukdemet_vtr2_n20250727_v1/19mukdemet_vtr2_n20250727_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/19mukdemet_vtr2_n20250727_v1/19mukdemet_vtr2_n20250727_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "276838c936a48910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-276838c936a4891026.htm",
-          "ShortDescriptionLine2": "Assistance from the air and the scene in Gaza",
-          "Date": "2025-07-27T18:58:53+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 27.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 26.07.25",
