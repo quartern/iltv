@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 29.07.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-07-29 14:49:36",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lbppzhwi/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_lbppzhwi/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_lbppzhwi",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/936104",
+          "Date": "2025-07-29 14:49:36"
+        },
+        {
           "Title": "חדשות הלילה | 28.07.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-07-28 20:40:58",
@@ -499,18 +511,6 @@
           "StreamerId": "1_gsvxfkjl",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/935771",
           "Date": "2025-07-28 18:15:42"
-        },
-        {
-          "Title": "העולם היום | 28.07.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-07-28 17:49:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bqnb5uqa/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bqnb5uqa/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bqnb5uqa",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/935769",
-          "Date": "2025-07-28 17:49:23"
         },
         {
           "Title": "חדשות השבת | 26.07.25",
@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 29.07.25 [live]",
+          "Title": "חמש עם רפי רשף: 29.07.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21122311/21122311_noAdds/21122311_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21122311/21122311_noAdds/21122311_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f77e018a84558910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/13c48d0bf25c7910/VOD-f77e018a8455891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-29T16:55:46+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 29.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 29.07.25"
         },
         {
           "Title": "מהדורת היום: 29.07.25",
