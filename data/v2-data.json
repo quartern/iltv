@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "העולם היום | 29.07.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-07-29 14:49:36",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lbppzhwi/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_lbppzhwi/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_lbppzhwi",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/936104",
-          "Date": "2025-07-29 14:49:36"
-        },
-        {
           "Title": "חדשות הלילה | 28.07.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-07-28 20:40:58",
@@ -1980,6 +1968,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 29.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d6f0018a84558910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-d6f0018a8455891026.htm",
+          "ShortDescriptionLine2": "New Documentation from Gaza: The masses attacked the assistance",
+          "Date": "2025-07-29T17:56:36+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.07.25 [live]"
+        },
+        {
           "Title": "חמש עם רפי רשף: 29.07.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2034,20 +2036,6 @@
           "Date": "2025-07-28T18:59:14+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 28.07.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 28.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/28/Shesh_280725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/18oded_vtr2_n20250728_v1/18oded_vtr2_n20250728_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/18oded_vtr2_n20250728_v1/18oded_vtr2_n20250728_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "172e6eaf87f48910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-172e6eaf87f4891026.htm",
-          "ShortDescriptionLine2": "New Documentation from Gaza: The masses attacked the assistance",
-          "Date": "2025-07-28T17:55:57+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 28.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 26.07.25",
@@ -2452,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 29.07.25",
+          "StreamerId": "6376290642112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aa40a39e-8ea7-4c01-b92e-5efe530fcca2/5d744531-ec44-49d4-ac63-e26a0a3b7806/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376290642112",
+          "Date": "2025-07-29T14:59:32Z",
+          "ShortDescriptionLine1": "Edition five 29.07.25",
+          "ShortDescriptionLine2": "2025-07-29T14:59:32Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aa40a39e-8ea7-4c01-b92e-5efe530fcca2/10s/master.m3u8?fastly_token=NjhhZGU2OGZfZWY0ZGFmYTM1NjQ0ODU5MzU3MWU2MTgzNmM3N2M4ZTU5Zjc4OTNjOWY5NmMyYjY4MDhjMWZmMWZlNzQ0OWFmZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים 29.07.25 ",
           "StreamerId": "6376289381112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/97a5ed30-4885-404f-82f9-1e0a94881532/d5cd6c81-c973-4ded-81ad-755a8f0bb3bd/320x180/match/image.jpg",
@@ -2665,18 +2665,6 @@
           "ShortDescriptionLine2": "2025-07-27T16:57:21Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/03b7ca67-0da3-45fa-88f7-c5cf39350c6b/10s/master.m3u8?fastly_token=NjhhYjYwZTlfYmQ5ZmE4NzVhN2FkMDNmYjk4NmZjOTcyYWQzYTg1NzNkMGNlMjZjMDk5MzVlYWI0MDY1NWYxOWZjOGNlNDBhMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 27.07.25",
-          "StreamerId": "6376203151112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a3dc43e5-746b-4eb0-b9b6-8020c1872d20/0ce5ef4c-189f-481d-b2f7-ef3387e34029/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376203151112",
-          "Date": "2025-07-27T15:04:43Z",
-          "ShortDescriptionLine1": "Edition five 27.07.25",
-          "ShortDescriptionLine2": "2025-07-27T15:04:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a3dc43e5-746b-4eb0-b9b6-8020c1872d20/10s/master.m3u8?fastly_token=NjhhYjQyNTNfNGM4N2I5NmE0ZGU0ZTljNWE0NDI1OWJjNGY5MGUyMDU1ZjBjYjQyOTE2OWVkNTZjNjMyNjA5NGRiZmIxODFmMQ%3D%3D"
           ]
         },
         {
