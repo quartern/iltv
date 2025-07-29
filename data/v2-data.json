@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 29.07.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 29.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "3872018a84558910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-3872018a8455891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-29T18:58:42+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 29.07.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 29.07.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21122299/21122299_noAdds/21122299_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21122299/21122299_noAdds/21122299_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d6f0018a84558910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-d6f0018a8455891026.htm",
           "ShortDescriptionLine2": "New Documentation from Gaza: The masses attacked the assistance",
           "Date": "2025-07-29T17:56:36+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.07.25"
         },
         {
           "Title": "חמש עם רפי רשף: 29.07.25",
@@ -2034,20 +2048,6 @@
           "Date": "2025-07-28T19:54:17+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 28.07.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 28.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/28/Mahadura_Mukdemet_280725_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/19mukdemetfull_vtr2_n20250728_v1/19mukdemetfull_vtr2_n20250728_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/19mukdemetfull_vtr2_n20250728_v1/19mukdemetfull_vtr2_n20250728_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f77e6eaf87f48910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/af3e8d0bf25c7910/VOD-f77e6eaf87f4891026.htm",
-          "ShortDescriptionLine2": "Trump revealed the strategic move in Gaza",
-          "Date": "2025-07-28T18:59:14+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 28.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 26.07.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 29.07.25",
+          "StreamerId": "6376292695112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e153e4ea-f3ec-449b-a29f-1a4a2b2ec86f/d4fd3b1c-ea9e-4320-bfe9-eba4259a3f89/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376292695112",
+          "Date": "2025-07-29T16:02:13Z",
+          "ShortDescriptionLine1": "Gilboa Index 29.07.25",
+          "ShortDescriptionLine2": "2025-07-29T16:02:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e153e4ea-f3ec-449b-a29f-1a4a2b2ec86f/10s/master.m3u8?fastly_token=NjhhZGYxNWNfMWM1NWRjYjc2YmY0ZjgyMDg0OTM3OWQzYjYyZTFkM2NiZGYzMjZjNjY3NjVkNTIxNDc2NTY3NDA0OWNkYTdjYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 29.07.25",
           "StreamerId": "6376290642112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aa40a39e-8ea7-4c01-b92e-5efe530fcca2/5d744531-ec44-49d4-ac63-e26a0a3b7806/320x180/match/image.jpg",
@@ -2665,18 +2677,6 @@
           "ShortDescriptionLine2": "2025-07-27T16:58:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7429f623-30be-4f72-8aca-5ff91040f9fd/10s/master.m3u8?fastly_token=NjhhYjVhNTVfNWQxM2FmY2EwY2ViNmMyOTU3MDk5NmQ4OTUyMTNjNTI4ZDgyOTdmZDg5YTgwMDYwZGQwODU1OGU0ZjllZDg3Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע - 27.07.25",
-          "StreamerId": "6376204332112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/03b7ca67-0da3-45fa-88f7-c5cf39350c6b/21cbd58f-8621-44b9-9a73-46bfb4e99616/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376204332112",
-          "Date": "2025-07-27T16:57:21Z",
-          "ShortDescriptionLine1": "Gilboa Index - 27.07.25",
-          "ShortDescriptionLine2": "2025-07-27T16:57:21Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/03b7ca67-0da3-45fa-88f7-c5cf39350c6b/10s/master.m3u8?fastly_token=NjhhYjYwZTlfYmQ5ZmE4NzVhN2FkMDNmYjk4NmZjOTcyYWQzYTg1NzNkMGNlMjZjMDk5MzVlYWI0MDY1NWYxOWZjOGNlNDBhMA%3D%3D"
           ]
         },
         {
