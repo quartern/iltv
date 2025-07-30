@@ -486,8 +486,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_i2qtmiws",
           "Date": "2025-07-30 18:17:13",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/ocizf-904693407/",
-          "ShortDescriptionLine1": "Daily News",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/3947692/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-30 18:17:13",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_i2qtmiws/flavorIds/1_vl0z4tre,1_zo9kz36o,1_2x50fggp,1_o68tjwcp,1_fjwg954r,1_7f4rnblp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1267,42 +1267,6 @@
           "StreamerId": "1_5735bfwo",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838883",
           "Date": "2025-05-21 20:37:29"
-        },
-        {
-          "Title": "טהרן עונה 3 | פרק 1 - עולם רדיואקטיבי",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 1 - Radioactive World",
-          "ShortDescriptionLine2": "2025-07-07 10:24:10",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_5kuznpwi/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5kuznpwi/a.m3u8"
-          ],
-          "StreamerId": "1_5kuznpwi",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/833707",
-          "Date": "2025-07-07 10:24:10"
-        },
-        {
-          "Title": "טהרן עונה 3 | פרק 2 - אגרוף בפרצוף",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 2 - Punch in the face",
-          "ShortDescriptionLine2": "2025-06-17 14:30:03",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_xov7asuv/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xov7asuv/a.m3u8"
-          ],
-          "StreamerId": "1_xov7asuv",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/836534",
-          "Date": "2025-06-17 14:30:03"
-        },
-        {
-          "Title": "טהרן עונה 3 | פרק 3 - בגוב האריות",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 3 - In the Lion Government",
-          "ShortDescriptionLine2": "2025-06-17 14:30:31",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_am337lsk/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_am337lsk/a.m3u8"
-          ],
-          "StreamerId": "1_am337lsk",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/839205",
-          "Date": "2025-06-17 14:30:31"
         }
       ]
     },
@@ -1442,18 +1406,18 @@
           "ShortDescriptionLine1": "Early edition: 30.07.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 30.07.25 [live]",
+          "Title": "שש עם עודד בן עמי: 30.07.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21122330/21122330_noAdds/21122330_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21122330/21122330_noAdds/21122330_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b6c78c819d958910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-b6c78c819d95891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-07-30T17:55:48+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 30.07.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 30.07.25"
         },
         {
           "Title": "חמש עם רפי רשף: 30.07.25",
@@ -1900,6 +1864,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 30.07.25",
+          "StreamerId": "6376338589112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/50142fe1-7c87-4317-bd73-46197518c3df/eac73153-8676-4c55-892a-02f59417f4bf/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376338589112",
+          "Date": "2025-07-30T16:06:10Z",
+          "ShortDescriptionLine1": "Gilboa Index 30.07.25",
+          "ShortDescriptionLine2": "2025-07-30T16:06:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/50142fe1-7c87-4317-bd73-46197518c3df/10s/master.m3u8?fastly_token=NjhhZjQ2MGNfNTFjMGJmNDc2MGQyMDE1MDA0YzNiNDAxNTI2NGRiN2Q0MTJlYWY2MzNhZjk2NTU3YTY4ZjJmNjU4ZjM1N2U4Yg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש 30.07.25",
           "StreamerId": "6376333614112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/91fb9ee3-b882-4ae7-b485-10406a9a4842/b3721ea5-3698-409c-9b9d-9232081d0b4f/320x180/match/image.jpg",
@@ -2113,18 +2089,6 @@
           "ShortDescriptionLine2": "2025-07-28T16:55:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/013f6fd9-b32e-46d0-bfb3-1b0b6d134dd2/10s/master.m3u8?fastly_token=NjhhY2E5YzRfZTE3OTkxY2IyZWRmZmJhMTBhMzFiMzY3OGE4MTM3NTg5NTMyNDJjOWIyMmYwNzU2NjRkNTQ1YTgzY2IxM2NmZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 28.07.25",
-          "StreamerId": "6376241499112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d203a2a1-f7bd-4002-9916-189140276bdc/76de4004-af8a-4b73-afa3-4e06110b4775/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376241499112",
-          "Date": "2025-07-28T16:06:20Z",
-          "ShortDescriptionLine1": "Gilboa Index 28.07.25",
-          "ShortDescriptionLine2": "2025-07-28T16:06:20Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d203a2a1-f7bd-4002-9916-189140276bdc/10s/master.m3u8?fastly_token=NjhhY2E2OTNfN2I0Y2QwN2ZjMmFkOWFjYTBhYWFjOWVkOTczM2E3ZWFiZjhmOGE0ZjAyYjU5NjgxZTYwMTI4YmZkODBjOWZmYw%3D%3D"
           ]
         },
         {
