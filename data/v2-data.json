@@ -475,66 +475,6 @@
           "StreamerId": "1_3h8k9bmx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/936446",
           "Date": "2025-07-30 17:24:34"
-        },
-        {
-          "Title": "העולם היום | 30.07.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-07-30 14:35:35",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_2w1wjkan/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2w1wjkan/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_2w1wjkan",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/936444",
-          "Date": "2025-07-30 14:35:35"
-        },
-        {
-          "Title": "חדשות שישי | 25.07.25",
-          "ShortDescriptionLine1": "Friday News Edition",
-          "ShortDescriptionLine2": "2025-07-25 22:54:04",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_kkqh4qqu/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_kkqh4qqu/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_kkqh4qqu",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/935040",
-          "Date": "2025-07-25 22:54:04"
-        },
-        {
-          "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
-          "ShortDescriptionLine1": "Zman Emet/Real Time",
-          "ShortDescriptionLine2": "2025-06-04 18:27:53",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_cjc3c54c/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_cjc3c54c/a.m3u8"
-          ],
-          "StreamerId": "1_cjc3c54c",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887037",
-          "Date": "2025-06-04 18:27:53"
-        },
-        {
-          "Title": "משחקי הכיס | 08.05.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-05-08 14:38:40",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_u1vvqbs5/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_u1vvqbs5/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_u1vvqbs5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/900267",
-          "Date": "2025-05-08 14:38:40"
-        },
-        {
-          "Title": "מהדורת חמש | 07.11.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-11-07 20:13:56",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_gv54mbxq/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gv54mbxq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
-          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -542,12 +482,24 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 30.07.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_63wlnqxa",
+          "Date": "2025-07-30 22:28:41",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/lowb3-904693696/",
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2025-07-30 22:28:41",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_63wlnqxa/flavorIds/1_bx981ocb,1_3ngln4hp,1_4e8a7yje,1_bqecz0vw,1_0fgh0fsu,1_mz21ytjr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור מלחמה 30.07.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_qzfofc8l",
           "Date": "2025-07-30 21:55:25",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/x5mao-904693690/",
-          "ShortDescriptionLine1": "Vote Zone",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/3947730/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-07-30 21:55:25",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qzfofc8l/flavorIds/1_12dfdzlz,1_rw4nbt5k,1_ncx2vy2n,1_qc7nrtjd,1_6xpnlnva/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -587,18 +539,6 @@
           "ShortDescriptionLine2": "2025-07-29 23:30:58",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2sw9zc1e/flavorIds/1_sr3jndzs,1_sdy6aagq,1_0i3gnq3a,1_kfoh73kn,1_y058xuc3,1_v0d07wxl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 29.07.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_qj7pypjk",
-          "Date": "2025-07-29 22:36:14",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/3946221/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-07-29 22:36:14",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qj7pypjk/flavorIds/1_kyytlchp,1_kjrlm973,1_jb4mbo9z,1_pbiwehz0,1_o6wbx8sf,1_2um0nxtw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
