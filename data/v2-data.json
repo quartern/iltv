@@ -1296,6 +1296,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 31.07.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "de4fc5da5fe58910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-de4fc5da5fe5891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-07-31T15:00:07+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 31.07.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 30.07.25",
           "Poster": "https://img.mako.co.il/2025/07/30/Mahadura_Merkazit_300725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1350,20 +1364,6 @@
           "Date": "2025-07-30T16:55:28+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 30.07.25"
-        },
-        {
-          "Title": "מהדורת היום: 30.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/30/Mahadurat_Hayom_300725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/15hayom_vtr2_n20250730_v1/15hayom_vtr2_n20250730_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/15hayom_vtr2_n20250730_v1/15hayom_vtr2_n20250730_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2dd58c819d958910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2dd58d0bf25c7910/VOD-2dd58c819d95891027.htm",
-          "ShortDescriptionLine2": "Gaza aid: Hamas loses control",
-          "Date": "2025-07-30T15:00:20+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Edition today: 30.07.25"
         },
         {
           "Title": "חדשות סוף השבוע: 26.07.25",
@@ -1768,6 +1768,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת הצוהריים 31.07.25",
+          "StreamerId": "6376370574112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/118837b9-6e04-4300-b0a3-2d10a075fabe/91b2d0b0-5c76-4675-9dad-eb577da0b963/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376370574112",
+          "Date": "2025-07-31T12:00:40Z",
+          "ShortDescriptionLine1": "Lunch edition 31.07.25",
+          "ShortDescriptionLine2": "2025-07-31T12:00:40Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/118837b9-6e04-4300-b0a3-2d10a075fabe/10s/master.m3u8?fastly_token=NjhiMDVhYzNfZDY4Y2FhNmIyMWM0MzBkZmM5NjIzOTk2NzE1NTExZjc5NWYwMzdhY2RhYjVkMTNhNDRmNWNiYTNhN2UzYjZhNw%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 30.06.25",
           "StreamerId": "6376346390112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cd3d952d-1967-4c11-bede-9495cf1d6335/aa160f0c-900e-4494-aff6-ea5dcb8cf545/320x180/match/image.jpg",
@@ -1921,18 +1933,6 @@
           "ShortDescriptionLine2": "2025-07-29T14:59:32Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aa40a39e-8ea7-4c01-b92e-5efe530fcca2/10s/master.m3u8?fastly_token=NjhhZGU2OGZfZWY0ZGFmYTM1NjQ0ODU5MzU3MWU2MTgzNmM3N2M4ZTU5Zjc4OTNjOWY5NmMyYjY4MDhjMWZmMWZlNzQ0OWFmZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 29.07.25 ",
-          "StreamerId": "6376289381112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/97a5ed30-4885-404f-82f9-1e0a94881532/d5cd6c81-c973-4ded-81ad-755a8f0bb3bd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376289381112",
-          "Date": "2025-07-29T14:04:24Z",
-          "ShortDescriptionLine1": "Lunch Edition 29.07.25",
-          "ShortDescriptionLine2": "2025-07-29T14:04:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/97a5ed30-4885-404f-82f9-1e0a94881532/10s/master.m3u8?fastly_token=NjhhZGQzNjdfOWFjOGM2ZWIzN2UzYThjZGJmMDliOWE1NTYwMmYxM2FmNjk1MjY1M2IwODBhMmEyNTNiNGMzMDgwZGY5NjkyOA%3D%3D"
           ]
         },
         {
