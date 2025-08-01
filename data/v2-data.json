@@ -475,24 +475,24 @@
           "StreamerId": "1_g44s8p45",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/936873",
           "Date": "2025-07-31 19:13:33"
-        },
-        {
-          "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
-          "ShortDescriptionLine1": "Zman Emet/Real Time",
-          "ShortDescriptionLine2": "2025-06-04 18:27:53",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_cjc3c54c/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_cjc3c54c/a.m3u8"
-          ],
-          "StreamerId": "1_cjc3c54c",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887037",
-          "Date": "2025-06-04 18:27:53"
         }
       ]
     },
     {
       "Name": "13 News - Latest shows",
       "Items": [
+        {
+          "Title": "המגזין 01.08.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
+          "StreamerId": "1_qz99awji",
+          "Date": "2025-08-01 19:36:19",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/magazine/episodes/e8yvf-904696416/",
+          "ShortDescriptionLine1": "Magazine",
+          "ShortDescriptionLine2": "2025-08-01 19:36:19",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qz99awji/flavorIds/1_obp0z822,1_5dz8j3rz,1_br26owdh,1_v7mibcia,1_fu6f4oqm,1_ltx4h3yp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
         {
           "Title": "היום שהיה 31.07.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
@@ -611,18 +611,6 @@
           "ShortDescriptionLine2": "2025-07-25 20:50:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_m56cgb57/flavorIds/1_l1bo1u0k,1_mpqx1h9i,1_dhpth354,1_dmtx9hoz,1_todunn8v,1_1a27vvqs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המגזין 25.07.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
-          "StreamerId": "1_f5947blr",
-          "Date": "2025-07-25 18:27:06",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/300/season/1/3940145/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-07-25 18:27:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_f5947blr/flavorIds/1_92ais4ho,1_sfmqjlbr,1_hxyv57ln,1_2y3parf5,1_9br5u2fh,1_wihwvpcj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1320,6 +1308,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 01.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "35ec98a4a0168910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/2ccd2b4a725c7910/VOD-35ec98a4a016891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-01T19:55:14+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Friday Studio: 01.08.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 31.07.25",
           "Poster": "https://img.mako.co.il/2025/07/31/Mahadura_Mukdemet_310725_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1430,20 +1432,6 @@
           "Date": "2025-07-26T06:54:11+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Young Edition: 26.07.25"
-        },
-        {
-          "Title": "אולפן שישי: 25.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/25/Mahadura_Merkazit_250725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/20mahadura_full_vtr2_n20250725_v1/20mahadura_full_vtr2_n20250725_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/20mahadura_full_vtr2_n20250725_v1/20mahadura_full_vtr2_n20250725_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a641b08900b38910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/2ccd2b4a725c7910/VOD-a641b08900b3891027.htm",
-          "ShortDescriptionLine2": "New revelations about the suspicions against MK Milwickski",
-          "Date": "2025-07-25T19:52:23+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Friday Studio: 25.07.25"
         },
         {
           "Title": "פגוש את העיתונות: 19.07.25",
