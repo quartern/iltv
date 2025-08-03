@@ -465,30 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "העולם היום | 03.08.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-08-03 14:41:55",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_1gr3ah3c/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_1gr3ah3c/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_1gr3ah3c",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/937591",
-          "Date": "2025-08-03 14:41:55"
-        },
-        {
-          "Title": "חדשות הלילה | 31.07.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-08-03 13:23:41",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_bdodaez6/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bdodaez6/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bdodaez6",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/936876",
-          "Date": "2025-08-03 13:23:41"
-        },
-        {
           "Title": "שבע עם איילה חסון | 02.08.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-08-02 18:55:45",
@@ -499,18 +475,6 @@
           "StreamerId": "1_x1qq1fjn",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/937427",
           "Date": "2025-08-02 18:55:45"
-        },
-        {
-          "Title": "משחקי הכיס | 08.05.25",
-          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
-          "ShortDescriptionLine2": "2025-05-08 14:38:40",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_u1vvqbs5/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_u1vvqbs5/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_u1vvqbs5",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/900267",
-          "Date": "2025-05-08 14:38:40"
         }
       ]
     },
@@ -1512,6 +1476,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 03.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4489f6f2b6e68910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-4489f6f2b6e6891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-03T17:55:43+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.08.25 [live]"
+        },
+        {
           "Title": "חמש עם רפי רשף: 03.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1622,20 +1600,6 @@
           "Date": "2025-07-31T19:42:29+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 31.07.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 31.07.25",
-          "Poster": "https://img.mako.co.il/2025/07/31/Shesh_310725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/07/18shesh_vtr2_n2025031_v1/18shesh_vtr2_n2025031_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/07/18shesh_vtr2_n2025031_v1/18shesh_vtr2_n2025031_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "14c7c5da5fe58910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/fd89cb47635c7910/VOD-14c7c5da5fe5891026.htm",
-          "ShortDescriptionLine2": "Political Locksmith",
-          "Date": "2025-07-31T17:55:35+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 31.07.25"
         },
         {
           "Title": "פגוש את העיתונות: 26.07.25",
@@ -1984,6 +1948,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 08.03.25",
+          "StreamerId": "6376512030112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f15cf85f-9a4d-4d82-b3f1-67005a5f011f/4f88743c-89fb-47db-a063-f91e2326f369/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376512030112",
+          "Date": "2025-08-03T15:24:58Z",
+          "ShortDescriptionLine1": "Edition five 08.03.25",
+          "ShortDescriptionLine2": "2025-08-03T15:24:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f15cf85f-9a4d-4d82-b3f1-67005a5f011f/10s/master.m3u8?fastly_token=NjhiNDgxZTFfODMyOTU1N2MyMGI3NjExZjg4NmQ2ZGY3NDEwYjEwOTY0M2EzMDAyNGFhYzFlZDYyZDdhMTg0NzgxY2QzNzg3YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 03.08.25",
           "StreamerId": "6376510323112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/390b3f39-3365-4d49-a888-7baecf015ffb/4d439711-8c8a-4cbb-8984-66ec0409f25b/320x180/match/image.jpg",
@@ -2173,18 +2149,6 @@
           "ShortDescriptionLine2": "2025-07-30T16:06:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/50142fe1-7c87-4317-bd73-46197518c3df/10s/master.m3u8?fastly_token=NjhhZjQ2MGNfNTFjMGJmNDc2MGQyMDE1MDA0YzNiNDAxNTI2NGRiN2Q0MTJlYWY2MzNhZjk2NTU3YTY4ZjJmNjU4ZjM1N2U4Yg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 30.07.25",
-          "StreamerId": "6376333614112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/91fb9ee3-b882-4ae7-b485-10406a9a4842/b3721ea5-3698-409c-9b9d-9232081d0b4f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376333614112",
-          "Date": "2025-07-30T14:57:07Z",
-          "ShortDescriptionLine1": "Edition five 30.07.25",
-          "ShortDescriptionLine2": "2025-07-30T14:57:07Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/91fb9ee3-b882-4ae7-b485-10406a9a4842/10s/master.m3u8?fastly_token=NjhhZjM0MWNfMmM1NjIyMDM1MmNkYTExMzZiOTYyZWVlMmM2N2U3ODBhOWE3MDFkZTExOTVmNmQ4YzRmMGYzYWM1ZDE2ZWY1OQ%3D%3D"
           ]
         },
         {
