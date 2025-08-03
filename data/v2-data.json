@@ -1572,18 +1572,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 03.08.25 [live]",
+          "Title": "מהדורת היום: 03.08.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21249861/21249861_noAdds/21249861_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21249861/21249861_noAdds/21249861_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "23e626df05e68910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-23e626df05e6891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-03T15:00:54+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 03.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 03.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 02.08.25",
@@ -2044,6 +2044,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 03.08.25",
+          "StreamerId": "6376510323112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/390b3f39-3365-4d49-a888-7baecf015ffb/4d439711-8c8a-4cbb-8984-66ec0409f25b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376510323112",
+          "Date": "2025-08-03T13:55:58Z",
+          "ShortDescriptionLine1": "Edition 15 03.08.25",
+          "ShortDescriptionLine2": "2025-08-03T13:55:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/390b3f39-3365-4d49-a888-7baecf015ffb/10s/master.m3u8?fastly_token=NjhiNDdhZDdfMDUzODBkNjIyMjkwMzAyNzYzODM3OTBkOWNmYTEyOTlmNGE2OGEwYjA3MmVkNmMyZmE1Njk5ZGEyMDI3MzVhMA%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 02.08.25",
           "StreamerId": "6376496134112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b933c554-2202-47e7-85b2-8acf52506521/892f4d4d-38f3-4b4f-b040-f2f3e08145e4/320x180/match/image.jpg",
@@ -2233,18 +2245,6 @@
           "ShortDescriptionLine2": "2025-07-30T14:57:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/91fb9ee3-b882-4ae7-b485-10406a9a4842/10s/master.m3u8?fastly_token=NjhhZjM0MWNfMmM1NjIyMDM1MmNkYTExMzZiOTYyZWVlMmM2N2U3ODBhOWE3MDFkZTExOTVmNmQ4YzRmMGYzYWM1ZDE2ZWY1OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 30.07.25",
-          "StreamerId": "6376331766112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5a532a5b-eace-4e54-bf97-7b907c7983e8/999a0dbd-f31b-4bbe-86bc-6e75283ef912/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376331766112",
-          "Date": "2025-07-30T13:54:49Z",
-          "ShortDescriptionLine1": "Edition 15 30.07.25",
-          "ShortDescriptionLine2": "2025-07-30T13:54:49Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5a532a5b-eace-4e54-bf97-7b907c7983e8/10s/master.m3u8?fastly_token=NjhhZjM1YWFfZmE5NmFlODJiMjM1YTc3MGNjNDlmYzdkOTY3OGU1OGU0ODJkMTUyMjZkMWFlMGQwYTcwZDdlNDQ2NDE1ZmNjNA%3D%3D"
           ]
         },
         {
