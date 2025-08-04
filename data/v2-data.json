@@ -486,8 +486,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_el5vnanr",
           "Date": "2025-08-04 23:02:41",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/tuzyb-904700404/",
-          "ShortDescriptionLine1": "The Main Edition",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/3955516/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-08-04 23:02:41",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_el5vnanr/flavorIds/1_det2ie3j,1_d59ef705,1_66lqcvxp,1_3afc9ecl,1_qvfjs6q3,1_0i0f4szr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -498,8 +498,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_vbrkx095",
           "Date": "2025-08-04 23:02:35",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/m1lsy-904700401/",
-          "ShortDescriptionLine1": "Vote Zone",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/3955515/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-08-04 23:02:35",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vbrkx095/flavorIds/1_tqpnylf0,1_muwjjjsq,1_un5038fe,1_med6hidb,1_45kauqmi,1_w6ajkzda/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1443,6 +1443,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי  [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1298465daaf68910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-1298465daaf6891026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-08-04T23:37:07+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: רגעי ההכרעה",
           "Poster": "https://img.mako.co.il/2025/08/04/Nesli_Yoav_040825_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1469,20 +1483,6 @@
           "Date": "2025-08-04T07:10:38+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Rum Braslavsky's hard documentation"
-        },
-        {
-          "Title": "אברי ושרקי: מורן אטיאס",
-          "Poster": "https://img.mako.co.il/2025/08/04/Avri_Sherki_030825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_030825_VOD_errej872/Avri_Sherki_030825_VOD_errej872_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_030825_VOD_errej872/Avri_Sherki_030825_VOD_errej872_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "38c81c88ade68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-38c81c88ade6891026.htm",
-          "ShortDescriptionLine2": "And also: Amir Blumenfeld, Emmy Pelmor, Michal Orbach",
-          "Date": "2025-08-03T23:40:40+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Moran Atias"
         },
         {
           "Title": "מה באמת קרה שם?: רבקה מיכאלי",
@@ -1756,6 +1756,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 04.08.25",
+          "StreamerId": "6376552290112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4b561e21-6662-470f-a71a-8e48ee626c95/1041027e-65eb-4a4c-bde6-aa0988bcde10/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376552290112",
+          "Date": "2025-08-04T20:39:55Z",
+          "ShortDescriptionLine1": "News of News 04.08.25",
+          "ShortDescriptionLine2": "2025-08-04T20:39:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4b561e21-6662-470f-a71a-8e48ee626c95/10s/master.m3u8?fastly_token=NjhiNjE1ZmVfNjNjMjNlYjI3ZTAyNTFmMGE5YjRhOTlkMWRmZjZmZGI0M2ZkYmI3MjEzNDFmOTc5YTMxYTkwMDA5NzhiYmY3ZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 04.08.25",
           "StreamerId": "6376549137112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/56e11236-b9c3-4050-98f7-3240e87aece8/ed66156e-8987-4e4f-97cc-73035166f35a/320x180/match/image.jpg",
@@ -1873,18 +1885,6 @@
           "ShortDescriptionLine2": "2025-08-03T20:47:16Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/579ac7cd-1dda-444f-b44c-3a476fdc9ca8/10s/master.m3u8?fastly_token=NjhiNGM3Y2RfYWE4NDk1MDZiY2Y4NWM3NzYxYWU0YzU2MjE5NmY0NmZjZmY3OTdkZDQwMzVjNDMzYThjZDhiODQxOTdhMGU4MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "רני רהב על מכתב האומנים: \"עידן עמדי הוא גיבור ישראל, אך הוא יצא מפרופורציה\"",
-          "StreamerId": "6376519169112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ebaad05b-9736-44b7-937f-4711fe94a4e6/d9ad8943-76a0-45e3-a37f-2640d5663575/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376519169112",
-          "Date": "2025-08-03T20:39:21Z",
-          "ShortDescriptionLine1": "Rani Rahab on the artist's letter: \"The Amdi era is the hero of Israel, but he is out of proportion\"",
-          "ShortDescriptionLine2": "2025-08-03T20:39:21Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ebaad05b-9736-44b7-937f-4711fe94a4e6/10s/master.m3u8?fastly_token=NjhiNGJjNGRfZGJmMzcwMGRjZTE0YjU1ODdiMTQ1YTcyYmNlZTFhM2ZmMzdmYjYyYzBiZTAwZGJiOTZjNDJiMWE1NTQ4MDJjMQ%3D%3D"
           ]
         },
         {
