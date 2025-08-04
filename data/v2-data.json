@@ -1284,18 +1284,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 04.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 04.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "469d6e6ad7378910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-469d6e6ad737891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-04T19:53:19+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 04.08.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 04.08.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21249893/21249893_noAdds/21249893_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21249893/21249893_noAdds/21249893_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f7fc6e6ad7378910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/c353a886ccf48910/VOD-f7fc6e6ad737891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-04T18:59:05+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 04.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 04.08.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 04.08.25",
@@ -1313,45 +1327,31 @@
         },
         {
           "Title": "חמש עם רפי רשף: 04.08.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/08/04/Hamesh_040825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21249906/21249906_noAdds/21249906_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21249906/21249906_noAdds/21249906_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250804_v1/17rafi_vtr2_n20250804_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250804_v1/17rafi_vtr2_n20250804_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "dbc96e6ad7378910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-dbc96e6ad737891026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Government's agenda: Netanyahu family security",
           "Date": "2025-08-04T16:54:23+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 04.08.25"
         },
         {
           "Title": "מהדורת היום: 04.08.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/08/04/Mahadurat_Hayom_040825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21249891/21249891_noAdds/21249891_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21249891/21249891_noAdds/21249891_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/15today_vtr2_n20250804_v1/15today_vtr2_n20250804_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/15today_vtr2_n20250804_v1/15today_vtr2_n20250804_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c9096e6ad7378910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-c9096e6ad737891026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Pluing Aid: Residents' testimony - Hamas takes",
           "Date": "2025-08-04T15:00:40+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 04.08.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 03.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/03/Mahadura_Merkazit_030825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250803_v1/20mahadurafull_vtr2_n20250803_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250803_v1/20mahadurafull_vtr2_n20250803_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4a1cf6f2b6e68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-4a1cf6f2b6e6891026.htm",
-          "ShortDescriptionLine2": "Rum Braslavsky's cry",
-          "Date": "2025-08-03T19:53:16+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 03.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 02.08.25",
@@ -1756,6 +1756,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 04.08.25",
+          "StreamerId": "6376546136112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65f711d6-a5c0-4cbf-9976-90aff0819372/02e45a28-04d3-43f3-8b83-e649b92a2c1d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376546136112",
+          "Date": "2025-08-04T16:52:13Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 04.08.25",
+          "ShortDescriptionLine2": "2025-08-04T16:52:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65f711d6-a5c0-4cbf-9976-90aff0819372/10s/master.m3u8?fastly_token=NjhiNWU0ZjVfOGVmMGY5YjEyNWU1YTRmNWQ3ZmIyZjc0OTQyZjJlODU2ZGUxNGE0OGE1MzM3ZTc0YWJhNmQzOTAxMjEyNmFiOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 04.08.25",
           "StreamerId": "6376543925112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ed763c3f-a5e5-4999-b503-5dc0f775c8e5/b6f6ad3d-11c4-4815-b231-b6f1daa39932/320x180/match/image.jpg",
@@ -1981,18 +1993,6 @@
           "ShortDescriptionLine2": "2025-07-31T18:23:25Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4b3c338d-c06d-4b76-9d1e-bb7e51a24cc2/10s/master.m3u8?fastly_token=NjhiMGJjNmJfMDczZjdkMjdlZWY5ZGI2MGYzNWYzNzYyNTFjMDkxZjJhOGJhNTZkZDBlM2NiNGFiMTBkNzY0YTY4YmQ4N2E2YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 31.07.25",
-          "StreamerId": "6376387592112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c3f0ad0b-d1de-4cbb-a8d9-8f0542cf4696/e0a3d3b7-fad6-4fb7-b4e1-8f0b9a1674f7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376387592112",
-          "Date": "2025-07-31T16:55:56Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 31.07.25",
-          "ShortDescriptionLine2": "2025-07-31T16:55:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c3f0ad0b-d1de-4cbb-a8d9-8f0542cf4696/10s/master.m3u8?fastly_token=NjhiMDllYWFfMjk3NWYyNDg3ZGQyYjZkZTk4NDZkMWUyODZhOGIwZTMwZTM2OGZhYjRhMjRiYWQ4NjEzZTg4NDZlM2JhYTIyZg%3D%3D"
           ]
         },
         {
