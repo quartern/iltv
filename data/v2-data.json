@@ -1296,6 +1296,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חמש עם רפי רשף: 04.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "dbc96e6ad7378910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-dbc96e6ad737891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-04T16:54:23+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 04.08.25 [live]"
+        },
+        {
           "Title": "מהדורת היום: 04.08.25 [live]",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1350,20 +1364,6 @@
           "Date": "2025-08-03T17:55:43+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.08.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 03.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/03/Hamesh_030825_VOD_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250803_v1/17rafi_vtr2_n20250803_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250803_v1/17rafi_vtr2_n20250803_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d5a6a270d5e68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-d5a6a270d5e6891026.htm",
-          "ShortDescriptionLine2": "Documentation that shakes from captivity - and the following steps in the Cabinet",
-          "Date": "2025-08-03T16:56:14+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 03.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 02.08.25",
@@ -1456,13 +1456,13 @@
       "Items": [
         {
           "Title": "נסלי ויואב: רגעי ההכרעה",
-          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/08/04/Nesli_Yoav_040825_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21249908/21249908_noAdds/21249908_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21249908/21249908_noAdds/21249908_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2025/August/Nesli_Yoav_040825_VOD_bf58s6/Nesli_Yoav_040825_VOD_bf58s6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2025/August/Nesli_Yoav_040825_VOD_bf58s6/Nesli_Yoav_040825_VOD_bf58s6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bb56cf61cae68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-bb56cf61cae6891026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2025/VOD-bb56cf61cae6891026.htm",
           "ShortDescriptionLine2": "The moments of decision, and also: the distress of evacuees",
           "Date": "2025-08-04T09:34:07+03:00",
           "Live": false,
@@ -1472,11 +1472,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: התיעוד הקשה של רום ברסלבסקי",
           "Poster": "https://img.mako.co.il/2025/08/04/Hadshot_Haboker_040825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21249884/21249884_noAdds/21249884_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21249884/21249884_noAdds/21249884_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_Haboker_040825_VOD_fdvjh48/Hadshot_Haboker_040825_VOD_fdvjh48_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_Haboker_040825_VOD_fdvjh48/Hadshot_Haboker_040825_VOD_fdvjh48_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "880245b2e9e68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-880245b2e9e6891026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-880245b2e9e6891026.htm",
           "ShortDescriptionLine2": "The struggle of abducted families, and also: anti -Semitism in Greece",
           "Date": "2025-08-04T07:10:38+03:00",
           "Live": false,
