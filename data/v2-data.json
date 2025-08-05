@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 05.08.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-08-05 20:34:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g0yfjqam/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g0yfjqam/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_g0yfjqam",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/938382",
+          "Date": "2025-08-05 20:34:33"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 05.08.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-08-05 19:31:19",
@@ -511,18 +523,6 @@
           "StreamerId": "1_bymlmopf",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/938375",
           "Date": "2025-08-05 14:18:48"
-        },
-        {
-          "Title": "חדשות הלילה | 04.08.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-08-04 20:42:31",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_bi7hiut7/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bi7hiut7/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bi7hiut7",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/938019",
-          "Date": "2025-08-04 20:42:31"
         },
         {
           "Title": "חדשות השבת | 02.08.25",
@@ -2139,6 +2139,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי  [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c6208cb100578910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-c6208cb10057891026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-08-05T23:36:59+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: החשש הכבד של משפחות החטופים",
           "Poster": "https://img.mako.co.il/2025/08/05/Nesli_Yoav_050825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2165,20 +2179,6 @@
           "Date": "2025-08-05T07:10:44+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: negotiations for a deed deal"
-        },
-        {
-          "Title": "אברי ושרקי: איציק סעידיאן",
-          "Poster": "https://img.mako.co.il/2025/08/05/Avri_Sherki_050825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_050825_VOD_dsf405/Avri_Sherki_050825_VOD_dsf405_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_050825_VOD_dsf405/Avri_Sherki_050825_VOD_dsf405_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1298465daaf68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-1298465daaf6891026.htm",
-          "ShortDescriptionLine2": "And also: Sarah Hatzan-Cohen, Josh Bryiner, Doron Holy",
-          "Date": "2025-08-04T23:37:07+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Itzik Siddian"
         },
         {
           "Title": "מה באמת קרה שם?: רבקה מיכאלי",
@@ -2452,6 +2452,42 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 05.08.25",
+          "StreamerId": "6376593793112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c327595a-c38d-4986-b7bb-7eeb7d2a7700/4701675d-42f7-4fea-b37a-01dc98ae91ab/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376593793112",
+          "Date": "2025-08-05T20:39:16Z",
+          "ShortDescriptionLine1": "News of News 05.08.25",
+          "ShortDescriptionLine2": "2025-08-05T20:39:16Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c327595a-c38d-4986-b7bb-7eeb7d2a7700/10s/master.m3u8?fastly_token=NjhiNzY2MjRfNTIxOGIzNTBiMTgxNWM5YTRkYTk2MWZkZmYwNzg1Nzk2ZGRkZjc2NWE3ZDRlZDVkMzFmYzAxMDUzZmY1NWQ3Mw%3D%3D"
+          ]
+        },
+        {
+          "Title": "המועדון העסקי 05.08.25",
+          "StreamerId": "6376590846112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2ae4e596-dae1-4e40-98ff-cc03179f1f72/310419ba-7158-4750-a83f-60b3030ae7a8/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376590846112",
+          "Date": "2025-08-05T20:32:53Z",
+          "ShortDescriptionLine1": "Business Club 05.08.25",
+          "ShortDescriptionLine2": "2025-08-05T20:32:53Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2ae4e596-dae1-4e40-98ff-cc03179f1f72/10s/master.m3u8?fastly_token=NjhiNzY0MTNfNDJmOWViMmIxZDc5MTM4ZWVlYTdhMTZiZmVjMjEwZmIzYWNiMzZjNmM1ZjM2MDllZGFmYTNmNDllMDM1Njg1NA%3D%3D"
+          ]
+        },
+        {
+          "Title": "7 שרון גל 05.08.25",
+          "StreamerId": "6376592606112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/84927bc8-65e2-4a04-83c4-268b46eb0cf6/7f1a9167-0054-425d-bdc9-8258f12934ea/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376592606112",
+          "Date": "2025-08-05T20:32:24Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 05.08.25",
+          "ShortDescriptionLine2": "2025-08-05T20:32:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/84927bc8-65e2-4a04-83c4-268b46eb0cf6/10s/master.m3u8?fastly_token=NjhiNzZhMDJfMDc4OGMzOTYxMzAwYmY5MTAyNTJhYzAxNDVmZTFkNzFlZGRjNWIyYWI2OTQxY2IxNjQ2MjU3ZmYwMWM4NzE4Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 05.08.25",
           "StreamerId": "6376591774112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a80b8646-6e6a-46e7-bdd5-3820ec15bd8a/fe27611c-116f-4d25-bbdd-3d1abd525b20/320x180/match/image.jpg",
@@ -2641,42 +2677,6 @@
           "ShortDescriptionLine2": "2025-08-04T13:02:57Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ecf0ea63-9efe-41bb-8e66-bba06e2b2fbb/10s/master.m3u8?fastly_token=NjhiNWFlMTdfMDJhMmNlM2MzYmQzYmMyZjM1MTQxNDc4OTQ4M2NkZWQ3YTRmODU2ZTM5MmY0MDc2ZDg0N2NiNjk5OTA5MzU1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי 03.08.25",
-          "StreamerId": "6376518987112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8f187298-dea6-409f-b193-733017b8d202/ea2f5446-9052-41b8-a5de-6a01d08a7e52/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376518987112",
-          "Date": "2025-08-03T20:51:03Z",
-          "ShortDescriptionLine1": "Business Club 03.08.25",
-          "ShortDescriptionLine2": "2025-08-03T20:51:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8f187298-dea6-409f-b193-733017b8d202/10s/master.m3u8?fastly_token=NjhiNGM2MDRfZDQ1ODVlN2M0OTY3ZDg4ZDBiZTQ3MWFkNWYxOTM0MDhmNWI2NzlkYWNiZDY3MjhhNDYxODYwZjJhYjk4NDM4Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 03.08.25",
-          "StreamerId": "6376518584112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/579ac7cd-1dda-444f-b44c-3a476fdc9ca8/3597bfeb-dff8-4f06-b5e7-6581df6e9278/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376518584112",
-          "Date": "2025-08-03T20:47:16Z",
-          "ShortDescriptionLine1": "News of News 03.08.25",
-          "ShortDescriptionLine2": "2025-08-03T20:47:16Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/579ac7cd-1dda-444f-b44c-3a476fdc9ca8/10s/master.m3u8?fastly_token=NjhiNGM3Y2RfYWE4NDk1MDZiY2Y4NWM3NzYxYWU0YzU2MjE5NmY0NmZjZmY3OTdkZDQwMzVjNDMzYThjZDhiODQxOTdhMGU4MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 03.08.25",
-          "StreamerId": "6376515959112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f5b89dc1-38b1-4a63-a072-4c587fa468a8/b859e33d-9878-420b-a944-7e54b3eceb32/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376515959112",
-          "Date": "2025-08-03T18:29:02Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 03.08.25",
-          "ShortDescriptionLine2": "2025-08-03T18:29:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f5b89dc1-38b1-4a63-a072-4c587fa468a8/10s/master.m3u8?fastly_token=NjhiNGFiMzZfMWJlMWNkZTMyNjYyZWYyYmNhMTEzZjFlNWRmZGFkMGUwMTgxYWY1YzgzZWE1MGExYzZlOTVmYzk2MDM5ZTg2MA%3D%3D"
           ]
         },
         {
