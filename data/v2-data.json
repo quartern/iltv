@@ -1980,29 +1980,29 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 06.08.25 [live]",
+          "Title": "המהדורה המרכזית: 06.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21249956/21249956_noAdds/21249956_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21249956/21249956_noAdds/21249956_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "343756366bd78910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-343756366bd7891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-06T19:54:18+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 06.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 06.08.25"
         },
         {
           "Title": "המהדורה המוקדמת: 06.08.25",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=338a95985dd78910VgnVCM200000650a10acRCRD&ts=1754499602",
+          "Poster": "https://img.mako.co.il/2025/08/06/Mahadura_Mukdemet_060825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21249951/21249951_noAdds/21249951_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21249951/21249951_noAdds/21249951_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "338a95985dd78910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/c353a886ccf48910/VOD-338a95985dd7891026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "At the last minute? - An alternative plan for the Gaza occupation?",
           "Date": "2025-08-06T18:59:15+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 06.08.25"
