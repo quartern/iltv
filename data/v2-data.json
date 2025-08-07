@@ -1891,6 +1891,18 @@
       "Name": "Reshet 13 Specials",
       "Items": [
         {
+          "Title": "הצינור 06.08.2025 - התוכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1731622640/uploads/2024/904338254.jpg",
+          "StreamerId": "1_ad5dwviv",
+          "Date": "2025-08-06 23:50:13",
+          "EpisodeUrl": "https://13tv.co.il/item/entertainment/hatzinor/season-01/episodes/k8qmg-904704588/",
+          "ShortDescriptionLine1": "Tube 06.08.2025 - Full Plan",
+          "ShortDescriptionLine2": "2025-08-06 23:50:13",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ad5dwviv/a.m3u8"
+          ]
+        },
+        {
           "Title": "הצינור 05.08.2025 - התוכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
           "StreamerId": "1_4kp318t9",
@@ -1900,18 +1912,6 @@
           "ShortDescriptionLine2": "2025-08-05 23:50:16",
           "StreamUrls": [
             "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4kp318t9/a.m3u8"
-          ]
-        },
-        {
-          "Title": "הצינור 04.08.2025 - התוכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1707124237/uploads/2024/903921701.jpg",
-          "StreamerId": "1_cu8p9qqk",
-          "Date": "2025-08-04 23:50:29",
-          "EpisodeUrl": "https://13tv.co.il/item/entertainment/hatzinor/season-01/episodes/vvepg-904701228/",
-          "ShortDescriptionLine1": "Tube 04.08.2025 - Full Plan",
-          "ShortDescriptionLine2": "2025-08-04 23:50:29",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cu8p9qqk/flavorIds/1_zk9p7oq7,1_phzbs54c,1_qte1uu0z,1_uwa2sl02,1_c48ekaln,1_acbahf7h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2139,18 +2139,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
-          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "Title": "נסלי ויואב: נסלי ויואב [live]",
+          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4007cf61cae68910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-4007cf61cae6891026.htm",
+          "ShortDescriptionLine2": "Special transmitter with Nesli Breda and Yoav Limor",
+          "Date": "2025-08-07T09:34:13+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav [live]"
+        },
+        {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21249970/21249970_noAdds/21249970_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21249970/21249970_noAdds/21249970_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "40f0a0f810e78910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-40f0a0f810e7891027.htm",
           "ShortDescriptionLine2": "All you need to know to open the morning",
           "Date": "2025-08-07T07:12:16+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin"
         },
         {
           "Title": "בזמן שעבדתם: הנוסחה החדשה להצלחה בקריירה",
@@ -2165,20 +2179,6 @@
           "Date": "2025-08-07T00:54:48+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: the new formula for career success"
-        },
-        {
-          "Title": "נסלי ויואב: מאבק משפחות החטופים",
-          "Poster": "https://img.mako.co.il/2025/08/06/Nesli_Yoav_060825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2025/August/Nesli_Yoav_060825_VOD_JDI473/Nesli_Yoav_060825_VOD_JDI473_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2025/August/Nesli_Yoav_060825_VOD_JDI473/Nesli_Yoav_060825_VOD_JDI473_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "24d6cf61cae68910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2025/VOD-24d6cf61cae6891026.htm",
-          "ShortDescriptionLine2": "Family Family, and Tyrian are harmful that has become an end",
-          "Date": "2025-08-06T09:35:32+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Nesli and Yoav: the battle of kidnapped families"
         },
         {
           "Title": "אברי ושרקי: אלוף במיל' גיורא איילנד",
