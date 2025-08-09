@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 09.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 09.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "427d6fa6f3388910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/49a6a886ccf48910/VOD-427d6fa6f338891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-09T19:54:33+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend News: 09.08.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 09.08.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21250021/21250021_noAdds/21250021_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21250021/21250021_noAdds/21250021_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "46c96fa6f3388910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/d06a3f8b3df48910/VOD-46c96fa6f338891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-09T17:59:17+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the Press: 09.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the Press: 09.08.25"
         },
         {
           "Title": "שבת בחמש: 09.08.25",
@@ -2090,20 +2104,6 @@
           "Date": "2025-08-07T15:00:02+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 07.08.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 02.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/02/Mahadura_Merkazit_020825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250802_v1/20mahadurafull_vtr2_n20250802_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250802_v1/20mahadurafull_vtr2_n20250802_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a7745b00f1168910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/49a6a886ccf48910/VOD-a7745b00f116891026.htm",
-          "ShortDescriptionLine2": "Survived captive with Eviatar David in the tunnel in an interview",
-          "Date": "2025-08-02T19:55:18+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend News: 02.08.25"
         },
         {
           "Title": "פגוש את העיתונות: 02.08.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 09.08.25",
+          "StreamerId": "6376736160112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0bb3441c-1f82-4b0f-93c4-5fbd6aef2304/2257b266-b427-4b8e-b23d-5888b41bc571/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376736160112",
+          "Date": "2025-08-09T16:54:35Z",
+          "ShortDescriptionLine1": "Israelis 09.08.25",
+          "ShortDescriptionLine2": "2025-08-09T16:54:35Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0bb3441c-1f82-4b0f-93c4-5fbd6aef2304/10s/master.m3u8?fastly_token=NjhiYzgwNGRfMWYyMTdkMjdmMTY0YTkxYzhhMDRiY2JmY2I4YWI4Mzc1YzIyODE3Y2U4ZTI4ZDE3NjIzNTc5YzM4MjU2ZmExYw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 09.08.25",
           "StreamerId": "6376733262112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d278696e-41a7-4cfd-bb94-ed5eb3553303/598a0ce2-ceb7-4cac-996d-90f00dceec6e/320x180/match/image.jpg",
@@ -2701,18 +2713,6 @@
           "ShortDescriptionLine2": "2025-08-04T20:01:32Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/56e11236-b9c3-4050-98f7-3240e87aece8/10s/master.m3u8?fastly_token=NjhiNjA4NjdfNDI2MjlkZWZjZGEwYmUzNDdmZjc0M2IwNGQ4YTQwNmE3MWY1YzkwZTdhNjM2MTllMzhlYzRmZWYwNmUyZTNjNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 04.08.25",
-          "StreamerId": "6376549212112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/523507c8-a93c-415d-a57b-d45eb84ce14d/7f0ed3de-5101-46b6-8dda-e813364b5155/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376549212112",
-          "Date": "2025-08-04T19:32:44Z",
-          "ShortDescriptionLine1": "Israelis 04.08.25",
-          "ShortDescriptionLine2": "2025-08-04T19:32:44Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/523507c8-a93c-415d-a57b-d45eb84ce14d/10s/master.m3u8?fastly_token=NjhiNjEwMTdfYzA5Y2ZiNmZiOGFhMzUzY2Q0NjVkODVlMzkwOGUyMTEwYTAyN2E0N2NmYmQzYzhjZGU4Y2E5NjIxNzM2NTcxYw%3D%3D"
           ]
         },
         {
