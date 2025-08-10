@@ -602,12 +602,24 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שש 10.08.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
+          "StreamerId": "1_t5idkwr8",
+          "Date": "2025-08-10 19:52:51",
+          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/pjmjs-904709735/",
+          "ShortDescriptionLine1": "Six",
+          "ShortDescriptionLine2": "2025-08-10 19:52:51",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_t5idkwr8/flavorIds/1_5f8z9zkt,1_p67m1n1k,1_0cx9avqt,1_m97fxhr2,1_285ml8fu,1_95t6n2cr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 10.08.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_0uf9ltfh",
           "Date": "2025-08-10 19:21:06",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/ilc66-904709645/",
-          "ShortDescriptionLine1": "Daily News",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/3963704/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-08-10 19:21:06",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0uf9ltfh/flavorIds/1_lsxw23ix,1_ng28uzby,1_sp8aljp2,1_jymwqz7g,1_8yrbnotz,1_7lwze476/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-08-07 22:29:14",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hwt2tcnv/flavorIds/1_4bv57rue,1_zxcefj99/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות שש 07.08.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1721734202/uploads/2024/904163671.jpg",
-          "StreamerId": "1_v2hesko8",
-          "Date": "2025-08-07 19:46:19",
-          "EpisodeUrl": "https://13tv.co.il/item/news/six/episodes/nqts9-904706228/",
-          "ShortDescriptionLine1": "Six",
-          "ShortDescriptionLine2": "2025-08-07 19:46:19",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_v2hesko8/flavorIds/1_9r9b9agx,1_tiif8uob,1_pwluopdu,1_29m1dj3o,1_0sobr3rh,1_3zcvaftx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 10.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 10.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a68f3e4de5298910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-a68f3e4de529891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-10T19:53:52+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 10.08.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 10.08.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21250050/21250050_noAdds/21250050_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21250050/21250050_noAdds/21250050_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "5ece3e4de5298910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/c353a886ccf48910/VOD-5ece3e4de529891026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-10T18:59:05+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 10.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 10.08.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 10.08.25",
@@ -2118,20 +2132,6 @@
           "Date": "2025-08-02T18:00:35+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the Press: 02.08.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 07.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/07/Mahadura_Merkazit_070825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250807_v1/20mahadura_full_vtr2_n20250807_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250807_v1/20mahadura_full_vtr2_n20250807_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5564e288d1388910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-5564e288d138891027.htm",
-          "ShortDescriptionLine2": "Updates from the dramatic discussion of the Cabinet and the checks",
-          "Date": "",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 07.08.25"
         }
       ]
     },
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 10.08.25",
+          "StreamerId": "6376767450112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/df8b563c-f85e-4d2b-9d4a-5e5ebad7208f/7a38ac9e-4513-4574-8862-0a84ab410001/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376767450112",
+          "Date": "2025-08-10T16:51:47Z",
+          "ShortDescriptionLine1": "7 Sharon Gal 10.08.25",
+          "ShortDescriptionLine2": "2025-08-10T16:51:47Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/df8b563c-f85e-4d2b-9d4a-5e5ebad7208f/10s/master.m3u8?fastly_token=NjhiZGNjZmFfZDQ3MTIzMWZhODNjOWIyNWZlOThhMDBkNWM3OTJmYjU4YjVhYmJkMzJmYTAzYTM5NWI3ZmVhZGMzMDc3ZmZlOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 10.08.25",
           "StreamerId": "6376766661112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e98ee6b0-9c6d-45f4-a46c-cc4de1af8784/48fc2844-37a6-40d3-bd67-7d2814f84277/320x180/match/image.jpg",
@@ -2665,18 +2677,6 @@
           "ShortDescriptionLine2": "2025-08-07T12:24:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6764bd4b-dd2a-44ab-bb8e-aae24bd9e8d1/10s/master.m3u8?fastly_token=NjhiOTlmNGRfMjRhOTgwMDU5YzFiZWRjY2JhZmMwZmQ1YTg0ODRjZTAzMDdkN2Q4OTQzYzk1NjM3NDdkN2JiODg1NDJmMTdjYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל 06.08.25",
-          "StreamerId": "6376625350112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3277c4b6-4392-453d-a136-84bc2d81bc3f/3c9b2389-7a1b-4578-9bf0-b589fb48d47d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376625350112",
-          "Date": "2025-08-06T17:04:04Z",
-          "ShortDescriptionLine1": "7 Sharon Gal 06.08.25",
-          "ShortDescriptionLine2": "2025-08-06T17:04:04Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3277c4b6-4392-453d-a136-84bc2d81bc3f/10s/master.m3u8?fastly_token=NjhiODg5YjlfODU0NjMyMTI4ZTRmNGEwMjVlNzQ1ZGE1YjQzOTdkZWUwZGFjY2UzODM3M2UxZjFkNjlkZjI5ZGM3YWNjNDBmMw%3D%3D"
           ]
         },
         {
