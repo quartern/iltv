@@ -1416,18 +1416,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 12.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 12.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ff613dacdfc98910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-ff613dacdfc9891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-12T16:56:24+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 12.08.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 12.08.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21250103/21250103_noAdds/21250103_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21250103/21250103_noAdds/21250103_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "31bc3dacdfc98910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-31bc3dacdfc9891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-12T15:00:52+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 12.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 12.08.25"
         },
         {
           "Title": "המהדורה המרכזית: 11.08.25",
@@ -1470,20 +1484,6 @@
           "Date": "2025-08-11T17:55:58+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 11.08.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 11.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/11/Hamesh_110825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250811_v1/17rafi_vtr2_n20250811_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250811_v1/17rafi_vtr2_n20250811_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "98aaa41988798910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-98aaa4198879891026.htm",
-          "ShortDescriptionLine2": "Deri Recording, Demonstration - and Netanyahu's backup",
-          "Date": "2025-08-11T16:55:32+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 11.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 09.08.25",
@@ -1592,11 +1592,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: אירופה סוערת",
           "Poster": "https://img.mako.co.il/2025/08/12/Hadshot_Haboker_120825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21250096/21250096_noAdds/21250096_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21250096/21250096_noAdds/21250096_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_Haboker_120825_VOD_cxs343/Hadshot_Haboker_120825_VOD_cxs343_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_Haboker_120825_VOD_cxs343/Hadshot_Haboker_120825_VOD_cxs343_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "58d60f841c298910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-58d60f841c29891027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-58d60f841c29891027.htm",
           "ShortDescriptionLine2": "Europe is turbulent, and also: recruitment to the paratroopers' brigade",
           "Date": "2025-08-12T07:11:00+03:00",
           "Live": false,
@@ -2383,18 +2383,6 @@
           "StreamerId": "1_e2mrfuf9",
           "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847226",
           "Date": "2025-08-10 13:49:34"
-        },
-        {
-          "Title": "בלואי | פרק 44 - הר אימאבא",
-          "ShortDescriptionLine1": "Louis | Chapter 44 - Mount Imaba",
-          "ShortDescriptionLine2": "2025-08-10 13:49:37",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/a.m3u8"
-          ],
-          "StreamerId": "1_smileor2",
-          "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847230",
-          "Date": "2025-08-10 13:49:37"
         },
         {
           "Title": "צ'רלי ולולה עונה 1 | פרק 1 - אני לעולם לא אוכל עגבנייה",
