@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 14.08.25 [live]",
+          "Title": "שש עם עודד בן עמי: 14.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21250158/21250158_noAdds/21250158_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21250158/21250158_noAdds/21250158_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c99c71d21b7a8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-c99c71d21b7a891027.htm",
           "ShortDescriptionLine2": "Histadrut against the opening of Wiz Offices in Israel",
           "Date": "2025-08-14T17:55:51+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 14.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 14.08.25"
         },
         {
           "Title": "חמש עם רפי רשף: 14.08.25",
@@ -2947,6 +2947,18 @@
           "StreamerId": "1_e2mrfuf9",
           "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847226",
           "Date": "2025-08-10 13:49:34"
+        },
+        {
+          "Title": "בלואי | פרק 44 - הר אימאבא",
+          "ShortDescriptionLine1": "Louis | Chapter 44 - Mount Imaba",
+          "ShortDescriptionLine2": "2025-08-10 13:49:37",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/a.m3u8"
+          ],
+          "StreamerId": "1_smileor2",
+          "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847230",
+          "Date": "2025-08-10 13:49:37"
         },
         {
           "Title": "צ'רלי ולולה עונה 1 | פרק 1 - אני לעולם לא אוכל עגבנייה",
