@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 15.08.25 [live]",
+          "Title": "אולפן שישי: 15.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21250176/21250176_noAdds/21250176_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21250176/21250176_noAdds/21250176_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ba9b235fbb7a8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-ba9b235fbb7a891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-15T19:51:47+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 15.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 15.08.25"
         },
         {
           "Title": "המהדורה המרכזית: 14.08.25",
@@ -2139,6 +2139,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "מה באמת קרה שם?: מה באמת קרה שם? [live]",
+          "Poster": "https://img.mako.co.il/2025/04/23/WhatHappened_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0b9004fd043a8910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/what_really_happened-s1/VOD-0b9004fd043a891026.htm",
+          "ShortDescriptionLine2": "The new hospitality program on Fridays, hosted by Erez Tal",
+          "Date": "2025-08-15T21:55:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "What really happened there?: What really happened there? [live]"
+        },
+        {
           "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון",
           "Poster": "https://img.mako.co.il/2025/08/14/Doh_Matzav_140825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2277,20 +2291,6 @@
           "Date": "2025-07-31T00:51:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: the company that reached a dollar trillion"
-        },
-        {
-          "Title": "מה באמת קרה שם?: ארז טל עם צדי צרפתי",
-          "Poster": "https://img.mako.co.il/2025/07/25/Ma_Beemet_Kara_Sham_250725_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_12_250725_VOD_dgh760/Ma_Beemet_Kara_Sham_12_250725_VOD_dgh760_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_12_250725_VOD_dgh760/Ma_Beemet_Kara_Sham_12_250725_VOD_dgh760_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c4dd8c4e4b638910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-c4dd8c4e4b63891026.htm",
-          "ShortDescriptionLine2": "French sides in the most open interview he did",
-          "Date": "2025-07-25T21:59:38+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "What really happened there?: Erez Tal with French sides"
         },
         {
           "Title": "הראש: מבצע חילוץ",
