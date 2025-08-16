@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 16.08.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-08-16 17:20:34",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_2qnfgxqp/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2qnfgxqp/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_2qnfgxqp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/941912",
+          "Date": "2025-08-16 17:20:34"
+        },
+        {
           "Title": "חדשות שישי | 15.08.25",
           "ShortDescriptionLine1": "Friday News Edition",
           "ShortDescriptionLine2": "2025-08-15 20:24:18",
@@ -475,6 +487,18 @@
           "StreamerId": "1_05s93qz7",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/941603",
           "Date": "2025-08-15 20:24:18"
+        },
+        {
+          "Title": "מהדורת כאן חדשות | 14.08.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-08-15 06:10:55",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_tg6i5rqc/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_tg6i5rqc/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_tg6i5rqc",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/941259",
+          "Date": "2025-08-15 06:10:55"
         },
         {
           "Title": "חדשות הלילה | 14.08.25",
@@ -513,6 +537,30 @@
           "Date": "2025-08-14 15:11:33"
         },
         {
+          "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
+          "ShortDescriptionLine1": "Zman Emet/Real Time",
+          "ShortDescriptionLine2": "2025-06-04 18:27:53",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_cjc3c54c/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_cjc3c54c/a.m3u8"
+          ],
+          "StreamerId": "1_cjc3c54c",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887037",
+          "Date": "2025-06-04 18:27:53"
+        },
+        {
+          "Title": "משחקי הכיס | 08.05.25",
+          "ShortDescriptionLine1": "Mischakei HaKis / Pocket Games",
+          "ShortDescriptionLine2": "2025-05-08 14:38:40",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_u1vvqbs5/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u1vvqbs5/a.m3u8"
+          ],
+          "StreamerId": "1_u1vvqbs5",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11789/900267",
+          "Date": "2025-05-08 14:38:40"
+        },
+        {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
           "ShortDescriptionLine1": "Yihiye Tov - It will end well",
           "ShortDescriptionLine2": "2025-01-27 11:53:39",
@@ -523,6 +571,18 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
+        },
+        {
+          "Title": "מהדורת חמש | 07.11.24",
+          "ShortDescriptionLine1": "The 5pm News Edition",
+          "ShortDescriptionLine2": "2024-11-07 20:13:56",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_gv54mbxq/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_gv54mbxq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
+          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -1197,40 +1257,52 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "קופה ראשית עונה 5 | פרק 1 - כפרות",
-          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 1 - Counts",
-          "ShortDescriptionLine2": "2025-05-21 20:54:35",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_csokhtwe/width/400/vid_sec/5",
+          "Title": "סינדרום עזה | פרק 1 - נקודת העיוורון",
+          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 1 - The Blind Point",
+          "ShortDescriptionLine2": "2025-05-21 20:37:28",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_4tf45try/width/400/vid_sec/5",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_csokhtwe/a.m3u8"
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4tf45try/a.m3u8"
           ],
-          "StreamerId": "1_csokhtwe",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809113",
-          "Date": "2025-05-21 20:54:35"
+          "StreamerId": "1_4tf45try",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838880",
+          "Date": "2025-05-21 20:37:28"
         },
         {
-          "Title": "קופה ראשית עונה 5 | פרק 2 - הסטארט-אפ של כוכבה",
-          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 2 - Star of Struck",
-          "ShortDescriptionLine2": "2025-05-21 20:54:35",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ygac97dd/width/400/vid_sec/5",
+          "Title": "סינדרום עזה | פרק 2 - ארץ אחת",
+          "ShortDescriptionLine1": "Gaza Syndrome | Chapter 2 - one country",
+          "ShortDescriptionLine2": "2025-05-21 20:37:29",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_pfd2n8ut/width/400/vid_sec/5",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ygac97dd/a.m3u8"
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_pfd2n8ut/format/applehttp/protocol/https/desiredFileName.m3u8"
           ],
-          "StreamerId": "1_ygac97dd",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809157",
-          "Date": "2025-05-21 20:54:35"
+          "StreamerId": "1_pfd2n8ut",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838881",
+          "Date": "2025-05-21 20:37:29"
         },
         {
-          "Title": "קופה ראשית עונה 5 | פרק 3 - שברת שילמת",
-          "ShortDescriptionLine1": "Kuparashit (Checkout) Season 5 | Chapter 3 - You broke paid",
-          "ShortDescriptionLine2": "2025-05-21 20:54:35",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_y8emnwxk/width/400/vid_sec/5",
+          "Title": "טהרן עונה 3 | פרק 2 - אגרוף בפרצוף",
+          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 2 - Punch in the face",
+          "ShortDescriptionLine2": "2025-06-17 14:30:03",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_xov7asuv/width/400/vid_sec/5",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y8emnwxk/a.m3u8"
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xov7asuv/a.m3u8"
           ],
-          "StreamerId": "1_y8emnwxk",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809161",
-          "Date": "2025-05-21 20:54:35"
+          "StreamerId": "1_xov7asuv",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/836534",
+          "Date": "2025-06-17 14:30:03"
+        },
+        {
+          "Title": "טהרן עונה 3 | פרק 3 - בגוב האריות",
+          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 3 - In the Lion Government",
+          "ShortDescriptionLine2": "2025-06-17 14:30:31",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_am337lsk/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_am337lsk/a.m3u8"
+          ],
+          "StreamerId": "1_am337lsk",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/839205",
+          "Date": "2025-06-17 14:30:31"
         },
         {
           "Title": "סיפורים מהכורסה עונה 4 | פרק 1 - אהבה וזוגיות",
