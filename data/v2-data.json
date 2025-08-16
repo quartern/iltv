@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות השבת | 16.08.25",
+          "ShortDescriptionLine1": "Saturday News Edition",
+          "ShortDescriptionLine2": "2025-08-16 20:59:44",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_2dd59627/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2dd59627/a.m3u8"
+          ],
+          "StreamerId": "1_2dd59627",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/941914",
+          "Date": "2025-08-16 20:59:44"
+        },
+        {
           "Title": "שבע עם איילה חסון | 16.08.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-08-16 17:20:34",
@@ -535,18 +547,6 @@
           "StreamerId": "1_sitdyt6d",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/941253",
           "Date": "2025-08-14 15:11:33"
-        },
-        {
-          "Title": "חדשות השבת | 09.08.25",
-          "ShortDescriptionLine1": "Saturday News Edition",
-          "ShortDescriptionLine2": "2025-08-09 19:00:54",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rhi4kj27/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rhi4kj27/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_rhi4kj27",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/939705",
-          "Date": "2025-08-09 19:00:54"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
@@ -2139,18 +2139,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21250218/21250218_noAdds/21250218_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21250218/21250218_noAdds/21250218_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "beb2795ac47a8910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-beb2795ac47a891026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-08-16T22:59:16+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "מה באמת קרה שם?: ארז טל מדבר על הכול",
