@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 17.08.25 [live]",
+          "Title": "המהדורה המרכזית: 17.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21250234/21250234_noAdds/21250234_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21250234/21250234_noAdds/21250234_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "106e4461b86b8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-106e4461b86b891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-17T19:53:17+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 17.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 17.08.25"
         },
         {
           "Title": "המהדורה המוקדמת: 17.08.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 17.08.25",
+          "StreamerId": "6377015052112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/91230fe0-a02a-4a73-98e2-f01c588049e4/d3a4c88e-1a4b-48fb-bc7a-8feb6e1c1f5b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377015052112",
+          "Date": "2025-08-17T18:25:29Z",
+          "ShortDescriptionLine1": "Central Edition 17.08.25",
+          "ShortDescriptionLine2": "2025-08-17T18:25:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/91230fe0-a02a-4a73-98e2-f01c588049e4/10s/master.m3u8?fastly_token=NjhjNzI5ZDRfM2RkMzMzMzhhNTk3ZjhmZjk5ZTc4OTRkMjhiMjhmNjlkZDQwY2YzYWUwNjVlZDBhZGYzYjcwN2U3ZTJlYmNmMA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע 17.08.25",
           "StreamerId": "6377013886112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/11999395-e50f-49ab-bcaa-0488099bbe3c/7ccb7151-1f2d-4adb-8e00-11a2e0591147/320x180/match/image.jpg",
@@ -2713,18 +2725,6 @@
           "ShortDescriptionLine2": "2025-08-13T20:03:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b2aa2f18-b0bb-4459-ac92-ad5edd1a41f8/10s/master.m3u8?fastly_token=NjhjMWVkYThfYjMyNjNkODY5Mzk3MTM4YzBiZDc3NGI1Mzk0MDJjZGIzOTI0MDk0N2YwODFmNGVhZjkyMTQ0YTdmZWQ3ZjM5ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 13.08.25",
-          "StreamerId": "6376886411112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0c55aa70-7af8-4f4c-9159-93b9dd5d6c60/3d018a73-cafe-441c-840d-6f7a20427515/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376886411112",
-          "Date": "2025-08-13T18:53:11Z",
-          "ShortDescriptionLine1": "Central Edition 13.08.25",
-          "ShortDescriptionLine2": "2025-08-13T18:53:11Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0c55aa70-7af8-4f4c-9159-93b9dd5d6c60/10s/master.m3u8?fastly_token=NjhjMWViNmZfY2M3MDI4YmMwOTRkMTExNDBlMzYyN2Y3MjliYzM0MWM3MDM3MDMyNmE3MzYyZjFlNzI3MzgwZjAyYjY5MzU4OA%3D%3D"
           ]
         },
         {
