@@ -2139,18 +2139,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: השביתה למען החטופים [live]",
+          "Title": "נסלי ויואב: השביתה למען החטופים",
           "Poster": "https://img.mako.co.il/2025/08/17/Nesli_Yoav_170825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21250244/21250244_noAdds/21250244_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21250244/21250244_noAdds/21250244_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "396df4b3ec298910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-396df4b3ec29891027.htm",
           "ShortDescriptionLine2": "The downtime for the kidnappers",
           "Date": "2025-08-17T09:33:25+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: strike for the kidnappers [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: strike for the kidnappers"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: יום ההשבתה",
@@ -2431,6 +2431,20 @@
           "Date": "2024-07-21T21:37:27+03:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: so I survived captive"
+        },
+        {
+          "Title": "חשיפה: הסוד של טהוניה ",
+          "Poster": "https://img.mako.co.il/2020/10/15/hassifa2_01_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S02/hassifa2_01_tahunia_rubel_VOD_429cpy/hassifa2_01_tahunia_rubel_VOD_429cpy_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/S02/hassifa2_01_tahunia_rubel_VOD_429cpy/hassifa2_01_tahunia_rubel_VOD_429cpy_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "2c6a17255eb25710VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-2c6a17255eb2571026.htm",
+          "ShortDescriptionLine2": "What does the modeling contradict all her life?",
+          "Date": "",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): The secret of Tahunia"
         }
       ]
     },
