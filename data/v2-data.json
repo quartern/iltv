@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 17.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 17.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "963d4461b86b8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-963d4461b86b891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-17T17:55:25+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.08.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 17.08.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21250242/21250242_noAdds/21250242_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21250242/21250242_noAdds/21250242_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "198b4461b86b8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-198b4461b86b891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-17T16:56:02+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 17.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 17.08.25"
         },
         {
           "Title": "מהדורת היום: 17.08.25",
@@ -2104,20 +2118,6 @@
           "Date": "2025-08-14T19:13:54+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 14.08.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 14.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/14/Shesh_140825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/18shesh_vtr2_n20250814_v1/18shesh_vtr2_n20250814_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/18shesh_vtr2_n20250814_v1/18shesh_vtr2_n20250814_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c99c71d21b7a8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-c99c71d21b7a891027.htm",
-          "ShortDescriptionLine2": "Meeting the head of the Mossad and Battle of versions",
-          "Date": "2025-08-14T17:55:51+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 14.08.25"
         },
         {
           "Title": "פגוש את העיתונות: 09.08.25",
@@ -2865,6 +2865,18 @@
       "Name": "Kan Kids",
       "Items": [
         {
+          "Title": "בלואי | פרק 27 - פיראטים",
+          "ShortDescriptionLine1": "Louis | Chapter 27 - Pirates",
+          "ShortDescriptionLine2": "2025-07-22 09:42:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mzk94wms/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_mzk94wms/a.m3u8"
+          ],
+          "StreamerId": "1_mzk94wms",
+          "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/840224",
+          "Date": "2025-07-22 09:42:14"
+        },
+        {
           "Title": "בלואי | פרק 37 - ההרפתקה",
           "ShortDescriptionLine1": "Louis | Chapter 37 - Adventure",
           "ShortDescriptionLine2": "2025-08-10 13:49:09",
@@ -2947,18 +2959,6 @@
           "StreamerId": "1_e2mrfuf9",
           "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847226",
           "Date": "2025-08-10 13:49:34"
-        },
-        {
-          "Title": "בלואי | פרק 44 - הר אימאבא",
-          "ShortDescriptionLine1": "Louis | Chapter 44 - Mount Imaba",
-          "ShortDescriptionLine2": "2025-08-10 13:49:37",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_smileor2/a.m3u8"
-          ],
-          "StreamerId": "1_smileor2",
-          "EpisodeUrl": "https://www.kankids.org.il/content/kids/ktantanim-main/bluey/s1/847230",
-          "Date": "2025-08-10 13:49:37"
         },
         {
           "Title": "צ'רלי ולולה עונה 1 | פרק 1 - אני לעולם לא אוכל עגבנייה",
