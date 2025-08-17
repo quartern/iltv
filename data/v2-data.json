@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 17.08.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-08-17 20:53:44",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_boi75rlj/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_boi75rlj/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_boi75rlj",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/942128",
+          "Date": "2025-08-17 20:53:44"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 17.08.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-08-17 20:39:16",
@@ -535,18 +547,6 @@
           "StreamerId": "1_05s93qz7",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/941603",
           "Date": "2025-08-15 20:24:18"
-        },
-        {
-          "Title": "חדשות הלילה | 14.08.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-08-14 20:47:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_o7sjn4vi/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_o7sjn4vi/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_o7sjn4vi",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/941262",
-          "Date": "2025-08-14 20:47:28"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
@@ -2039,8 +2039,8 @@
           "Title": "מהדורת היום: 17.08.25",
           "Poster": "https://img.mako.co.il/2025/08/17/Mahadurat_Hayom_170825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21250231/21250231_noAdds/21250231_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21250231/21250231_noAdds/21250231_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250817_v1/15hayom_vtr2_n20250817_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250817_v1/15hayom_vtr2_n20250817_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9a9a4461b86b8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-9a9a4461b86b891027.htm",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 17.08.25",
+          "StreamerId": "6377019931112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6c375ae6-60c4-4611-b3dc-da571c1da5be/36ba2225-6ef0-4d01-ab3d-5d3ecdc7ced0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377019931112",
+          "Date": "2025-08-17T20:58:43Z",
+          "ShortDescriptionLine1": "News of News 17.08.25",
+          "ShortDescriptionLine2": "2025-08-17T20:58:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6c375ae6-60c4-4611-b3dc-da571c1da5be/10s/master.m3u8?fastly_token=NjhjNzNjNmRfYzIwMmQwYWM3ZWM4NjY2OGRkYjZhYjE5NWRhZTdmMTU3Yjg4YWQxYzU2NjVlNWRiNTkyNjQ1ZGJlZGEzN2QyMg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 17.08.25",
           "StreamerId": "6377015052112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/91230fe0-a02a-4a73-98e2-f01c588049e4/d3a4c88e-1a4b-48fb-bc7a-8feb6e1c1f5b/320x180/match/image.jpg",
@@ -2713,18 +2725,6 @@
           "ShortDescriptionLine2": "2025-08-13T21:04:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5c586bef-b408-4380-ae22-45b89a3d8753/10s/master.m3u8?fastly_token=NjhjMjAwNmRfNTViOWYwNzZmZjZhYmFkNzQ1ZTM5ZDkzNTNkYWE1ZmRmMmZhMDRhOGJkNTAwM2Q4NDUxNjA0OWI2NzFhNGViZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 13.08.25",
-          "StreamerId": "6376887241112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b2aa2f18-b0bb-4459-ac92-ad5edd1a41f8/232badb8-7f2b-40ec-9324-1db1123c243b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376887241112",
-          "Date": "2025-08-13T20:03:12Z",
-          "ShortDescriptionLine1": "News of News 13.08.25",
-          "ShortDescriptionLine2": "2025-08-13T20:03:12Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b2aa2f18-b0bb-4459-ac92-ad5edd1a41f8/10s/master.m3u8?fastly_token=NjhjMWVkYThfYjMyNjNkODY5Mzk3MTM4YzBiZDc3NGI1Mzk0MDJjZGIzOTI0MDk0N2YwODFmNGVhZjkyMTQ0YTdmZWQ3ZjM5ZA%3D%3D"
           ]
         },
         {
