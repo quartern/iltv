@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 21.08.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-08-21 20:49:46",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fkidgg92/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_fkidgg92/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_fkidgg92",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/943927",
+          "Date": "2025-08-21 20:49:46"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 21.08.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-08-21 19:21:30",
@@ -511,18 +523,6 @@
           "StreamerId": "1_3p5otyzx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/943917",
           "Date": "2025-08-21 14:23:32"
-        },
-        {
-          "Title": "חדשות הלילה | 20.08.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-08-20 21:29:29",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y54mctm1/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y54mctm1/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_y54mctm1",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/943576",
-          "Date": "2025-08-20 21:29:29"
         },
         {
           "Title": "חדשות השבת | 16.08.25",
@@ -1981,7 +1981,7 @@
       "Items": [
         {
           "Title": "המהדורה המרכזית: 21.08.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/08/21/Mahadura_Merkazit_120825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250821_v1/20mahadura_full_vtr2_n20250821_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250821_v1/20mahadura_full_vtr2_n20250821_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
@@ -2139,18 +2139,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: עדכונים מהקבינט המכריע [live]",
+          "Title": "דוח מצב עם עינב וירון: עדכונים מהקבינט המכריע",
           "Poster": "https://img.mako.co.il/2024/11/06/DohMazav_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21250343/21250343_noAdds/21250343_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21250343/21250343_noAdds/21250343_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b22cb3e3c66c8910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-b22cb3e3c66c891026.htm",
           "ShortDescriptionLine2": "Did you take a partial deal on the chapter?",
           "Date": "2025-08-21T22:49:48+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status Report with Einav and Yaron: updates from the vast Cabinet [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status Report with Einav and Yaron: updates from the vast Cabinet"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
