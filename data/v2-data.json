@@ -1632,6 +1632,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 22.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b7a96b94c2bc8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-b7a96b94c2bc891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-22T19:54:04+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Friday Studio: 22.08.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 21.08.25",
           "Poster": "https://img.mako.co.il/2025/08/21/Mahadura_Merkazit_120825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1758,20 +1772,6 @@
           "ShortDescriptionLine1": "Young Edition: 16.08.25"
         },
         {
-          "Title": "אולפן שישי: 15.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/15/Ulpan_Shishi_150825_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20ulpashh_vtr2_n20250815_v1/20ulpashh_vtr2_n20250815_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20ulpashh_vtr2_n20250815_v1/20ulpashh_vtr2_n20250815_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ba9b235fbb7a8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-ba9b235fbb7a891027.htm",
-          "ShortDescriptionLine2": "Halihua recordings are exposed",
-          "Date": "2025-08-15T19:51:47+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Friday Studio: 15.08.25"
-        },
-        {
           "Title": "פגוש את העיתונות: 09.08.25",
           "Poster": "https://img.mako.co.il/2025/08/09/Pgosh_090825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1792,7 +1792,7 @@
       "Items": [
         {
           "Title": "אופירה ולוינסון: איל וולדמן ",
-          "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/08/22/Ofira_Levinson_220825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/21250372/21250372_noAdds/21250372_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/21250372/21250372_noAdds/21250372_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2104,6 +2104,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "סקר קבינט שישי: מה חושבים מצביעי האופוזיציה על כניסה של גנץ לממשלה?",
+          "StreamerId": "6377249986112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/975ff43c-f3aa-4a54-99dd-2245c007c6cf/fc4bf111-6cf2-4738-8b4a-eada8bab85ce/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377249986112",
+          "Date": "2025-08-22T17:39:07Z",
+          "ShortDescriptionLine1": "Sixth Cabinet Survey: What do opposition voters think of Gantz's entry into government?",
+          "ShortDescriptionLine2": "2025-08-22T17:39:07Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/975ff43c-f3aa-4a54-99dd-2245c007c6cf/10s/master.m3u8?fastly_token=NjhjZDljYTBfOTNiNTJmM2JhNjM1MWFmNjg1MjBhNmIxNmI4MWEwMDk1OWZlZTE2OTQ0NWE3MDc1NTM4ZGVlNWE2MzFiNzI1Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "סקר קבינט שישי: מה הציבור חושב שגרם לחמאס שוב לשולחן המו\"מ - ההפגנות, או החלטת כיבוש עזה?",
           "StreamerId": "6377251055112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bc403546-ac54-40a4-82ad-62b272c8eddd/89e44d19-a8bc-4093-a189-8f7b695eb8de/320x180/match/image.jpg",
@@ -2413,18 +2425,6 @@
           "ShortDescriptionLine2": "2025-08-16T18:20:45Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65b73529-0642-475c-9f3d-c3ec2ad0d0dd/10s/master.m3u8?fastly_token=NjhjNWQ0MzdfMDg4ZDgyOGNhMWU4NzMxNzgwZGUyYThkNmI4MDYzZTMyNDI4OTk5YWI1OTAwZWFkN2JkYWMxZDc0ZTg4NjgyYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי 15.08.25 חלק א'",
-          "StreamerId": "6376964276112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c138f393-bb11-463f-a9cf-add0939fbbe3/052c5e97-bf9b-4147-b47b-93250cc48373/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376964276112",
-          "Date": "2025-08-15T19:11:37Z",
-          "ShortDescriptionLine1": "Cabinet Friday 15.08.25 Part I",
-          "ShortDescriptionLine2": "2025-08-15T19:11:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c138f393-bb11-463f-a9cf-add0939fbbe3/10s/master.m3u8?fastly_token=NjhjNDkyYTFfMTM5MWFiN2I1ODUxM2YxMjg3ZmExMjNiYjY1M2UwYWQ5MDA1NWEwY2FhMTdjYjYxYjFlYzgyZjVmZjQxNTExOA%3D%3D"
           ]
         },
         {
