@@ -1596,18 +1596,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 22.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "Title": "אולפן שישי: 22.08.25",
+          "Poster": "https://img.mako.co.il/2025/08/22/Ulpan_Shishi_220825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21250357/21250357_noAdds/21250357_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21250357/21250357_noAdds/21250357_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b7a96b94c2bc8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-b7a96b94c2bc891027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Netanyahu's demand to precede the Gaza occupation",
           "Date": "2025-08-22T19:54:04+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 22.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 22.08.25"
         },
         {
           "Title": "המהדורה המרכזית: 21.08.25",
@@ -1664,6 +1664,20 @@
           "Date": "2025-08-21T16:55:43+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 21.08.25"
+        },
+        {
+          "Title": "מהדורת היום: 21.08.25",
+          "Poster": "https://img.mako.co.il/2025/08/21/Mahadurat_Hayom_210825_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250821_v1/15hayom_vtr2_n20250821_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250821_v1/15hayom_vtr2_n20250821_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "8ef29334c0bc8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-8ef29334c0bc891027.htm",
+          "ShortDescriptionLine2": "In preparation for the conquest of Gaza - the prime",
+          "Date": "2025-08-21T15:00:38+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 21.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 16.08.25",
@@ -2054,6 +2068,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "קבינט שישי חלק ב' 22.08.25",
+          "StreamerId": "6377256365112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8d5fde8f-bbd0-48c0-94b2-31a5b7609a70/338fe8b4-af5a-429d-b679-d4e001853100/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377256365112",
+          "Date": "2025-08-22T19:03:13Z",
+          "ShortDescriptionLine1": "Sixth Cabinet Part II 22.08.25",
+          "ShortDescriptionLine2": "2025-08-22T19:03:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8d5fde8f-bbd0-48c0-94b2-31a5b7609a70/10s/master.m3u8?fastly_token=NjhjZGI5ZDlfNjY4MTVkNmQxM2JiMTkzNjZkN2I1OWFlOGQxNTdkZjU4ZGFkMjU3NmMxYWFhNDhiMzJkMDc2ZjMzOWY2N2E4ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "סקר קבינט שישי: מה חושבים מצביעי האופוזיציה על כניסה של גנץ לממשלה?",
           "StreamerId": "6377249986112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/975ff43c-f3aa-4a54-99dd-2245c007c6cf/fc4bf111-6cf2-4738-8b4a-eada8bab85ce/320x180/match/image.jpg",
@@ -2063,18 +2089,6 @@
           "ShortDescriptionLine2": "2025-08-22T17:39:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/975ff43c-f3aa-4a54-99dd-2245c007c6cf/10s/master.m3u8?fastly_token=NjhjZDljYTBfOTNiNTJmM2JhNjM1MWFmNjg1MjBhNmIxNmI4MWEwMDk1OWZlZTE2OTQ0NWE3MDc1NTM4ZGVlNWE2MzFiNzI1Zg%3D%3D"
-          ]
-        },
-        {
-          "Title": "סקר קבינט שישי: מה הציבור חושב שגרם לחמאס שוב לשולחן המו\"מ - ההפגנות, או החלטת כיבוש עזה?",
-          "StreamerId": "6377251055112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bc403546-ac54-40a4-82ad-62b272c8eddd/89e44d19-a8bc-4093-a189-8f7b695eb8de/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377251055112",
-          "Date": "2025-08-22T17:32:43Z",
-          "ShortDescriptionLine1": "Sixth Cabinet Survey: What does the public think that has caused Hamas again to the negotiating table - the demonstrations, or the intense conquest decision?",
-          "ShortDescriptionLine2": "2025-08-22T17:32:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bc403546-ac54-40a4-82ad-62b272c8eddd/10s/master.m3u8?fastly_token=NjhjZDk3ZDJfMmU0ZGM2ZTMyYTA5ZDFlNGM3NTM3ZGUzZTRkZTI4NGI5OTc1NjU4ZGNhMGM0NGU3ZDUzNjA0ODJhY2MwN2M1Nw%3D%3D"
           ]
         },
         {
