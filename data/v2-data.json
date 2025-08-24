@@ -583,18 +583,6 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
-        },
-        {
-          "Title": "מהדורת חמש | 07.11.24",
-          "ShortDescriptionLine1": "The 5pm News Edition",
-          "ShortDescriptionLine2": "2024-11-07 20:13:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gv54mbxq/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gv54mbxq",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
-          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -1024,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "התנתקות | טריילר",
+          "ShortDescriptionLine1": "Disengagement | Trailer",
+          "ShortDescriptionLine2": "2025-08-24 08:15:27",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_f87x2x5j/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_f87x2x5j/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_f87x2x5j",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-936955/944250",
+          "Date": "2025-08-24 08:15:27"
+        },
+        {
           "Title": "יוניקורנז | פרק 3 - אומת הסייבר",
           "ShortDescriptionLine1": "University | Chapter 3 - Cyber Nation",
           "ShortDescriptionLine2": "2025-08-23 18:59:31",
@@ -1250,18 +1250,6 @@
           "StreamerId": "1_2r87pqhs",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-930917/s1/930922",
           "Date": "2025-08-16 19:00:24"
-        },
-        {
-          "Title": "פגישה עם רוני קובן עונה 9 | פרק 30 - חגי סגל",
-          "ShortDescriptionLine1": "Meeting with Ronnie Kuban Season 9 | Chapter 30 - Holidays Segal",
-          "ShortDescriptionLine2": "2025-08-16 18:20:19",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_e7wv5vjx/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e7wv5vjx/a.m3u8"
-          ],
-          "StreamerId": "1_e7wv5vjx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s9/941332",
-          "Date": "2025-08-16 18:20:19"
         }
       ]
     },
@@ -2139,18 +2127,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: לקראת יום מחאה נוסף [live]",
+          "Title": "נסלי ויואב: לקראת יום מחאה נוסף",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21250424/21250424_noAdds/21250424_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21250424/21250424_noAdds/21250424_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "641a822c1dbb8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-641a822c1dbb891027.htm",
           "ShortDescriptionLine2": "Another day of protest to identify with the kidnappers",
           "Date": "2025-08-24T09:34:24+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: ahead of another protest day [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: ahead of another protest day"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: בין עסקה כוללת-למלחמה כוללת",
