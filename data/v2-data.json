@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 24.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 24.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c95ac4fc88ad8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-c95ac4fc88ad891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-24T19:53:44+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 24.08.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 24.08.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21250413/21250413_noAdds/21250413_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21250413/21250413_noAdds/21250413_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "5d69c4fc88ad8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/c353a886ccf48910/VOD-5d69c4fc88ad891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-24T18:59:15+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early edition: 24.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early edition: 24.08.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 24.08.25",
@@ -2090,20 +2104,6 @@
           "Date": "2025-08-22T19:54:04+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Friday Studio: 22.08.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 21.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/21/Mahadura_Merkazit_120825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250821_v1/20mahadura_full_vtr2_n20250821_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadura_full_vtr2_n20250821_v1/20mahadura_full_vtr2_n20250821_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "fd68d1dfe1bc8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/d265a886ccf48910/VOD-fd68d1dfe1bc891027.htm",
-          "ShortDescriptionLine2": "New details about the contacts",
-          "Date": "2025-08-21T19:54:22+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 21.08.25"
         },
         {
           "Title": "פגוש את העיתונות: 16.08.25",
