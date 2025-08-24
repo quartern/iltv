@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 24.08.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-08-24 14:23:52",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rmxl7i53/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rmxl7i53/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_rmxl7i53",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/944571",
+          "Date": "2025-08-24 14:23:52"
+        },
+        {
           "Title": "חדשות השבת | 23.08.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-08-23 20:06:29",
@@ -535,18 +547,6 @@
           "StreamerId": "1_lx56w1bp",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/943925",
           "Date": "2025-08-21 19:08:39"
-        },
-        {
-          "Title": "העולם היום | 21.08.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-08-21 14:23:32",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_3p5otyzx/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3p5otyzx/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_3p5otyzx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/943917",
-          "Date": "2025-08-21 14:23:32"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
@@ -1994,18 +1994,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 24.08.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 24.08.25 [live]",
+          "Title": "מהדורת היום: 24.08.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21250411/21250411_noAdds/21250411_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21250411/21250411_noAdds/21250411_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "66866bd856ad8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-66866bd856ad891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-24T15:00:37+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 24.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 24.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 23.08.25",
