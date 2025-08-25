@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 25.08.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-08-25 20:46:15",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ilsxdksg/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ilsxdksg/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ilsxdksg",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/944941",
+          "Date": "2025-08-25 20:46:15"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 25.08.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-08-25 19:48:14",
@@ -511,18 +523,6 @@
           "StreamerId": "1_j290no1q",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/944933",
           "Date": "2025-08-25 15:08:14"
-        },
-        {
-          "Title": "חדשות הלילה | 24.08.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-08-24 20:35:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_a6az7jd4/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_a6az7jd4/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_a6az7jd4",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/944593",
-          "Date": "2025-08-24 20:35:59"
         },
         {
           "Title": "חדשות השבת | 23.08.25",
@@ -2036,20 +2036,6 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 25.08.25"
         },
         {
-          "Title": "מהדורת היום: 25.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/25/Mhadurat_Hayom_250825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/15taday_vtr2_n20250825_v1/15taday_vtr2_n20250825_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/15taday_vtr2_n20250825_v1/15taday_vtr2_n20250825_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9895d42369fd8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-9895d42369fd891027.htm",
-          "ShortDescriptionLine2": "The assault live, and the reaction of the IDF",
-          "Date": "2025-08-25T15:00:29+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 25.08.25"
-        },
-        {
           "Title": "חדשות סוף השבוע: 23.08.25",
           "Poster": "https://img.mako.co.il/2025/08/23/Sof_Shavua_230825_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2139,6 +2125,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d3b3e47b0fad8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-d3b3e47b0fad891027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-08-25T23:36:27+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
           "Poster": "https://img.mako.co.il/2025/08/25/Nesli_Yoav_250825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2165,20 +2165,6 @@
           "Date": "2025-08-25T07:09:48+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: Neve Tzedek - The Back in Yemen"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/08/25/Avri_Sherki_240825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_240825_VOD_vuy768h/Avri_Sherki_240825_VOD_vuy768h_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/August/Avri_Sherki_240825_VOD_vuy768h/Avri_Sherki_240825_VOD_vuy768h_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6dd3e47b0fad8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-6dd3e47b0fad891027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-08-24T22:47:43+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "אופירה ולוינסון: איל וולדמן ",
