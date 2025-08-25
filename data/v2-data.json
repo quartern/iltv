@@ -513,18 +513,6 @@
           "Date": "2025-08-24 18:34:17"
         },
         {
-          "Title": "העולם היום | 24.08.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-08-24 14:23:52",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rmxl7i53/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rmxl7i53/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_rmxl7i53",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/944571",
-          "Date": "2025-08-24 14:23:52"
-        },
-        {
           "Title": "חדשות השבת | 23.08.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-08-23 20:06:29",
@@ -2139,6 +2127,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8952ea816bad8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-8952ea816bad891027.htm",
+          "ShortDescriptionLine2": "All you need to know to open the morning",
+          "Date": "2025-08-25T07:09:48+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/08/25/Avri_Sherki_240825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2165,20 +2167,6 @@
           "Date": "2025-08-24T09:34:24+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Nesli and Yoav: ahead of another protest day"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: בין עסקה כוללת-למלחמה כוללת",
-          "Poster": "https://img.mako.co.il/2025/08/24/Hadshot_Haboker_240825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_haboker_240825_VOD_1f55fs/Hadshot_haboker_240825_VOD_1f55fs_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/August/Hadshot_haboker_240825_VOD_1f55fs/Hadshot_haboker_240825_VOD_1f55fs_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d19692e04bbb8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-d19692e04bbb891027.htm",
-          "ShortDescriptionLine2": "The plan for the conquest of the city and the accelerated preparations",
-          "Date": "2025-08-24T07:11:23+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Morning News with Niv Ruskin: Between an overall overall war deal"
         },
         {
           "Title": "אופירה ולוינסון: איל וולדמן ",
