@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות היום 25.08.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
+          "StreamerId": "1_06pmmrgi",
+          "Date": "2025-08-25 17:54:10",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/3989295/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-08-25 17:54:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_06pmmrgi/flavorIds/1_fhjeg3qd,1_c96sw8td,1_qm312054,1_34iqrxqz,1_pjdubrz0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 24.08.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
           "StreamerId": "1_erio2nle",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-08-24 21:38:25",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_56ggb0n9/flavorIds/1_8vhbkmk7,1_evaiphuu,1_tqmvljit,1_1kydiko3,1_fin10psu,1_la2vgqck/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות היום 24.08.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
-          "StreamerId": "1_jar3ehf6",
-          "Date": "2025-08-24 18:55:38",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/m1c2t-904730708/",
-          "ShortDescriptionLine1": "Daily News",
-          "ShortDescriptionLine2": "2025-08-24 18:55:38",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_jar3ehf6/flavorIds/1_xjoxgepp,1_4quq6g1o,1_yy163gg4,1_c6fe88xx,1_bv838ssq,1_ihjwfz4w/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1980,18 +1980,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 25.08.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 25.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9357d42369fd8910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-9357d42369fd891027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-25T17:55:37+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.08.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 25.08.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21250449/21250449_noAdds/21250449_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21250449/21250449_noAdds/21250449_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ae07d42369fd8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-ae07d42369fd891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-25T16:55:31+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.08.25"
         },
         {
           "Title": "מהדורת היום: 25.08.25",
@@ -2034,20 +2048,6 @@
           "Date": "2025-08-24T18:59:15+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 24.08.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 24.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/24/Shesh_240825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/18oded_vtr2_n20250824_v1/18oded_vtr2_n20250824_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/18oded_vtr2_n20250824_v1/18oded_vtr2_n20250824_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9ba8c4fc88ad8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f39c3f8b3df48910/VOD-9ba8c4fc88ad891027.htm",
-          "ShortDescriptionLine2": "Air Force attacked a line of destinations of the Houthis in Yemen",
-          "Date": "2025-08-24T17:56:12+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 24.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 23.08.25",
