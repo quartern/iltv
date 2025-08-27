@@ -1980,6 +1980,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 27.08.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1fe9766544ae8910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-1fe9766544ae891026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-08-27T15:01:03+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 27.08.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 26.08.25",
           "Poster": "https://img.mako.co.il/2025/08/26/Mahadura_Merkazit_260825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2034,20 +2048,6 @@
           "Date": "2025-08-26T16:56:03+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 26.08.25"
-        },
-        {
-          "Title": "מהדורת היום: 26.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/26/Mahadurat_Hayom_260825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250826_v1/15hayom_vtr2_n20250826_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/15hayom_vtr2_n20250826_v1/15hayom_vtr2_n20250826_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "01a129426e4e8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/2f693f8b3df48910/VOD-01a129426e4e891027.htm",
-          "ShortDescriptionLine2": "Cabinet will discuss the occupation plans - and not in the transaction",
-          "Date": "2025-08-26T15:00:12+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 26.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 23.08.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 26.08.25",
+          "StreamerId": "6377516680112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cd3845e3-04f0-4533-815b-0a9aca416271/370b7d9e-8359-4876-8a54-363e82d4684c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377516680112",
+          "Date": "2025-08-27T11:59:27Z",
+          "ShortDescriptionLine1": "Talk News 26.08.25",
+          "ShortDescriptionLine2": "2025-08-27T11:59:27Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cd3845e3-04f0-4533-815b-0a9aca416271/10s/master.m3u8?fastly_token=NjhkM2VkMWJfYjA5OTFmMGExZmIxMDlkNWE3ZjJmOGE4NGJmYTdlYjE2ZGFkN2NhZjhjYjE4NGU4YmYzZjdiNzdlYzkwOWQ2Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי 26.08.25",
           "StreamerId": "6377454076112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8041cb00-508f-4dcf-85e5-d9575174585e/711679ad-ef15-454b-bdcf-f5426210c168/320x180/match/image.jpg",
@@ -2653,18 +2665,6 @@
           "ShortDescriptionLine2": "2025-08-25T13:57:50Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8f01a5d5-ac0b-4991-9efb-0cbd08d09b8a/10s/master.m3u8?fastly_token=NjhkMTY1MWVfMjI0ZDgzMDA1NGM2OWQyNmVmYzc5NDBkZGQyZDNmNzRiZWI2Y2Q1NWNiYWI5Yjc3MzhlZmJhODIxNWIwZjA3MQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 24.08.25",
-          "StreamerId": "6377352951112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/27bef6a4-fd31-4c9b-9346-2fec28c639c3/170dcc92-941c-49e8-9584-a20253faa89a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377352951112",
-          "Date": "2025-08-25T13:52:42Z",
-          "ShortDescriptionLine1": "News News 24.08.25",
-          "ShortDescriptionLine2": "2025-08-25T13:52:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/27bef6a4-fd31-4c9b-9346-2fec28c639c3/10s/master.m3u8?fastly_token=NjhkMTYzMmRfN2ZkNDU3MWM1NDIzNGVkODZhNDY1MDQwNDU0MWNkZjE4YWMwNzg3ZWQzZDJiMGI2NmUwMTQyM2MyODdiNzc3MA%3D%3D"
           ]
         },
         {
