@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 28.08.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-08-28 19:34:08",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_mk5tpizx/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mk5tpizx/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mk5tpizx",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/946065",
+          "Date": "2025-08-28 19:34:08"
+        },
+        {
+          "Title": "מהצד השני עם גיא זהר | 28.08.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-08-28 19:32:34",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_jvvoszxa/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jvvoszxa/a.m3u8"
+          ],
+          "StreamerId": "1_jvvoszxa",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/946067",
+          "Date": "2025-08-28 19:32:34"
+        },
+        {
           "Title": "שבע עם איילה חסון | 28.08.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-08-28 17:17:51",
@@ -499,30 +523,6 @@
           "StreamerId": "1_k6jolfa3",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/945715",
           "Date": "2025-08-27 20:59:48"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 27.08.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-08-27 19:57:47",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hrlijoxt/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_hrlijoxt/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_hrlijoxt",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/945712",
-          "Date": "2025-08-27 19:57:47"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 27.08.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-08-27 19:41:17",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_drra38tx/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_drra38tx/a.m3u8"
-          ],
-          "StreamerId": "1_drra38tx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/945713",
-          "Date": "2025-08-27 19:41:17"
         },
         {
           "Title": "חדשות השבת | 23.08.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים 28.08.25",
+          "StreamerId": "6377595942112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d708e01d-9845-4e78-b22f-369503bf8f5f/97212f08-28bc-49bc-b8ab-25350acefd90/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377595942112",
+          "Date": "2025-08-28T19:19:38Z",
+          "ShortDescriptionLine1": "The Arabs 28.08.25",
+          "ShortDescriptionLine2": "2025-08-28T19:19:38Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d708e01d-9845-4e78-b22f-369503bf8f5f/10s/master.m3u8?fastly_token=NjhkNWE5ZWJfYjE3NDg2ZGEyMGI4NzIyM2Q0ZDZkMjg5YTQ1Y2IyOWMwN2Y3NzJiYmYzMmI3ZGFiMDM3ZGYxODNhYWZhMGQ5MA%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 28.08.25",
           "StreamerId": "6377589002112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b326a31d-493f-4ab3-b32c-588343c03916/c8903014-403e-4a21-8744-dea7c71d7fee/320x180/match/image.jpg",
@@ -2761,18 +2773,6 @@
           "ShortDescriptionLine2": "2025-08-22T16:55:03Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6a701c58-41c4-49c6-9c55-c637975969de/10s/master.m3u8?fastly_token=NjhkNTYwZGJfYjViZmNhMTRhYWRlNWVkNTg0Y2RiMTAxMTQ4YzIxMDA5MjNlZmY1MTcxODY4NTk5ZmNjNWI3MTgyNjFiNTUxYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 21.08.25",
-          "StreamerId": "6377205667112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2c1d666c-96f0-4102-aaed-4f2b95102a10/29756cfa-228f-40d4-a83d-c4cadbb71952/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377205667112",
-          "Date": "2025-08-21T19:28:48Z",
-          "ShortDescriptionLine1": "The Arabs 21.08.25",
-          "ShortDescriptionLine2": "2025-08-21T19:28:48Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2c1d666c-96f0-4102-aaed-4f2b95102a10/10s/master.m3u8?fastly_token=NjhjYzcyMjlfZjNjOTNiMjY2NTc3YmQwMzQ0ZTAyM2RkZWNjYzVkMjU5N2RkZTUzM2M2OTgzN2U1ODMxZDY3NzgyNzc2NjE4ZQ%3D%3D"
           ]
         },
         {
