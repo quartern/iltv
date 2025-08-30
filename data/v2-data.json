@@ -1980,18 +1980,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 30.08.25 [live]",
+          "Title": "חדשות סוף השבוע: 30.08.25",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21250556/21250556_noAdds/21250556_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21250556/21250556_noAdds/21250556_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "187888ae98fe8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/49a6a886ccf48910/VOD-187888ae98fe891027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-08-30T19:55:28+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend News: 30.08.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend News: 30.08.25"
         },
         {
           "Title": "פגוש את העיתונות: 30.08.25",
@@ -2452,6 +2452,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מגזין השבת 30.08.25",
+          "StreamerId": "6377806993112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/64fc8665-9d2d-4a24-89d8-0c4ba8c3e494/74120bdd-0107-4989-9556-6a982daf4d88/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377806993112",
+          "Date": "2025-08-30T18:19:39Z",
+          "ShortDescriptionLine1": "Sabbath magazine 30.08.25",
+          "ShortDescriptionLine2": "2025-08-30T18:19:39Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/64fc8665-9d2d-4a24-89d8-0c4ba8c3e494/10s/master.m3u8?fastly_token=NjhkODRkMjdfMmMyMDlmMzQxMTczNjA5Y2U0ZDNmY2NhY2ViN2Q0NTFkOTlkYTUxOGZmYTY0MTQ4YTg3MDhkZGZkNTdkZjM0Yg%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים 30.8.25",
           "StreamerId": "6377804269112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4d24c478-b5c7-4abb-bafe-4fd3d49e3b9f/d574ac4b-7276-418a-8fba-188ef14e9076/320x180/match/image.jpg",
@@ -2809,18 +2821,6 @@
           "ShortDescriptionLine2": "2025-08-16T19:36:42Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7e5e5a36-1879-429a-b8ac-c638e00d29b7/10s/master.m3u8?fastly_token=NjhjNWQ0MDZfOGRhN2NiOTk3OGNlN2M4ZTQwMWQwNjdiZjU1YTI2MDRhZDZlZjIyNDAwY2Y3MThjNzI1MzgyYmRmZjAwODdiYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת 16.08.25",
-          "StreamerId": "6376992528112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/65b73529-0642-475c-9f3d-c3ec2ad0d0dd/5f8b7b83-19a7-4b4e-8abb-d0aacfbc91ef/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6376992528112",
-          "Date": "2025-08-16T18:20:45Z",
-          "ShortDescriptionLine1": "Sabbath magazine 16.08.25",
-          "ShortDescriptionLine2": "2025-08-16T18:20:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/65b73529-0642-475c-9f3d-c3ec2ad0d0dd/10s/master.m3u8?fastly_token=NjhjNWQ0MzdfMDg4ZDgyOGNhMWU4NzMxNzgwZGUyYThkNmI4MDYzZTMyNDI4OTk5YWI1OTAwZWFkN2JkYWMxZDc0ZTg4NjgyYg%3D%3D"
           ]
         },
         {
