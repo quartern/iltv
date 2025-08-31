@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 31.08.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-08-31 20:34:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_1tst0d5i/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_1tst0d5i/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_1tst0d5i",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/946780",
+          "Date": "2025-08-31 20:34:34"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 31.08.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-08-31 19:28:57",
@@ -571,6 +583,18 @@
           "StreamerId": "1_hppjgz4h",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s2/852129",
           "Date": "2025-01-27 11:53:39"
+        },
+        {
+          "Title": "מהדורת חמש | 07.11.24",
+          "ShortDescriptionLine1": "The 5pm News Edition",
+          "ShortDescriptionLine2": "2024-11-07 20:13:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gv54mbxq/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gv54mbxq/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_gv54mbxq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11220/821665",
+          "Date": "2024-11-07 20:13:56"
         }
       ]
     },
@@ -1255,6 +1279,18 @@
           "StreamerId": "1_talzwnba",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/eurovision_2025/s1/901676",
           "Date": "2025-05-14 06:05:40"
+        },
+        {
+          "Title": "אירוויזיון 2025 - חצי גמר 2 | 15.05.25",
+          "ShortDescriptionLine1": "Eurovision 2025 - Finals 2 | 15.05.25",
+          "ShortDescriptionLine2": "2025-05-16 00:22:51",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vxjbk9n1/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vxjbk9n1/a.m3u8"
+          ],
+          "StreamerId": "1_vxjbk9n1",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/eurovision_2025/s1/901678",
+          "Date": "2025-05-16 00:22:51"
         },
         {
           "Title": "הביצוע של יובל רפאל בחצי גמר האירוויזיון",
@@ -2103,18 +2139,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/08/31/Avri_Sherki_310825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21250594/21250594_noAdds/21250594_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21250594/21250594_noAdds/21250594_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "de7eff03ceef8910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-de7eff03ceef891027.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-08-31T23:29:58+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: חילוץ גופתו של עידן שתיוי",
