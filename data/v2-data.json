@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 01.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 01.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "8c75e3965c309910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-8c75e3965c30991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-01T16:55:10+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 01.09.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 01.09.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21350797/21350797_noAdds/21350797_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21350797/21350797_noAdds/21350797_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "8830e3965c309910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-8830e3965c30991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-01T15:00:31+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 01.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 01.09.25"
         },
         {
           "Title": "המהדורה המרכזית: 31.08.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-08-31T17:55:54+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 31.08.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 31.08.25",
-          "Poster": "https://img.mako.co.il/2025/09/01/Hamesh_310825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250831_v1/17rafi_vtr2_n20250831_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/17rafi_vtr2_n20250831_v1/17rafi_vtr2_n20250831_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "601b79196cef8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/9e183f8b3df48910/VOD-601b79196cef891027.htm",
-          "ShortDescriptionLine2": "Defense Minister: Hamas spokesman has been eliminated in Gaza",
-          "Date": "2025-08-31T16:55:53+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 31.08.25"
         },
         {
           "Title": "חדשות סוף השבוע: 30.08.25",
