@@ -618,8 +618,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_bzrpwb6d",
           "Date": "2025-09-04 19:12:50",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/njhzq-904748146/",
-          "ShortDescriptionLine1": "Daily News",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/4005536/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-09-04 19:12:50",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bzrpwb6d/flavorIds/1_wmclyycd,1_6jb7kfo2,1_l27qgtqw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2419,12 +2419,50 @@
           "Date": "2024-07-21T21:37:27+03:00",
           "Live": false,
           "ShortDescriptionLine1": "UVDA: so I survived captive"
+        },
+        {
+          "Title": "חשיפה: הסוד של טהוניה ",
+          "Poster": "https://img.mako.co.il/2020/10/15/hassifa2_01_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S02/hassifa2_01_tahunia_rubel_VOD_429cpy/hassifa2_01_tahunia_rubel_VOD_429cpy_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/S02/hassifa2_01_tahunia_rubel_VOD_429cpy/hassifa2_01_tahunia_rubel_VOD_429cpy_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "2c6a17255eb25710VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-2c6a17255eb2571026.htm",
+          "ShortDescriptionLine2": "What does the modeling contradict all her life?",
+          "Date": "",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): The secret of Tahunia"
         }
       ]
     },
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הישראלים 03.09.25",
+          "StreamerId": "6378413508112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/00735e43-7af1-4252-8ead-d99319071648/a3d60f0d-c8d3-4955-b63f-91d204873184/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378413508112",
+          "Date": "2025-09-04T16:34:06Z",
+          "ShortDescriptionLine1": "Israelis 03.09.25",
+          "ShortDescriptionLine2": "2025-09-04T16:34:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00735e43-7af1-4252-8ead-d99319071648/10s/master.m3u8?fastly_token=NjhkZWM1MzBfNWVlZDk2NzlmODdmMDU3NDQzODI5YjYwYjk2ODE4NDg0MTIxNjJhMzYzNWVmNzdhZDRmMGFmOGE0YThhNmJhNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית 03.09.25",
+          "StreamerId": "6378416564112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b8f2b1d1-4121-4122-84d4-21ae758bcc17/09abd785-3ce7-40ca-af03-4c80d514996d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378416564112",
+          "Date": "2025-09-04T16:31:27Z",
+          "ShortDescriptionLine1": "Central Edition 03.09.25",
+          "ShortDescriptionLine2": "2025-09-04T16:31:27Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b8f2b1d1-4121-4122-84d4-21ae758bcc17/10s/master.m3u8?fastly_token=NjhkZWM4MzdfMGIzZGJhOTUyNzIzMDg1ZmY0NzRjMDNhNmMyMDM5M2E1YjVkOWZjMzBlMWQyYmZlNzZmNzM4ODM3NGE3ZGZhMQ%3D%3D"
+          ]
+        },
         {
           "Title": "מדד גלבוע , 04.09.25",
           "StreamerId": "6378411185112",
@@ -2615,30 +2653,6 @@
           "ShortDescriptionLine2": "2025-09-02T12:31:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/99199b96-7b0a-4864-9955-f928b6556fea/10s/master.m3u8?fastly_token=NjhkYmRkZTlfZWYyZmEyY2QxN2ZmYTNlNTEwMTc3NTA1NDg5N2MwN2UwNjA3NzM5YjE4MDZjYTA0ODMwZGM5NWVjNWRiMWVjNg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים , 01.09.25",
-          "StreamerId": "6378056869112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fe284e72-8093-4df4-b20d-e833e746df94/2087070f-b37f-4981-a593-e1e83af60d8c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378056869112",
-          "Date": "2025-09-01T19:45:33Z",
-          "ShortDescriptionLine1": "Israelis, 01.09.25",
-          "ShortDescriptionLine2": "2025-09-01T19:45:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fe284e72-8093-4df4-b20d-e833e746df94/10s/master.m3u8?fastly_token=NjhkYWZlYzVfNjQ0N2NhNGY1NjA1NDIxN2ZlZDUyN2I1ZWFiN2MyZDE4NWMyZGJiYWY1YmUzMmMzNmU4NjAxYzZhZWI4OGNkNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 01.09.25",
-          "StreamerId": "6378060671112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aeac2515-f8a0-4046-94e8-16ffc2d5ec69/402205fa-bb1e-45fb-bfe3-83dc862e46e0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378060671112",
-          "Date": "2025-09-01T18:51:21Z",
-          "ShortDescriptionLine1": "Central Edition, 01.09.25",
-          "ShortDescriptionLine2": "2025-09-01T18:51:21Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aeac2515-f8a0-4046-94e8-16ffc2d5ec69/10s/master.m3u8?fastly_token=NjhkYWY3YjVfY2FjZDQzMDFmOTY4ZTgwNGI4NTk0ODAyMTMwZDIzY2RkZGMwZjc1NDA5MjIyZGNhOTNiMzE4M2NkOWEwYmRkZA%3D%3D"
           ]
         },
         {
