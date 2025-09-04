@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 04.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 04.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "26c49114a3319910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-26c49114a331991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-04T16:56:21+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 04.09.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 04.09.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21350881/21350881_noAdds/21350881_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21350881/21350881_noAdds/21350881_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "68a29114a3319910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-68a29114a331991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-04T15:00:57+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 04.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 04.09.25"
         },
         {
           "Title": "המהדורה המרכזית: 03.09.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-09-03T17:56:19+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.09.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 03.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/03/Hamesh_030925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250903_v1/17rafi_vtr2_n20250903_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250903_v1/17rafi_vtr2_n20250903_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b157adb340e09910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-b157adb340e0991026.htm",
-          "ShortDescriptionLine2": "Investigation of the Power of the Car in Jerusalem - and the GSS involvement",
-          "Date": "2025-09-03T16:55:53+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 03.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 30.08.25",
@@ -2440,6 +2440,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות , 03.09.25",
+          "StreamerId": "6378398761112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3d3f9bc0-8b2c-4e9e-873f-5d34ca0d3736/3caa27ae-d7f9-41ea-8b49-916cad8cb1bd/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378398761112",
+          "Date": "2025-09-04T13:58:09Z",
+          "ShortDescriptionLine1": "News, 03.09.25",
+          "ShortDescriptionLine2": "2025-09-04T13:58:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3d3f9bc0-8b2c-4e9e-873f-5d34ca0d3736/10s/master.m3u8?fastly_token=NjhkZTk0MDBfM2Q4MTQ4N2I0ZTFjNzU2Y2VlYjNjOTBkYWUwZWFhYWEwYjZjZGQ5NzU3MmEyZTg0ODQ1MTM3MWYxMmMxMDcyMQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת הצוהריים , 04.09.25",
+          "StreamerId": "6378400304112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fd3981ec-eab2-48a6-97e0-a789102311c0/09f11dab-d246-4471-946c-ec219ea4b448/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378400304112",
+          "Date": "2025-09-04T13:48:26Z",
+          "ShortDescriptionLine1": "Lunch Edition, 04.09.25",
+          "ShortDescriptionLine2": "2025-09-04T13:48:26Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fd3981ec-eab2-48a6-97e0-a789102311c0/10s/master.m3u8?fastly_token=NjhkZWFhOGRfNTg4ZWMxZGIwODliOTJmMWIwMGNmOThmNzhjMmFiYjY4OTBlZGYxZGE5MTEwMDBhODRkYzk3NjUwNjQ5MTFkNg%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 03.09.25",
           "StreamerId": "6378396585112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/93abf7b5-8677-4ef6-ac2e-1f7657219dfe/0e52cb69-c97c-4bd4-85f0-51e7e9078a77/320x180/match/image.jpg",
@@ -2593,30 +2617,6 @@
           "ShortDescriptionLine2": "2025-09-02T15:15:45Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fd769f0b-fe30-4ea1-8ec4-1fe8f586a5eb/10s/master.m3u8?fastly_token=NjhkYzBlOWVfMGFkZjFjNTkyNzAzY2UxODMxNGEzYWRkMzM5YTI2YTNjMjMxNjEyY2I3Yzc1MjJhYzRiODdiNTJhNzIyOGI2Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים , 02.09.25 ",
-          "StreamerId": "6378148580112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/86a434ad-8bba-4787-a6b7-bf97f76290cd/38acd6ab-8582-4e28-9c33-48218aec8566/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378148580112",
-          "Date": "2025-09-02T13:00:14Z",
-          "ShortDescriptionLine1": "Lunch Edition, 02.09.25",
-          "ShortDescriptionLine2": "2025-09-02T13:00:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/86a434ad-8bba-4787-a6b7-bf97f76290cd/10s/master.m3u8?fastly_token=NjhkYmZkYzhfYzYzNjg4ZWJhNGY0ZGU3M2UxNWNjYWQ1ZDcyZmY3MTFmNDk5ODMyNWM1NWYyZmZlMzBlNzg4MmYyODE5ODk3ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 01.09.25",
-          "StreamerId": "6378156980112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f936e7db-99ef-40a2-af7e-fcb6a775c3d9/842d04e4-4a33-45ec-afe1-adae021e1bdc/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378156980112",
-          "Date": "2025-09-02T12:33:42Z",
-          "ShortDescriptionLine1": "News of News 01.09.25",
-          "ShortDescriptionLine2": "2025-09-02T12:33:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f936e7db-99ef-40a2-af7e-fcb6a775c3d9/10s/master.m3u8?fastly_token=NjhkZDhjMDRfZTQ1ZmZiZmRmZGY0MWUyMjdhMDZhOTA4MWEyMTFiNWU2MWViMWI4YTY4MzllNmUyNjUzMzI3MGQ1ZjdhYmViNQ%3D%3D"
           ]
         },
         {
