@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "ערב עם שי שטרן 5 - פרק 29",
+          "ShortDescriptionLine1": "Evening with Shai Stern 5 - Chapter 29",
+          "ShortDescriptionLine2": "2025-09-05 18:56:39",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ax5vzd99/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ax5vzd99/a.m3u8"
+          ],
+          "StreamerId": "1_ax5vzd99",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13011/s5/948481",
+          "Date": "2025-09-05 18:56:39"
+        },
+        {
           "Title": "שום פלפל ושמן זית 2025 | פרק 23 - אלי יצפאן",
           "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 23 - Eli Yitzpan",
           "ShortDescriptionLine2": "2025-09-05 15:58:08",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_b8jso3vf",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-763475/s2/944618",
           "Date": "2025-08-25 19:41:16"
-        },
-        {
-          "Title": "שיר אחד עונה 2 | פרק 3 - עמיר בניון: \"ניצחת איתי הכל\"",
-          "ShortDescriptionLine1": "One Song Season 2 | Chapter 3 - Amir Benyun: \"You won everything with me\"",
-          "ShortDescriptionLine2": "2025-08-25 19:05:08",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8v4bupig/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8v4bupig/a.m3u8"
-          ],
-          "StreamerId": "1_8v4bupig",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-704326/s2/930999",
-          "Date": "2025-08-25 19:05:08"
         }
       ]
     },
@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 05.09.25 [live]",
+          "Title": "אולפן שישי: 05.09.25",
           "Poster": "https://img.mako.co.il/2025/09/05/Ulpan_Shishi_050925_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21350900/21350900_noAdds/21350900_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21350900/21350900_noAdds/21350900_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d24ec12745319910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/db4c7a9448be8910/VOD-d24ec1274531991026.htm",
           "ShortDescriptionLine2": "The Chief of Staff's message to the abducted families",
           "Date": "2025-09-05T19:55:22+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 05.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 05.09.25"
         },
         {
           "Title": "המהדורה המרכזית: 04.09.25",
@@ -2128,7 +2128,7 @@
       "Items": [
         {
           "Title": "אופירה ולוינסון: שרוליק איינהורן",
-          "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/09/05/Ofira_Levinson_050925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/21350915/21350915_noAdds/21350915_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/21350915/21350915_noAdds/21350915_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
