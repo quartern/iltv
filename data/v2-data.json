@@ -1968,6 +1968,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 05.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d24ec12745319910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/db4c7a9448be8910/VOD-d24ec1274531991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-05T19:55:22+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Friday Studio: 05.09.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 04.09.25",
           "Poster": "https://img.mako.co.il/2025/09/04/Mahadura_Merkazit_040925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2080,20 +2094,6 @@
           "ShortDescriptionLine1": "Saturday at five: 30.08.25"
         },
         {
-          "Title": "אולפן שישי: 29.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/29/Ulpan_Shishi_290825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20ulpash_vtr2_n20250829_v1/20ulpash_vtr2_n20250829_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20ulpash_vtr2_n20250829_v1/20ulpash_vtr2_n20250829_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "995724a986fe8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-995724a986fe891027.htm",
-          "ShortDescriptionLine2": "In a military operation, bodies of two kidnappers were returned",
-          "Date": "2025-08-29T19:55:08+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Friday Studio: 29.08.25"
-        },
-        {
           "Title": "פגוש את העיתונות: 23.08.25",
           "Poster": "https://img.mako.co.il/2025/08/23/Pgosh_230825_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2127,18 +2127,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה ולוינסון: שרוליק איינהורן [live]",
+          "Title": "אופירה ולוינסון: שרוליק איינהורן",
           "Poster": "https://img.mako.co.il/2025/01/08/OfiraVeLevinson2025_1_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/21350915/21350915_noAdds/21350915_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/21350915/21350915_noAdds/21350915_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7e3139ebae319910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-7e3139ebae31991027.htm",
           "ShortDescriptionLine2": "Sharulik Einhorn in an exclusive response",
           "Date": "2025-09-05T17:59:22+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ofira and Levinson: Sherulik Einhorn [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira and Levinson: Sherulik Einhorn"
         },
         {
           "Title": "דוח מצב עם עינב וירון: הצעת חמאס ותגובת נתניהו",
