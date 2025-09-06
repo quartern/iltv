@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 06.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 06.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c550274c66319910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/66bb17e3efff8910/VOD-c550274c6631991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-06T19:54:51+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend News: 06.09.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 06.09.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21350933/21350933_noAdds/21350933_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21350933/21350933_noAdds/21350933_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0f69274c66319910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/35ce17e3efff8910/VOD-0f69274c6631991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-06T18:00:00+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the Press: 06.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the Press: 06.09.25"
         },
         {
           "Title": "שבת בחמש: 06.09.25",
@@ -2092,20 +2106,6 @@
           "Date": "2025-09-04T15:00:57+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Edition today: 04.09.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 30.08.25",
-          "Poster": "https://img.mako.co.il/2025/08/30/Mahadra_Merkazit_300825_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250830_v1/20mahadurafull_vtr2_n20250830_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/08/20mahadurafull_vtr2_n20250830_v1/20mahadurafull_vtr2_n20250830_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "187888ae98fe8910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/49a6a886ccf48910/VOD-187888ae98fe891027.htm",
-          "ShortDescriptionLine2": "All details about the dramatic assassination attempt in Gaza",
-          "Date": "2025-08-30T19:55:28+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend News: 30.08.25"
         },
         {
           "Title": "פגוש את העיתונות: 30.08.25",
