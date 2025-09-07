@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "חדשות הלילה | 04.09.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-09-05 09:51:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ntlquabg/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ntlquabg/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_ntlquabg",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/948160",
-          "Date": "2025-09-05 09:51:56"
-        },
-        {
           "Title": "מהדורת חמש | 07.11.24",
           "ShortDescriptionLine1": "The 5pm News Edition",
           "ShortDescriptionLine2": "2024-11-07 20:13:56",
@@ -1149,28 +1137,28 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "אירוויזיון 2025 - חצי גמר 2 | 15.05.25",
-          "ShortDescriptionLine1": "Eurovision 2025 - Finals 2 | 15.05.25",
-          "ShortDescriptionLine2": "2025-05-16 00:22:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vxjbk9n1/poster",
+          "Title": "המזח | פרק 2 - האדם הוא הפלדה",
+          "ShortDescriptionLine1": "The dock | Chapter 2 - Man is steel",
+          "ShortDescriptionLine2": "2025-06-17 14:50:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h3g7trtp/poster",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vxjbk9n1/a.m3u8"
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_h3g7trtp/a.m3u8"
           ],
-          "StreamerId": "1_vxjbk9n1",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/eurovision_2025/s1/901678",
-          "Date": "2025-05-16 00:22:51"
+          "StreamerId": "1_h3g7trtp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/555862",
+          "Date": "2025-06-17 14:50:41"
         },
         {
-          "Title": "הביצוע של יובל רפאל בחצי גמר האירוויזיון",
-          "ShortDescriptionLine1": "Yuval Raphael's performance in the Eurovision semi -final",
-          "ShortDescriptionLine2": "2025-05-16 12:32:05",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_giyfdlw9/poster",
+          "Title": "המזח | פרק 4 - \"אני משנה את הפקודה\"",
+          "ShortDescriptionLine1": "The dock | Chapter 4 - \"I change the command\"",
+          "ShortDescriptionLine2": "2025-06-17 14:51:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_a7vmyi27/poster",
           "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_giyfdlw9/a.m3u8"
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_a7vmyi27/a.m3u8"
           ],
-          "StreamerId": "1_giyfdlw9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/eurovision_2025/s1/901680",
-          "Date": "2025-05-16 12:32:05"
+          "StreamerId": "1_a7vmyi27",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-538817/s1/609199",
+          "Date": "2025-06-17 14:51:50"
         }
       ]
     },
@@ -1296,18 +1284,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 07.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 07.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e2b2cb8d4c229910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-e2b2cb8d4c22991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-07T17:55:40+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 07.09.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 07.09.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21350957/21350957_noAdds/21350957_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21350957/21350957_noAdds/21350957_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bb71cb8d4c229910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-bb71cb8d4c22991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-07T16:55:28+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 07.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 07.09.25"
         },
         {
           "Title": "מהדורת היום: 07.09.25",
@@ -1420,20 +1422,6 @@
           "Date": "2025-09-04T19:26:43+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 04.09.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 04.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/04/Shesh_040925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/18oded_vtr2_n20250904_v1/18oded_vtr2_n20250904_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/18oded_vtr2_n20250904_v1/18oded_vtr2_n20250904_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "53f69114a3319910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-53f69114a331991026.htm",
-          "ShortDescriptionLine2": "What is behind Netanyahu's barks?",
-          "Date": "2025-09-04T17:55:04+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 04.09.25"
         },
         {
           "Title": "פגוש את העיתונות: 30.08.25",
@@ -1768,6 +1756,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש , 07.09.25",
+          "StreamerId": "6378715727112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/72f23243-72d4-42ba-8480-84a08798467a/301a7ec3-dfce-4c2e-8dcb-40a9b0e549aa/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378715727112",
+          "Date": "2025-09-07T15:00:51Z",
+          "ShortDescriptionLine1": "Edition Five, 07.09.25",
+          "ShortDescriptionLine2": "2025-09-07T15:00:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/72f23243-72d4-42ba-8480-84a08798467a/10s/master.m3u8?fastly_token=NjhlMjllNzBfNzQ0MTVmM2MwNTU1Y2Y0ZmJmMjc0YWMxOTNjYWEyNjgxNTUxMGIyMjZkNDkwMWY4MGQ4MzRhNDNiNjAyNmI4Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "מגזין השבת , 06.09.25",
           "StreamerId": "6378696781112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0fdfd05f-b4ef-4b6b-aedd-c60bde9bf434/833c10ee-cb77-460f-8c60-69b235c06523/320x180/match/image.jpg",
@@ -2017,18 +2017,6 @@
           "ShortDescriptionLine2": "2025-09-04T12:49:09Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3e6341ea-aff8-4e79-851e-648b27200941/10s/master.m3u8?fastly_token=NjhkZTkwMzNfMzM3Y2NiYmY4YjMwMWEzZTIzMTVmMTZiNjAxM2JhNDRkMzNlMWMyOWZjZDE1ZWFmMmE4ZDM4MjU3NGNkYTViOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש , 03.09.25",
-          "StreamerId": "6378396570112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/acffe244-4584-44ef-900d-392cf5118dcd/3767abf7-834e-4500-9d6d-41c2333fd0c2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378396570112",
-          "Date": "2025-09-04T12:47:20Z",
-          "ShortDescriptionLine1": "Edition Five, 03.09.25",
-          "ShortDescriptionLine2": "2025-09-04T12:47:20Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/acffe244-4584-44ef-900d-392cf5118dcd/10s/master.m3u8?fastly_token=NjhkZTkwYTBfNzUyZmEyM2FkNGNkOGI4OWNlMjgxY2IxZjdhMDlmZWFhMjljNTYzZDJlM2M4NTc0NDIzZDkxMDBjZjc0N2ExOQ%3D%3D"
           ]
         },
         {
