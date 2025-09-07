@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 07.09.25 [live]",
+          "Title": "המהדורה המרכזית: 07.09.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21350956/21350956_noAdds/21350956_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21350956/21350956_noAdds/21350956_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b935cb8d4c229910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-b935cb8d4c22991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-07T19:53:59+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 07.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 07.09.25"
         },
         {
           "Title": "המהדורה המוקדמת: 07.09.25",
@@ -2440,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 07.09.25",
+          "StreamerId": "6378727329112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c3aa038d-2d9c-41ed-93d5-cf86d5200e40/737d2dc6-4f66-497d-a95e-39c92ef200fe/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378727329112",
+          "Date": "2025-09-07T18:27:36Z",
+          "ShortDescriptionLine1": "Central Edition, 07.09.25",
+          "ShortDescriptionLine2": "2025-09-07T18:27:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c3aa038d-2d9c-41ed-93d5-cf86d5200e40/10s/master.m3u8?fastly_token=NjhlMmQ5N2FfMzU5YTMyYTk5NzljMjBiYjc5NTI0ZTRlNTllOWFiY2MzZjJhYmM5ZTk5ZjI2MGRkZTA1MTU2NTZjNjY0OTczYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 07.09.25",
           "StreamerId": "6378724189112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/da8fe7fd-81e5-4ae0-b6ac-3fee1965c872/b3d42d18-3c14-4d87-8f4d-1db99185290d/320x180/match/image.jpg",
@@ -2641,18 +2653,6 @@
           "ShortDescriptionLine2": "2025-09-04T16:34:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00735e43-7af1-4252-8ead-d99319071648/10s/master.m3u8?fastly_token=NjhkZmJhNjJfMzRlNzcxNjVlZDkzZmYwMTc0YzZiOWExNDczMTg5ZWRjNjliYTY2NTRlYmNlYTBkNzg4NTFkZDE2ZTU4ODJjNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 03.09.25",
-          "StreamerId": "6378416564112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b8f2b1d1-4121-4122-84d4-21ae758bcc17/09abd785-3ce7-40ca-af03-4c80d514996d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378416564112",
-          "Date": "2025-09-04T16:31:27Z",
-          "ShortDescriptionLine1": "Central Edition 03.09.25",
-          "ShortDescriptionLine2": "2025-09-04T16:31:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b8f2b1d1-4121-4122-84d4-21ae758bcc17/10s/master.m3u8?fastly_token=NjhkZmJkNmNfMDE2YTBjMWI1NjUxZmEyNmMxMjg5MTJmMmE4ZGYzZDVhZTg2N2M0NTQ3NWZmY2E2MmJhOWExZWQxMjAzOWUwYQ%3D%3D"
           ]
         },
         {
