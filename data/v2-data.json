@@ -1440,18 +1440,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 08.09.25 [live]",
+          "Title": "המהדורה המרכזית: 08.09.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21350982/21350982_noAdds/21350982_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21350982/21350982_noAdds/21350982_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "caafaf73db729910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-caafaf73db72991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-08T19:54:24+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 08.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 08.09.25"
         },
         {
           "Title": "המהדורה המוקדמת: 08.09.25",
@@ -1599,6 +1599,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a098ca165b229910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-a098ca165b22991027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-09-08T22:30:16+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: נסלי ויואב",
           "Poster": "https://img.mako.co.il/2025/09/08/Nesli_Yoav_080925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1625,20 +1639,6 @@
           "Date": "2025-09-08T07:11:45+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Morning News with Niv Raskin"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/09/08/Avri_Sherki_070925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki_Plus_Ehad/2025/Sep/Avri_Sherki_Plus_Ehad_070925_VOD_564mhfg/Avri_Sherki_Plus_Ehad_070925_VOD_564mhfg_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki_Plus_Ehad/2025/Sep/Avri_Sherki_Plus_Ehad_070925_VOD_564mhfg/Avri_Sherki_Plus_Ehad_070925_VOD_564mhfg_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a168ca165b229910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-a168ca165b22991027.htm",
-          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
-          "Date": "2025-09-07T23:36:08+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "אופירה ולוינסון: שרוליק איינהורן",
