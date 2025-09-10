@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "העולם היום | 10.09.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-09-10 15:01:41",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_peu7q0pz/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_peu7q0pz/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_peu7q0pz",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/949181",
-          "Date": "2025-09-10 15:01:41"
-        },
-        {
           "Title": "חדשות הלילה | 09.09.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-09-09 21:01:07",
@@ -535,18 +523,6 @@
           "StreamerId": "1_ab4tfxg9",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/948714",
           "Date": "2025-09-06 19:32:38"
-        },
-        {
-          "Title": "חדשות שישי | 05.09.25",
-          "ShortDescriptionLine1": "Friday News Edition",
-          "ShortDescriptionLine2": "2025-09-05 20:27:53",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_7uonvboz/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_7uonvboz/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_7uonvboz",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/948441",
-          "Date": "2025-09-05 20:27:53"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 6 - שטח פרוץ",
@@ -1473,42 +1449,6 @@
           "Date": "2025-05-21 20:37:29"
         },
         {
-          "Title": "טהרן עונה 3 | פרק 1 - עולם רדיואקטיבי",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 1 - Radioactive World",
-          "ShortDescriptionLine2": "2025-07-07 10:24:10",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_5kuznpwi/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5kuznpwi/a.m3u8"
-          ],
-          "StreamerId": "1_5kuznpwi",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/833707",
-          "Date": "2025-07-07 10:24:10"
-        },
-        {
-          "Title": "טהרן עונה 3 | פרק 2 - אגרוף בפרצוף",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 2 - Punch in the face",
-          "ShortDescriptionLine2": "2025-06-17 14:30:03",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_xov7asuv/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xov7asuv/a.m3u8"
-          ],
-          "StreamerId": "1_xov7asuv",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/836534",
-          "Date": "2025-06-17 14:30:03"
-        },
-        {
-          "Title": "טהרן עונה 3 | פרק 3 - בגוב האריות",
-          "ShortDescriptionLine1": "Tehran Season 3 | Chapter 3 - In the Lion Government",
-          "ShortDescriptionLine2": "2025-06-17 14:30:31",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_am337lsk/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_am337lsk/a.m3u8"
-          ],
-          "StreamerId": "1_am337lsk",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12317/s3/839205",
-          "Date": "2025-06-17 14:30:31"
-        },
-        {
           "Title": "סיפורים מהכורסה עונה 4 | פרק 1 - אהבה וזוגיות",
           "ShortDescriptionLine1": "Stories from Shavura Season 4 | Chapter 1 - Love and Couples",
           "ShortDescriptionLine2": "2025-05-21 20:40:00",
@@ -1908,6 +1848,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 10.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "078db26d11239910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-078db26d1123991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-10T19:53:26+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 10.09.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 10.09.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1962,20 +1916,6 @@
           "Date": "2025-09-10T14:59:49+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 10.09.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 09.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/09/Mahadura_Merkazit_090925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/20mahadurafull_vtr2_n20250909_v1/20mahadurafull_vtr2_n20250909_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/20mahadurafull_vtr2_n20250909_v1/20mahadurafull_vtr2_n20250909_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7e4fd4f8d6d29910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-7e4fd4f8d6d2991026.htm",
-          "ShortDescriptionLine2": "Israeli attack in Qatar: All updates and estimates",
-          "Date": "2025-09-09T19:54:20+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 09.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 06.09.25",
