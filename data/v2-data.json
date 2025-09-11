@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 11.09.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-09-11 17:17:46",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fe1wxug5/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_fe1wxug5/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_fe1wxug5",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/950278",
+          "Date": "2025-09-11 17:17:46"
+        },
+        {
           "Title": "העולם היום | 11.09.25",
           "ShortDescriptionLine1": "The World Today",
           "ShortDescriptionLine2": "2025-09-11 14:38:17",
@@ -511,18 +523,6 @@
           "StreamerId": "1_oeba5ojx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/949912",
           "Date": "2025-09-10 19:18:25"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 10.09.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-09-10 17:22:07",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_qiosf1uz/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qiosf1uz/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_qiosf1uz",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/949184",
-          "Date": "2025-09-10 17:22:07"
         },
         {
           "Title": "חדשות השבת | 06.09.25",
@@ -2144,11 +2144,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: ניסיון חיסול צמרת חמאס",
           "Poster": "https://img.mako.co.il/2025/09/11/Hadshot_Haboker_110925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21351061/21351061_noAdds/21351061_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21351061/21351061_noAdds/21351061_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/September/Hadshot_Haboker_110925_VOD_cxrt656/Hadshot_Haboker_110925_VOD_cxrt656_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/September/Hadshot_Haboker_110925_VOD_cxrt656/Hadshot_Haboker_110925_VOD_cxrt656_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c7234ccab8229910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-c7234ccab822991027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-c7234ccab822991027.htm",
           "ShortDescriptionLine2": "Attempt to eliminate Hamas top and the question marks",
           "Date": "2025-09-11T07:10:13+03:00",
           "Live": false,
@@ -2440,6 +2440,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל , 11.09.25",
+          "StreamerId": "6379151686112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/05572751-d4e6-44ae-9c98-e4389cd592a2/66a9d838-acf6-4a12-9a49-c29ecb4b13ad/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379151686112",
+          "Date": "2025-09-11T17:01:27Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 11.09.25",
+          "ShortDescriptionLine2": "2025-09-11T17:01:27Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/05572751-d4e6-44ae-9c98-e4389cd592a2/10s/master.m3u8?fastly_token=NjhlODAxNWVfNmU0MDQzMjdjNzEwNTMzNzY5NzgyMDY3MzI5ZDJhYjBhYjY1ZjIwNzc0MzhhYmIyY2Y4NWM3OWFkZDYxODJjMg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדד גלבוע , 11.09.25",
+          "StreamerId": "6379153031112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2023f92c-31cc-42d3-be10-cfe0da5654af/0a6155bb-ffb3-4041-be1b-9e64aa4e9af4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379153031112",
+          "Date": "2025-09-11T16:59:14Z",
+          "ShortDescriptionLine1": "Gilboa Index, 11.09.25",
+          "ShortDescriptionLine2": "2025-09-11T16:59:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2023f92c-31cc-42d3-be10-cfe0da5654af/10s/master.m3u8?fastly_token=NjhlODA1N2RfZGU2MTZjNTBiMWE3MWNlMTY3NWI4NTViZDNjZjljN2EzNWFlZWNiM2IwYjNhNTM1YWU0MjE4YWViODI3ZWFhNA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 , 11.09.25",
           "StreamerId": "6379134377112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4e7f98e6-13f1-4501-b74c-44a6fe4dcd5c/9a436906-fa28-4f61-b82f-dbc73023ddd9/320x180/match/image.jpg",
@@ -2596,18 +2620,6 @@
           ]
         },
         {
-          "Title": "משדר מיוחד , 09.09.25",
-          "StreamerId": "6378936856112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e3a9c7bd-8767-4e0e-89f5-ae746eda8e29/99ac6582-a603-4fcf-ad38-ac192c8b0bca/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378936856112",
-          "Date": "2025-09-09T19:26:59Z",
-          "ShortDescriptionLine1": "Special transmitter, 09.09.25",
-          "ShortDescriptionLine2": "2025-09-09T19:26:59Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e3a9c7bd-8767-4e0e-89f5-ae746eda8e29/10s/master.m3u8?fastly_token=NjhlNmM2ODNfNTRhYWE1MmJjNmMxOThlNDU5NDkzNTNkNzhlNTFkMmVjN2FlNzA0ODI3Njk5YWJjOTU1ODgxYzM0YTJlODg1Ng%3D%3D"
-          ]
-        },
-        {
           "Title": "המהדורה המרכזית 09.09.25",
           "StreamerId": "6378936707112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6cb3e64e-d23d-4e6e-8bfd-dd735ee2c0b4/93e866af-b42c-4715-ad36-c2a243b9c137/320x180/match/image.jpg",
@@ -2629,18 +2641,6 @@
           "ShortDescriptionLine2": "2025-09-09T15:02:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e04c2860-f594-4f4b-91d7-187124c2093f/10s/master.m3u8?fastly_token=NjhlNTQ2ZDNfY2E0ZWY1ODE4ZDBmYjgwYTg5NTBmMjZmYjQ0OWI0MjRkMTM5Y2RkMTNlNDY0OWVjM2U0YzJhYTg5ODI2YTBjOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל , משדר מיוחד , 08.09.25",
-          "StreamerId": "6378837565112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9e5494c1-7612-4917-bac8-fc30589b5f27/a4229551-1c40-4a5f-b17f-282a087a7908/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378837565112",
-          "Date": "2025-09-08T20:38:37Z",
-          "ShortDescriptionLine1": "7 Sharon Gal, Special Transmitter, 08.09.25",
-          "ShortDescriptionLine2": "2025-09-08T20:38:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9e5494c1-7612-4917-bac8-fc30589b5f27/10s/master.m3u8?fastly_token=NjhlNmI3MzFfYjc2YTBhNzBlNTlmN2VkMGU4ZTRjYTZiNjY5ZDgzMTcyYTc5MTY4NTZjOTljM2RmNGRiMDY0MWE0YTdiMTBkYg%3D%3D"
           ]
         },
         {
