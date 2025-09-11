@@ -1968,6 +1968,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 11.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e1b5352154739910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-e1b535215473991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-11T14:59:06+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 11.09.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 10.09.25",
           "Poster": "https://img.mako.co.il/2025/09/11/Mahadura_Merkazit_100925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2022,20 +2036,6 @@
           "Date": "2025-09-10T16:54:51+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 10.09.25"
-        },
-        {
-          "Title": "מהדורת היום: 10.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/11/Mahadurat_Hayom_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/15today_vtr2_n20250910_v1/15today_vtr2_n20250910_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/15today_vtr2_n20250910_v1/15today_vtr2_n20250910_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5237154620239910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-523715462023991026.htm",
-          "ShortDescriptionLine2": "H have been eliminated or survived? Assault, doubts and signs",
-          "Date": "2025-09-10T14:59:49+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 10.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 06.09.25",
@@ -2337,48 +2337,6 @@
           "ShortDescriptionLine1": "Harosh (The Head): The leak"
         },
         {
-          "Title": "עובדה: החמ״ל הסודי של בלפור ",
-          "Poster": "https://img.mako.co.il/2024/12/19/Uvda2024_05_191224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_05_191224_VOD_arc874/Uvda2024_05_191224_VOD_arc874_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_05_191224_VOD_arc874/Uvda2024_05_191224_VOD_arc874_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6fedb48621ed3910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-6fedb48621ed391027.htm",
-          "ShortDescriptionLine2": "Fact reveals the mechanism applied from the Prime Minister's Office",
-          "Date": "2024-12-19T21:36:00+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: Balfour's Secret Department"
-        },
-        {
-          "Title": "עובדה: 6:29 לפני המלחמה",
-          "Poster": "https://img.mako.co.il/2024/12/12/Uvda2024_4_121224_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_04_121224_VOD_arc89y3/Uvda2024_04_121224_VOD_arc89y3_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_04_121224_VOD_arc89y3/Uvda2024_04_121224_VOD_arc89y3_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "62487e4c15ab3910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-62487e4c15ab391026.htm",
-          "ShortDescriptionLine2": "What really happened during the critical hours at the Prime Minister's Office?",
-          "Date": "2024-12-12T21:34:53+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: 6:29 Before the War"
-        },
-        {
-          "Title": "עובדה: המצוד בלבנון",
-          "Poster": "https://img.mako.co.il/2024/11/13/Uvda2024_03_131124_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_03_131124_VOD_g8d77s7/Uvda2024_03_131124_VOD_g8d77s7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_03_131124_VOD_g8d77s7/Uvda2024_03_131124_VOD_g8d77s7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7f308394f36f2910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-7f308394f36f291026.htm",
-          "ShortDescriptionLine2": "After 18 years with me Angle returns",
-          "Date": "2024-11-13T21:35:55+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: Hunt in Lebanon"
-        },
-        {
           "Title": "ארץ נהדרת: שר הביטחון החדש מגיע",
           "Poster": "https://img.mako.co.il/2024/11/07/Eretz_Nehederet22_01_061124_02_Panel_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2391,34 +2349,6 @@
           "Date": "2024-11-06T21:49:28+02:00",
           "Live": false,
           "ShortDescriptionLine1": "ERETZ NeHEEDERET: The new defense minister arrives"
-        },
-        {
-          "Title": "עובדה: \"הקופסא השחורה\" של בארי",
-          "Poster": "https://img.mako.co.il/2024/09/26/Uvda2024_02_260924_vod_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/uvda/2024/EP/Uvda2024_02_260924_vod_arc329/Uvda2024_02_260924_vod_arc329_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/uvda/2024/EP/Uvda2024_02_260924_vod_arc329/Uvda2024_02_260924_vod_arc329_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "55bec79417902910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-55bec7941790291026.htm",
-          "ShortDescriptionLine2": "Document that has not been exposed so far on Kibbutz Barry",
-          "Date": "2024-09-26T21:34:44+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: “Black Box” of Barry"
-        },
-        {
-          "Title": "עובדה: כך שרדתי בשבי",
-          "Poster": "https://img.mako.co.il/2024/07/22/uvda2024_01_210724_vod_autoOrient_i_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/uvda/2024/EP/uvda2024_01_210724_VOD_arc4kj4/uvda2024_01_210724_VOD_arc4kj4_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "725317275a5c0910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2024/VOD-725317275a5c091026.htm",
-          "ShortDescriptionLine2": "Coral Meir Jan who was rescued from Gaza how to survive",
-          "Date": "2024-07-21T21:37:27+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "UVDA: so I survived captive"
         },
         {
           "Title": "חשיפה: הסוד של טהוניה ",
@@ -2656,6 +2586,18 @@
           ]
         },
         {
+          "Title": "המהדורה המוקדמת , 06.09.25",
+          "StreamerId": "6378700050112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/dbfa8dd5-80b2-4599-95a3-a64c97bbe014/fc17af27-69c9-4867-afe5-fa63a06e410b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6378700050112",
+          "Date": "2025-09-07T10:25:05Z",
+          "ShortDescriptionLine1": "The early edition, 06.09.25",
+          "ShortDescriptionLine2": "2025-09-07T10:25:05Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dbfa8dd5-80b2-4599-95a3-a64c97bbe014/10s/master.m3u8?fastly_token=NjhlN2M4NWZfZjk2NzcyYTkyZWZhZGVjNTk4N2JhOTRmMGFkODM0NjViM2Y5YTQ4MzhkOGRhMTg3MDEzMGIwYzIzNjhiYzBhMA%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 06.09.25",
           "StreamerId": "6378684893112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fb29e718-ccfa-47f7-94ac-e3eeb8a5856a/be22e555-20d3-4268-97ea-ed37626ab60b/320x180/match/image.jpg",
@@ -2749,6 +2691,18 @@
           "ShortDescriptionLine2": "2025-08-30T18:19:39Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/64fc8665-9d2d-4a24-89d8-0c4ba8c3e494/10s/master.m3u8?fastly_token=NjhlNmMwYTFfNmZjNGNkNzM5MjgzMWNkMGEwNjYyMTZmZTlhY2Q3N2FlNTMwZjVkYjc1MGYxZmY0OGVhZDUxNmVkMDY1MDllZA%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת 29.08.25",
+          "StreamerId": "6377695968112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f576f780-c547-4fed-8c44-519bfe361613/bf69f03a-6f42-4ab2-b20e-e437da13b337/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6377695968112",
+          "Date": "2025-08-29T17:52:50Z",
+          "ShortDescriptionLine1": "The early edition 29.08.25",
+          "ShortDescriptionLine2": "2025-08-29T17:52:50Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f576f780-c547-4fed-8c44-519bfe361613/10s/master.m3u8?fastly_token=NjhlN2M5ZTRfZTRlNzRhYWY2OWM5OTQ0MjAzNTYzY2Q4N2UxY2FlOWIxNTliYTMwNTE3MjVkOTFhNDgyNmYzZDNkNzMzZTliNQ%3D%3D"
           ]
         },
         {
