@@ -465,18 +465,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם ליאל קייזר ואליאור לוי | 14.09.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-09-15 09:17:36",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_1j2kqqez/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_1j2kqqez/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_1j2kqqez",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/951010",
-          "Date": "2025-09-15 09:17:36"
-        },
-        {
           "Title": "חדשות הלילה | 14.09.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-09-14 21:11:22",
@@ -1968,18 +1956,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 15.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 15.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "500426c53cb49910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-500426c53cb4991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-15T16:55:37+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 15.09.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 15.09.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21351165/21351165_noAdds/21351165_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21351165/21351165_noAdds/21351165_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3e2226c53cb49910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-3e2226c53cb4991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-15T15:00:42+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Edition today: 15.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Edition today: 15.09.25"
         },
         {
           "Title": "המהדורה המרכזית: 14.09.25",
@@ -2022,20 +2024,6 @@
           "Date": "2025-09-14T17:55:40+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben -Ami: 14.09.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 14.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/14/Hamesh_140925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250914_v2/17rafi_vtr2_n20250914_v2_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250914_v2/17rafi_vtr2_n20250914_v2_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b45fa54ea0749910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-b45fa54ea074991027.htm",
-          "ShortDescriptionLine2": "The fear of collapse of negotiations following the bacterial assault",
-          "Date": "2025-09-14T16:55:59+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 13.09.25",
