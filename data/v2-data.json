@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 15.09.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-09-15 20:51:19",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ip164655/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ip164655/a.m3u8"
+          ],
+          "StreamerId": "1_ip164655",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/951413",
+          "Date": "2025-09-15 20:51:19"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 15.09.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-09-15 19:26:13",
@@ -511,18 +523,6 @@
           "StreamerId": "1_jf37w517",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/951013",
           "Date": "2025-09-14 21:11:22"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 14.09.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-09-14 19:35:11",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_z0qo2hov/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_z0qo2hov/a.m3u8"
-          ],
-          "StreamerId": "1_z0qo2hov",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/951012",
-          "Date": "2025-09-14 19:35:11"
         },
         {
           "Title": "חדשות השבת | 13.09.25",
@@ -2127,6 +2127,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "116f13ff76749910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-116f13ff7674991026.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-09-15T23:43:24+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "נסלי ויואב: לקראת כיבוש עזה",
           "Poster": "https://img.mako.co.il/2025/09/15/Nesli_Yoav_150925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2153,20 +2167,6 @@
           "Date": "2025-09-15T07:10:13+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Ruskin: Preparations for the Land maneuver"
-        },
-        {
-          "Title": "אברי ושרקי: דילן גפן",
-          "Poster": "https://img.mako.co.il/2025/09/15/Avri_Sherki_140925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/September/Avri_Sherki_140925_VOD_fn589/Avri_Sherki_140925_VOD_fn589_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/September/Avri_Sherki_140925_VOD_fn589/Avri_Sherki_140925_VOD_fn589_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1fce13ff76749910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-1fce13ff7674991026.htm",
-          "ShortDescriptionLine2": "And also: Jackie Levy, Noam Tivon, Zadok Ezekiel",
-          "Date": "2025-09-14T23:39:02+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Dylan Geffen"
         },
         {
           "Title": "אופירה ולוינסון: ניסיון החיסול בקטאר ",
@@ -2439,6 +2439,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות, 15.09.25",
+          "StreamerId": "6379501948112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f35e7a37-600b-40c0-b504-a58c97c24e4e/85dab5be-023e-4a94-b6e9-c4f62a3f8da5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379501948112",
+          "Date": "2025-09-15T20:35:45Z",
+          "ShortDescriptionLine1": "News, 15.09.25",
+          "ShortDescriptionLine2": "2025-09-15T20:35:45Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f35e7a37-600b-40c0-b504-a58c97c24e4e/10s/master.m3u8?fastly_token=NjhlZDczMGRfMTg5MTkxMDY0Njg3Zjk1NjBjNDYwOThjMjliNmMyMzNlM2NmOWU1YzViYzk2NzE0Nzc0YzU1Yjg1ZjYyNjc5MA%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי , 15.09.25",
           "StreamerId": "6379492488112",
@@ -2725,18 +2737,6 @@
           "ShortDescriptionLine2": "2025-09-11T19:39:20Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/22c67121-903b-4e61-9699-4857e7f7a29b/10s/master.m3u8?fastly_token=NjhlOWE0MGZfZmI3NjEzODVhMmZjOTU3NGFmMmI2ZDg3MjkyNzIyYWI3ZDYzYWMzYTM3MDc1NTU5MzdiMjkwYjQ3ZThkYTMwYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 10.09.25",
-          "StreamerId": "6379121296112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/49c43fd7-58cb-432f-b778-c3c4c33c1d47/5631d522-0c8f-4e24-bc6e-cb0a6af02eb3/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379121296112",
-          "Date": "2025-09-11T12:41:16Z",
-          "ShortDescriptionLine1": "News, 10.09.25",
-          "ShortDescriptionLine2": "2025-09-11T12:41:16Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/49c43fd7-58cb-432f-b778-c3c4c33c1d47/10s/master.m3u8?fastly_token=NjhlN2JjODNfOGI1MWQ3OTIwZDI3Yzc2NzA5NmJlOWQ4OWRhMTExNzZkZjJjMjM5YTg4M2ZmYjk4MTk5ZDMyOGY2MGJhN2RhYg%3D%3D"
           ]
         },
         {
