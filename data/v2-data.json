@@ -1968,6 +1968,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 15.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "87f626c53cb49910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-87f626c53cb4991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-15T19:54:06+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Central Edition: 15.09.25 [live]"
+        },
+        {
           "Title": "המהדורה המוקדמת: 15.09.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2024,20 +2038,6 @@
           "ShortDescriptionLine1": "Edition today: 15.09.25"
         },
         {
-          "Title": "המהדורה המרכזית: 14.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/14/Mahadura_Merkazit_140925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/20mhadurafull_vtr2_n20250914_v1/20mhadurafull_vtr2_n20250914_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/20mhadurafull_vtr2_n20250914_v1/20mhadurafull_vtr2_n20250914_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f891a6a831749910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-f891a6a83174991027.htm",
-          "ShortDescriptionLine2": "The IDF completed preparations for the Gaza occupation",
-          "Date": "2025-09-14T19:54:01+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Central Edition: 14.09.25"
-        },
-        {
           "Title": "חדשות סוף השבוע: 13.09.25",
           "Poster": "https://img.mako.co.il/2025/09/13/Hadshot_Sof_Hashavua_130925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2074,7 +2074,7 @@
           ],
           "StreamerId": "7405ccd5e6739910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2025/974e17e3efff8910/VOD-7405ccd5e673991027.htm",
-          "ShortDescriptionLine2": "The results of the attack on the locomotive",
+          "ShortDescriptionLine2": "The results of the attack in the locomotive",
           "Date": "2025-09-13T16:58:31+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Saturday at five: 13.09.25"
