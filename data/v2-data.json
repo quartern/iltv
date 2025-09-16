@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 16.09.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_sdf9opac",
+          "Date": "2025-09-16 23:52:05",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/feqrp-904767653/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-09-16 23:52:05",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sdf9opac/flavorIds/1_w55wecwe,1_pobnuidh,1_q6m16fl0,1_a1r75z3g,1_mlw4m0li,1_46gny6q6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 16.09.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_1xjhcc13",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-09-16 18:10:41",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bx34a4ss/flavorIds/1_fajj9974,1_lqcwsz9k,1_qki878fn,1_1lnleh2i,1_1nk2w35f,1_4dlpkdoc/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 15.09.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_hopr743j",
-          "Date": "2025-09-15 23:48:32",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4021656/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-09-15 23:48:32",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hopr743j/flavorIds/1_qcxjzejx,1_30tpdicu,1_p0ry84x5,1_l9vq2lgh,1_1uhr7fqh,1_tqdmdx88/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2127,18 +2127,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21351201/21351201_noAdds/21351201_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21351201/21351201_noAdds/21351201_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "70cf13ff76749910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-70cf13ff7674991026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-09-16T23:49:15+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "נסלי ויואב: מאבק המשפחות",
@@ -2279,62 +2279,6 @@
           "Date": "2025-08-01T21:57:20+03:00",
           "Live": false,
           "ShortDescriptionLine1": "What really happened there?: Erez Tal with Rebecca Michaeli"
-        },
-        {
-          "Title": "הראש: מבצע חילוץ",
-          "Poster": "https://img.mako.co.il/2025/04/06/Harosh_4_060425_VOD_vcx432_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_04_060425_VOD_n33ku5o/Harosh_04_060425_VOD_n33ku5o_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_04_060425_VOD_n33ku5o/Harosh_04_060425_VOD_n33ku5o_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5f75bbd5ae906910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-5f75bbd5ae90691026.htm",
-          "ShortDescriptionLine2": "Itamar decides to act alone - will he succeed?",
-          "Date": "2025-04-06T21:56:46+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HAROSH (The Head): Rescue Operation"
-        },
-        {
-          "Title": "הראש: איתמר חוצה את הקווים",
-          "Poster": "https://img.mako.co.il/2025/03/30/Harosh_03_300325_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_n36fy80b/Harosh_03_300325_VOD_n36fy80b_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_n36fy80b/Harosh_03_300325_VOD_n36fy80b_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ce7c64c3906e5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-ce7c64c3906e591027.htm",
-          "ShortDescriptionLine2": "For the first time Itamar is about to cross the lines",
-          "Date": "2025-03-30T21:55:19+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Harosh (The Head): Itamar crosses the lines"
-        },
-        {
-          "Title": "הראש: על מי אפשר לסמוך?",
-          "Poster": "https://img.mako.co.il/2025/03/23/Harosh1_02_230325_07_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_n3df519/Harosh_02_230325_VOD_n3df519_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_n3df519/Harosh_02_230325_VOD_n3df519_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a4cd2303c2c5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-1a4cd2303c2c591027.htm",
-          "ShortDescriptionLine2": "All the closest people, become suspected",
-          "Date": "2025-03-23T21:55:58+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Harosh (The Head): Who can be trusted?"
-        },
-        {
-          "Title": "הראש: ההדלפה",
-          "Poster": "https://img.mako.co.il/2025/03/18/Harosh_01_170325_VOD2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_n6ca65a/Harosh_01_170325_VOD_n6ca65a_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_n6ca65a/Harosh_01_170325_VOD_n6ca65a_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f12fa17fade54910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-f12fa17fade5491027.htm",
-          "ShortDescriptionLine2": "The GSS head faces a huge leakage",
-          "Date": "2025-03-17T21:51:59+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Harosh (The Head): The leak"
         },
         {
           "Title": "עובדה: החמ״ל הסודי של בלפור ",
