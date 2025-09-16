@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "רשף לוי - ספיישל אלתורים",
+          "ShortDescriptionLine1": "Reshef Levy - Special Altors",
+          "ShortDescriptionLine2": "2025-09-16 18:29:47",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e2rlecqn/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e2rlecqn/a.m3u8"
+          ],
+          "StreamerId": "1_e2rlecqn",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-949352/949354",
+          "Date": "2025-09-16 18:29:47"
+        },
+        {
           "Title": "אגן הים התיכון עם מיכל אסולין - 23.06.23",
           "ShortDescriptionLine1": "Mediterranean Basin with Michael Assulin - 23.06.23",
           "ShortDescriptionLine2": "2025-09-16 07:14:58",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_q3gq4xv8",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/365662",
           "Date": "2025-09-11 20:59:02"
-        },
-        {
-          "Title": "חוליגנים | פרק 8 - אם אשכחך ירושלים",
-          "ShortDescriptionLine1": "Holigans | Chapter 8 - If I Forget Jerusalem",
-          "ShortDescriptionLine2": "2025-09-11 20:57:07",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_d5yh9w7r/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_d5yh9w7r/a.m3u8"
-          ],
-          "StreamerId": "1_d5yh9w7r",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-841973/s1/841989",
-          "Date": "2025-09-11 20:57:07"
         }
       ]
     },
@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 16.09.25 [live]",
+          "Title": "המהדורה המרכזית: 16.09.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21351184/21351184_noAdds/21351184_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21351184/21351184_noAdds/21351184_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9c08537bf1159910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-9c08537bf115991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-16T19:54:55+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 16.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 16.09.25"
         },
         {
           "Title": "המהדורה המוקדמת: 16.09.25",
@@ -2052,20 +2052,6 @@
           "ShortDescriptionLine1": "Weekend News: 13.09.25"
         },
         {
-          "Title": "פגוש את העיתונות: 13.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/13/Pgosh_130925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250913_v1/pgosh_vtr2_n20250913_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250913_v1/pgosh_vtr2_n20250913_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5791ccd5e6739910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/35ce17e3efff8910/VOD-5791ccd5e673991027.htm",
-          "ShortDescriptionLine2": "Minister and former Shin Bet Head Avi Dichter in an interview",
-          "Date": "2025-09-13T17:59:26+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 13.09.25"
-        },
-        {
           "Title": "שבת בחמש: 13.09.25",
           "Poster": "https://img.mako.co.il/2025/09/13/Shabat_Behamesh_130925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2106,20 +2092,6 @@
           "Date": "2025-09-12T19:55:20+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Friday Studio: 12.09.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 06.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/06/Pgosh_060925_vod_yft66_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250906_v1/pgosh_vtr2_n20250906_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250906_v1/pgosh_vtr2_n20250906_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0f69274c66319910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/35ce17e3efff8910/VOD-0f69274c6631991026.htm",
-          "ShortDescriptionLine2": "Former Chief of Staff Dan Halutz in an interview",
-          "Date": "2025-09-06T18:00:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 06.09.25"
         }
       ]
     },
