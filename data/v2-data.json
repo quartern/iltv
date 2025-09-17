@@ -1956,18 +1956,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 17.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 17.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "43a2fd1970659910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/76cd93e709be8910/VOD-43a2fd197065991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-17T18:59:15+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early edition: 17.09.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 17.09.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21351223/21351223_noAdds/21351223_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21351223/21351223_noAdds/21351223_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "52b0fd1970659910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-52b0fd197065991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-17T17:55:30+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.09.25"
         },
         {
           "Title": "חמש עם רפי רשף: 17.09.25",
@@ -2010,20 +2024,6 @@
           "Date": "2025-09-16T19:54:55+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 16.09.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 16.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/16/Mahadura_Mukdemet_160925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/19mukdemetfull_vtr2_n20250916_v1/19mukdemetfull_vtr2_n20250916_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/19mukdemetfull_vtr2_n20250916_v1/19mukdemetfull_vtr2_n20250916_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5854496f11159910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/76cd93e709be8910/VOD-5854496f1115991026.htm",
-          "ShortDescriptionLine2": "Chief of Staff's statement from Gaza",
-          "Date": "2025-09-16T18:59:01+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early edition: 16.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 13.09.25",
@@ -2080,6 +2080,20 @@
           "Date": "2025-09-13T07:03:59+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Young Edition: 13.09.25"
+        },
+        {
+          "Title": "אולפן שישי: 12.09.25",
+          "Poster": "https://img.mako.co.il/2025/09/12/Ulapan_Shishi_120925_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/20upash_vtr2_n20250912_v1/20upash_vtr2_n20250912_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/20upash_vtr2_n20250912_v1/20upash_vtr2_n20250912_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "fdf493e746739910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/db4c7a9448be8910/VOD-fdf493e74673991027.htm",
+          "ShortDescriptionLine2": "New details on the attack in Qatar",
+          "Date": "2025-09-12T19:55:20+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 12.09.25"
         },
         {
           "Title": "פגוש את העיתונות: 06.09.25",
