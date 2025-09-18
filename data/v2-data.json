@@ -2127,18 +2127,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון [live]",
-          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון",
+          "Poster": "https://img.mako.co.il/2025/09/18/Doh_Matzav_180925_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21351255/21351255_noAdds/21351255_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21351255/21351255_noAdds/21351255_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "eda3f2b24d759910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-eda3f2b24d75991027.htm",
           "ShortDescriptionLine2": "Einav Galili and Yaron Abraham Documents this week",
           "Date": "2025-09-18T23:15:58+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron"
         },
         {
           "Title": "נסלי ויואב: מאבק משפחות החטופים",
@@ -2440,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות, 18.09.25",
+          "StreamerId": "6379752677112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/61db9ad0-048a-4583-bb13-8573ce537145/5c97c7f5-419b-406f-8ffb-c82e67b13077/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379752677112",
+          "Date": "2025-09-18T21:09:38Z",
+          "ShortDescriptionLine1": "News, 18.09.25",
+          "ShortDescriptionLine2": "2025-09-18T21:09:38Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/61db9ad0-048a-4583-bb13-8573ce537145/10s/master.m3u8?fastly_token=NjhmMTc2NmJfMDY1YjMxZTFkMDE3NDEzZTQ4ODQ2NTQyM2YyZDhiYzc5ZGJmZjIzZGEyMjk4YjRmYjY0YzExNTY4MjdmNzFlNQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים, 18.09.25",
           "StreamerId": "6379749681112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4439dca8-9da0-4a79-b3db-15e6285a58a9/9dbc694c-fddc-4ad1-9268-16a48131d218/320x180/match/image.jpg",
@@ -2629,18 +2641,6 @@
           "ShortDescriptionLine2": "2025-09-17T14:46:13Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d6eb2a54-7e78-4b53-b6b6-b7bc49e6c9e6/10s/master.m3u8?fastly_token=NjhlZmJjZTdfZmQ5YmQ2YjcwZWM3OWU1MGFlOWRiODg5M2RhOGM1Y2U0NWYwODExNzY1M2Y4MTdjMzc2YmIzNmQ1ZmUyZWU1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות, 16.09.25",
-          "StreamerId": "6379630199112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5821bf40-b47a-4b09-a6ff-833ba716a7ad/7aa10141-7ba5-47ca-8e26-d2240b2b78af/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379630199112",
-          "Date": "2025-09-16T21:36:05Z",
-          "ShortDescriptionLine1": "News, 16.09.25",
-          "ShortDescriptionLine2": "2025-09-16T21:36:05Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5821bf40-b47a-4b09-a6ff-833ba716a7ad/10s/master.m3u8?fastly_token=NjhlZjAyODZfYTZmYWRmMWI0ZDk1NmY0Y2Q3MGRlOTFjZWY0NDAyNjIwYzIzNjA4MjkwZmExOGRkZTk1MzY1YzgxYjJlNDBkZQ%3D%3D"
           ]
         },
         {
