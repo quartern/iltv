@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 18.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 18.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "bc0dc42665b59910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-bc0dc42665b5991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-18T17:55:57+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.09.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 18.09.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21351250/21351250_noAdds/21351250_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21351250/21351250_noAdds/21351250_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c625d91b74b59910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-c625d91b74b5991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-18T16:55:52+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.09.25"
         },
         {
           "Title": "מהדורת היום: 18.09.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-09-17T18:59:15+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 17.09.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 17.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/17/Shesh_170925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/18shesh_vtr2_n20250917_v1/18shesh_vtr2_n20250917_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/18shesh_vtr2_n20250917_v1/18shesh_vtr2_n20250917_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "52b0fd1970659910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-52b0fd197065991027.htm",
-          "ShortDescriptionLine2": "The IDF deepens maneuvering in Gaza City",
-          "Date": "2025-09-17T17:55:30+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 13.09.25",
