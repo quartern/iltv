@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 18.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 18.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c625d91b74b59910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-c625d91b74b5991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-18T16:55:52+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.09.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 18.09.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21351249/21351249_noAdds/21351249_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21351249/21351249_noAdds/21351249_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "53eac42665b59910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/d12441a5aeff8910/VOD-53eac42665b5991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-18T14:59:58+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 18.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 18.09.25"
         },
         {
           "Title": "המהדורה המרכזית: 17.09.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-09-17T17:55:30+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 17.09.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 17.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/17/hAMESH_170925_vod_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250917_v1/17rafi_vtr2_n20250917_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/17rafi_vtr2_n20250917_v1/17rafi_vtr2_n20250917_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4d1ffd1970659910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-4d1ffd197065991027.htm",
-          "ShortDescriptionLine2": "Significant development in May Golan affair",
-          "Date": "2025-09-17T16:55:50+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 17.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 13.09.25",
@@ -2440,6 +2440,78 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות , 17.09.25",
+          "StreamerId": "6379737070112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f069ded5-e42a-4ad0-89f4-33df3e401bdd/e1f6da4f-b3d4-48d2-b19e-2cc66d5ae450/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379737070112",
+          "Date": "2025-09-18T13:53:26Z",
+          "ShortDescriptionLine1": "News, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:53:26Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f069ded5-e42a-4ad0-89f4-33df3e401bdd/10s/master.m3u8?fastly_token=NjhmMTA4YjhfNWEyMWQzNmU3YTc2NmVlMjU5MDM4Zjk3ZThjNzUxMTBjYzBhZDc0YmU3MDM4NmZhNjM4YTVlMzAwMWY1NmVkMQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים , 17.09.25",
+          "StreamerId": "6379735595112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b485bcdd-116a-4253-82d0-aa0cb6aaa5fc/55f4a8f5-7fe3-492f-aa6e-b4e17631d21d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379735595112",
+          "Date": "2025-09-18T13:49:21Z",
+          "ShortDescriptionLine1": "Israelis, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:49:21Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b485bcdd-116a-4253-82d0-aa0cb6aaa5fc/10s/master.m3u8?fastly_token=NjhmMTE0YzJfZTBiMTEyN2NjMmNiZGU3ZDdmNjc5M2ZjZjFmZGU1MjA5ODViMGExNGI3MWVmZDc2YWFkNzgyYmRiMzliOTZhMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "המועדון העסקי , 17.09.25",
+          "StreamerId": "6379737742112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/663a413b-ab2d-493d-87e4-8f26bf87835a/37650472-78ed-47c3-87ec-bcbdc4691e24/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379737742112",
+          "Date": "2025-09-18T13:49:08Z",
+          "ShortDescriptionLine1": "Business Club, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:49:08Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/663a413b-ab2d-493d-87e4-8f26bf87835a/10s/master.m3u8?fastly_token=NjhmMTA4ZTlfMWE1OWEzZmY3ZjAwN2IyNjAzN2VlMGYxYjg3Zjg5YWZiZGYxZWFmY2QwZjBmNTdiOWE4Njc2YjY2MmFkNGYzMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "7 שרון גל , 17.09.25",
+          "StreamerId": "6379738230112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fe67d4ac-c4b8-4022-9315-2085d4baaf07/b8424d9b-5b94-4a1f-a6a5-b93f04005ac3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379738230112",
+          "Date": "2025-09-18T13:44:40Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:44:40Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fe67d4ac-c4b8-4022-9315-2085d4baaf07/10s/master.m3u8?fastly_token=NjhmMTBlNDBfYzQ2ODNlNTgxMmQ1MmY5ZDA1MzE1ZTdjZmFiNDAxODYwNjdlNGQxYTJjM2YzOTgyZjczMTM2ZDI3NDhmYjg1NQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש , 17.09.25",
+          "StreamerId": "6379737155112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0ff49e7d-09ba-4d83-bd90-4cea94c1ba31/df345a13-2392-4332-8227-07a74ef40804/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379737155112",
+          "Date": "2025-09-18T13:42:20Z",
+          "ShortDescriptionLine1": "Edition five, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:42:20Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0ff49e7d-09ba-4d83-bd90-4cea94c1ba31/10s/master.m3u8?fastly_token=NjhmMTExZTdfZGRlMTE2OTNjMTliYmU2ZTIwYWMwYmFkYzY2N2Q2MDVkMDhkM2JiNTk2ZTMzMTVhNjhjNzYxMzM4Y2NjOGM2OA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15 , 17.09.25",
+          "StreamerId": "6379736865112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/95cc29d4-e537-4436-94f2-2741ff1f6375/8a81c000-c341-4fe6-bca8-3c3f94fc63be/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379736865112",
+          "Date": "2025-09-18T13:41:55Z",
+          "ShortDescriptionLine1": "Edition 15, 17.09.25",
+          "ShortDescriptionLine2": "2025-09-18T13:41:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/95cc29d4-e537-4436-94f2-2741ff1f6375/10s/master.m3u8?fastly_token=NjhmMTFlYzRfNmM2MDQyYmIwZDNjNjM4Y2FjMDM2N2VhYjVhZTNjY2U4ZjZmMDNlZWYxNGI2NjUxNGE0ZWNjZmRhN2UzYjNkOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 18.09.25",
           "StreamerId": "6379734038112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1869898c-13a9-4f6c-822f-17bf35106159/03f3d932-12d6-4025-9692-9feb74fca421/320x180/match/image.jpg",
@@ -2593,78 +2665,6 @@
           "ShortDescriptionLine2": "2025-09-16T13:55:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/59e28b31-4e74-4c67-97cd-a7f92bf7c155/10s/master.m3u8?fastly_token=NjhlZTdlNWVfMmM0NmM0MjY3NWQ3ZmQ3NjMxYjUzMjg5ZDhkNmFjZTgzODNlYjM4MWUwZTcyMzczZjhjODk0MjVhZGNkYmRlMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות, 15.09.25",
-          "StreamerId": "6379501948112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f35e7a37-600b-40c0-b504-a58c97c24e4e/85dab5be-023e-4a94-b6e9-c4f62a3f8da5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379501948112",
-          "Date": "2025-09-15T20:35:45Z",
-          "ShortDescriptionLine1": "News, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T20:35:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f35e7a37-600b-40c0-b504-a58c97c24e4e/10s/master.m3u8?fastly_token=NjhlZjAyNmZfMTBiY2M2MzRiZTZiYjljNDIyMGEwZmQwNTgxZWRiOGQ1NzBmYWMwOTE1ZGM5NWRiNzAzODQ3ZGQ3ODhmNjE4MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי , 15.09.25",
-          "StreamerId": "6379492488112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/21b6442d-9258-466d-ab89-018d6d6e0680/a13c8934-e37a-4b93-91a7-d52a7ba0eee0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379492488112",
-          "Date": "2025-09-15T20:03:15Z",
-          "ShortDescriptionLine1": "Business Club, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T20:03:15Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/21b6442d-9258-466d-ab89-018d6d6e0680/10s/master.m3u8?fastly_token=NjhlZDY5ZDdfODI4NWI2ZTZiYTc2MTY2YjlkYzNjYzU0YmM4ZDdhZGJhODRkODAyM2U0NjE2MjY2OGQ0MGQ1YjE1NmYyZmZlMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים , 15.09.25",
-          "StreamerId": "6379521886112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/36699e3f-2f93-4295-9c08-9e2efb57381f/ccdafbdf-5797-4782-9d2e-2b9e6932ad4b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379521886112",
-          "Date": "2025-09-15T19:51:45Z",
-          "ShortDescriptionLine1": "Israelis, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T19:51:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/36699e3f-2f93-4295-9c08-9e2efb57381f/10s/master.m3u8?fastly_token=NjhlZGY2NGRfYWY5ZjE3YjI1NDVmOWYwNTMwNDQ4ZTc0MDlhNzExYTllMDQ4NDIyYTQ5NmRiMzk5YjNmMDdmNWZhNzA4MDg5Yg%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל , 15.09.25",
-          "StreamerId": "6379509116112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/108b9e70-0574-45d5-bb37-07e1500152e8/17725372-3481-42eb-870b-fa43d15457b6/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379509116112",
-          "Date": "2025-09-15T17:02:02Z",
-          "ShortDescriptionLine1": "7 Sharon Gal, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T17:02:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/108b9e70-0574-45d5-bb37-07e1500152e8/10s/master.m3u8?fastly_token=NjhlZDQ0ZTVfNWQ4ZmQ2ODc4NTNkZTcxNzIwNTZiYjg0MTdhYmIzOTNjMjIwMWJlZjcwODg3MzUyZjc0MDNjZWI4N2ZjNjYxMw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש , 15.09.25",
-          "StreamerId": "6379500689112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5577b119-4753-4977-b918-18f361d5403b/e057b8bc-040a-416e-b8d5-177d176f863f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379500689112",
-          "Date": "2025-09-15T14:55:17Z",
-          "ShortDescriptionLine1": "Edition five, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T14:55:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5577b119-4753-4977-b918-18f361d5403b/10s/master.m3u8?fastly_token=NjhlZGYzMzhfMTNlZWYzYTdjNDQyMDhlM2JkM2IyNWU4MzFjMGVhYTFmNTY5NjhlZjAwZmYzN2JkYTNiYTdiMmUzMTU4Yjc5MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 15.09.25",
-          "StreamerId": "6379496779112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1e15bb3b-d3e2-426d-9e24-5b422c33b9b1/a685076e-a611-4842-a26c-6d397fbbea16/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379496779112",
-          "Date": "2025-09-15T13:59:35Z",
-          "ShortDescriptionLine1": "Edition 15, 15.09.25",
-          "ShortDescriptionLine2": "2025-09-15T13:59:35Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1e15bb3b-d3e2-426d-9e24-5b422c33b9b1/10s/master.m3u8?fastly_token=NjhlZDJkMjVfNTFmYjE3YWNhYzQ1ZGM5OTg4ZDg2OTY3YTk2MmE0MjY2ZGZhNzE0MzdlMDMxMjczZTAxMzYxNjU0NGY3ZDJlNA%3D%3D"
           ]
         },
         {
