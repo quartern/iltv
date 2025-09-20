@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה הצעירה: 20.09.25 [live]",
+          "Title": "המהדורה הצעירה: 20.09.25",
           "Poster": "https://img.mako.co.il/2023/11/13/MahadoraCheira_3__X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamhadura_hazeira/A183629/A183629_noAdds/A183629_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamhadura_hazeira/A183629/A183629_noAdds/A183629_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "75d92b6d9ab59910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2025/ea3b17e3efff8910/VOD-75d92b6d9ab5991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-20T07:06:05+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Young Edition: 20.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Young Edition: 20.09.25"
         },
         {
           "Title": "אולפן שישי: 19.09.25",
@@ -2080,20 +2080,6 @@
           "ShortDescriptionLine1": "Weekend News: 13.09.25"
         },
         {
-          "Title": "פגוש את העיתונות: 13.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/13/Pgosh_130925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250913_v1/pgosh_vtr2_n20250913_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250913_v1/pgosh_vtr2_n20250913_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5791ccd5e6739910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/35ce17e3efff8910/VOD-5791ccd5e673991027.htm",
-          "ShortDescriptionLine2": "Minister and former Shin Bet Head Avi Dichter in an interview",
-          "Date": "2025-09-13T17:59:26+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 13.09.25"
-        },
-        {
           "Title": "שבת בחמש: 13.09.25",
           "Poster": "https://img.mako.co.il/2025/09/13/Shabat_Behamesh_130925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2106,20 +2092,6 @@
           "Date": "2025-09-13T16:58:31+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Saturday at five: 13.09.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 06.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/06/Pgosh_060925_vod_yft66_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250906_v1/pgosh_vtr2_n20250906_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/pgosh_vtr2_n20250906_v1/pgosh_vtr2_n20250906_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "0f69274c66319910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/35ce17e3efff8910/VOD-0f69274c6631991026.htm",
-          "ShortDescriptionLine2": "Former Chief of Staff Dan Halutz in an interview",
-          "Date": "2025-09-06T18:00:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the Press: 06.09.25"
         }
       ]
     },
