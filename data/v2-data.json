@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 21.09.25",
+          "ShortDescriptionLine1": "The World Today",
+          "ShortDescriptionLine2": "2025-09-21 15:10:02",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9tgvmd1y/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9tgvmd1y/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_9tgvmd1y",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/953273",
+          "Date": "2025-09-21 15:10:02"
+        },
+        {
           "Title": "חדשות השבת | 20.09.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-09-20 19:03:03",
@@ -535,18 +547,6 @@
           "StreamerId": "1_hknl3p74",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/952456",
           "Date": "2025-09-18 19:09:45"
-        },
-        {
-          "Title": "העולם היום | 18.09.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-09-18 14:41:35",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qv7zu9ik/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qv7zu9ik/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_qv7zu9ik",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/952453",
-          "Date": "2025-09-18 14:41:35"
         },
         {
           "Title": "יהיה טוב עם אסנהיים וקובן עונה 2 | פרק 6 - 26.01.25",
@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 21.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 21.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f5789a5e8da69910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-f5789a5e8da6991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-21T17:55:57+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.09.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 21.09.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21351322/21351322_noAdds/21351322_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21351322/21351322_noAdds/21351322_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9bc3cc490ca69910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-9bc3cc490ca6991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-21T16:55:33+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.09.25"
         },
         {
           "Title": "מהדורת היום: 21.09.25",
@@ -2092,20 +2106,6 @@
           "Date": "2025-09-18T19:24:15+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early edition: 18.09.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 18.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/18/Shesh_180925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/18oded_full_vtr2_n20250918_v1/18oded_full_vtr2_n20250918_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/18oded_full_vtr2_n20250918_v1/18oded_full_vtr2_n20250918_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "bc0dc42665b59910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-bc0dc42665b5991027.htm",
-          "ShortDescriptionLine2": "From north to south: roadblocks and demonstrations",
-          "Date": "2025-09-18T17:55:57+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.09.25"
         },
         {
           "Title": "פגוש את העיתונות: 13.09.25",
@@ -2440,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 21.09.25 ",
+          "StreamerId": "6379883112112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2b165616-057e-4dec-9bf3-688b9591e057/4b878fd3-ba0e-4cf1-8d5e-d4b68038b0fe/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379883112112",
+          "Date": "2025-09-21T14:49:26Z",
+          "ShortDescriptionLine1": "Edition 15 21.09.25",
+          "ShortDescriptionLine2": "2025-09-21T14:49:26Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2b165616-057e-4dec-9bf3-688b9591e057/10s/master.m3u8?fastly_token=NjhmNTIyNzhfM2ZkOGI5ZTIxYWQzZTI4NjNiMjhlZWJmY2UyY2E1NjczYTI1ZTIzYmQ0YmJkNDNjNTM3NzZiMDg0MDhkMDI2Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 20.09.25",
           "StreamerId": "6379874142112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f0b05a1d-caf4-4d1e-9bd9-d1de3a144002/6a0825ac-95b1-4f87-aaf2-4f1e00340d02/320x180/match/image.jpg",
@@ -2608,18 +2620,6 @@
           ]
         },
         {
-          "Title": "המועדון העסקי , 17.09.25",
-          "StreamerId": "6379737742112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/663a413b-ab2d-493d-87e4-8f26bf87835a/37650472-78ed-47c3-87ec-bcbdc4691e24/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379737742112",
-          "Date": "2025-09-18T13:49:08Z",
-          "ShortDescriptionLine1": "Business Club, 17.09.25",
-          "ShortDescriptionLine2": "2025-09-18T13:49:08Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/663a413b-ab2d-493d-87e4-8f26bf87835a/10s/master.m3u8?fastly_token=NjhmMTA4ZTlfMWE1OWEzZmY3ZjAwN2IyNjAzN2VlMGYxYjg3Zjg5YWZiZGYxZWFmY2QwZjBmNTdiOWE4Njc2YjY2MmFkNGYzMA%3D%3D"
-          ]
-        },
-        {
           "Title": "7 שרון גל , 17.09.25",
           "StreamerId": "6379738230112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fe67d4ac-c4b8-4022-9315-2085d4baaf07/b8424d9b-5b94-4a1f-a6a5-b93f04005ac3/320x180/match/image.jpg",
@@ -2641,18 +2641,6 @@
           "ShortDescriptionLine2": "2025-09-18T13:42:20Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0ff49e7d-09ba-4d83-bd90-4cea94c1ba31/10s/master.m3u8?fastly_token=NjhmMTExZTdfZGRlMTE2OTNjMTliYmU2ZTIwYWMwYmFkYzY2N2Q2MDVkMDhkM2JiNTk2ZTMzMTVhNjhjNzYxMzM4Y2NjOGM2OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 17.09.25",
-          "StreamerId": "6379736865112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/95cc29d4-e537-4436-94f2-2741ff1f6375/8a81c000-c341-4fe6-bca8-3c3f94fc63be/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379736865112",
-          "Date": "2025-09-18T13:41:55Z",
-          "ShortDescriptionLine1": "Edition 15, 17.09.25",
-          "ShortDescriptionLine2": "2025-09-18T13:41:55Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/95cc29d4-e537-4436-94f2-2741ff1f6375/10s/master.m3u8?fastly_token=NjhmMTFlYzRfNmM2MDQyYmIwZDNjNjM4Y2FjMDM2N2VhYjVhZTNjY2U4ZjZmMDNlZWYxNGI2NjUxNGE0ZWNjZmRhN2UzYjNkOQ%3D%3D"
           ]
         },
         {
@@ -2713,18 +2701,6 @@
           "ShortDescriptionLine2": "2025-09-17T14:46:13Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d6eb2a54-7e78-4b53-b6b6-b7bc49e6c9e6/10s/master.m3u8?fastly_token=NjhlZmJjZTdfZmQ5YmQ2YjcwZWM3OWU1MGFlOWRiODg5M2RhOGM1Y2U0NWYwODExNzY1M2Y4MTdjMzc2YmIzNmQ1ZmUyZWU1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי, 16.09.25",
-          "StreamerId": "6379627520112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c98ebc03-4aff-4718-bbbc-4ada86ade7ec/0c6758e8-868f-4518-942c-49d6c518c32c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379627520112",
-          "Date": "2025-09-16T21:33:18Z",
-          "ShortDescriptionLine1": "Business Club, 16.09.25",
-          "ShortDescriptionLine2": "2025-09-16T21:33:18Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c98ebc03-4aff-4718-bbbc-4ada86ade7ec/10s/master.m3u8?fastly_token=NjhlZWQxMWFfNWZlOTVjMmU2ZjIyOGY0ZjM1YjhiOWU5NTBiODMzNGMyMjE0ODgxZDMwZGQ4ZjgzMTFiYThhMzcwYWQ3ZWZjMA%3D%3D"
           ]
         },
         {
