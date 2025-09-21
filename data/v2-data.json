@@ -1968,6 +1968,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חמש עם רפי רשף: 21.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9bc3cc490ca69910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-9bc3cc490ca6991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-21T16:55:33+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.09.25 [live]"
+        },
+        {
           "Title": "מהדורת היום: 21.09.25 [live]",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2094,20 +2108,6 @@
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.09.25"
         },
         {
-          "Title": "חמש עם רפי רשף: 18.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/18/Hamesh_180925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/17yaron_vtr2_n20250918_v1/17yaron_vtr2_n20250918_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/17yaron_vtr2_n20250918_v1/17yaron_vtr2_n20250918_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "c625d91b74b59910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/bac917e3efff8910/VOD-c625d91b74b5991027.htm",
-          "ShortDescriptionLine2": "2 Israelis were murdered in an attack on the Allenby crossing",
-          "Date": "2025-09-18T16:55:52+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.09.25"
-        },
-        {
           "Title": "פגוש את העיתונות: 13.09.25",
           "Poster": "https://img.mako.co.il/2025/09/13/Pgosh_130925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2130,11 +2130,11 @@
           "Title": "נסלי ויואב: עוד חג בלי חטופים",
           "Poster": "https://img.mako.co.il/2025/09/21/Nesli_Yoav_210925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21351319/21351319_noAdds/21351319_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21351319/21351319_noAdds/21351319_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2025/September/Nesli_Yoav_210925_VOD_mnb864/Nesli_Yoav_210925_VOD_mnb864_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2025/September/Nesli_Yoav_210925_VOD_mnb864/Nesli_Yoav_210925_VOD_mnb864_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "78fea2e4c7b59910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-78fea2e4c7b5991026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2025/VOD-78fea2e4c7b5991026.htm",
           "ShortDescriptionLine2": "Another holiday without abducting-a heavy fear of living abductible",
           "Date": "2025-09-21T09:34:38+03:00",
           "Live": false,
