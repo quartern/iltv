@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "שרים מאיר אריאל | חלק ב'",
+          "ShortDescriptionLine1": "Ministers Meir Ariel | Part B.",
+          "ShortDescriptionLine2": "2025-09-23 18:44:46",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4a63fzuy/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4a63fzuy/a.m3u8"
+          ],
+          "StreamerId": "1_4a63fzuy",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-950349/%D7%9B%D7%9C-%D7%94%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/950364",
+          "Date": "2025-09-23 18:44:46"
+        },
+        {
           "Title": "שום פלפל ושמן זית 2025 | פרק 21 - קובי אוז",
           "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 21 - Kobe Oz",
           "ShortDescriptionLine2": "2025-09-22 21:32:27",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_cwopmqqe",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-763475/s2/947851",
           "Date": "2025-09-20 18:58:52"
-        },
-        {
-          "Title": "שיר אחד עונה 2 | פרק 7 - מירי אלוני: \"שיר לערב חג\"",
-          "ShortDescriptionLine1": "One Song Season 2 | Chapter 7 - Miri Aloni: \"Song for Holiday\"",
-          "ShortDescriptionLine2": "2025-09-20 18:32:25",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ax39amln/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ax39amln/a.m3u8"
-          ],
-          "StreamerId": "1_ax39amln",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-704326/s2/950319",
-          "Date": "2025-09-20 18:32:25"
         }
       ]
     },
@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 23.09.25 [live]",
+          "Title": "המהדורה המרכזית: 23.09.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21351359/21351359_noAdds/21351359_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21351359/21351359_noAdds/21351359_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4dcb14a13ac69910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/445e93e709be8910/VOD-4dcb14a13ac6991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-23T19:54:57+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Central Edition: 23.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Central Edition: 23.09.25"
         },
         {
           "Title": "המהדורה המוקדמת: 21.09.25",
