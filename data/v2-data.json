@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 25.09.25 [live]",
+          "Title": "שש עם עודד בן עמי: 25.09.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21351398/21351398_noAdds/21351398_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21351398/21351398_noAdds/21351398_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "480bac5b35f79910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-480bac5b35f7991027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-25T17:55:39+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.09.25"
         },
         {
           "Title": "חמש עם רפי רשף: 25.09.25",
@@ -2440,6 +2440,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע, 25.09.25",
+          "StreamerId": "6380104266112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5ae31553-898a-44b5-8377-3c399de1742c/5c19f484-8e49-4f49-ba96-3a45f0100e72/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6380104266112",
+          "Date": "2025-09-25T16:00:55Z",
+          "ShortDescriptionLine1": "Gilboa Index, 25.09.25",
+          "ShortDescriptionLine2": "2025-09-25T16:00:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5ae31553-898a-44b5-8377-3c399de1742c/10s/master.m3u8?fastly_token=NjhmYTZiOTZfMzM0MzQwOTlmOThjMjI3ZjM4N2Q0MzEzYzBhMmJlNDg1Nzg5MzFmMTE1YzE1ODEyYjJkYzFkN2RhNDJjNDg1OA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש, 25.09.25",
           "StreamerId": "6380101246112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9075ae7f-c503-4633-9505-da15ab82e443/ae24cc59-220e-492e-82b4-b9d933fdff48/320x180/match/image.jpg",
@@ -2725,18 +2737,6 @@
           "ShortDescriptionLine2": "2025-09-18T12:29:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1869898c-13a9-4f6c-822f-17bf35106159/10s/master.m3u8?fastly_token=NjhmMTBkYmVfODcxODA1ZDBkZDJhNGE4OGMyNTQ4NzM0ZDFjMTNjNmM4NDgyMjg5MTIzNTZmZjkxMWIzNDgzMzE3YmE0MTE4Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע 17.09.25",
-          "StreamerId": "6379725597112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e8633638-79cc-4e5c-ad3f-fcd26d780aa0/28a501c7-6394-4690-9952-75b2a32e6783/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379725597112",
-          "Date": "2025-09-18T08:23:18Z",
-          "ShortDescriptionLine1": "Gilboa Index 17.09.25",
-          "ShortDescriptionLine2": "2025-09-18T08:23:18Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e8633638-79cc-4e5c-ad3f-fcd26d780aa0/10s/master.m3u8?fastly_token=NjhmMGM3NmFfMDU2NzVkNzU5ZjkwM2I2MWM5NDA0YWU0YzA3YzEzZDE1YjM5NGUzNWMyODAwMjZkNzI0NTg0OWI0ZDBkZjAzZg%3D%3D"
           ]
         },
         {
