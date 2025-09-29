@@ -1968,18 +1968,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 29.09.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 29.09.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "fac5a1df6f399910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/76cd93e709be8910/VOD-fac5a1df6f39991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-09-29T18:59:22+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early Edition: 29.09.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 29.09.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21351488/21351488_noAdds/21351488_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21351488/21351488_noAdds/21351488_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9274a1df6f399910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/7b4d17e3efff8910/VOD-9274a1df6f39991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-09-29T17:56:05+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.09.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben -Ami: 29.09.25"
         },
         {
           "Title": "חמש עם רפי רשף: 29.09.25",
@@ -2022,20 +2036,6 @@
           "Date": "2025-09-28T19:53:43+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Central Edition: 28.09.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 28.09.25",
-          "Poster": "https://img.mako.co.il/2025/09/28/Mahadura_Mukdemet_280925_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/09/19mukdemetfull_vtr2_n20250928_v1/19mukdemetfull_vtr2_n20250928_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/09/19mukdemetfull_vtr2_n20250928_v1/19mukdemetfull_vtr2_n20250928_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "edafcf422ce89910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/76cd93e709be8910/VOD-edafcf422ce8991026.htm",
-          "ShortDescriptionLine2": "Trump: a real chance of something big",
-          "Date": "2025-09-28T18:59:01+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early Edition: 28.09.25"
         },
         {
           "Title": "חדשות סוף השבוע: 27.09.25",
