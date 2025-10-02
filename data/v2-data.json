@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 02.10.25",
+          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
+          "ShortDescriptionLine2": "2025-10-02 20:04:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8kuncvrj/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8kuncvrj/a.m3u8"
+          ],
+          "StreamerId": "1_8kuncvrj",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/956133",
+          "Date": "2025-10-02 20:04:34"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 02.10.25",
           "ShortDescriptionLine1": "Evening News",
           "ShortDescriptionLine2": "2025-10-02 19:09:35",
@@ -511,18 +523,6 @@
           "StreamerId": "1_nwo74673",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/955545",
           "Date": "2025-09-29 21:39:01"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 29.09.25",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-09-29 21:02:52",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l9u46nrr/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_l9u46nrr/a.m3u8"
-          ],
-          "StreamerId": "1_l9u46nrr",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/955544",
-          "Date": "2025-09-29 21:02:52"
         },
         {
           "Title": "חדשות השבת | 27.09.25",
@@ -2127,6 +2127,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "bb539689fe499910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-bb539689fe49991026.htm",
+          "ShortDescriptionLine2": "Einav Galili and Yaron Abraham Documents this week",
+          "Date": "2025-10-02T22:53:03+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/09/30/Avri_Sherki_300925_VOD_gfds635_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2181,20 +2195,6 @@
           "Date": "2025-09-26T18:00:12+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Ophira and Levinson: Yair Lapid"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון",
-          "Poster": "https://img.mako.co.il/2025/09/18/Doh_Matzav_180925_vod_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2025/Sep/Doh_Matzav_190925_VOD_vb123/Doh_Matzav_190925_VOD_vb123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2025/Sep/Doh_Matzav_190925_VOD_vb123/Doh_Matzav_190925_VOD_vb123_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "eda3f2b24d759910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2025/VOD-eda3f2b24d75991027.htm",
-          "ShortDescriptionLine2": "Einav Galili and Yaron Abraham Documents this week",
-          "Date": "2025-09-18T23:15:58+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron"
         },
         {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
@@ -2439,6 +2439,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הערביסטים 02.10.25",
+          "StreamerId": "6380850517112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c25bf376-fe0a-40d8-8b73-20e32cfb7730/6a6736e8-b36e-4bec-9881-ee57deae7cc4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6380850517112",
+          "Date": "2025-10-02T20:10:09Z",
+          "ShortDescriptionLine1": "The Arabs 02.10.25",
+          "ShortDescriptionLine2": "2025-10-02T20:10:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c25bf376-fe0a-40d8-8b73-20e32cfb7730/10s/master.m3u8?fastly_token=NjkwM2Q3ZWVfNjAyZDRhYzU2NmFlYzZhYjE4MmJhYjZlOWJiNzU4ODk2MjNlOTZjNzYxZDg5YzcxYzM4NGNiOGVmMTNmZjhlZg%3D%3D"
+          ]
+        },
         {
           "Title": "הישראלים 30.09.25",
           "StreamerId": "6380429321112",
@@ -2737,18 +2749,6 @@
           "ShortDescriptionLine2": "2025-09-21T20:06:16Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/18a744a0-43cb-4071-9502-f56769f5fadd/10s/master.m3u8?fastly_token=NjhmNTU0ZmRfZTk5NzNhNGU1YzhiOWUyN2VlZmU3ZTkyZTY4NmYxY2ZhMDRkMGU2YjAzNmY5OTliOWRkYjE5YzM4MDgwN2FhZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 20.09.25",
-          "StreamerId": "6379874142112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f0b05a1d-caf4-4d1e-9bd9-d1de3a144002/6a0825ac-95b1-4f87-aaf2-4f1e00340d02/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379874142112",
-          "Date": "2025-09-21T08:55:54Z",
-          "ShortDescriptionLine1": "The Arabists 20.09.25",
-          "ShortDescriptionLine2": "2025-09-21T08:55:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f0b05a1d-caf4-4d1e-9bd9-d1de3a144002/10s/master.m3u8?fastly_token=NjhmNGJkOTBfOGI1YTI3M2MyMGU4OTgzZGQxZWYyNmZkZjA2NGE1YTcyN2ZhYzBhMTNiNTBmNjUxZDI3MGJlMGI1ZDU2Mjc5Yg%3D%3D"
           ]
         },
         {
