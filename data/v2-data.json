@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "זמן שישי 03.10.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1759218656/uploads/2025/904784524.webp",
+          "StreamerId": "1_52uq2uj3",
+          "Date": "2025-10-03 22:36:46",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/582/season/1/4064465/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-10-03 22:36:46",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_52uq2uj3/flavorIds/1_9zwanlpd,1_mapqslmo,1_28scwly4,1_d1vgdjnm,1_kv7etp3p,1_uw7idecb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המגזין 03.10.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
           "StreamerId": "1_engygnx0",
@@ -695,18 +707,6 @@
           "ShortDescriptionLine2": "2025-09-27 22:58:32",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pfcd74d6/flavorIds/1_vtnex7y9,1_jwn8h59u,1_erdsy66f,1_u7uqk19b,1_9do6t3se,1_cozl0t68/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "זמן שישי 26.09.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1759218656/uploads/2025/904784524.webp",
-          "StreamerId": "1_ze6iwq4m",
-          "Date": "2025-09-26 23:15:08",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/582/season/1/4048329/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-09-26 23:15:08",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ze6iwq4m/flavorIds/1_qa7o7lub,1_jsn9z2id,1_zl6vra8s,1_brq9cgma,1_xrxfdss3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1968,18 +1968,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 03.10.25 [live]",
+          "Title": "אולפן שישי: 03.10.25",
           "Poster": "https://img.mako.co.il/2025/10/03/Ulpan_Shishi_031025_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21444640/21444640_noAdds/21444640_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21444640/21444640_noAdds/21444640_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fb8e01d2e8e99910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/de4ea886ccf48910/VOD-fb8e01d2e8e9991026.htm",
           "ShortDescriptionLine2": "What is behind Lieberman's warning",
           "Date": "2025-10-03T19:52:06+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 03.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 03.10.25"
         },
         {
           "Title": "המהדורה המרכזית: 02.10.25",
@@ -2060,7 +2060,7 @@
           ],
           "StreamerId": "27ef3af377f79910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/66bb17e3efff8910/VOD-27ef3af377f7991027.htm",
-          "ShortDescriptionLine2": "Trump's plan for the day after",
+          "ShortDescriptionLine2": "Trump's program for the day after",
           "Date": "2025-09-27T19:54:49+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Weekend News: 27.09.25"
