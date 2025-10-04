@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 04.10.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-10-04 21:17:32",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yi8t17yw/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yi8t17yw/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_yi8t17yw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/956788",
+          "Date": "2025-10-04 21:17:32"
+        },
+        {
           "Title": "חדשות השבת | 04.10.25",
           "ShortDescriptionLine1": "Saturday News Edition",
           "ShortDescriptionLine2": "2025-10-04 19:39:02",
@@ -535,18 +547,6 @@
           "StreamerId": "1_wyktxskt",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/955942",
           "Date": "2025-09-30 14:16:18"
-        },
-        {
-          "Title": "חדשות הלילה | 29.09.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-09-29 21:39:01",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nwo74673/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_nwo74673/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_nwo74673",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/955545",
-          "Date": "2025-09-29 21:39:01"
         },
         {
           "Title": "מהדורת חמש | 07.11.24",
@@ -2127,18 +2127,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21444676/21444676_noAdds/21444676_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21444676/21444676_noAdds/21444676_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "86aa1b8d8b999910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-86aa1b8d8b99991026.htm",
           "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
           "Date": "2025-10-04T22:47:48+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki"
         },
         {
           "Title": "דוח מצב עם עינב וירון: השר זאב אלקין באולפן",
