@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 09.10.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-10-09 22:33:41",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_mgdzajll/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_mgdzajll/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_mgdzajll",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/958260",
+          "Date": "2025-10-09 22:33:41"
+        },
+        {
           "Title": "שבע עם איילה חסון | 09.10.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-10-09 18:20:57",
@@ -487,18 +499,6 @@
           "StreamerId": "1_z5o8y9ow",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/957845",
           "Date": "2025-10-08 20:44:29"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 08.10.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-10-08 20:02:57",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_vbsth4yw/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_vbsth4yw/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_vbsth4yw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/957842",
-          "Date": "2025-10-08 20:02:57"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 08.10.25",
@@ -2295,18 +2295,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: לקראת שחרור כל החטופים [live]",
+          "Title": "דוח מצב עם עינב וירון: לקראת שחרור כל החטופים",
           "Poster": "https://img.mako.co.il/2025/10/09/Doh_Matzav_091025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21562984/21562984_noAdds/21562984_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21562984/21562984_noAdds/21562984_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "60f398571f7c9910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-60f398571f7c991027.htm",
           "ShortDescriptionLine2": "All updates on schedules for deal",
           "Date": "2025-10-09T23:28:46+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: towards the release of all abductors [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: towards the release of all abductors"
         },
         {
           "Title": "נסלי ויואב: החטופים חוזרים הביתה",
