@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שישי | 10.10.25",
+          "ShortDescriptionLine1": "Friday News Edition",
+          "ShortDescriptionLine2": "2025-10-10 20:18:32",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ffyrtngh/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ffyrtngh/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ffyrtngh",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/958669",
+          "Date": "2025-10-10 20:18:32"
+        },
+        {
           "Title": "חדשות הלילה | 09.10.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-10-10 09:58:44",
@@ -535,18 +547,6 @@
           "StreamerId": "1_ix9jdhmt",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/956787",
           "Date": "2025-10-04 19:39:02"
-        },
-        {
-          "Title": "חדשות שישי | 03.10.25",
-          "ShortDescriptionLine1": "Friday News Edition",
-          "ShortDescriptionLine2": "2025-10-03 19:58:19",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_9gngy9f9/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9gngy9f9/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_9gngy9f9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/956509",
-          "Date": "2025-10-03 19:58:19"
         },
         {
           "Title": "מהדורת חמש | 07.11.24",
@@ -2136,18 +2136,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 10.10.25 [live]",
+          "Title": "אולפן שישי: 10.10.25",
           "Poster": "https://img.mako.co.il/2025/10/10/Ulpan_Shishi_101025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21444840/21444840_noAdds/21444840_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21444840/21444840_noAdds/21444840_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "69305564587c9910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/4d9397bc34f89910/VOD-69305564587c991027.htm",
           "ShortDescriptionLine2": "The long war ended in Israel's history",
           "Date": "2025-10-10T19:53:32+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Friday Studio: 10.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Friday Studio: 10.10.25"
         },
         {
           "Title": "המהדורה המרכזית: 09.10.25",
@@ -2620,6 +2620,18 @@
           ]
         },
         {
+          "Title": "קבינט שישי חלק א' 10.10.25",
+          "StreamerId": "6382583542112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f4e96cec-1a20-4f0a-ae35-7f000e4f5789/6da8ebcf-ef4a-4093-b9c4-0d2a042402c6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6382583542112",
+          "Date": "2025-10-10T19:52:12Z",
+          "ShortDescriptionLine1": "Sixth Cabinet Part A. 10.10.25",
+          "ShortDescriptionLine2": "2025-10-10T19:52:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f4e96cec-1a20-4f0a-ae35-7f000e4f5789/10s/master.m3u8?fastly_token=NjkwZTc3ODVfMTIyYzBmMjllOWY5YmZhMThjM2U1OWNiNGJhMzYzYzNhZmFjOTE1MjFkOTFkMmRkY2ZjZGIxMDc0Y2UyM2I0NQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים - 09.10.25",
           "StreamerId": "6382545496112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/002923be-6d56-483d-b662-ab113729f434/7f5a109f-9241-4555-8cfe-9e47bad78416/320x180/match/image.jpg",
@@ -2833,18 +2845,6 @@
           "ShortDescriptionLine2": "2025-10-04T19:17:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/729ceca2-8bcf-4f51-af12-d0a22dda57d6/10s/master.m3u8?fastly_token=NjkwNjgwOGZfOWM1YTliNWYzMTAyZjg3OTIyYjdhOWFkYmQwMzdhYjJkNjlkNmFjY2ZhM2FkZjFjZWU0NmU4NTAwZmM4YTg3Nw%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי 03.10.25",
-          "StreamerId": "6381601638112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9c057927-3568-444d-9a45-b43cfe40792d/cf200a9b-9c90-4386-a223-2c77dab1b3ef/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6381601638112",
-          "Date": "2025-10-03T19:37:20Z",
-          "ShortDescriptionLine1": "Cabinet Friday 03.10.25",
-          "ShortDescriptionLine2": "2025-10-03T19:37:20Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9c057927-3568-444d-9a45-b43cfe40792d/10s/master.m3u8?fastly_token=NjkwNmM4ZTNfNjFiY2YwMDdhMTlmZTJmYTRlNWU3ZDVhMDUzZjhjZWU2NGZjY2ViZTczMGY3MGIyYWFkZDljYjEwMWNhZjIzOA%3D%3D"
           ]
         },
         {
