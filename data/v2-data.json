@@ -2295,6 +2295,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "fd1339c59c2c9910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-fd1339c59c2c991027.htm",
+          "ShortDescriptionLine2": "Avri Gilad and Yair Sharki in a special program",
+          "Date": "2025-10-11T22:59:37+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Shreki: Avri and Shreki [live]"
+        },
+        {
           "Title": "אופירה ולוינסון: ההסכם לשחרור החטופים",
           "Poster": "https://img.mako.co.il/2025/10/10/Ofira_Levinson_101025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2349,20 +2363,6 @@
           "Date": "2025-10-08T07:09:23+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: contacts for deal"
-        },
-        {
-          "Title": "אברי ושרקי: שנתיים לטבח 7.10",
-          "Poster": "https://img.mako.co.il/2025/10/08/Avri_Sherki_071025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_071025_VOD_nuj384/Avri_Sherki_071025_VOD_nuj384_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_071025_VOD_nuj384/Avri_Sherki_071025_VOD_nuj384_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "3ece46e1714b9910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-3ece46e1714b991027.htm",
-          "ShortDescriptionLine2": "Participating: Iris Haim, Jonathan Shmary, Jordan Gonen",
-          "Date": "2025-10-07T23:38:07+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Shreki: Two years to the massacre 7.10"
         },
         {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מגזין השבת חלק א' 11.10.25",
+          "StreamerId": "6382626588112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/32176708-a3f1-4017-bd8e-f608d7faa290/cf91ae55-6db0-4edc-a840-bbb75fb0a52e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6382626588112",
+          "Date": "2025-10-11T19:52:14Z",
+          "ShortDescriptionLine1": "Shabbat Magazine Part I. 11.10.25",
+          "ShortDescriptionLine2": "2025-10-11T19:52:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/32176708-a3f1-4017-bd8e-f608d7faa290/10s/master.m3u8?fastly_token=NjkwZmM3NDNfZWI1YjIzMWM1NjE5MGY2ODIzZDhkODA4ODJkY2ZmNTI2ZjIzNWI3MDgxYTU1MjRjNWQ5MTg3NGRhZjNlODE4Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "מגזין השבת חלק ב' 11.10.25",
           "StreamerId": "6382628358112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/de00f0c0-1b89-48c1-86c8-f7157ef23c0b/f4aa6312-4005-4bd5-b2c7-8cfb906d5e3a/320x180/match/image.jpg",
@@ -2845,18 +2857,6 @@
           "ShortDescriptionLine2": "2025-10-05T12:21:01Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0d7b4737-de8a-4d8f-b82b-e0a51772050a/10s/master.m3u8?fastly_token=NjkwNzc2MmJfN2ZmOWI0OTM4NDZhOGIzMWZmMzA5ZjE4NjEyOWNmZjMwN2ZjNzlmNWU3YjZiYWUyZGZhNDk2MTM3NGIwNDM1NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת 04.10.25",
-          "StreamerId": "6382041612112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/729ceca2-8bcf-4f51-af12-d0a22dda57d6/f9109e53-5d3b-443f-92d0-044ec2c459ff/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6382041612112",
-          "Date": "2025-10-04T19:17:12Z",
-          "ShortDescriptionLine1": "Sabbath magazine 04.10.25",
-          "ShortDescriptionLine2": "2025-10-04T19:17:12Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/729ceca2-8bcf-4f51-af12-d0a22dda57d6/10s/master.m3u8?fastly_token=NjkwNjgwOGZfOWM1YTliNWYzMTAyZjg3OTIyYjdhOWFkYmQwMzdhYjJkNjlkNmFjY2ZhM2FkZjFjZWU0NmU4NTAwZmM4YTg3Nw%3D%3D"
           ]
         },
         {
