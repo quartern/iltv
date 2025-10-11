@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 11.10.25",
+          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
+          "ShortDescriptionLine2": "2025-10-11 19:23:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rb6sahjc/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rb6sahjc/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_rb6sahjc",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/958913",
+          "Date": "2025-10-11 19:23:29"
+        },
+        {
           "Title": "חדשות שישי | 10.10.25",
           "ShortDescriptionLine1": "Friday News Edition",
           "ShortDescriptionLine2": "2025-10-10 20:18:32",
@@ -499,18 +511,6 @@
           "StreamerId": "1_mgdzajll",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/958260",
           "Date": "2025-10-10 09:31:13"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 09.10.25",
-          "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
-          "ShortDescriptionLine2": "2025-10-09 18:20:57",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_7e68d407/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_7e68d407/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_7e68d407",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/958259",
-          "Date": "2025-10-09 18:20:57"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 08.10.25",
@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "פרויקט משפחות 2025 | פרק 2 - אבא בבית",
+          "ShortDescriptionLine1": "Family Project 2025 | Chapter 2 - Dad at home",
+          "ShortDescriptionLine2": "2025-10-11 19:22:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ls9utmud/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ls9utmud/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ls9utmud",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13209/s2/874550",
+          "Date": "2025-10-11 19:22:23"
+        },
+        {
           "Title": "שיר אחד עונה 2 | פרק 8 - שלומי שבת וליאור נרקיס: \"לכל אחד יש\"",
           "ShortDescriptionLine1": "One Song Season 2 | Chapter 8 - Shlomi Shabbat and Lior Narcissus: \"Everyone has\"",
           "ShortDescriptionLine2": "2025-10-11 19:01:12",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_8x77zugz",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-325427/325482",
           "Date": "2025-09-24 20:26:55"
-        },
-        {
-          "Title": "משהו פיקנטי | הצצה",
-          "ShortDescriptionLine1": "Something spicy | glimpse",
-          "ShortDescriptionLine2": "2025-09-24 20:18:32",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_q2bsyzz1/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_q2bsyzz1/a.m3u8"
-          ],
-          "StreamerId": "1_q2bsyzz1",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-554212/554217",
-          "Date": "2025-09-24 20:18:32"
         }
       ]
     },
@@ -2136,18 +2136,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 11.10.25 [live]",
+          "Title": "חדשות סוף השבוע: 11.10.25",
           "Poster": "https://img.mako.co.il/2025/10/11/Hadshot_Sof_Hashvua_111025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21444869/21444869_noAdds/21444869_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21444869/21444869_noAdds/21444869_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "89567d54597c9910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/1131bf9ff4f89910/VOD-89567d54597c991027.htm",
           "ShortDescriptionLine2": "Completed in preparations for the abductions",
           "Date": "2025-10-11T19:55:19+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend News: 11.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend News: 11.10.25"
         },
         {
           "Title": "פגוש את העיתונות: 11.10.25",
