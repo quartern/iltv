@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 12.10.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_903ksdac",
+          "Date": "2025-10-12 19:06:08",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4082251/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-10-12 19:06:08",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_903ksdac/flavorIds/1_j9emtx3n,1_kjcgen3o,1_m6pn58hz,1_lqi5n49d,1_lp884gle,1_2k15vd6s/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 12.10.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_cxhdrac0",
@@ -695,18 +707,6 @@
           "ShortDescriptionLine2": "2025-10-09 22:15:50",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xk7jrq85/flavorIds/1_lxagnwa6,1_ekabahrq,1_yhxbxwb2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 09.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_hc8pqkxd",
-          "Date": "2025-10-09 19:10:43",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4074513/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-10-09 19:10:43",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hc8pqkxd/flavorIds/1_ovoujsjg,1_rniwfdyp,1_rgryko4b,1_njkjtre2,1_mepla62l,1_vpulzecd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2150,18 +2150,18 @@
           "ShortDescriptionLine1": "Early edition: 12.10.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 12.10.25 [live]",
+          "Title": "שש עם עודד בן עמי: 12.10.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21444894/21444894_noAdds/21444894_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21444894/21444894_noAdds/21444894_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "33c2f7f88c6d9910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-33c2f7f88c6d991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-12T17:56:05+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 12.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 12.10.25"
         },
         {
           "Title": "חמש עם רפי רשף: 12.10.25",
