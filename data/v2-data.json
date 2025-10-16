@@ -542,6 +542,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 16.10.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_yzag5h2r",
+          "Date": "2025-10-16 19:37:28",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4089886/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-10-16 19:37:28",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_yzag5h2r/flavorIds/1_7cqvg4do,1_bypzqf0j,1_6t26wiv7,1_zd6av5t7,1_fyipssvd,1_x6iyvhdy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 16.10.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_rw04xosd",
@@ -599,18 +611,6 @@
           "ShortDescriptionLine2": "2025-10-15 22:04:44",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pu0158wp/flavorIds/1_kz50l3ee,1_5ln6g6zz,1_455tf2o8,1_iywfpf8z,1_ts30ee18,1_qpmsvuno/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 15.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_u5a6443u",
-          "Date": "2025-10-15 19:41:30",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4088163/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-10-15 19:41:30",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_u5a6443u/flavorIds/1_giycthl5,1_qfv8w1jo,1_9xdefhm8,1_qvu1h3t6,1_ghyg2g16/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2076,18 +2076,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 16.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2025/10/16/Mahadura_Mukdemet_161025_VOD_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 16.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b120e508c8be9910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-b120e508c8be991027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-16T19:54:23+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 16.10.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 16.10.25",
+          "Poster": "https://img.mako.co.il/2025/10/16/Mahadura_Mukdemet_161025_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573412/21573412_noAdds/21573412_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573412/21573412_noAdds/21573412_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f8ef126c477c9910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-f8ef126c477c991027.htm",
           "ShortDescriptionLine2": "Eitan Horn and Nimrod Cohen are returning home",
           "Date": "2025-10-16T18:59:35+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 16.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 16.10.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 16.10.25",
@@ -2130,20 +2144,6 @@
           "Date": "2025-10-16T15:29:14+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 16.10.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 15.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/16/Mahadura_Merkazit_151025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/20mahadura_full_vtr2_n20251015_v2/20mahadura_full_vtr2_n20251015_v2_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/20mahadura_full_vtr2_n20251015_v2/20mahadura_full_vtr2_n20251015_v2_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "55ca1e31a66e9910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-55ca1e31a66e991026.htm",
-          "ShortDescriptionLine2": "Statement of the families of the returnees",
-          "Date": "2025-10-15T19:54:18+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 15.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 11.10.25",
