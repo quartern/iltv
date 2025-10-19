@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הזירה עונה 3 | פרק 1",
+          "ShortDescriptionLine1": "The arena season 3 | Chapter 1",
+          "ShortDescriptionLine2": "2025-10-19 18:50:52",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_uhde7yy4/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_uhde7yy4/a.m3u8"
+          ],
+          "StreamerId": "1_uhde7yy4",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s3/958415",
+          "Date": "2025-10-19 18:50:52"
+        },
+        {
           "Title": "בואו לאכול איתי 9 | טריילר",
           "ShortDescriptionLine1": "come eat with me 9 | Trailer",
           "ShortDescriptionLine2": "2025-10-19 06:47:03",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_25lpnni1",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13209/s2/874544",
           "Date": "2025-10-04 18:36:37"
-        },
-        {
-          "Title": "שום פלפל ושמן זית 2025 | פרק 27 - אורי גוטליב",
-          "ShortDescriptionLine1": "Garlic pepper and olive oil 2025 | Chapter 27 - Uri Gottlieb",
-          "ShortDescriptionLine2": "2025-10-03 15:59:30",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_g3g23x3e/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g3g23x3e/a.m3u8"
-          ],
-          "StreamerId": "1_g3g23x3e",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-682519/s2/933760",
-          "Date": "2025-10-03 15:59:30"
         }
       ]
     },
@@ -2136,18 +2136,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 19.10.25 [live]",
+          "Title": "המהדורה המרכזית: 19.10.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21445106/21445106_noAdds/21445106_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21445106/21445106_noAdds/21445106_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "28c6345923bf9910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-28c6345923bf991026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-19T19:54:25+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 19.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 19.10.25"
         },
         {
           "Title": "המהדורה המוקדמת: 19.10.25",
@@ -2162,6 +2162,20 @@
           "Date": "2025-10-19T18:59:36+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 19.10.25"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 19.10.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21445104/21445104_noAdds/21445104_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21445104/21445104_noAdds/21445104_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "3bf3345923bf9910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-3bf3345923bf991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-19T17:55:40+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 19.10.25"
         },
         {
           "Title": "חמש עם רפי רשף: 19.10.25",
