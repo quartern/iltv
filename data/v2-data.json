@@ -2136,6 +2136,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 20.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6f12345923bf9910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/cda4bf9ff4f89910/VOD-6f12345923bf991026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-20T15:00:22+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 20.10.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 19.10.25",
           "Poster": "https://img.mako.co.il/2025/10/19/Mahadura_Merkazit_191025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2190,20 +2204,6 @@
           "Date": "2025-10-19T16:54:58+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 19.10.25"
-        },
-        {
-          "Title": "מהדורת היום: 19.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/19/Mahadurat_Hayom_191025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/15hayom_vtr2_n20251019_v1/15hayom_vtr2_n20251019_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/15hayom_vtr2_n20251019_v1/15hayom_vtr2_n20251019_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a5b941a04bf9910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/cda4bf9ff4f89910/VOD-1a5b941a04bf991026.htm",
-          "ShortDescriptionLine2": "Has the ceasefire in Gaza collapsed?",
-          "Date": "2025-10-19T15:00:43+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 19.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.10.25",
@@ -2296,7 +2296,7 @@
       "Items": [
         {
           "Title": "נסלי ויואב: חזרו הביתה",
-          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/10/20/Nesli_Yoav_201025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21445135/21445135_noAdds/21445135_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21445135/21445135_noAdds/21445135_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
