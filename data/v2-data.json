@@ -2295,6 +2295,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ce4cc507d500a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-ce4cc507d500a91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-10-20T23:34:41+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "חשיפה: זאת לא אני [live]",
           "Poster": "https://img.mako.co.il/2020/02/16/HD-Hasifa2020_I_reduced.jpg",
           "StreamUrls": [
@@ -2335,20 +2349,6 @@
           "Date": "2025-10-20T07:10:00+03:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: two fighters fell in Rafah"
-        },
-        {
-          "Title": "אברי ושרקי: השרה אורית סטרוק",
-          "Poster": "https://img.mako.co.il/2025/10/20/Avri_Sherki_191025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/October/AVri_Sherki_191025_VOD_4gd4n6/AVri_Sherki_191025_VOD_4gd4n6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/October/AVri_Sherki_191025_VOD_4gd4n6/AVri_Sherki_191025_VOD_4gd4n6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "8629adb072bf9910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-8629adb072bf991027.htm",
-          "ShortDescriptionLine2": "Also: Josh Breiner, Prof. Yoel Mokyr",
-          "Date": "2025-10-19T23:41:25+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avery and Sharky: Minister Orit Strock"
         },
         {
           "Title": "אופירה ולוינסון: האם זהו באמת סוף המלחמה?",
@@ -2607,6 +2607,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית , 20.10.25",
+          "StreamerId": "6383423292112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b5e85f27-e859-4386-bed6-d9a6764149c8/dfe58cb2-d25c-4751-9022-62ed234f9f04/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383423292112",
+          "Date": "2025-10-20T18:18:56Z",
+          "ShortDescriptionLine1": "The main edition, 20.10.25",
+          "ShortDescriptionLine2": "2025-10-20T18:18:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b5e85f27-e859-4386-bed6-d9a6764149c8/10s/master.m3u8?fastly_token=NjkxYmE0NmVfODg2OGQ1ZTk1MGZjMGU2ZGY5OTEzZmQ5OGYwYTI1MTlkYzkzMjAzOTdiOGViMzk0M2QzYTY5Mjg2NzVjZmQ2Yw%3D%3D"
+          ]
+        },
         {
           "Title": "7 שרון גל , 20.10.25",
           "StreamerId": "6383420473112",
