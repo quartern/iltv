@@ -2136,18 +2136,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 20.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 20.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a185b1f52200a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-a185b1f52200a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-20T19:53:45+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 20.10.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 20.10.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21445123/21445123_noAdds/21445123_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21445123/21445123_noAdds/21445123_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "cd44b1f52200a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-cd44b1f52200a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-20T18:59:14+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 20.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 20.10.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 20.10.25",
@@ -2190,20 +2204,6 @@
           "Date": "2025-10-20T15:00:22+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 20.10.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 19.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/19/Mahadura_Merkazit_191025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/20mahadurafull_vtr2_n20251019_v1/20mahadurafull_vtr2_n20251019_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/20mahadurafull_vtr2_n20251019_v1/20mahadurafull_vtr2_n20251019_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "28c6345923bf9910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-28c6345923bf991026.htm",
-          "ShortDescriptionLine2": "The contacts with the Trump administration about the response in Gaza",
-          "Date": "2025-10-19T19:54:25+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 19.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.10.25",
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל , 20.10.25",
+          "StreamerId": "6383420473112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d9a65674-2657-4788-9765-1043be456d1a/5e3a4e27-7dfc-4ece-87b6-38f93c97534b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383420473112",
+          "Date": "2025-10-20T16:53:21Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 20.10.25",
+          "ShortDescriptionLine2": "2025-10-20T16:53:21Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d9a65674-2657-4788-9765-1043be456d1a/10s/master.m3u8?fastly_token=NjkxYjY4MmFfYTBkNjdiN2M3Yzk0YWZkY2NmNGUyMzQ0NWM3YWRkNGE4MjVkMzM1ZDhiZjQ1YTIxNWMwYzhkZjFkZWE2ZWY2YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע , 20.10.25",
           "StreamerId": "6383407641112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/75352a50-059f-4e6f-8f72-b2dcd3a7cfd2/7089bb98-a30d-46af-b92e-beb3669f69c2/320x180/match/image.jpg",
@@ -2881,18 +2893,6 @@
           "ShortDescriptionLine2": "2025-10-14T04:31:51Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c8620695-4085-4d1d-8148-a54897210f78/10s/master.m3u8?fastly_token=NjkxMmRjNmVfZDQzOGYwYjQ1NWNiMzc4YzE2NDZmM2M2OTkzN2IzYmU5YzU4NmIzOWYwYzQ2ZGQ5MGQyYWZjZWJlOGE4MDMyNA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל - 12.10.25",
-          "StreamerId": "6382671068112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/30a864c4-3ea0-491d-8e85-cffd4a44f9b6/30b5417a-d467-42c4-b5bd-c9b79d21666a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6382671068112",
-          "Date": "2025-10-13T04:05:34Z",
-          "ShortDescriptionLine1": "7 Sharon Gal - 12.10.25",
-          "ShortDescriptionLine2": "2025-10-13T04:05:34Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/30a864c4-3ea0-491d-8e85-cffd4a44f9b6/10s/master.m3u8?fastly_token=NjkxYjJlNGNfNDE5Yjg0YTM5YTkxOTA4YzIyMDMxMDQ2NzcwODViYWUxODBjY2M0YTIyNjBjNTk2NmJmYmVjOGJjOWZmMzM1Yg%3D%3D"
           ]
         },
         {
