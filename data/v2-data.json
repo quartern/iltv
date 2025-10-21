@@ -2091,8 +2091,8 @@
           "Title": "המהדורה המרכזית: 21.10.25",
           "Poster": "https://img.mako.co.il/2025/10/21/Mahadura_Merkazit_211025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/20mahadura_full_vtr2_n20251021_v1/20mahadura_full_vtr2_n20251021_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/20mahadura_full_vtr2_n20251021_v1/20mahadura_full_vtr2_n20251021_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/20mahadura_fix_vtr2_n20251021_v2/20mahadura_fix_vtr2_n20251021_v2_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/20mahadura_fix_vtr2_n20251021_v2/20mahadura_fix_vtr2_n20251021_v2_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fb4470ad4750a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-fb4470ad4750a91026.htm",
@@ -2247,6 +2247,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ca2a6e8e2850a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-ca2a6e8e2850a91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-10-21T23:40:59+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: זיו וגלי ברמן חזרו לביתם",
           "Poster": "https://img.mako.co.il/2025/10/21/Nesli_Yoav_211025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2273,20 +2287,6 @@
           "Date": "2025-10-21T07:09:44+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: The Abducted Space Reclaimed"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/10/21/Avri_Sherki_201025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_201025_VOD_hgf777/Avri_Sherki_201025_VOD_hgf777_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_201025_VOD_hgf777/Avri_Sherki_201025_VOD_hgf777_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ce4cc507d500a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-ce4cc507d500a91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2025-10-20T23:34:41+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "חשיפה: זאת לא אני",
@@ -2545,6 +2545,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות 21.10.25",
+          "StreamerId": "6383481894112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0a8edeeb-8adf-4b4f-bfb1-e9c6fa97e453/775c60e3-d54d-420f-a889-e2f2991e6faf/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383481894112",
+          "Date": "2025-10-21T20:35:46Z",
+          "ShortDescriptionLine1": "Talking news 21.10.25",
+          "ShortDescriptionLine2": "2025-10-21T20:35:46Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0a8edeeb-8adf-4b4f-bfb1-e9c6fa97e453/10s/master.m3u8?fastly_token=NjkxY2U5MzJfZGQwZjA3MDFiOGYwNTZkMDRlNTU3ZmYzNzc1ZWI0ODg1M2FmZDc3NjQ4N2RmMjZiYjJkN2I0OWU4MWZhYzJmNA%3D%3D"
+          ]
+        },
         {
           "Title": "אביתר דוד מגיב לתיעוד הקשה מהשבי: \"זה היה קשה, אבל תמיד האמנתי שאני אצא בסוף\"",
           "StreamerId": "6383479838112",
@@ -2807,18 +2819,6 @@
           "ShortDescriptionLine2": "2025-10-17T19:30:14Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4f5cc07c-425d-4812-bc3c-ff57b9f3e72b/10s/master.m3u8?fastly_token=NjkxN2FlZDFfY2U4OWYxY2FmNDJkN2NkNzdkNTE5YzkyMDcwYTU0ZGE5YjdhNDRjYTQ4Y2Q4YTI4MWMyYjJjMmI2ODllYjVlZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 16.10.25",
-          "StreamerId": "6382861789112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c42adb93-719a-4b1c-9aed-8f50509b628f/f3901f6d-e43b-4f09-b41d-75e96aba8a79/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6382861789112",
-          "Date": "2025-10-16T20:39:57Z",
-          "ShortDescriptionLine1": "Talking news 10.16.25",
-          "ShortDescriptionLine2": "2025-10-16T20:39:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c42adb93-719a-4b1c-9aed-8f50509b628f/10s/master.m3u8?fastly_token=NjkxYjE5YmRfYWY3Y2Y1MDk4NjAxOTJiYjk3NWI4ZTQ1NzYwZDAwNTAxZjQ3OTFlYTA1OWE1ZDI2ZGIyZDRmNTRjNTMwZDdhZA%3D%3D"
           ]
         },
         {
