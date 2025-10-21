@@ -590,6 +590,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 21.10.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_163bz8jw",
+          "Date": "2025-10-21 18:52:27",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4097683/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-10-21 18:52:27",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_163bz8jw/flavorIds/1_h11o0xky,1_uf2yea87,1_0vshe3n4,1_y7mvpoal,1_h2ezz4df,1_6jli64z1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 21.10.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_9gjkq386",
@@ -647,18 +659,6 @@
           "ShortDescriptionLine2": "2025-10-20 19:45:41",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_u0saxtdf/flavorIds/1_j4dzlsq3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 20.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_znz68r12",
-          "Date": "2025-10-20 18:53:54",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/bbl67-904810689/",
-          "ShortDescriptionLine1": "Todays Talk",
-          "ShortDescriptionLine2": "2025-10-20 18:53:54",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_znz68r12/flavorIds/1_0hjdh8bh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2124,18 +2124,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 21.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 21.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7e0170ad4750a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-7e0170ad4750a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-21T18:59:24+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 21.10.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 21.10.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21445165/21445165_noAdds/21445165_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21445165/21445165_noAdds/21445165_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c7df70ad4750a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-c7df70ad4750a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-21T17:55:41+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.10.25"
         },
         {
           "Title": "חמש עם רפי רשף: 21.10.25",
@@ -2178,20 +2192,6 @@
           "Date": "2025-10-20T19:53:45+03:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 20.10.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 20.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/20/Mahadura_Mukdemet_201025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/19mukdemetfull_vtr2_n20251020_v1/19mukdemetfull_vtr2_n20251020_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/19mukdemetfull_vtr2_n20251020_v1/19mukdemetfull_vtr2_n20251020_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "cd44b1f52200a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-cd44b1f52200a91026.htm",
-          "ShortDescriptionLine2": "An unprecedented confrontation in the Knesset",
-          "Date": "2025-10-20T18:59:14+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 20.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.10.25",
