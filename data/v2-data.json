@@ -2136,18 +2136,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 21.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 21.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c7df70ad4750a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-c7df70ad4750a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-21T17:55:41+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.10.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 21.10.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21445172/21445172_noAdds/21445172_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21445172/21445172_noAdds/21445172_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b83e70ad4750a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/02d3bf9ff4f89910/VOD-b83e70ad4750a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-21T16:55:47+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.10.25"
         },
         {
           "Title": "מהדורת היום: 21.10.25",
@@ -2190,20 +2204,6 @@
           "Date": "2025-10-20T18:59:14+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 20.10.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 20.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/20/Shesh_201025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/18shesh_vtr2_n20251020_v1/18shesh_vtr2_n20251020_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/18shesh_vtr2_n20251020_v1/18shesh_vtr2_n20251020_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a783b1f52200a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-a783b1f52200a91026.htm",
-          "ShortDescriptionLine2": "Hamas: A kidnapped spaceman will return to Israel at 20:00",
-          "Date": "2025-10-20T17:53:40+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded ben Ami: 20.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.10.25",
