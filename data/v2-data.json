@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 23.10.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-10-23 21:16:17",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jn1b6iss/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jn1b6iss/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_jn1b6iss",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/962873",
+          "Date": "2025-10-23 21:16:17"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 23.10.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-10-23 20:07:32",
@@ -511,18 +523,6 @@
           "StreamerId": "1_6xp5evlm",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/962865",
           "Date": "2025-10-23 16:22:02"
-        },
-        {
-          "Title": "חדשות הלילה | 22.10.25",
-          "ShortDescriptionLine1": "Night News Edition",
-          "ShortDescriptionLine2": "2025-10-22 21:06:05",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qozqz67t/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qozqz67t/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_qozqz67t",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/962589",
-          "Date": "2025-10-22 21:06:05"
         },
         {
           "Title": "חדשות השבת | 18.10.25",
@@ -2248,6 +2248,20 @@
           "ShortDescriptionLine1": "Saturday at five: 18.10.25"
         },
         {
+          "Title": "המהדורה הצעירה: 18.10.25",
+          "Poster": "https://img.mako.co.il/2025/10/18/Mahadura_Tzeira_1810025_VOD1_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/October/Mahadura_Tzeira_041025_VOD/Mahadura_Tzeira_041025_VOD_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/October/Mahadura_Tzeira_041025_VOD/Mahadura_Tzeira_041025_VOD_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "b5926c5a7bbe9910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-channel2-news/young_edition-2025/d4bdbf9ff4f89910/VOD-b5926c5a7bbe991027.htm",
+          "ShortDescriptionLine2": "The children of Kibbutz Ari",
+          "Date": "2025-10-18T07:05:06+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 18.10.25"
+        },
+        {
           "Title": "אולפן שישי: 17.10.25",
           "Poster": "https://img.mako.co.il/2025/10/18/Ulpan_Shishi_171025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2281,18 +2295,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון [live]",
-          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: הריבונות, הנזיפה וההתקפלות",
+          "Poster": "https://img.mako.co.il/2025/10/23/Doh_Matzav_231025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21445220/21445220_noAdds/21445220_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21445220/21445220_noAdds/21445220_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "fffc68851160a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-fffc68851160a91026.htm",
-          "ShortDescriptionLine2": "Einav Galili and Yaron Avraham documented the week",
+          "ShortDescriptionLine2": "The sovereignty, the reprimand and the folding - everything you need to know",
           "Date": "2025-10-23T23:18:14+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the sovereignty, the rebuke and the folding"
         },
         {
           "Title": "נסלי ויואב: ליל מעצרי העריקים",
