@@ -2136,18 +2136,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 23.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 23.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ab9af00fa9f0a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/02d3bf9ff4f89910/VOD-ab9af00fa9f0a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-23T16:56:04+03:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 23.10.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 23.10.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21445226/21445226_noAdds/21445226_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21445226/21445226_noAdds/21445226_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2f975bc0a8f0a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/cda4bf9ff4f89910/VOD-2f975bc0a8f0a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-23T14:59:56+03:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 23.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 23.10.25"
         },
         {
           "Title": "המהדורה המרכזית: 22.10.25",
@@ -2190,20 +2204,6 @@
           "Date": "2025-10-22T17:56:18+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 22.10.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 22.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/22/Hamesh_221025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/17rafi_vtr2_n20251022_v1/17rafi_vtr2_n20251022_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/17rafi_vtr2_n20251022_v1/17rafi_vtr2_n20251022_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c5cdb142c7a0a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/02d3bf9ff4f89910/VOD-c5cdb142c7a0a91026.htm",
-          "ShortDescriptionLine2": "The Prime Minister demanded, the coalition did not obey",
-          "Date": "2025-10-22T16:55:38+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 22.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 18.10.25",
@@ -2608,6 +2608,30 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 23.10.25",
+          "StreamerId": "6383573992112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4ef0e91e-3c8c-4c53-8ec3-15e6698f8fd0/f1b29fef-bfea-453b-ae71-7bc834abac50/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383573992112",
+          "Date": "2025-10-23T14:04:23Z",
+          "ShortDescriptionLine1": "15th edition, 23.10.25",
+          "ShortDescriptionLine2": "2025-10-23T14:04:23Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4ef0e91e-3c8c-4c53-8ec3-15e6698f8fd0/10s/master.m3u8?fastly_token=NjkxZjQ1NjdfNjFmYzk1NzEyYjMyMzQ1OTQ3YWIyY2EwZTM3NDU2MDY5Njk1Zjk4N2Q5MjU5YTg2NTUwOTE0ZmFlOGNkYWEzMg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת הצוהריים , 23.10.25 ",
+          "StreamerId": "6383576326112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5f2ac420-870e-410c-930c-b82521474d67/351f6378-8da1-41c1-afd5-ed0304ad0886/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383576326112",
+          "Date": "2025-10-23T13:57:00Z",
+          "ShortDescriptionLine1": "The afternoon edition, 23.10.25",
+          "ShortDescriptionLine2": "2025-10-23T13:57:00Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5f2ac420-870e-410c-930c-b82521474d67/10s/master.m3u8?fastly_token=NjkxZjQ3NjZfMGQzZmZiZjRkMmQ2N2M0ODZiZWJlMDliYTE4ODQ5ZGY0MGU1YWRhMTY5NGIxMDMxZDUwOTI1ZTkyMGI4NzJkMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי, 22.10.25",
           "StreamerId": "6383575320112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/57de9670-95d6-4421-9ec0-0ecb485b3f8b/14b2b971-430c-40d7-a676-a3271dc34bea/320x180/match/image.jpg",
@@ -2800,18 +2824,6 @@
           ]
         },
         {
-          "Title": "מהדורת 15 , 21.10.25",
-          "StreamerId": "6383463594112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/595bdfd2-0bbc-488e-abf9-ab947ac84dd1/d068d87d-63fa-49ba-b409-af03a5c19751/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383463594112",
-          "Date": "2025-10-21T14:24:23Z",
-          "ShortDescriptionLine1": "15th edition, 21.10.25",
-          "ShortDescriptionLine2": "2025-10-21T14:24:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/595bdfd2-0bbc-488e-abf9-ab947ac84dd1/10s/master.m3u8?fastly_token=NjkxYzk4NjZfMThlYmY0OWVjNDFmMzVlYjNlMDJkMzBhZjdiNzA4MjM0ODY2MDNlN2EzMzZmMTY0MmI4YzNkZGQyOTY3MzE5MQ%3D%3D"
-          ]
-        },
-        {
           "Title": "בשורה התחתונה - 24.09.25 | תוכן ממומן",
           "StreamerId": "6383462493112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/99298711-f816-44e9-a745-8af61f39da5d/ed4e6966-6ec9-4bf0-9d20-2097788bb61e/320x180/match/image.jpg",
@@ -2833,18 +2845,6 @@
           "ShortDescriptionLine2": "2025-10-21T13:29:40Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e41af485-cf59-4dba-8f93-d38567dafff4/10s/master.m3u8?fastly_token=NjkxZDYwMjNfYzg2M2Y2MTA0ZmQwNTZkNTlhMjJiOTk4NWZhNjQyNGI3Mjk0OWJkYTI2ZjZkZWMwODBkNDU5MTc0ZTc2MTNiZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים , 21.10.25",
-          "StreamerId": "6383459997112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4d444d43-5800-4272-bee0-2a6d2227c85b/0f52ce5a-55a7-4371-b359-0251ca5140e1/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383459997112",
-          "Date": "2025-10-21T12:12:00Z",
-          "ShortDescriptionLine1": "The afternoon edition, 21.10.25",
-          "ShortDescriptionLine2": "2025-10-21T12:12:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4d444d43-5800-4272-bee0-2a6d2227c85b/10s/master.m3u8?fastly_token=NjkxYzhhNDBfZDViMDE2N2EzNjRlZjJhYzk1ZTUwNDFmODIzMjkyNzA5NWNhMmVjNzk2N2E3NmZmYWEwNzg5MWM2MDExOTk0YQ%3D%3D"
           ]
         },
         {
