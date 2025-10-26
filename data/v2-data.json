@@ -2295,6 +2295,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "df3c23ba57f1a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-df3c23ba57f1a91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-10-26T23:42:26+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: מצבו של עמרי מירן",
           "Poster": "https://img.mako.co.il/2025/10/26/Nesli_Yoav_261025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2321,20 +2335,6 @@
           "Date": "2025-10-26T07:10:38+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: The day after in Gaza"
-        },
-        {
-          "Title": "אברי ושרקי: ג'וש בריינר",
-          "Poster": "https://img.mako.co.il/2025/10/25/Avri_Sherki_251025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_261025_VOD_jbg88/Avri_Sherki_261025_VOD_jbg88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/October/Avri_Sherki_261025_VOD_jbg88/Avri_Sherki_261025_VOD_jbg88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b36b1a329660a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-b36b1a329660a91026.htm",
-          "ShortDescriptionLine2": "And also: Roy Kunkol, Shay Graucher, Edna Serosi",
-          "Date": "2025-10-25T23:20:45+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avery and Sharkey: Josh Breiner"
         },
         {
           "Title": "אופירה ולוינסון: חה\"כ מירב בן ארי",
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות , 26.10.25",
+          "StreamerId": "6384107689112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9d2c0b5b-08fb-4c5b-ad9d-9cb20043e051/6256e02f-d4d7-4db1-9627-7aa37e2f471c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384107689112",
+          "Date": "2025-10-26T21:33:52Z",
+          "ShortDescriptionLine1": "Talking news, 26.10.25",
+          "ShortDescriptionLine2": "2025-10-26T21:33:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9d2c0b5b-08fb-4c5b-ad9d-9cb20043e051/10s/master.m3u8?fastly_token=NjkyMzhlMTJfZDU5NTFhM2NjZDZlOWJjZWUwZDdmMWU4YmFiNTUwMmFlNTFlYzc2N2U2ZDI5NWJhMTk5MTAxZTNmZTcxNGIyMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי , 26.10.25",
           "StreamerId": "6384104636112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8e0d8c8b-0a01-4d12-9ea3-54b2b800e0a5/c721f44a-6996-4b79-bdf0-c7b4eac35358/320x180/match/image.jpg",
@@ -2869,18 +2881,6 @@
           "ShortDescriptionLine2": "2025-10-23T07:36:02Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/42e22b5e-ed4a-4abf-a695-eb3f05592cba/10s/master.m3u8?fastly_token=NjkxZWQ1NGZfZGZjOGU1NTAxZWMxNTgzNjllZmQ1M2NiNWUwNjk2NDgwY2NkZjVhZDA0NWIzMTc5MzY4N2U3YjY1M2Y2ZTlkMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "\"האם האמריקנים מתחפשים לעדינים, או שנתניהו באמת השתנה?\"",
-          "StreamerId": "6383551431112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cd562d1e-4d71-4ac4-8d21-13958f0d3043/755a3d9a-d25f-4905-9e7e-dec8f35b49ec/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383551431112",
-          "Date": "2025-10-23T05:57:33Z",
-          "ShortDescriptionLine1": "\"Are the Americans pretending to be subtle, or has Netanyahu really changed?\"",
-          "ShortDescriptionLine2": "2025-10-23T05:57:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cd562d1e-4d71-4ac4-8d21-13958f0d3043/10s/master.m3u8?fastly_token=NjkxZWI3NmVfNjYxYzBiNmNmMTM4MzljN2RlNzIzZWFhNTZmNGE3YjhmMTY2YzA2MTAwOWU3NTU4MmUyNzBjMWRkOWJhZjYxOA%3D%3D"
           ]
         },
         {
