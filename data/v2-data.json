@@ -2150,18 +2150,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 26.10.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 26.10.25 [live]",
+          "Title": "מהדורת היום: 26.10.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21445304/21445304_noAdds/21445304_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21445304/21445304_noAdds/21445304_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "98f15e6981f1a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/cda4bf9ff4f89910/VOD-98f15e6981f1a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-26T15:00:13+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 26.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 26.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 25.10.25",
@@ -2312,11 +2312,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: היום שאחרי בעזה",
           "Poster": "https://img.mako.co.il/2025/10/26/Hadshot_Haboker_261025_Raziel_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21445297/21445297_noAdds/21445297_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21445297/21445297_noAdds/21445297_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/October/Hadshot_Haboker_261025_VOD_jg777/Hadshot_Haboker_261025_VOD_jg777_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/October/Hadshot_Haboker_261025_VOD_jg777/Hadshot_Haboker_261025_VOD_jg777_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4bd45a7ac960a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-4bd45a7ac960a91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-4bd45a7ac960a91026.htm",
           "ShortDescriptionLine2": "The Hamas and PA summit and the day after in Gaza",
           "Date": "2025-10-26T07:10:38+02:00",
           "Live": false,
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 26.10.25",
+          "StreamerId": "6384092505112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3e42812e-848d-4e42-be72-51c420ccaa6f/8b907602-adb4-47c3-919d-5489a8552066/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384092505112",
+          "Date": "2025-10-26T14:53:43Z",
+          "ShortDescriptionLine1": "15th edition, 26.10.25",
+          "ShortDescriptionLine2": "2025-10-26T14:53:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3e42812e-848d-4e42-be72-51c420ccaa6f/10s/master.m3u8?fastly_token=NjkyMzQ3ODVfMDBkMTc2YmQ0MjgyNDNmY2ZmNzMzOTBhZGE2OTIwMzA2ZjMzMDJlOGZkYmY0ZWI3MmQxYmQzYzUyMmU4NGMyNA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים 26.10.26",
           "StreamerId": "6384090465112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/94a4086a-da8a-491d-83e2-a937b3e741b2/1852441c-d4a5-4d9b-8a74-3271cc16504f/320x180/match/image.jpg",
@@ -2857,18 +2869,6 @@
           "ShortDescriptionLine2": "2025-10-22T15:05:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e1ce0472-38a5-4d03-8eeb-8d370d7f29d2/10s/master.m3u8?fastly_token=NjkxZGY0NDVfMTg2MmE1Y2NjYTYwNjJhZWQ1ZmZlODY5ZGNkMzNjOWRhMTgxNmMzOTMzZDBlMzhjZjRhMTBhMjRjZDY4NzVlNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 22.10.25",
-          "StreamerId": "6383518467112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cb0a1d1-a5f4-425c-9c58-20cc3628e6aa/7856e9f6-ee0d-411c-87e5-d2f7ca4705a6/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6383518467112",
-          "Date": "2025-10-22T14:31:40Z",
-          "ShortDescriptionLine1": "Edition 15 22.10.25",
-          "ShortDescriptionLine2": "2025-10-22T14:31:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cb0a1d1-a5f4-425c-9c58-20cc3628e6aa/10s/master.m3u8?fastly_token=NjkxZGZlNDBfMDE4NDY0YWU2Njc0NTJiNzY5YTRkNzY5OTMzMWNiZjg5NTAzMGRjOGMzMzI1YWYwN2E0NjZjNjU3M2FmNTQzNA%3D%3D"
           ]
         },
         {
