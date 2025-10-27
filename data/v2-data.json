@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 26.10.25",
+          "ShortDescriptionLine1": "Night News Edition",
+          "ShortDescriptionLine2": "2025-10-27 08:54:46",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_fva66gmm/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_fva66gmm/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_fva66gmm",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/963899",
+          "Date": "2025-10-27 08:54:46"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 26.10.25",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-10-26 20:55:18",
@@ -2283,32 +2295,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: נסלי ויואב [live]",
+          "Title": "נסלי ויואב: אלון אהל חזר הביתה",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21445336/21445336_noAdds/21445336_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21445336/21445336_noAdds/21445336_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "084e964426f1a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-084e964426f1a91026.htm",
-          "ShortDescriptionLine2": "A special broadcast with Nesli Barda and Yoav Limor",
+          "ShortDescriptionLine2": "Alon Ahal is back home - all the updates and details",
           "Date": "2025-10-27T09:33:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: Alon Ehal returned home"
         },
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין",
+          "Title": "חדשות הבוקר עם ניב רסקין: אלימות בבית החולים מאיר",
           "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21445326/21445326_noAdds/21445326_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21445326/21445326_noAdds/21445326_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21445326/21445326_noAdds/21445326_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21445326/21445326_noAdds/21445326_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4ce6cc0705f1a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-4ce6cc0705f1a91026.htm",
-          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "ShortDescriptionLine2": "In the eyes of the patients: violence at Meir Hospital",
           "Date": "2025-10-27T07:10:48+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin"
+          "ShortDescriptionLine1": "Morning news with Niv Raskin: Violence at Meir Hospital"
         },
         {
           "Title": "אברי ושרקי: חיים ביבס",
