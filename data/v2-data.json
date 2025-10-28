@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 28.10.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_dbkvfdgr",
+          "Date": "2025-10-28 23:59:07",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4108236/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-10-28 23:59:07",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dbkvfdgr/flavorIds/1_8yell40z,1_ovqs4rco,1_adsxo837,1_9n87qp0i,1_3255vvtc,1_srrd51yh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 28.10.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_0kypjxcf",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-10-28 18:11:29",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ddc3yzd9/flavorIds/1_rujda8ll,1_5v7n5t6m,1_cqazy2au,1_tq90cqde,1_d8g7mjoz,1_2pzeyqrx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 27.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_19haphez",
-          "Date": "2025-10-27 23:30:11",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4106698/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-10-27 23:30:11",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_19haphez/flavorIds/1_auskog21,1_i01jfhul,1_s4bfekvb,1_txibk63h,1_4o2cle0m,1_6irbw0v9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2283,18 +2283,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/10/29/Avri_Sherki_291025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21445381/21445381_noAdds/21445381_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21445381/21445381_noAdds/21445381_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "969c23ba57f1a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-969c23ba57f1a91027.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2025-10-28T23:59:49+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "נסלי ויואב: העינויים שעברו החטופים",
