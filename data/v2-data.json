@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_1bkpjbyv",
           "Date": "2025-10-28 18:47:58",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/wkem8-904823122/",
-          "ShortDescriptionLine1": "Todays Talk",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4108222/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-10-28 18:47:58",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_1bkpjbyv/flavorIds/1_hexc0y8k,1_6hn9facj,1_zedkac61,1_cnsvd79w,1_iobt8tfb,1_nf1p6rc0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2136,18 +2136,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 28.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 28.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b296d3767992a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-b296d3767992a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-28T18:58:51+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 28.10.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 28.10.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21445366/21445366_noAdds/21445366_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21445366/21445366_noAdds/21445366_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "69e8fea9b542a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-69e8fea9b542a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-28T17:55:26+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 28.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 28.10.25"
         },
         {
           "Title": "חמש עם רפי רשף: 28.10.25",
@@ -2190,20 +2204,6 @@
           "Date": "2025-10-27T19:53:52+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 27.10.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 27.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/27/Mahadura_Mukdemet_271025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/19mukdemetfull_vtr2_n20251027_v1/19mukdemetfull_vtr2_n20251027_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/19mukdemetfull_vtr2_n20251027_v1/19mukdemetfull_vtr2_n20251027_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "768afea9b542a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/ea2697bc34f89910/VOD-768afea9b542a91027.htm",
-          "ShortDescriptionLine2": "Preparation for the release of space hostages",
-          "Date": "2025-10-27T18:58:49+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 27.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 25.10.25",
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 28.10.25",
+          "StreamerId": "6384196613112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/800a5877-06ad-4b55-95ed-884086c3f104/d5374110-04ae-466a-b3bf-4c47943b2fa4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384196613112",
+          "Date": "2025-10-28T17:06:11Z",
+          "ShortDescriptionLine1": "Gilboa Index, 28.10.25",
+          "ShortDescriptionLine2": "2025-10-28T17:06:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/800a5877-06ad-4b55-95ed-884086c3f104/10s/master.m3u8?fastly_token=NjkyNWZiMjhfMzczYzE3MDkxODhjYzcyYWRkMTk0OThmYjNlNDQ5OGNjYjViODQyZDE2ZGZjZTg5ZjMwMzVlZTk1MTI4MGRiMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 28.10.25",
           "StreamerId": "6384194286112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6e5b4f0e-f1ff-456f-8d4e-98b4631cd30e/0acb10ef-aad8-46e3-a521-c66d2fb587f6/320x180/match/image.jpg",
@@ -2857,18 +2869,6 @@
           "ShortDescriptionLine2": "2025-10-26T17:58:27Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3e2de89d-4062-4737-af6e-845480c41ddb/10s/master.m3u8?fastly_token=NjkyMzYyOGVfMGNmMjRjMzNjYTQ4MDdmNjg2NDc1NTcyYjVmNWU3NjcwMjZhODUyNzAzODE3MGEzZGVlZWI2ZTE0YWIyYjNmYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 26.10.25",
-          "StreamerId": "6384097145112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a97173b7-69ea-4d26-8b52-b9d71d42833d/3c7b41c7-4c77-4ba9-b044-c38d9b8cf5ed/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384097145112",
-          "Date": "2025-10-26T17:03:09Z",
-          "ShortDescriptionLine1": "Gilboa index, 26.10.25",
-          "ShortDescriptionLine2": "2025-10-26T17:03:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a97173b7-69ea-4d26-8b52-b9d71d42833d/10s/master.m3u8?fastly_token=NjkyMzU2YzBfMTQzZjdiMTc4OGU4ODVlOWEzMjlhMWNmNDRlOTliMTA4Mzc0MjE5ZTMyYTg5N2RiZTliMDk5ZWY4OTIwZDhmZA%3D%3D"
           ]
         },
         {
