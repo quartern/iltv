@@ -2150,18 +2150,18 @@
           "ShortDescriptionLine1": "Early release: 29.10.25 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 29.10.25 [live]",
+          "Title": "שש עם עודד בן עמי: 29.10.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21445395/21445395_noAdds/21445395_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21445395/21445395_noAdds/21445395_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3c9686de3de2a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/ec5eea09d5f89910/VOD-3c9686de3de2a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-29T17:55:14+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 29.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 29.10.25"
         },
         {
           "Title": "חמש עם רפי רשף: 29.10.25",
@@ -2608,6 +2608,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 29.10.25",
+          "StreamerId": "6384251403112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8288846b-676c-45a4-aaca-47586cb560a3/3226797c-abbf-4f6b-bb8d-f5013a6cceb9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384251403112",
+          "Date": "2025-10-29T17:03:05Z",
+          "ShortDescriptionLine1": "Gilboa index, 29.10.25",
+          "ShortDescriptionLine2": "2025-10-29T17:03:05Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8288846b-676c-45a4-aaca-47586cb560a3/10s/master.m3u8?fastly_token=NjkyNzRiZDRfNzAyYTcwY2E3ZDM5NzRmNDk2MzRlOWFmMWQ1YTMyN2NhMDdiYTE2MDNmODcxOGVjYjVmYjNlZTIwOWJiYjY1Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 29.10.25",
           "StreamerId": "6384248953112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f7a05467-7061-4c34-b299-3d4d9f3adc83/a31d4ab1-45a9-44aa-9fc3-41fdc2b35148/320x180/match/image.jpg",
@@ -2821,18 +2833,6 @@
           "ShortDescriptionLine2": "2025-10-27T17:51:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b1b4d469-26fc-4827-89ea-bb692a2207e1/10s/master.m3u8?fastly_token=NjkyNGIxMTFfZDYxYmVhYWU0NjI2N2RmMzNiMjU4NjA2YmIwMTJiMWQ2OTViODFlMjVkMzVlMDU2MzEyNWVlODk5NjI5NTBjYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 27.10.25",
-          "StreamerId": "6384149726112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7fa3a658-3298-4493-beab-a27fdff8634f/0dfec2c7-b6aa-408f-9fc1-c8343a6e181e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384149726112",
-          "Date": "2025-10-27T17:09:23Z",
-          "ShortDescriptionLine1": "Gilboa index, 27.10.25",
-          "ShortDescriptionLine2": "2025-10-27T17:09:23Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7fa3a658-3298-4493-beab-a27fdff8634f/10s/master.m3u8?fastly_token=NjkyNTg5ZDdfNWQ2OWQ2OTZhYzAyOWYzYjljNmE1MmRhYWI2MWQ3M2ZiNjhmZWQxN2M1ODI4NzVjYzFhOGFiMDUwM2E5NTQ2Mg%3D%3D"
           ]
         },
         {
