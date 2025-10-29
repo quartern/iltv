@@ -606,8 +606,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
           "StreamerId": "1_t3n2o9iv",
           "Date": "2025-10-29 21:10:38",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/c0p1t-904824898/",
-          "ShortDescriptionLine1": "Vote Zone",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4109627/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2025-10-29 21:10:38",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_t3n2o9iv/flavorIds/1_p11zf3g1,1_sqimo35j,1_zqto7lv2,1_r343hzgg,1_vo0ga7fq,1_w1lm1c85/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1012,6 +1012,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הזירה עונה 3 | פרק 8",
+          "ShortDescriptionLine1": "The arena season 3 | Chapter 8",
+          "ShortDescriptionLine2": "2025-10-29 19:50:07",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_sxtr9il9/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_sxtr9il9/a.m3u8"
+          ],
+          "StreamerId": "1_sxtr9il9",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s3/958422",
+          "Date": "2025-10-29 19:50:07"
+        },
+        {
           "Title": "בואו לאכול איתי עונה 9 | פרק 8 - שבוע ירושלים, יום ג'",
           "ShortDescriptionLine1": "Come eat with me season 9 | Chapter 8 - Jerusalem Week, Tuesday",
           "ShortDescriptionLine2": "2025-10-29 19:21:27",
@@ -1238,18 +1250,6 @@
           "StreamerId": "1_v8juc2zj",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12373/963287",
           "Date": "2025-10-24 13:06:04"
-        },
-        {
-          "Title": "הזירה עונה 3 | פרק 5",
-          "ShortDescriptionLine1": "The arena season 3 | Chapter 5",
-          "ShortDescriptionLine2": "2025-10-23 18:53:34",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hz789c8t/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hz789c8t/a.m3u8"
-          ],
-          "StreamerId": "1_hz789c8t",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s3/958419",
-          "Date": "2025-10-23 18:53:34"
         }
       ]
     },
@@ -2136,18 +2136,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 29.10.25 [live]",
+          "Title": "המהדורה המרכזית: 29.10.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21445397/21445397_noAdds/21445397_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21445397/21445397_noAdds/21445397_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7fcfa7bddde2a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/bc8797bc34f89910/VOD-7fcfa7bddde2a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-29T19:53:17+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 29.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 29.10.25"
         },
         {
           "Title": "המהדורה המוקדמת: 29.10.25",
@@ -2295,6 +2295,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: ערב של השקות",
+          "Poster": "https://img.mako.co.il/2025/10/21/Eretz2026_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/makostore-hd.akamaized.net/i/SHORT/ErrorMessage/eror_2/eror_2_,550,850,1400,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "d3c9ccde0c92a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-d3c9ccde0c92a91027.htm",
+          "ShortDescriptionLine2": "Great Land presents an evening of launches!",
+          "Date": "2025-10-29T22:37:09+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: Evening of launchings"
+        },
+        {
           "Title": "נסלי ויואב: חוק הפטור מגיוס",
           "Poster": "https://img.mako.co.il/2025/10/29/Nesli_Yoav_291025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2377,20 +2390,6 @@
           "Date": "2025-10-23T00:09:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
-        },
-        {
-          "Title": "ארץ נהדרת: תוכנית פתיחת העונה",
-          "Poster": "https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_4mt87f/Eretz_Nehederet23_01_221025_VOD_4mt87f_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_4mt87f/Eretz_Nehederet23_01_221025_VOD_4mt87f_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1ba1f9229a50a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-1ba1f9229a50a91027.htm",
-          "ShortDescriptionLine2": "Everyone is coming for a historic season opener!",
-          "Date": "2025-10-22T21:33:59+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: Season Opening Program"
         },
         {
           "Title": "חשיפה: זאת לא אני",
@@ -2608,6 +2607,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 29.10.25",
+          "StreamerId": "6384258397112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/232797fb-66e8-4bd9-b0e7-6d91c9649dd0/dd1357df-f5f5-4776-b68a-ad44d673854f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384258397112",
+          "Date": "2025-10-29T19:23:11Z",
+          "ShortDescriptionLine1": "The main edition, 29.10.25",
+          "ShortDescriptionLine2": "2025-10-29T19:23:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/232797fb-66e8-4bd9-b0e7-6d91c9649dd0/10s/master.m3u8?fastly_token=NjkyNzc0YTVfZjlhZjFmOTgzMzg4Mzk1NzYxMTRlMWE4M2M2MzQzYTFmZDYxNzI5MTZjY2Q4ZGFlNThiZTZkNTk0MWFkMzdlOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 29.10.25",
           "StreamerId": "6384253120112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/af7299fb-f98c-44e5-a3e9-eb65002bb81b/422dde03-4a40-4418-ae21-5a0d6f6bb216/320x180/match/image.jpg",
@@ -2821,18 +2832,6 @@
           "ShortDescriptionLine2": "2025-10-27T20:34:57Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3b298ee2-feb7-4cbc-a421-453f4aa0a8f6/10s/master.m3u8?fastly_token=NjkyNGRjNGZfYjU0OTE0YzcyODUyNzJiODdlMWQwMjM1ZGQ2M2NlYWRiZmU4MjM1MjhjMDkwMTg0OWZhYzU4ZDcyMDQwNmE3OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 27.10.25",
-          "StreamerId": "6384152823112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e1b744f0-31c6-497e-8e77-97f071eba2bc/f251795b-8c05-4474-9423-2168cda6a2f2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384152823112",
-          "Date": "2025-10-27T19:26:26Z",
-          "ShortDescriptionLine1": "The main edition, 27.10.25",
-          "ShortDescriptionLine2": "2025-10-27T19:26:26Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e1b744f0-31c6-497e-8e77-97f071eba2bc/10s/master.m3u8?fastly_token=NjkyNGQwYjBfOWFlMzU5YTlkNmQ2OTEwMWU1YWU3ZDUwOWFlZWQzMTU3MWQ1ODc5MTJkZDVlZGExODA0NzdjYWNiYzc5ZTVkMQ%3D%3D"
           ]
         },
         {
