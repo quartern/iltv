@@ -2184,18 +2184,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 30.10.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 30.10.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f0f6cad87c33a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/02d3bf9ff4f89910/VOD-f0f6cad87c33a91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-10-30T16:55:14+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 30.10.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 30.10.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21445428/21445428_noAdds/21445428_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21445428/21445428_noAdds/21445428_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "bf45cad87c33a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/cda4bf9ff4f89910/VOD-bf45cad87c33a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-10-30T15:00:02+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 30.10.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 30.10.25"
         },
         {
           "Title": "המהדורה המרכזית: 29.10.25",
@@ -2238,20 +2252,6 @@
           "Date": "2025-10-29T17:55:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 29.10.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 29.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/29/Hamesh_291025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/17rafi_vtr2_n20251029_v1/17rafi_vtr2_n20251029_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/17rafi_vtr2_n20251029_v1/17rafi_vtr2_n20251029_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e26386de3de2a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/02d3bf9ff4f89910/VOD-e26386de3de2a91027.htm",
-          "ShortDescriptionLine2": "The violations by Hamas and the return to the ceasefire in Gaza",
-          "Date": "2025-10-29T16:55:54+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 29.10.25"
         },
         {
           "Title": "חדשות סוף השבוע: 25.10.25",
@@ -2656,6 +2656,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הנדל\"ניסטים - 08.09.25",
+          "StreamerId": "6384294905112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/93f65587-cc38-4caf-a77e-82954f6f7e11/31d438f2-c4d7-4bb2-a619-db369292f44d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384294905112",
+          "Date": "2025-10-30T14:48:58Z",
+          "ShortDescriptionLine1": "The Realtors - 08.09.25",
+          "ShortDescriptionLine2": "2025-10-30T14:48:58Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/93f65587-cc38-4caf-a77e-82954f6f7e11/10s/master.m3u8?fastly_token=NjkyODc1MTdfMWNkNWIwZTk3OGY5MTcxOWFmOTM2NGE3YTIxOTJjYWJjZmQ3MTcxN2U4NGJjOWJjMTc5OTU1NDdjNGE5N2QwYw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 30.10.25",
           "StreamerId": "6384289983112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cc77353b-4f44-4e93-8047-4a074665fcbe/9261eac2-ad33-4e96-8939-d296d7fb1364/320x180/match/image.jpg",
@@ -2881,18 +2893,6 @@
           "ShortDescriptionLine2": "2025-10-28T12:42:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/02f005fb-3875-4dea-9606-992c93d0aa59/10s/master.m3u8?fastly_token=NjkyNmJlOTRfMGUyYjE2MTM0YzE5NDBmNTdlY2Q0ZDQ2YzIwYTQ1Y2RiODA4ZmUyZDY0NDA4MzMyMDZiYjEyZWI2YjFmNTdiOQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הנדל\"ניסטים - 01.09.25",
-          "StreamerId": "6384136997112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8f2656ad-901f-4411-aad2-2dbc9df8499e/14a1cffe-f702-45af-86bd-c684795aea36/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384136997112",
-          "Date": "2025-10-27T12:32:48Z",
-          "ShortDescriptionLine1": "The Realtors - 01.09.25",
-          "ShortDescriptionLine2": "2025-10-27T12:32:48Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8f2656ad-901f-4411-aad2-2dbc9df8499e/10s/master.m3u8?fastly_token=NjkyNDU1Y2RfNWZmNTkyMTdmNmNkOTRiOWZlMmQ1NDVjNGM0NWNlZTVmN2RmZmYyYmZkZTJiMTQ1NWEyODgyNTk2NGI5OWMwMg%3D%3D"
           ]
         },
         {
