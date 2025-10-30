@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 30.10.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_plxfqil0",
+          "Date": "2025-10-30 23:30:59",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/g96n0-904826674/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-10-30 23:30:59",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_plxfqil0/flavorIds/1_jl7byrom,1_hwbttx10,1_icr9s465,1_b864huzx,1_4s8f4z5w,1_qvt5mjnb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 30.10.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_w3li0cy8",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-10-30 18:04:35",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gmq92rxc/flavorIds/1_95aydspo,1_5iizfaa3,1_gsw13mv8,1_h809ed4g,1_sz4f0k9y,1_hp2cfc0h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 29.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_n7vlhkw2",
-          "Date": "2025-10-29 23:59:38",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4109639/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-10-29 23:59:38",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_n7vlhkw2/flavorIds/1_r9mymzy3,1_46wfod4e,1_en6844g7,1_0b2x980b,1_j97bfoqd,1_nh9mezsq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2343,18 +2343,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון [live]",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב עם עינב וירון",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21445434/21445434_noAdds/21445434_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21445434/21445434_noAdds/21445434_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a59184b7b1f2a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-a59184b7b1f2a91027.htm",
           "ShortDescriptionLine2": "Einav Galili and Yaron Avraham documented the week",
           "Date": "2025-10-30T23:17:30+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report with Einav and Yaron"
         },
         {
           "Title": "עובדה: זהות סודית בשבי",
