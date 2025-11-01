@@ -2184,6 +2184,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "פגוש את העיתונות: 01.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "870d6e1d0343a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/9396bf9ff4f89910/VOD-870d6e1d0343a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-01T17:59:23+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the press: 01.11.25 [live]"
+        },
+        {
           "Title": "שבת בחמש: 01.11.25 [live]",
           "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2322,20 +2336,6 @@
           "Date": "2025-10-25T17:59:57+03:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the press: 25.10.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 18.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/18/Pgosh_181025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/18pgoshhfull_vtr2_n20251018_v1/18pgoshhfull_vtr2_n20251018_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/18pgoshhfull_vtr2_n20251018_v1/18pgoshhfull_vtr2_n20251018_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "02366c5a7bbe9910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/9396bf9ff4f89910/VOD-02366c5a7bbe991027.htm",
-          "ShortDescriptionLine2": "Ben Gvir on the deal and the ultimatum to the Prime Minister",
-          "Date": "2025-10-18T18:00:16+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the press: 18.10.25"
         }
       ]
     },
