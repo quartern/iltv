@@ -2184,18 +2184,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 02.11.25 [live]",
+          "Title": "מהדורת היום: 02.11.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21573729/21573729_noAdds/21573729_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21573729/21573729_noAdds/21573729_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "65efea81c734a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-65efea81c734a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-02T15:00:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 02.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 02.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 01.11.25",
@@ -2455,6 +2455,20 @@
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
         },
         {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
+        },
+        {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
           "Poster": "https://img.mako.co.il/2025/09/18/Bizman_Sheavadetem_180925_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2642,6 +2656,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 2.11.25",
+          "StreamerId": "6384425608112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/508b1c77-fbb0-4327-899c-4892a5b371cb/46cb3ec6-cf28-4a9d-81ac-c29ba80fc42a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384425608112",
+          "Date": "2025-11-02T14:53:51Z",
+          "ShortDescriptionLine1": "15th edition, 2.11.25",
+          "ShortDescriptionLine2": "2025-11-02T14:53:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/508b1c77-fbb0-4327-899c-4892a5b371cb/10s/master.m3u8?fastly_token=NjkyYzgzYTZfMzM1ODA1MDFmMzQ3YzhlMjAxZjRmNTk5MmVmNWViN2JhMGIzZTI0MzVhZmMyZjYwYWU5MWMzMmVjZGVmYzQzMA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 2.11.25",
           "StreamerId": "6384423007112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f133c5a7-689e-4853-9e60-1ac9dd44c2da/2af1edeb-d6c7-4baf-acdf-ea781c2bb6b7/320x180/match/image.jpg",
@@ -2795,18 +2821,6 @@
           "ShortDescriptionLine2": "2025-10-30T15:10:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5839c082-cedf-4940-af8e-26cf083832cf/10s/master.m3u8?fastly_token=NjkyODg3NTBfOGQ4OTAwNzI3OGFhN2Q1ZGVkOGFjMWVjM2JkYzJmOTliMDFmODM2OTVmYjg1ZDZlYzBmYmUxYjJiNzkzNDNhYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 30.10.25 - חלק א' ",
-          "StreamerId": "6384296190112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/59453faf-0aa3-4571-b7eb-86b3d6909d24/22f39434-b74b-442f-93c0-4a024676be3f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384296190112",
-          "Date": "2025-10-30T15:04:56Z",
-          "ShortDescriptionLine1": "Edition 15, 30.10.25 - Part I",
-          "ShortDescriptionLine2": "2025-10-30T15:04:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/59453faf-0aa3-4571-b7eb-86b3d6909d24/10s/master.m3u8?fastly_token=NjkyODdmNmZfMjBiZGRmODA3NGI5YTkwMmQyN2I2NjdlZjU1ZDVhZTZmMzFmMTYyOTEzMWY0MmNhMmFkOTg0YThiOTljZDUyYQ%3D%3D"
           ]
         },
         {
