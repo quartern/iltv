@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 02.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_ssm2r58v",
+          "Date": "2025-11-02 18:46:43",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/e87m3-904829805/",
+          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine2": "2025-11-02 18:46:43",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ssm2r58v/flavorIds/1_3t3uz5b5,1_92cy15tg,1_cii0kic7,1_vf8nfeoq,1_hq7zge95,1_o2di0aag/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 02.11.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_35h7utyt",
@@ -707,18 +719,6 @@
           "ShortDescriptionLine2": "2025-10-30 20:25:52",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dcxwamxq/flavorIds/1_11wpfrwc,1_ez1ehe69,1_go86dyab,1_v5ajlshd,1_4iw74by0,1_lfqa5jc3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 30.10.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_lnfs9cgo",
-          "Date": "2025-10-30 19:05:57",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4111619/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-10-30 19:05:57",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_lnfs9cgo/flavorIds/1_zhjyx5tb,1_pa4bdp1v,1_cogz9i60,1_xsgq05vi,1_q05ck3rd,1_g7wkc85g/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2184,18 +2184,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 02.11.25 [live]",
+          "Title": "שש עם עודד בן עמי: 02.11.25",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21573728/21573728_noAdds/21573728_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21573728/21573728_noAdds/21573728_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fca7cad87c33a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-fca7cad87c33a91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-02T17:55:31+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 02.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 02.11.25"
         },
         {
           "Title": "חמש עם רפי רשף: 02.11.25",
@@ -2280,20 +2280,6 @@
           "Date": "2025-11-01T07:03:23+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The young edition: 01.11.25"
-        },
-        {
-          "Title": "אולפן שישי: 31.10.25",
-          "Poster": "https://img.mako.co.il/2025/10/31/Ulpan_Shishi_311025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/10/ulpash_vtr2_n20251031_v2/ulpash_vtr2_n20251031_v2_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/10/ulpash_vtr2_n20251031_v2/ulpash_vtr2_n20251031_v2_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "3bb99de3f043a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/4d9397bc34f89910/VOD-3bb99de3f043a91026.htm",
-          "ShortDescriptionLine2": "The Chief of Staff was furious and urged the Ombudsman to investigate the leak",
-          "Date": "2025-10-31T19:55:32+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Studio Friday: 31.10.25"
         },
         {
           "Title": "המהדורה המרכזית: 30.10.25",
@@ -2453,20 +2439,6 @@
           "Date": "2025-10-23T00:09:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
-        },
-        {
-          "Title": "חשיפה: זאת לא אני",
-          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
-          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
-          "Date": "2025-10-20T21:54:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
         },
         {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
@@ -2655,6 +2627,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדד גלבוע , 2.11.25",
+          "StreamerId": "6384427132112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/20373f57-0c36-489a-8d75-5ffa343a73c3/91155928-6adc-42a1-80af-d0c4e839d865/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384427132112",
+          "Date": "2025-11-02T16:53:44Z",
+          "ShortDescriptionLine1": "Gilboa index, 2.11.25",
+          "ShortDescriptionLine2": "2025-11-02T16:53:44Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/20373f57-0c36-489a-8d75-5ffa343a73c3/10s/master.m3u8?fastly_token=NjkyYzhkNTdfY2Y4Njg2NWZlNGI2ZmIwM2ViNzNmZThkMjcyNWRlODBmMjg5Y2M1Y2I2ZWEyNDAyNTNmMGI0OTNmZGE4NTUwZQ%3D%3D"
+          ]
+        },
         {
           "Title": "מהדורת 15 , 2.11.25",
           "StreamerId": "6384427692112",
@@ -2905,18 +2889,6 @@
           "ShortDescriptionLine2": "2025-10-29T17:52:44Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/af7299fb-f98c-44e5-a3e9-eb65002bb81b/10s/master.m3u8?fastly_token=NjkyNzUzMDZfYjVkYWIzMjMzODliMmFkN2VhN2IyZTA1MjM2YmUzNWRjZTE3ZWJjYzkzMWEwNDhhM2I0ZTc4MTcxNzlkODNlZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 29.10.25",
-          "StreamerId": "6384251403112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8288846b-676c-45a4-aaca-47586cb560a3/3226797c-abbf-4f6b-bb8d-f5013a6cceb9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384251403112",
-          "Date": "2025-10-29T17:03:05Z",
-          "ShortDescriptionLine1": "Gilboa index, 29.10.25",
-          "ShortDescriptionLine2": "2025-10-29T17:03:05Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8288846b-676c-45a4-aaca-47586cb560a3/10s/master.m3u8?fastly_token=NjkyNzRiZDRfNzAyYTcwY2E3ZDM5NzRmNDk2MzRlOWFmMWQ1YTMyN2NhMDdiYTE2MDNmODcxOGVjYjVmYjNlZTIwOWJiYjY1Mw%3D%3D"
           ]
         },
         {
