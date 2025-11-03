@@ -1539,8 +1539,8 @@
           "Title": "המהדורה המרכזית: 03.11.25",
           "Poster": "https://img.mako.co.il/2025/11/03/Mahadura_Merkazit_031125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573759/21573759_noAdds/21573759_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573759/21573759_noAdds/21573759_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251103_v1/20mahadura_full_vtr2_n20251103_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251103_v1/20mahadura_full_vtr2_n20251103_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "db1f7db47884a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-db1f7db47884a91026.htm",
@@ -2008,6 +2008,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים , 03.11.25",
+          "StreamerId": "6384471340112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7e51af25-49a2-464a-b145-d6d0ba088e16/b4ef8a57-4922-452b-8885-a7e2d2ffbb67/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384471340112",
+          "Date": "2025-11-03T20:36:50Z",
+          "ShortDescriptionLine1": "The Israelis, 03.11.25",
+          "ShortDescriptionLine2": "2025-11-03T20:36:50Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7e51af25-49a2-464a-b145-d6d0ba088e16/10s/master.m3u8?fastly_token=NjkyZTE3NWVfMTA0NWYyNGUzYjliODA5NmQwOGFhM2Q2ZmFiNWI0OGZkNzZkNzhmMTc1ODAxNWQ3NmVhMGNjODJhMzBhZWE3MQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית , 03.11.25",
           "StreamerId": "6384470485112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f575308-1130-4c33-a4a9-568f510aa2f5/3579faa4-7740-4bad-a4db-1fe604d0fddf/320x180/match/image.jpg",
@@ -2233,18 +2245,6 @@
           "ShortDescriptionLine2": "2025-11-02T13:19:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f133c5a7-689e-4853-9e60-1ac9dd44c2da/10s/master.m3u8?fastly_token=NjkyYzZmZDFfZDE4Nzg1NWM0ODdjMDYxNGMyNDE3N2EyNDk0NDYwMmE5ODFhY2FjZWFjNjA1YmQ5NDY1MzgzMDc2MzM5YThmZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים 01.11.25",
-          "StreamerId": "6384422410112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8fafa8ea-8745-480a-8309-b79879752e27/9de34756-3fa3-44e7-8a0f-c8495b3ec2ba/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384422410112",
-          "Date": "2025-11-02T10:28:37Z",
-          "ShortDescriptionLine1": "The Israelis 01.11.25",
-          "ShortDescriptionLine2": "2025-11-02T10:28:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8fafa8ea-8745-480a-8309-b79879752e27/10s/master.m3u8?fastly_token=NjkyYzM1OGFfOTQ1ZGU4MTRmMTdkMWU3NWZmYmUzMTUxNzRjY2U0ZDQ3OTQ5YWJiYTY4OTFiOGI0NjJlYjQ0YjM3ZjUyNzVmMA%3D%3D"
           ]
         },
         {
