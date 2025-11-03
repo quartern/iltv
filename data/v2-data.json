@@ -1536,18 +1536,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 03.11.25 [live]",
+          "Title": "המהדורה המרכזית: 03.11.25",
           "Poster": "https://img.mako.co.il/2025/11/03/Mahadura_Merkazit_031125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573759/21573759_noAdds/21573759_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573759/21573759_noAdds/21573759_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "db1f7db47884a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-db1f7db47884a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Details of the police investigation after the police officer was located",
           "Date": "2025-11-03T19:54:13+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 03.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 03.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 03.11.25",
@@ -1994,6 +1994,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 03.11.25",
+          "StreamerId": "6384470485112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f575308-1130-4c33-a4a9-568f510aa2f5/3579faa4-7740-4bad-a4db-1fe604d0fddf/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384470485112",
+          "Date": "2025-11-03T19:24:55Z",
+          "ShortDescriptionLine1": "The main edition, 03.11.25",
+          "ShortDescriptionLine2": "2025-11-03T19:24:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f575308-1130-4c33-a4a9-568f510aa2f5/10s/master.m3u8?fastly_token=NjkyZTBhMmJfOTMyZjdjMjg0NzExNWI3NjQyYmQ3ZjQ1OTgwMTNhZDE2YWY1ZGIwYjUyMWNhMGE5OWExNmEzMzAyNjcyMzFmYg%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 03.11.25",
           "StreamerId": "6384464315112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5b6c86cf-0a04-4c04-ac09-d87b22014677/e718498c-4ede-4058-843d-c04adc287de0/320x180/match/image.jpg",
@@ -2267,18 +2279,6 @@
           "ShortDescriptionLine2": "2025-10-30T21:01:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/eb68bd9e-15bc-4955-9c4b-ec761266540e/10s/master.m3u8?fastly_token=NjkyOGQxMTVfZmYxODg2YjlhOTJjZDMwOTI0OTJkYzFkZTY3YmRkNmM0N2IyNjQyZWNmNzJmMjQ3NmI5N2VlYTRiN2U4NzA3Zg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 30.10.25",
-          "StreamerId": "6384305829112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/00b4a750-3ede-48b3-9c98-4581c6aa56b7/cd5ddb53-4005-4af9-8219-ab3dd7ff12ea/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384305829112",
-          "Date": "2025-10-30T19:27:34Z",
-          "ShortDescriptionLine1": "The main edition, 30.10.25",
-          "ShortDescriptionLine2": "2025-10-30T19:27:34Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00b4a750-3ede-48b3-9c98-4581c6aa56b7/10s/master.m3u8?fastly_token=NjkyOGM1NmNfYWI4MmZiYjMzZDhiNWI4ZGIxZDg1N2UyNTA2NWE3MzkxZTNjMjg4NmZjOTYxOTJhMjkyYzZlYWE4MDJhMTE4Nw%3D%3D"
           ]
         },
         {
