@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 05.11.25",
+          "ShortDescriptionLine1": "Evening News",
+          "ShortDescriptionLine2": "2025-11-05 21:16:27",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ay0yy1bp/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ay0yy1bp/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ay0yy1bp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/967880",
+          "Date": "2025-11-05 21:16:27"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 05.11.2025",
           "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
           "ShortDescriptionLine2": "2025-11-05 20:55:12",
@@ -511,18 +523,6 @@
           "StreamerId": "1_em4zd8pe",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/967432",
           "Date": "2025-11-04 22:47:18"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 04.11.25",
-          "ShortDescriptionLine1": "Evening News",
-          "ShortDescriptionLine2": "2025-11-04 22:27:27",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_wfqr99ty/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_wfqr99ty/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_wfqr99ty",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/967430",
-          "Date": "2025-11-04 22:27:27"
         },
         {
           "Title": "חדשות השבת | 01.11.25",
@@ -1850,6 +1850,18 @@
       "Name": "Reshet 13 Docu",
       "Items": [
         {
+          "Title": "צומת רבין - סרטו של צביקה הדר",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762375513/uploads/2025/904835412.jpg",
+          "StreamerId": "1_m6pextck",
+          "Date": "2025-11-05 22:59:07",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/255/season/1/4120081/",
+          "ShortDescriptionLine1": "Rabin Junction - Zvika Hadar's film",
+          "ShortDescriptionLine2": "2025-11-05 22:59:07",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_m6pextck/flavorIds/1_4ej70zmh,1_syiut02k,1_vwf0bob6,1_rrhlei0r,1_b2l5r7yf,1_i68daxgg/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "סודות המטבח נחשפים - סרטו של אורן אסידו",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1761771259/uploads/2025/904825198.jpg",
           "StreamerId": "1_wbdr2pk8",
@@ -2027,18 +2039,6 @@
           "ShortDescriptionLine2": "2025-04-28 23:23:21",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_19y9u94o/flavorIds/1_tlcyjmzi,1_dvwlkdkk,1_njf1s0zp,1_8sic969w,1_1szf2r8a,1_ud1kcbfj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "לבדה – סרטה של רוני גלעד",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745495625/uploads/2025/904555973.jpg",
-          "StreamerId": "1_4s5b0v7u",
-          "Date": "2025-04-24 14:53:57",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/255/season/1/3725165/",
-          "ShortDescriptionLine1": "Alone - Ronnie Gilad's movie",
-          "ShortDescriptionLine2": "2025-04-24 14:53:57",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4s5b0v7u/flavorIds/1_knoqqeo7,1_ct5x44rl,1_gnw17g98,1_pltn9eui,1_kv8ko32o,1_mwf08bn0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2344,7 +2344,7 @@
       "Items": [
         {
           "Title": "ארץ נהדרת: השערוריות באות",
-          "Poster": "https://img.mako.co.il/2025/10/21/Eretz2026_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/05/Eretz_Nehederet23_03_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/21573812/21573812_noAdds/21573812_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/21573812/21573812_noAdds/21573812_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2467,6 +2467,20 @@
           "Date": "2025-10-23T00:09:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
+        },
+        {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
         },
         {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
