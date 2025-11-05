@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור מלחמה 05.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
+          "StreamerId": "1_0gmon4hy",
+          "Date": "2025-11-05 21:00:39",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4120075/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-11-05 21:00:39",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0gmon4hy/flavorIds/1_boc6vygw,1_4fllcv6u,1_u4vhoe3h,1_n5fatkcf,1_qqyj4alr,1_hghw8ry4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מוריה וברקו 05.11.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_lo2zbeja",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-11-04 22:27:20",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_3s3kne8s/flavorIds/1_qrszykov,1_wesg9cxy,1_6rkyx7ob,1_j7wcbijt,1_gqpyf438,1_157mym7q/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור מלחמה 04.11.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1705332611/uploads/2024/903894082.jpg",
-          "StreamerId": "1_owxuxre3",
-          "Date": "2025-11-04 21:00:01",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4118498/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-11-04 21:00:01",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_owxuxre3/flavorIds/1_tciuxehu,1_uskf7z1w,1_m1eoh3a7,1_i0ll4oc5,1_3z1lrhun,1_znjy7abz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2184,25 +2184,25 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 05.11.25 [live]",
+          "Title": "המהדורה המרכזית: 05.11.25",
           "Poster": "https://img.mako.co.il/2025/11/05/Mahadura_Merkazit_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573819/21573819_noAdds/21573819_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573819/21573819_noAdds/21573819_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "52744bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-52744bc80c25a91026.htm",
           "ShortDescriptionLine2": "The terrorist tunnel in Rafah and the search for Goldin",
           "Date": "2025-11-05T19:53:54+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 05.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 05.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 05.11.25",
           "Poster": "https://img.mako.co.il/2025/11/05/Hamadura_Hamukdemet_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573818/21573818_noAdds/21573818_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573818/21573818_noAdds/21573818_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251105_v1/19mukdemet_vtr2_n20251105_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251105_v1/19mukdemet_vtr2_n20251105_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "5a724bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-5a724bc80c25a91026.htm",
@@ -2213,42 +2213,42 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 05.11.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/05/Shesh_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21573811/21573811_noAdds/21573811_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21573811/21573811_noAdds/21573811_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251105_v1/18shesh_vtr2_n20251105_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251105_v1/18shesh_vtr2_n20251105_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c9314bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-c9314bc80c25a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "On the way to approving the conscription exemption law?",
           "Date": "2025-11-05T17:54:59+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 05.11.25"
         },
         {
           "Title": "חמש עם רפי רשף: 05.11.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/05/Hamesh_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21573817/21573817_noAdds/21573817_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21573817/21573817_noAdds/21573817_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/17rafi_vtr2_n20251105_v1/17rafi_vtr2_n20251105_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/17rafi_vtr2_n20251105_v1/17rafi_vtr2_n20251105_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f4204bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/2f556d406f42a910/VOD-f4204bc80c25a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Agreements were reached between the rabbis and Bismuth on the conscription law",
           "Date": "2025-11-05T16:55:32+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 05.11.25"
         },
         {
           "Title": "מהדורת היום: 05.11.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/05/Mahadurat_Hayom_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21573810/21573810_noAdds/21573810_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21573810/21573810_noAdds/21573810_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251105_v1/15hayom_vtr2_n20251105_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251105_v1/15hayom_vtr2_n20251105_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "629d4bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-629d4bc80c25a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The search for space abductees continues",
           "Date": "2025-11-05T15:00:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 05.11.25"
@@ -2656,6 +2656,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 05.11.25",
+          "StreamerId": "6384570415112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/050c87fa-f5a0-4d47-8425-66ce65f52481/9e1ed4ac-0b72-4c6c-b8e2-37604517426f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384570415112",
+          "Date": "2025-11-05T19:24:30Z",
+          "ShortDescriptionLine1": "The main edition, 05.11.25",
+          "ShortDescriptionLine2": "2025-11-05T19:24:30Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/050c87fa-f5a0-4d47-8425-66ce65f52481/10s/master.m3u8?fastly_token=NjkzMGFjYzdfZTM2ODY3Zjk2ZjUyMGIwODhmOGVmOTZiNTI4Y2MxOTEyOThjYmZiNDJiMGEwZGY2NTlmNmQ1MWZkMDE4MmIyMg%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 05.11.25",
           "StreamerId": "6384566194112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1c2b4626-dd38-486f-9e97-236e421514c8/266d6b83-de47-44b4-b4d9-4837c7468d0d/320x180/match/image.jpg",
@@ -2869,18 +2881,6 @@
           "ShortDescriptionLine2": "2025-11-03T20:36:50Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7e51af25-49a2-464a-b145-d6d0ba088e16/10s/master.m3u8?fastly_token=NjkyZmEzMjFfMTI2ZjRjZDE4M2QxYmFkNjU2NjMyYWMxODI0NGRkMmJhNDQxMWI4NDA3ZjY0N2MzODBjMmYyNWIyNTQ3YzgyOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 03.11.25",
-          "StreamerId": "6384470485112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f575308-1130-4c33-a4a9-568f510aa2f5/3579faa4-7740-4bad-a4db-1fe604d0fddf/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384470485112",
-          "Date": "2025-11-03T19:24:55Z",
-          "ShortDescriptionLine1": "The main edition, 03.11.25",
-          "ShortDescriptionLine2": "2025-11-03T19:24:55Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f575308-1130-4c33-a4a9-568f510aa2f5/10s/master.m3u8?fastly_token=NjkyZmIyYTRfOTk1Mjk4MWRhYTViZGNhZmI1NmFmN2Q0OWYzZTZhMjY3MGEwMDk3MDQxYjcyMTc1YjJhN2QyNzgyZTFiNzdhMg%3D%3D"
           ]
         },
         {
