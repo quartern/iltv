@@ -2184,18 +2184,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 05.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 05.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c9314bc80c25a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-c9314bc80c25a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-05T17:54:59+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 05.11.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 05.11.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21573817/21573817_noAdds/21573817_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21573817/21573817_noAdds/21573817_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f4204bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/2f556d406f42a910/VOD-f4204bc80c25a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-05T16:55:32+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 05.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 05.11.25"
         },
         {
           "Title": "מהדורת היום: 05.11.25",
@@ -2238,20 +2252,6 @@
           "Date": "2025-11-04T18:58:31+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 04.11.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 04.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/04/Shesh_041125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251104_v1/18shesh_vtr2_n20251104_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251104_v1/18shesh_vtr2_n20251104_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1ab91b7fa9d4a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-1ab91b7fa9d4a91027.htm",
-          "ShortDescriptionLine2": "The dilemma in Israel and the American pressure",
-          "Date": "2025-11-04T17:55:53+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 04.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 01.11.25",
@@ -2360,11 +2360,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: חקירת הפצ\"רית",
           "Poster": "https://img.mako.co.il/2025/11/05/Hadshot_Haboker_051125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21573804/21573804_noAdds/21573804_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21573804/21573804_noAdds/21573804_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/November/Hadshot_Haboker_051125_VOD_45d6dsa/Hadshot_Haboker_051125_VOD_45d6dsa_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/November/Hadshot_Haboker_051125_VOD_45d6dsa/Hadshot_Haboker_051125_VOD_45d6dsa_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "71e78c477cd4a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-71e78c477cd4a91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-71e78c477cd4a91026.htm",
           "ShortDescriptionLine2": "The Pazarit investigation, and the New York mayoral elections",
           "Date": "2025-11-05T07:09:41+02:00",
           "Live": false,
