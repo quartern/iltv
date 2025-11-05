@@ -477,18 +477,6 @@
           "Date": "2025-11-05 15:20:09"
         },
         {
-          "Title": "מהצד השני עם גיא זהר | 04.11.2025",
-          "ShortDescriptionLine1": "Tzad Sheni/(Other Side) - Fact Checking",
-          "ShortDescriptionLine2": "2025-11-05 13:52:07",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_udt3zz1t/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_udt3zz1t/a.m3u8"
-          ],
-          "StreamerId": "1_udt3zz1t",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/967431",
-          "Date": "2025-11-05 13:52:07"
-        },
-        {
           "Title": "חדשות הלילה | 04.11.25",
           "ShortDescriptionLine1": "Night News Edition",
           "ShortDescriptionLine2": "2025-11-04 22:47:18",
@@ -1012,6 +1000,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "תגידו קצר | פרק 8 - 05.11.25",
+          "ShortDescriptionLine1": "Say it briefly Chapter 8 - 05.11.25",
+          "ShortDescriptionLine2": "2025-11-05 17:45:50",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_c02ujaoy/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_c02ujaoy/a.m3u8"
+          ],
+          "StreamerId": "1_c02ujaoy",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/s1/s1/967745",
+          "Date": "2025-11-05 17:45:50"
+        },
+        {
           "Title": "פצעים ונשיקות",
           "ShortDescriptionLine1": "Wounds and kisses",
           "ShortDescriptionLine2": "2025-11-04 20:47:48",
@@ -1238,18 +1238,6 @@
           "StreamerId": "1_e9dgklc8",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12373/966184",
           "Date": "2025-10-31 12:48:28"
-        },
-        {
-          "Title": "הזירה עונה 3 | פרק 9",
-          "ShortDescriptionLine1": "The arena season 3 | Chapter 9",
-          "ShortDescriptionLine2": "2025-10-30 20:23:34",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_75wmc2xw/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_75wmc2xw/a.m3u8"
-          ],
-          "StreamerId": "1_75wmc2xw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-863396/s3/958423",
-          "Date": "2025-10-30 20:23:34"
         }
       ]
     },
@@ -2184,18 +2172,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 05.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 05.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
+          "StreamerId": "52744bc80c25a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-52744bc80c25a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-05T19:53:54+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Main edition: 05.11.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 05.11.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573818/21573818_noAdds/21573818_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21573818/21573818_noAdds/21573818_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
           "StreamerId": "5a724bc80c25a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-5a724bc80c25a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Hamas will hand over a kidnapped soldier tonight",
           "Date": "2025-11-05T18:58:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 05.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 05.11.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 05.11.25",
@@ -2238,20 +2240,6 @@
           "Date": "2025-11-05T15:00:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 05.11.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 04.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/04/Mahadura_Merkazit_041125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadurafullAA_vtr2_n20251104_v1/20mahadurafullAA_vtr2_n20251104_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadurafullAA_vtr2_n20251104_v1/20mahadurafullAA_vtr2_n20251104_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "74fa1b7fa9d4a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-74fa1b7fa9d4a91027.htm",
-          "ShortDescriptionLine2": "The Pazarit version is under investigation",
-          "Date": "2025-11-04T19:53:46+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Main edition: 04.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 01.11.25",
@@ -2453,6 +2441,20 @@
           "Date": "2025-10-23T00:09:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
+        },
+        {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
         },
         {
           "Title": "בזמן שעבדתם: הסיפור של מייסד חברת אורקל",
