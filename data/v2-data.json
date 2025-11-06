@@ -2184,18 +2184,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 06.11.25 [live]",
+          "Title": "המהדורה המרכזית: 06.11.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573847/21573847_noAdds/21573847_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573847/21573847_noAdds/21573847_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b3065c2d1185a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-b3065c2d1185a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-06T19:54:10+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 06.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 06.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 06.11.25",
@@ -2360,11 +2360,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: חוק הפטור מגיוס",
           "Poster": "https://img.mako.co.il/2025/11/06/Hadshot_Haboker_061125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21573833/21573833_noAdds/21573833_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21573833/21573833_noAdds/21573833_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/November/Hadshot_Haboker_061125_VOD_sol3054/Hadshot_Haboker_061125_VOD_sol3054_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/November/Hadshot_Haboker_061125_VOD_sol3054/Hadshot_Haboker_061125_VOD_sol3054_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fb7522562f25a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-fb7522562f25a91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-fb7522562f25a91026.htm",
           "ShortDescriptionLine2": "The conscription exemption law, and also: the abducted spaceman Hadar Goldin",
           "Date": "2025-11-06T07:09:21+02:00",
           "Live": false,
@@ -2656,6 +2656,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית  , 6.11.25",
+          "StreamerId": "6384669771112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aae8e449-2c76-4176-b587-4d733f9d379e/81c2523f-e345-4442-a8dc-cf25eb6892d6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384669771112",
+          "Date": "2025-11-06T19:20:28Z",
+          "ShortDescriptionLine1": "The main edition, 6.11.25",
+          "ShortDescriptionLine2": "2025-11-06T19:20:28Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aae8e449-2c76-4176-b587-4d733f9d379e/10s/master.m3u8?fastly_token=NjkzMjAxM2ZfYWQwOWZjZWY1Mjc4NWJlMjNmNDAwZjhkMDI1OGMwYmM2YjUzNDVhMzQxODBiNjRlMjBkMTA4MzliOTNmZDlmYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 6.11.25",
           "StreamerId": "6384629341112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/741deab5-5bfe-41cc-9646-c1722a25cee3/d9bf328c-d0c0-4a18-84d6-b8a9317b2ff8/320x180/match/image.jpg",
@@ -2869,18 +2881,6 @@
           "ShortDescriptionLine2": "2025-11-04T20:53:08Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5cc52ca6-4ba6-4a62-9611-9a5426d12131/10s/master.m3u8?fastly_token=NjkyZmE3YjJfNDMyNjk2YjM5NDFhZmZkNDU3NGJkODJhYjRmYmIzNTEwZjJlNGYyZmQ0ZDBhNzBmZTRkYjI4ZGFlYTgxZDQzMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 04.11.25",
-          "StreamerId": "6384518030112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/227330b9-1c1d-4752-8219-990ed9898afa/02ae3099-9eee-41c5-b624-3df3b72e1900/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384518030112",
-          "Date": "2025-11-04T19:22:56Z",
-          "ShortDescriptionLine1": "The main edition, 04.11.25",
-          "ShortDescriptionLine2": "2025-11-04T19:22:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/227330b9-1c1d-4752-8219-990ed9898afa/10s/master.m3u8?fastly_token=NjkyZjk4OGVfNWJhY2ExMDU3YzkwZjg4YmNkZDc0YTcyOTQ0NzdiY2U0MmNlY2I1ZGIzM2VlYjg5ZWMzNjg0MTdlMGI4NWZhYQ%3D%3D"
           ]
         },
         {
