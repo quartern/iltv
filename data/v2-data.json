@@ -602,6 +602,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 06.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_uiow8upg",
+          "Date": "2025-11-06 23:30:06",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/a2946-904837527/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2025-11-06 23:30:06",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_uiow8upg/flavorIds/1_wxnyq4vg,1_rpyzf6ey,1_mdu776bp,1_b37ed7c5,1_rznhx97c,1_cf4jv98a/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 06.11.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_5lm39oq0",
@@ -659,18 +671,6 @@
           "ShortDescriptionLine2": "2025-11-06 17:53:43",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ef8ndmes/flavorIds/1_65phezqr,1_j972kx9g,1_dt6cojru,1_1aa5qqd3,1_9fxxedip,1_r74qhspj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 05.11.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_d6ki12ot",
-          "Date": "2025-11-06 00:18:51",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4120082/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-11-06 00:18:51",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_d6ki12ot/flavorIds/1_r8hoopqe,1_029rt7eu,1_3i5b0c68,1_0zlquvn8,1_n142g4kj,1_kqu3u9vb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2343,18 +2343,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: סערת המינויים [live]",
+          "Title": "דוח מצב עם עינב וירון: סערת המינויים",
           "Poster": "https://img.mako.co.il/2025/11/07/Doh_Matzav_061125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21573849/21573849_noAdds/21573849_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21573849/21573849_noAdds/21573849_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e285440c9285a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-e285440c9285a91027.htm",
           "ShortDescriptionLine2": "The storm of appointments - Yair Lapid reveals what happened there",
           "Date": "2025-11-06T23:16:07+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: the storm of appointments [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: the storm of appointments"
         },
         {
           "Title": "נסלי ויואב: פרשת הפצ\"רית",
