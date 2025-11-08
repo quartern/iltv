@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות השבת | 08.11.25",
+          "ShortDescriptionLine1": "Saturday News Edition",
+          "ShortDescriptionLine2": "2025-11-08 20:31:21",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_qrpn9rwr/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qrpn9rwr/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_qrpn9rwr",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/968704",
+          "Date": "2025-11-08 20:31:21"
+        },
+        {
           "Title": "שבע עם איילה חסון | 08.11.25",
           "ShortDescriptionLine1": "The 7pm Edition w/ Ayala Hason",
           "ShortDescriptionLine2": "2025-11-08 18:16:05",
@@ -535,18 +547,6 @@
           "StreamerId": "1_f1y7wval",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/968126",
           "Date": "2025-11-06 15:41:01"
-        },
-        {
-          "Title": "חדשות השבת | 01.11.25",
-          "ShortDescriptionLine1": "Saturday News Edition",
-          "ShortDescriptionLine2": "2025-11-01 20:43:15",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_1qd5tam3/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_1qd5tam3/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_1qd5tam3",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/966460",
-          "Date": "2025-11-01 20:43:15"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 7 - בר קופרשטיין מדבר",
@@ -2185,14 +2185,14 @@
       "Items": [
         {
           "Title": "חדשות סוף השבוע: 08.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/08/Hadshot_Sof_Shavua_081125_VOD_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/08/HADSHOT_SOF_HASHAVUA_08_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21573885/21573885_noAdds/21573885_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21573885/21573885_noAdds/21573885_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2de6ec17e685a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/39236d406f42a910/VOD-2de6ec17e685a91027.htm",
-          "ShortDescriptionLine2": "Noa Kirel preparing for the wedding",
+          "ShortDescriptionLine2": "Noa Kirel on the preparations for the wedding and the moments of loneliness",
           "Date": "2025-11-08T19:54:39+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Weekend news: 08.11.25"
@@ -2201,8 +2201,8 @@
           "Title": "פגוש את העיתונות: 08.11.25",
           "Poster": "https://img.mako.co.il/2025/11/08/Pgosh_111025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21573893/21573893_noAdds/21573893_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21573893/21573893_noAdds/21573893_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18pgosh_vtr2_n20251108_v1/18pgosh_vtr2_n20251108_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18pgosh_vtr2_n20251108_v1/18pgosh_vtr2_n20251108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9535e149c585a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/91158eea6b52a910/VOD-9535e149c585a91027.htm",
@@ -2483,20 +2483,6 @@
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
         },
         {
-          "Title": "חשיפה: זאת לא אני",
-          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
-          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
-          "Date": "2025-10-20T21:54:00+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
-        },
-        {
           "Title": "עובדה: עכשיו אורי",
           "Poster": "https://img.mako.co.il/2025/05/28/Uvda2024_18_280525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2655,6 +2641,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הערביסטים , 08.11.25",
+          "StreamerId": "6384841712112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1d6203ab-d8ed-4579-a9c2-10ad372d3e6a/da1a6d3c-a9d2-441c-8bbe-d7d63714ac2b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384841712112",
+          "Date": "2025-11-08T20:11:57Z",
+          "ShortDescriptionLine1": "The Arabists, 08.11.25",
+          "ShortDescriptionLine2": "2025-11-08T20:11:57Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1d6203ab-d8ed-4579-a9c2-10ad372d3e6a/10s/master.m3u8?fastly_token=NjkzNGEyMGZfOTZkYjAyZGE5Y2VmYjQ4NjJlNDQxOTE5MmFlNmE4NWYzZTU2NDhmNzFiMmE0NmMyN2RmNjZhMGNmZmFkNGU5ZA%3D%3D"
+          ]
+        },
         {
           "Title": "מגזין השבת , 08.11.25",
           "StreamerId": "6384841671112",
@@ -2953,18 +2951,6 @@
           "ShortDescriptionLine2": "2025-11-03T22:10:09Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/887511f0-a558-43ff-9f26-4b1de511adc6/10s/master.m3u8?fastly_token=NjkzMDY1NmFfODM3OWJkM2ZkMDFlMmQzNzhmM2I4N2VjZjJlMDk4NTg3OWIxYWFkNTMwMjA1MjIzMWM0Y2M2NmVhODNlOTg1Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 11.1.25",
-          "StreamerId": "6384448879112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0b52ae9b-cf6c-45cb-91dd-51e83b779a69/1b80351f-7990-4ca2-843a-046aa543f309/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384448879112",
-          "Date": "2025-11-03T08:46:06Z",
-          "ShortDescriptionLine1": "The Arabists 11.1.25",
-          "ShortDescriptionLine2": "2025-11-03T08:46:06Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b52ae9b-cf6c-45cb-91dd-51e83b779a69/10s/master.m3u8?fastly_token=NjkyZmE5NzRfOWRjNjcyNmQyNDdkZjcyMzcxMGJkMmE0Mzg0OTFhZDFlNTMyMDJjZWZkZDQ3NTk2NGE3ZWU4NTRkNWVlYmYxZg%3D%3D"
           ]
         },
         {
