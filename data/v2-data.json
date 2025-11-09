@@ -2403,6 +2403,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "57f602062976a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-57f602062976a91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-11-09T23:33:27+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: הקרב על ניהול חקירת הפצ\"רית",
           "Poster": "https://img.mako.co.il/2025/11/09/Nesli_Yoav_091125_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2429,20 +2443,6 @@
           "Date": "2025-11-09T07:10:38+02:00",
           "Live": false,
           "ShortDescriptionLine1": "This morning's news with Niv Raskin: The ex-Patzerite was taken to the hospital"
-        },
-        {
-          "Title": "אברי ושרקי: מיכאל (מייק) הרצוג",
-          "Poster": "https://img.mako.co.il/2025/11/08/Avri_Shekri_081125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_081125_VOD_khg7444/Avri_Sherki_081125_VOD_khg7444_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_081125_VOD_khg7444/Avri_Sherki_081125_VOD_khg7444_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "8545f2ecee85a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-8545f2ecee85a91026.htm",
-          "ShortDescriptionLine2": "And also: Almog Booker, Sara Haatzani-Cohen",
-          "Date": "2025-11-08T23:00:48+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avery and Sharkey: Michael (Mike) Herzog"
         },
         {
           "Title": "אופירה: השרה מירי רגב",
@@ -2701,6 +2701,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות , 09.11.25",
+          "StreamerId": "6384882162112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0e45382d-ee3d-476a-97a4-c8a552b52ea7/9a849250-8919-47ba-a5c3-517daa1514c4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384882162112",
+          "Date": "2025-11-09T21:35:45Z",
+          "ShortDescriptionLine1": "Talking news, 09.11.25",
+          "ShortDescriptionLine2": "2025-11-09T21:35:45Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0e45382d-ee3d-476a-97a4-c8a552b52ea7/10s/master.m3u8?fastly_token=NjkzNjA0YWJfYTA3MWIxNTRhYjZmNmRiMTg3Y2ExZjdkMjM0Mjk5MjJkNmZiZTdhOWQxNDJlNGRlYmUwMGZiZjQ0NjIzYmU4YQ%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי , 09.11.25",
           "StreamerId": "6384878513112",
@@ -2975,18 +2987,6 @@
           "ShortDescriptionLine2": "2025-11-06T09:50:02Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fb9cacba-5713-4417-9427-eb67c6a99af5/10s/master.m3u8?fastly_token=NjkzMTZjYmZfM2FmZDA5YzNjZDcxZTBjYmFjNzA2MDJlNjE5YmRlZGNiODQxNTczYTUxOTU3ZGM0NzM4ZTE0M2MwM2MwOWFhOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 05.11.25",
-          "StreamerId": "6384574176112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f990a355-c285-4c8f-8f6c-f61d8f8584e7/1e395c1a-35a9-4684-b5e5-ad5f1690a35d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384574176112",
-          "Date": "2025-11-05T21:38:54Z",
-          "ShortDescriptionLine1": "Talking news, 05.11.25",
-          "ShortDescriptionLine2": "2025-11-05T21:38:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f990a355-c285-4c8f-8f6c-f61d8f8584e7/10s/master.m3u8?fastly_token=NjkzMGJjMWZfZTdjYTE3ZTE1YmJkODEyNzcxODM5YzUyMGI1YzQ3Y2RiZWIxZDhjZWJjZTJkOTZjY2FmODEzYTI0NzhkZGRhYg%3D%3D"
           ]
         },
         {
