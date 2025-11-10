@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 10.11.25",
+          "ShortDescriptionLine1": "The world today 10.11.25",
+          "ShortDescriptionLine2": "2025-11-10 15:14:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_zklq50zv/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_zklq50zv/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_zklq50zv",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/969233",
+          "Date": "2025-11-10 15:14:48"
+        },
+        {
           "Title": "שלוש עם יונתן אוחיון | 10.11.25",
           "ShortDescriptionLine1": "Three with Yonatan Ohion 10.11.25",
           "ShortDescriptionLine2": "2025-11-10 14:41:28",
@@ -547,18 +559,6 @@
           "StreamerId": "1_urwaqn7g",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/968875",
           "Date": "2025-11-09 16:36:51"
-        },
-        {
-          "Title": "העולם היום | 09.11.25",
-          "ShortDescriptionLine1": "The World Today",
-          "ShortDescriptionLine2": "2025-11-09 15:38:33",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_sxnw7zmg/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_sxnw7zmg/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_sxnw7zmg",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/968874",
-          "Date": "2025-11-09 15:38:33"
         },
         {
           "Title": "חדשות השבת | 08.11.25",
@@ -2258,18 +2258,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 09.11.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 10.11.25 [live]",
+          "Title": "מהדורת היום: 10.11.25",
           "Poster": "https://img.mako.co.il/2025/11/10/Mahadurat_Hayom_101125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21573949/21573949_noAdds/21573949_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21573949/21573949_noAdds/21573949_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c2328e68d4c6a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-c2328e68d4c6a91027.htm",
           "ShortDescriptionLine2": "Iran accelerates its missile program and launches a threat",
           "Date": "2025-11-10T15:00:02+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 10.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 10.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 09.11.25",
