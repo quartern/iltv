@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "רן בנימיני ואליאור לוי | 10.11.25",
+          "ShortDescriptionLine1": "Ran Binyamini and Elior Levy 10.11.25",
+          "ShortDescriptionLine2": "2025-11-10 16:24:13",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_m7apaela/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_m7apaela/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_m7apaela",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/969253",
+          "Date": "2025-11-10 16:24:13"
+        },
+        {
           "Title": "העולם היום | 10.11.25",
           "ShortDescriptionLine1": "The world today 10.11.25",
           "ShortDescriptionLine2": "2025-11-10 15:14:48",
@@ -547,18 +559,6 @@
           "StreamerId": "1_3s9tp2wx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/968878",
           "Date": "2025-11-09 18:04:16"
-        },
-        {
-          "Title": "בנימיני וגואטה | 09.11.25",
-          "ShortDescriptionLine1": "Binyamini and Guetta | 09.11.25",
-          "ShortDescriptionLine2": "2025-11-09 16:36:51",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_urwaqn7g/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_urwaqn7g/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_urwaqn7g",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/968875",
-          "Date": "2025-11-09 16:36:51"
         },
         {
           "Title": "חדשות השבת | 08.11.25",
@@ -2543,6 +2543,20 @@
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
         },
         {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s2/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
+        },
+        {
           "Title": "עובדה: עכשיו אורי",
           "Poster": "https://img.mako.co.il/2025/05/28/Uvda2024_18_280525_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2701,6 +2715,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מהדורת חמש , 10.11.25",
+          "StreamerId": "6384910161112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1cff44ed-cc86-4f0d-80d4-0cc77b2ea6ac/00c17d89-abcc-4e13-bcef-94b2f83562e2/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384910161112",
+          "Date": "2025-11-10T15:56:26Z",
+          "ShortDescriptionLine1": "Five edition, 10.11.25",
+          "ShortDescriptionLine2": "2025-11-10T15:56:26Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1cff44ed-cc86-4f0d-80d4-0cc77b2ea6ac/10s/master.m3u8?fastly_token=NjkzNzEwZjdfOWNmYmFhZjQxY2EyN2Y2NGFiYTNiNzdhODdhNjk4MDkyNzI0MmQ4NzVhNmYzZjIxMjNkYmEzOTdkNjE1MzcxYQ%3D%3D"
+          ]
+        },
         {
           "Title": "מהדורת 15 , 10.11.25",
           "StreamerId": "6384907268112",
@@ -2963,18 +2989,6 @@
           "ShortDescriptionLine2": "2025-11-06T17:01:19Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c6067497-d8ae-4fe6-b6ac-2a73694f4a42/10s/master.m3u8?fastly_token=NjkzMWQ3OWJfZmVmNWNmNDM3NTg5NjI0ZDZiOTYxYjQ2NmFhN2EzN2IwNmFiN2FlMWQyN2FlOTcxOTlhYjg0ZGUzNTdlZjYwYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש , 6.11.25",
-          "StreamerId": "6384610974112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/edd6d62b-59e8-4a17-80c7-720b80eae9b6/f39918a6-4934-47ba-93ee-1f336890ea50/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384610974112",
-          "Date": "2025-11-06T16:02:06Z",
-          "ShortDescriptionLine1": "Five edition, 6.11.25",
-          "ShortDescriptionLine2": "2025-11-06T16:02:06Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/edd6d62b-59e8-4a17-80c7-720b80eae9b6/10s/master.m3u8?fastly_token=NjkzMWNhN2VfOTFmNjI5MWYzZmJjM2MwYTllYzlhYTUxMDAxZGJkNTE1MmEyODY0NWEwNjE0YjZlYjUzZTljNjYwYzllNmMwNg%3D%3D"
           ]
         },
         {
