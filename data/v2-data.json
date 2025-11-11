@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 11.11.2025",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 11.11.2025",
+          "ShortDescriptionLine2": "2025-11-11 21:23:05",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_nv98g4ks/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nv98g4ks/a.m3u8"
+          ],
+          "StreamerId": "1_nv98g4ks",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/969663",
+          "Date": "2025-11-11 21:23:05"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 11.11.25",
           "ShortDescriptionLine1": "Evening News | 11.11.25",
           "ShortDescriptionLine2": "2025-11-11 20:41:45",
@@ -547,18 +559,6 @@
           "StreamerId": "1_n074txfu",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/969269",
           "Date": "2025-11-10 21:51:25"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 10.11.2025",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 10.11.2025",
-          "ShortDescriptionLine2": "2025-11-10 21:16:12",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kzu4u007/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kzu4u007/a.m3u8"
-          ],
-          "StreamerId": "1_kzu4u007",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/969270",
-          "Date": "2025-11-10 21:16:12"
         },
         {
           "Title": "\"כולם נהרגו - ואני יצאתי בחיים\": המילואימניקים מתקשים להתאושש מהלחימה",
@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המרכזית: 11.11.25",
           "Poster": "https://img.mako.co.il/2025/11/11/Hamadurs_Hamerkazit_111125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573967/21573967_noAdds/21573967_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573967/21573967_noAdds/21573967_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251111_v1/20mahadura_full_vtr2_n20251111_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251111_v1/20mahadura_full_vtr2_n20251111_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c319fd5b2917a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-c319fd5b2917a91027.htm",
