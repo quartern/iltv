@@ -2244,6 +2244,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 11.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "88316cd0d717a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-88316cd0d717a91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-11T14:59:45+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 11.11.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 10.11.25",
           "Poster": "https://img.mako.co.il/2025/11/10/Mahadura_Merkazit_101125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-10T16:55:21+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 10.11.25"
-        },
-        {
-          "Title": "מהדורת היום: 10.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/10/Mahadurat_Hayom_101125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/15today_vtr2_n20251110_v1/15today_vtr2_n20251110_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/15today_vtr2_n20251110_v1/15today_vtr2_n20251110_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c2328e68d4c6a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-c2328e68d4c6a91027.htm",
-          "ShortDescriptionLine2": "Iran accelerates its missile program and launches a threat",
-          "Date": "2025-11-10T15:00:02+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 10.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 08.11.25",
@@ -2404,10 +2404,10 @@
       "Items": [
         {
           "Title": "נסלי ויואב: פרשת הפצ\"רית",
-          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/11/Nesli_Yoav_111125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21573976/21573976_noAdds/21573976_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21573976/21573976_noAdds/21573976_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/TV/Programs/nesli_yoav/2025/November/Nesli_Yoav_111125_VOD_mnb023/Nesli_Yoav_111125_VOD_mnb023_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/TV/Programs/nesli_yoav/2025/November/Nesli_Yoav_111125_VOD_mnb023/Nesli_Yoav_111125_VOD_mnb023_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c85424fa3876a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-c85424fa3876a91027.htm",
