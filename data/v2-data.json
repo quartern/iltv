@@ -2244,18 +2244,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 11.11.25 [live]",
+          "Title": "המהדורה המרכזית: 11.11.25",
           "Poster": "https://img.mako.co.il/2025/11/11/Hamadurs_Hamerkazit_111125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21573967/21573967_noAdds/21573967_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21573967/21573967_noAdds/21573967_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c319fd5b2917a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-c319fd5b2917a91027.htm",
           "ShortDescriptionLine2": "Hadar Goldin's giant funeral",
           "Date": "2025-11-11T19:54:33+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 11.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 11.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 11.11.25",
@@ -2541,6 +2541,20 @@
           "Date": "2025-10-23T00:09:32+03:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: a wonderful new world or a bubble?"
+        },
+        {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s5/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
         },
         {
           "Title": "עובדה: עכשיו אורי",
