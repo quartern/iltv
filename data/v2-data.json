@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "רן בנימיני ואליאור לוי | 11.11.25",
+          "ShortDescriptionLine1": "Ran Binyamini and Elior Levy 11.11.25",
+          "ShortDescriptionLine2": "2025-11-11 17:13:39",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_io467qb8/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_io467qb8/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_io467qb8",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/969636",
+          "Date": "2025-11-11 17:13:39"
+        },
+        {
           "Title": "העולם היום | 11.11.25",
           "ShortDescriptionLine1": "The world today 11.11.25",
           "ShortDescriptionLine2": "2025-11-11 16:38:17",
@@ -571,18 +583,6 @@
           "StreamerId": "1_81nvcl5u",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/969254",
           "Date": "2025-11-10 18:28:03"
-        },
-        {
-          "Title": "רן בנימיני ואליאור לוי | 10.11.25",
-          "ShortDescriptionLine1": "Ran Binyamini and Elior Levy 10.11.25",
-          "ShortDescriptionLine2": "2025-11-10 16:24:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_m7apaela/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_m7apaela/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_m7apaela",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/969253",
-          "Date": "2025-11-10 16:24:13"
         },
         {
           "Title": "חדשות השבת | 08.11.25",
@@ -2356,6 +2356,20 @@
           "ShortDescriptionLine1": "Saturday at five: 08.11.25"
         },
         {
+          "Title": "המהדורה הצעירה: 08.11.25",
+          "Poster": "https://img.mako.co.il/2025/11/08/Tzeira_081125_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/November/Tzeira_081125_VOD_cyt53/Tzeira_081125_VOD_cyt53_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2025/November/Tzeira_081125_VOD_cyt53/Tzeira_081125_VOD_cyt53_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "5122e149c585a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-channel2-news/young_edition-2025/de026d406f42a910/VOD-5122e149c585a91027.htm",
+          "ShortDescriptionLine2": "30th anniversary rally for Rabin's murder",
+          "Date": "2025-11-08T06:58:12+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 08.11.25"
+        },
+        {
           "Title": "אולפן שישי: 07.11.25",
           "Poster": "https://img.mako.co.il/2025/11/07/Ulpan_Shishi_071125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2688,6 +2702,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 11.11.25",
+          "StreamerId": "6384959061112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fb221937-7259-4f7a-a177-69cc337df0ba/1fb1b081-058d-4430-83cd-8182c7e7ec43/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384959061112",
+          "Date": "2025-11-11T17:06:24Z",
+          "ShortDescriptionLine1": "Gilboa index, 11.11.25",
+          "ShortDescriptionLine2": "2025-11-11T17:06:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fb221937-7259-4f7a-a177-69cc337df0ba/10s/master.m3u8?fastly_token=NjkzODcwNTJfYjViODJkMGM1M2QxNjk3M2M1YjY2Y2YyMGNhNzllMzI5YzQxYjkzMWIxYWY3N2Y1YzFjNmE3YjI3MWU2ZDQyMg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 11.11.25",
           "StreamerId": "6384956536112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cd51be6-53f1-4922-ae5a-a700cd9c3406/6b7a4333-163d-4c0f-9c04-b555b011c71e/320x180/match/image.jpg",
@@ -2901,18 +2927,6 @@
           "ShortDescriptionLine2": "2025-11-09T17:52:11Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/add3c616-f360-47f7-9c40-86abdb887bc2/10s/master.m3u8?fastly_token=NjkzNWQ3ZWVfMzA0MGE4YWFkNjNjYjQ0MmFjZDc3MGU1MjMwYjI4Nzc3NGM4YTkyZmI5ODViOTI4OGNhYjBkYTMzOTEwOWZhNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 09.11.25",
-          "StreamerId": "6384873162112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f56631b8-3fb3-47f9-92e4-17fe42c8e47b/33cd769c-b4df-4cbf-8a51-9ef5049293ff/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384873162112",
-          "Date": "2025-11-09T17:05:34Z",
-          "ShortDescriptionLine1": "Gilboa index, 09.11.25",
-          "ShortDescriptionLine2": "2025-11-09T17:05:34Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f56631b8-3fb3-47f9-92e4-17fe42c8e47b/10s/master.m3u8?fastly_token=NjkzNWNjNzVfMmQyYjY3OWY4MGEyNmY0YWIxZTQ0NDgyNmUzN2MyMjhkYTlmZWJmOGI4MWM3NmRiNzZlMzk4NzZhNDZiMTIyNw%3D%3D"
           ]
         },
         {
