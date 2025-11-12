@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 12.11.25",
+          "ShortDescriptionLine1": "Tonight's news 12.11.25",
+          "ShortDescriptionLine2": "2025-11-12 22:10:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4jqotmdx/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4jqotmdx/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_4jqotmdx",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/970156",
+          "Date": "2025-11-12 22:10:40"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 12.11.2025",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 12.11.2025",
           "ShortDescriptionLine2": "2025-11-12 21:15:54",
@@ -547,18 +559,6 @@
           "StreamerId": "1_2l8n29lo",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/970133",
           "Date": "2025-11-12 15:36:54"
-        },
-        {
-          "Title": "חדשות הלילה | 11.11.25",
-          "ShortDescriptionLine1": "Tonight's news 11.11.25",
-          "ShortDescriptionLine2": "2025-11-11 22:03:53",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0lxaihe9/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_0lxaihe9/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_0lxaihe9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/969654",
-          "Date": "2025-11-11 22:03:53"
         },
         {
           "Title": "משדר חדשות מיוחד- הלווית הדר גולדין | 11.11.25",
@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המרכזית: 12.11.25",
           "Poster": "https://img.mako.co.il/2025/11/12/Mahadura_Merkazit_121125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574011/21574011_noAdds/21574011_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574011/21574011_noAdds/21574011_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251112_v1/20mahadura_full_vtr2_n20251112_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251112_v1/20mahadura_full_vtr2_n20251112_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "115333ad8a67a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-115333ad8a67a91026.htm",
@@ -2261,8 +2261,8 @@
           "Title": "המהדורה המוקדמת: 12.11.25",
           "Poster": "https://img.mako.co.il/2025/11/12/Mahadura_Mukdemet_121125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574010/21574010_noAdds/21574010_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574010/21574010_noAdds/21574010_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251112_v1/19mukdemetfull_vtr2_n20251112_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251112_v1/19mukdemetfull_vtr2_n20251112_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3e6233ad8a67a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-3e6233ad8a67a91026.htm",
@@ -2273,14 +2273,14 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 12.11.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/12/Shesh_121125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574009/21574009_noAdds/21574009_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574009/21574009_noAdds/21574009_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18oded_vtr2_n20251112_v1/18oded_vtr2_n20251112_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18oded_vtr2_n20251112_v1/18oded_vtr2_n20251112_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f95133ad8a67a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-f95133ad8a67a91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The big exercise: the scenario of October 7 in Yosh",
           "Date": "2025-11-12T17:55:47+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 12.11.25"
