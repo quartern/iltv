@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 13.11.25",
+          "ShortDescriptionLine1": "Evening News | 13.11.25",
+          "ShortDescriptionLine2": "2025-11-13 20:59:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gwubvnvw/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gwubvnvw/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_gwubvnvw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/970330",
+          "Date": "2025-11-13 20:59:34"
+        },
+        {
           "Title": "שבע עם איילה חסון | 13.11.25",
           "ShortDescriptionLine1": "Seven with Ayala Hasson | 13.11.25",
           "ShortDescriptionLine2": "2025-11-13 18:26:39",
@@ -547,18 +559,6 @@
           "StreamerId": "1_crcesbm6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/970158",
           "Date": "2025-11-12 21:15:54"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 12.11.25",
-          "ShortDescriptionLine1": "Evening News | 12.11.25",
-          "ShortDescriptionLine2": "2025-11-12 20:35:15",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_k9wu90dz/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_k9wu90dz/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_k9wu90dz",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/970152",
-          "Date": "2025-11-12 20:35:15"
         },
         {
           "Title": "משדר חדשות מיוחד- הלווית הדר גולדין | 11.11.25",
@@ -2260,6 +2260,20 @@
           "ShortDescriptionLine1": "Early release: 13.11.25"
         },
         {
+          "Title": "שש עם עודד בן עמי: 13.11.25",
+          "Poster": "https://img.mako.co.il/2025/11/13/Shesh_121125_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251113_v1/18shesh_vtr2_n20251113_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251113_v1/18shesh_vtr2_n20251113_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "cd6266627db7a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-cd6266627db7a91026.htm",
+          "ShortDescriptionLine2": "Hamas will deliver an abducted space tonight",
+          "Date": "2025-11-13T17:56:08+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 11/13/25"
+        },
+        {
           "Title": "חמש עם רפי רשף: 13.11.25",
           "Poster": "https://img.mako.co.il/2025/11/13/Hamesh_131125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2377,6 +2391,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: המסמך הסודי [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e28b6f4be177a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-e28b6f4be177a91027.htm",
+          "ShortDescriptionLine2": "The secret document and the pressure in the Prime Minister's office - new details",
+          "Date": "2025-11-13T23:00:37+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the secret document [live]"
+        },
+        {
           "Title": "נסלי ויואב: דרמה במשטרה",
           "Poster": "https://img.mako.co.il/2025/11/13/Nesli_Yoav_131125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2459,20 +2487,6 @@
           "Date": "2025-11-07T17:59:44+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Ofira: Minister Miri Regev"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: סערת המינויים",
-          "Poster": "https://img.mako.co.il/2025/11/07/Doh_Matzav_061125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2025/November/Doh_Matzav_061125_VOD_buiu7/Doh_Matzav_061125_VOD_buiu7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2025/November/Doh_Matzav_061125_VOD_buiu7/Doh_Matzav_061125_VOD_buiu7_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e285440c9285a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2025/VOD-e285440c9285a91027.htm",
-          "ShortDescriptionLine2": "The storm of appointments - Yair Lapid reveals what happened there",
-          "Date": "2025-11-06T23:16:07+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: the storm of appointments"
         },
         {
           "Title": "בזמן שעבדתם: אפוקליפסה קוונטית מתקרבת?",
@@ -2690,6 +2704,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות חלק ב', 13.11.25",
+          "StreamerId": "6385067283112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e6f3cd46-0754-415b-834e-d20ca8144da2/05c410f5-8c3b-48e1-a703-7e8613ee3aae/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385067283112",
+          "Date": "2025-11-13T21:01:30Z",
+          "ShortDescriptionLine1": "Talking news part 2, 13.11.25",
+          "ShortDescriptionLine2": "2025-11-13T21:01:30Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e6f3cd46-0754-415b-834e-d20ca8144da2/10s/master.m3u8?fastly_token=NjkzYjNiZWFfYjcwM2FlNTE4OGUwYjY5ODIxZjIzMzE1MjIwNjkxOTcwOTljMWFkODJkZTg0M2YxZmY5NTc2YzVmZGUxYzM3Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות , 13.11.25",
           "StreamerId": "6385067257112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/18546452-2faf-442e-a3e1-7825c25581d5/1dc8b9b8-ebdf-4460-9e51-e18b80f4186c/320x180/match/image.jpg",
@@ -2783,18 +2809,6 @@
           "ShortDescriptionLine2": "2025-11-13T09:50:25Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e8c0effd-d2a1-4103-9632-3f33b14b9d83/10s/master.m3u8?fastly_token=NjkzYWIzMzdfZDczODNhZDk5YjllZjRkODQ5MzcyMzAzOTMzNzVlZDMwYzBkMjZiMGYyODhiMjk1ZTM5ODIyYmYxYTBmMGJmZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 12.11.25",
-          "StreamerId": "6385019944112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/86a63bd1-ac58-4f2e-a77f-4d6a8fe92920/0131aa81-7572-4014-a6af-890956220e04/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385019944112",
-          "Date": "2025-11-12T21:36:17Z",
-          "ShortDescriptionLine1": "Talking news, 12.11.25",
-          "ShortDescriptionLine2": "2025-11-12T21:36:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/86a63bd1-ac58-4f2e-a77f-4d6a8fe92920/10s/master.m3u8?fastly_token=NjkzOWY4NjRfMDcyOTc4ZDZkYTVjYWVlNmJlYTVjYTkyNmFhODg4MzYzY2ZlNWZkY2JmMjBiM2RiMjNjYmZkYWNiYTQ4MzcxMA%3D%3D"
           ]
         },
         {
