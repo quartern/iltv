@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 13.11.25",
+          "ShortDescriptionLine1": "Tonight's news 13.11.25",
+          "ShortDescriptionLine2": "2025-11-13 21:49:30",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xnlpf44w/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_xnlpf44w/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_xnlpf44w",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/970331",
+          "Date": "2025-11-13 21:49:30"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 13.11.2025",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 13.11.2025",
           "ShortDescriptionLine2": "2025-11-13 21:17:14",
@@ -547,18 +559,6 @@
           "StreamerId": "1_rgjcklti",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/970322",
           "Date": "2025-11-13 15:01:38"
-        },
-        {
-          "Title": "חדשות הלילה | 12.11.25",
-          "ShortDescriptionLine1": "Tonight's news 12.11.25",
-          "ShortDescriptionLine2": "2025-11-12 22:10:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4jqotmdx/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4jqotmdx/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_4jqotmdx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/970156",
-          "Date": "2025-11-12 22:10:40"
         },
         {
           "Title": "משדר חדשות מיוחד- הלווית הדר גולדין | 11.11.25",
@@ -2235,8 +2235,8 @@
           "Title": "המהדורה המרכזית: 13.11.25",
           "Poster": "https://img.mako.co.il/2025/11/13/Hamadura_Hamerkazit_131125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574041/21574041_noAdds/21574041_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574041/21574041_noAdds/21574041_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251113_v1/20mahadura_full_vtr2_n20251113_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251113_v1/20mahadura_full_vtr2_n20251113_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "af4666627db7a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-af4666627db7a91026.htm",
@@ -2391,18 +2391,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: המסמך הסודי [live]",
+          "Title": "דוח מצב עם עינב וירון: המסמך הסודי",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21574042/21574042_noAdds/21574042_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21574042/21574042_noAdds/21574042_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e28b6f4be177a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-e28b6f4be177a91027.htm",
           "ShortDescriptionLine2": "The secret document and the pressure in the Prime Minister's office - new details",
           "Date": "2025-11-13T23:00:37+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the secret document [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the secret document"
         },
         {
           "Title": "נסלי ויואב: דרמה במשטרה",
