@@ -662,6 +662,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 12.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_pnio19nq",
+          "Date": "2025-11-13 10:43:22",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4150256/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-11-13 10:43:22",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pnio19nq/flavorIds/1_7neuz2f4,1_yjxo9dh6,1_2qidot80,1_uol3fnax,1_jbqmwrp5,1_ewp8tjsn/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 12.11.25 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_tzatzv4o",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-11-12 18:57:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pvawg8dq/flavorIds/1_qm9phi9a,1_r46fvrhh,1_p9snzfqx,1_zkf6jib4,1_r1dgzedk,1_xt1aucgs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 11.11.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_trj84b0a",
-          "Date": "2025-11-11 23:59:14",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4147078/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-11-11 23:59:14",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_trj84b0a/flavorIds/1_s9g5b6hg,1_b7pqtsee,1_kzjr51qm,1_nejs4clx,1_rb6ohnn5,1_xu3tj2pd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2403,18 +2403,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: דרמה במשטרה [live]",
+          "Title": "נסלי ויואב: דרמה במשטרה",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21574034/21574034_noAdds/21574034_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21574034/21574034_noAdds/21574034_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1fa424fa3876a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-1fa424fa3876a91027.htm",
           "ShortDescriptionLine2": "Drama in the police, and also: the reserve man who donated a kidney",
           "Date": "2025-11-13T09:35:11+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: drama in the police [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: drama in the police"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: דו\"ח מבקר המדינה על ה-7.10",
