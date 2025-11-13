@@ -1072,6 +1072,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בואו לאכול איתי עונה 9 | פרק 20 - שבוע השרון והכרמל, יום ה'",
+          "ShortDescriptionLine1": "Come eat with me season 9 | Chapter 20 - Sharon and Carmel Week, Thursday",
+          "ShortDescriptionLine2": "2025-11-13 19:21:09",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_xhniczdw/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xhniczdw/a.m3u8"
+          ],
+          "StreamerId": "1_xhniczdw",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/933747",
+          "Date": "2025-11-13 19:21:09"
+        },
+        {
           "Title": "האמת מאחורי התעלומות הגדולות עונה 2 | פרק 7 - אל דוראדו: זהב, נשק וחמדנות",
           "ShortDescriptionLine1": "The truth behind the great mysteries season 2 | Chapter 7 - El Dorado: Gold, Weapons and Greed",
           "ShortDescriptionLine2": "2025-11-13 10:04:20",
@@ -1298,18 +1310,6 @@
           "StreamerId": "1_wtotjb5i",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/s1/s1/968859",
           "Date": "2025-11-09 17:39:57"
-        },
-        {
-          "Title": "ואנונו | פרק 1",
-          "ShortDescriptionLine1": "Vanuno | Chapter 1",
-          "ShortDescriptionLine2": "2025-11-08 19:20:04",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_38x5j4a7/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_38x5j4a7/a.m3u8"
-          ],
-          "StreamerId": "1_38x5j4a7",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-967108/s1/967127",
-          "Date": "2025-11-08 19:20:04"
         }
       ]
     },
@@ -2244,18 +2244,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 13.11.25 [live]",
+          "Title": "המהדורה המרכזית: 13.11.25",
           "Poster": "https://img.mako.co.il/2025/11/13/Hamadura_Hamerkazit_131125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574041/21574041_noAdds/21574041_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574041/21574041_noAdds/21574041_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "af4666627db7a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-af4666627db7a91026.htm",
           "ShortDescriptionLine2": "The upheaval in the police force: a confrontation between Commissioner Laban Gabir",
           "Date": "2025-11-13T19:53:04+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 13.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 13.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 13.11.25",
@@ -2541,6 +2541,20 @@
           "Date": "2025-10-30T00:16:49+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: the wisdom of crowds or gambling?"
+        },
+        {
+          "Title": "חשיפה: זאת לא אני",
+          "Poster": "https://img.mako.co.il/2025/10/20/Hasiifa_Taylor_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hassifa/2025/Hasifa_201025_VOD_jhbgi88/Hasifa_201025_VOD_jhbgi88_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e20421b6663c6910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/exposure-s5/VOD-e20421b6663c691027.htm",
+          "ShortDescriptionLine2": "Who posted videos about Taylor Malkov?",
+          "Date": "2025-10-20T21:54:00+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): It's not me"
         },
         {
           "Title": "עובדה: עכשיו אורי",
