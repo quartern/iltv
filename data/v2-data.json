@@ -2232,18 +2232,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 15.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 15.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b383e14aeeb7a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/39236d406f42a910/VOD-b383e14aeeb7a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-15T19:54:24+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend news: 15.11.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 15.11.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21574088/21574088_noAdds/21574088_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21574088/21574088_noAdds/21574088_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a672e14aeeb7a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/91158eea6b52a910/VOD-a672e14aeeb7a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-15T17:59:23+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the press: 15.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 15.11.25"
         },
         {
           "Title": "שבת בחמש: 15.11.25",
@@ -2356,20 +2370,6 @@
           "Date": "2025-11-13T14:59:21+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 13.11.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 08.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/08/HADSHOT_SOF_HASHAVUA_08_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20sofash_vtr2_n20251108_v1/20sofash_vtr2_n20251108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20sofash_vtr2_n20251108_v1/20sofash_vtr2_n20251108_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2de6ec17e685a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/39236d406f42a910/VOD-2de6ec17e685a91027.htm",
-          "ShortDescriptionLine2": "Noa Kirel on the preparations for the wedding and the moments of loneliness",
-          "Date": "2025-11-08T19:54:39+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend news: 08.11.25"
         },
         {
           "Title": "פגוש את העיתונות: 08.11.25",
@@ -2704,6 +2704,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים , 15.11.25",
+          "StreamerId": "6385146231112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d50cf02d-20c7-4454-b020-681d19c451fb/1afa4784-1ad4-457c-a684-067515088589/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385146231112",
+          "Date": "2025-11-15T17:55:57Z",
+          "ShortDescriptionLine1": "The Israelis, 11/15/25",
+          "ShortDescriptionLine2": "2025-11-15T17:55:57Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d50cf02d-20c7-4454-b020-681d19c451fb/10s/master.m3u8?fastly_token=NjkzZGMxMjBfNzgwMTJkN2Y5Y2QzMDBhYThhNDEzOTNhNWYzNjg0Y2Q1MDRjMTIzZjYyN2I5MmE4ZmQyYTc0ZWRlNzEyYzAwZg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת , 15.11.25",
           "StreamerId": "6385145213112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/873e03f0-4ff6-4934-9b14-fcf86a15eae1/7946227d-52fd-4a13-b52e-2e527e1afd64/320x180/match/image.jpg",
@@ -2977,18 +2989,6 @@
           "ShortDescriptionLine2": "2025-11-11T21:07:00Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8955acf6-11f9-43df-8222-c6d15dc3b009/10s/master.m3u8?fastly_token=NjkzODlkYTNfZWY0MTYxMDM3YWI0Y2U4OTc4ZDY3NTk2Mjg2OWIyZjhjODBiODU3NDQzN2FlZTNiODA2MjBjNjA0NmZiODhhZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים , 11.11.25",
-          "StreamerId": "6384968645112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d2c23556-b17c-4633-86ce-9604fec9de18/bf0e1a3a-d5f1-4d28-b247-470b60096955/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384968645112",
-          "Date": "2025-11-11T21:03:44Z",
-          "ShortDescriptionLine1": "The Israelis, 11.11.25",
-          "ShortDescriptionLine2": "2025-11-11T21:03:44Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d2c23556-b17c-4633-86ce-9604fec9de18/10s/master.m3u8?fastly_token=NjkzOGE5NTNfZTZmY2U3MWYyMjA5NzVjNTAzZjE2NDA3ZDc4ZWE2NTQzYWY2NjRhYWE5MmE5MmY1NGMwM2NiYWFmYmY3NzI2Mg%3D%3D"
           ]
         },
         {
