@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 16.11.25",
+          "ShortDescriptionLine1": "Tonight's news 16.11.25",
+          "ShortDescriptionLine2": "2025-11-16 21:55:41",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_pd4m57la/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_pd4m57la/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_pd4m57la",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/971003",
+          "Date": "2025-11-16 21:55:41"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 16.11.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 16.11.25",
           "ShortDescriptionLine2": "2025-11-16 21:04:18",
@@ -607,18 +619,6 @@
           "StreamerId": "1_x16ty54q",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/970652",
           "Date": "2025-11-14 18:25:57"
-        },
-        {
-          "Title": "חדשות הלילה | 13.11.25",
-          "ShortDescriptionLine1": "Tonight's news 13.11.25",
-          "ShortDescriptionLine2": "2025-11-13 21:49:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xnlpf44w/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_xnlpf44w/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_xnlpf44w",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/970331",
-          "Date": "2025-11-13 21:49:30"
         },
         {
           "Title": "משדר חדשות מיוחד- הלווית הדר גולדין | 11.11.25",
@@ -2403,6 +2403,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7e78fbab9cb8a910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-7e78fbab9cb8a91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-11-16T23:34:17+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: שלושת החללים החטופים בעזה",
           "Poster": "https://img.mako.co.il/2025/11/16/Nesli_Yoav_161125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2429,20 +2443,6 @@
           "Date": "2025-11-16T07:10:08+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: Who will investigate the Pazarit case?"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/11/15/Avri_Sherki_151125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_151125_VOD_d5n4g5/Avri_Sherki_151125_VOD_d5n4g5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_151125_VOD_d5n4g5/Avri_Sherki_151125_VOD_d5n4g5_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6cab4336c3c7a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-6cab4336c3c7a91026.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2025-11-15T23:15:17+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה: אופירה",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות , 16.11.25 ",
+          "StreamerId": "6385179536112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/20c94ad0-b5b2-405f-a298-c1147d775b27/2720c159-a751-46c4-b726-b575ce44fafe/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385179536112",
+          "Date": "2025-11-16T21:37:48Z",
+          "ShortDescriptionLine1": "Talking news, 16.11.25",
+          "ShortDescriptionLine2": "2025-11-16T21:37:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/20c94ad0-b5b2-405f-a298-c1147d775b27/10s/master.m3u8?fastly_token=NjkzZjNlNTBfNTU3ZDc5ZWI1NWQ1NTY5MjNmNDNhOTJmZjcyOGJkN2IzNDhlNTY3ZjkzMDlkMDFhMGI0NGIxZjQ3NTQ1YjQ1Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי , 16.11.25",
           "StreamerId": "6385177976112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/46288c10-0377-4a68-bd0b-035b67c31cab/034c0a4a-9894-493f-822f-273704e6bac2/320x180/match/image.jpg",
@@ -2917,18 +2929,6 @@
           "ShortDescriptionLine2": "2025-11-13T21:01:30Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e6f3cd46-0754-415b-834e-d20ca8144da2/10s/master.m3u8?fastly_token=NjkzYjNiZWFfYjcwM2FlNTE4OGUwYjY5ODIxZjIzMzE1MjIwNjkxOTcwOTljMWFkODJkZTg0M2YxZmY5NTc2YzVmZGUxYzM3Zg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 13.11.25",
-          "StreamerId": "6385067257112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/18546452-2faf-442e-a3e1-7825c25581d5/1dc8b9b8-ebdf-4460-9e51-e18b80f4186c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385067257112",
-          "Date": "2025-11-13T20:41:54Z",
-          "ShortDescriptionLine1": "Talking news, 13.11.25",
-          "ShortDescriptionLine2": "2025-11-13T20:41:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/18546452-2faf-442e-a3e1-7825c25581d5/10s/master.m3u8?fastly_token=NjkzYjM4ZDBfZWY0ZjFhNjY2MGI3MzJkODNiM2EzZDIzZGM4OWI3ZGY0YTEyNDJmZTYwYjEwODU4N2QyZjA0N2U2Y2U2YTNhNg%3D%3D"
           ]
         },
         {
