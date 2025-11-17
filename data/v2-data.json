@@ -2403,18 +2403,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2025/11/17/Avri_Sherki_171125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/avri_sherki/21574152/21574152_noAdds/21574152_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/avri_sherki/21574152/21574152_noAdds/21574152_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "79a8fbab9cb8a910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-79a8fbab9cb8a91027.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2025-11-17T23:17:53+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "נסלי ויואב: ההחלטה על ועדת חקירה",
@@ -2715,6 +2715,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "הנדל\"ניסטים - 17.11.25 | תוכן ממומן",
+          "StreamerId": "6385221265112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/52f001b2-fa9c-41cd-a67a-1b5b1da8e081/92096abd-9735-44c4-a43f-f95c1dd6db4d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385221265112",
+          "Date": "2025-11-17T22:05:52Z",
+          "ShortDescriptionLine1": "The Realtors - 17.11.25 | Sponsored content",
+          "ShortDescriptionLine2": "2025-11-17T22:05:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/52f001b2-fa9c-41cd-a67a-1b5b1da8e081/10s/master.m3u8?fastly_token=Njk0MDk2YzlfMmFhMGQ1ZmYwNGY2OGJhODJlMTlkMDUwZjkzMGM3MTRiNjY4MzNlNjdjMmRlNzI5NTY1ZDU5NDJlN2QzMDRhMw%3D%3D"
+          ]
+        },
         {
           "Title": "מדברים חדשות , 17.11.25",
           "StreamerId": "6385220554112",
@@ -3073,18 +3085,6 @@
           "ShortDescriptionLine2": "2025-11-06T21:52:01Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b15b07c3-b7f1-4a0b-bbb6-c46320675cb6/10s/master.m3u8?fastly_token=NjkzMjE3YTFfZDJlMjczMjA0M2EwZWU5NDNkMzk4Y2MyZDE1OTc3ZDg4NDUyNmI0OTE1NDc1YjM2ODc5ZjYzN2IwMmY4OWZmMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הנדל\"ניסטים , 03.11.25 | תוכן ממומן",
-          "StreamerId": "6384473582112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/887511f0-a558-43ff-9f26-4b1de511adc6/cb9f846a-b0c6-4e76-bf6b-8948b223ea47/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384473582112",
-          "Date": "2025-11-03T22:10:09Z",
-          "ShortDescriptionLine1": "The Realtors, 03.11.25 | Sponsored content",
-          "ShortDescriptionLine2": "2025-11-03T22:10:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/887511f0-a558-43ff-9f26-4b1de511adc6/10s/master.m3u8?fastly_token=NjkzMDY1NmFfODM3OWJkM2ZkMDFlMmQzNzhmM2I4N2VjZjJlMDk4NTg3OWIxYWFkNTMwMjA1MjIzMWM0Y2M2NmVhODNlOTg1Yw%3D%3D"
           ]
         },
         {
