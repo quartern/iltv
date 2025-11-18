@@ -477,18 +477,6 @@
           "Date": "2025-11-18 16:27:31"
         },
         {
-          "Title": "מהצד השני עם גיא זהר | 18.11.25",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 18.11.25",
-          "ShortDescriptionLine2": "2025-11-18 15:59:03",
-          "Poster": "",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u3chqzj6/a.m3u8"
-          ],
-          "StreamerId": "1_u3chqzj6",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/971634",
-          "Date": "2025-11-18 15:59:03"
-        },
-        {
           "Title": "העולם היום | 18.11.25",
           "ShortDescriptionLine1": "The world today 18.11.25",
           "ShortDescriptionLine2": "2025-11-18 15:17:14",
@@ -535,6 +523,18 @@
           "StreamerId": "1_z317eywa",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/971304",
           "Date": "2025-11-17 21:26:57"
+        },
+        {
+          "Title": "מהצד השני עם גיא זהר | 17.11.25",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 17.11.25",
+          "ShortDescriptionLine2": "2025-11-17 21:15:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_b4x4gmmr/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_b4x4gmmr/a.m3u8"
+          ],
+          "StreamerId": "1_b4x4gmmr",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/971305",
+          "Date": "2025-11-17 21:15:48"
         },
         {
           "Title": "ניסיון הבריחה מהשבי - והרגע שבו המחבלים תפסו אותו: העדות המצמררת של אבינתן אור",
@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 18.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 18.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0c5b015b7d59a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-0c5b015b7d59a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-18T18:58:08+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 18.11.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 18.11.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574175/21574175_noAdds/21574175_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574175/21574175_noAdds/21574175_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "11b9015b7d59a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-11b9015b7d59a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-18T17:55:06+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/18/25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/18/25"
         },
         {
           "Title": "חמש עם רפי רשף: 18.11.25",
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-17T19:53:13+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 17.11.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 17.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/17/Mahadura_Mukdemet_171125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251117_v1/19mukdemet_vtr2_n20251117_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251117_v1/19mukdemet_vtr2_n20251117_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "198c094bc709a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-198c094bc709a91026.htm",
-          "ShortDescriptionLine2": "The struggle to establish a state commission of inquiry",
-          "Date": "2025-11-17T18:58:25+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 17.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 15.11.25",
