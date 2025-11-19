@@ -465,6 +465,30 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 19.11.25",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 19.11.25",
+          "ShortDescriptionLine2": "2025-11-19 21:20:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_iptixzm5/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_iptixzm5/a.m3u8"
+          ],
+          "StreamerId": "1_iptixzm5",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/972180",
+          "Date": "2025-11-19 21:20:43"
+        },
+        {
+          "Title": "מהדורת כאן חדשות | 19.11.25",
+          "ShortDescriptionLine1": "Evening News | 19.11.25",
+          "ShortDescriptionLine2": "2025-11-19 21:18:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2xv2y0np/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2xv2y0np/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_2xv2y0np",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/972172",
+          "Date": "2025-11-19 21:18:50"
+        },
+        {
           "Title": "שבע עם איילה חסון | 19.11.25",
           "ShortDescriptionLine1": "Seven with Ayala Hasson | 19.11.25",
           "ShortDescriptionLine2": "2025-11-19 20:33:11",
@@ -547,30 +571,6 @@
           "StreamerId": "1_31fqe0jo",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/971633",
           "Date": "2025-11-18 22:20:34"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 18.11.25",
-          "ShortDescriptionLine1": "Evening News | 18.11.25",
-          "ShortDescriptionLine2": "2025-11-18 21:00:22",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_sxzdhvsy/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_sxzdhvsy/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_sxzdhvsy",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/971632",
-          "Date": "2025-11-18 21:00:22"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 18.11.25",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 18.11.25",
-          "ShortDescriptionLine2": "2025-11-18 20:52:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u3chqzj6/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_u3chqzj6/a.m3u8"
-          ],
-          "StreamerId": "1_u3chqzj6",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/971634",
-          "Date": "2025-11-18 20:52:43"
         },
         {
           "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המרכזית: 19.11.25",
           "Poster": "https://img.mako.co.il/2025/11/19/Hamadura_hamerkazit_191125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574205/21574205_noAdds/21574205_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574205/21574205_noAdds/21574205_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251119_v1/20mahadura_full_vtr2_n20251119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251119_v1/20mahadura_full_vtr2_n20251119_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9d679aa8cca9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-9d679aa8cca9a91026.htm",
@@ -2261,8 +2261,8 @@
           "Title": "המהדורה המוקדמת: 19.11.25",
           "Poster": "https://img.mako.co.il/2025/11/19/Hamadura_Hamukdemet_191125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574204/21574204_noAdds/21574204_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574204/21574204_noAdds/21574204_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19hissacon_vtr2_n20251119_v1/19hissacon_vtr2_n20251119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19hissacon_vtr2_n20251119_v1/19hissacon_vtr2_n20251119_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "99869aa8cca9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-99869aa8cca9a91026.htm",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המועדון העסקי , 19.11.25",
+          "StreamerId": "6385319433112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ae9ce72f-ec0a-4e97-83c2-91c9ac014359/b9617d5e-48b1-4215-b0fc-ae8bc158747d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385319433112",
+          "Date": "2025-11-19T21:01:56Z",
+          "ShortDescriptionLine1": "The business club, 19.11.25",
+          "ShortDescriptionLine2": "2025-11-19T21:01:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ae9ce72f-ec0a-4e97-83c2-91c9ac014359/10s/master.m3u8?fastly_token=Njk0MzJiODBfMjg3ZmUyMjIzNWYxN2Q0YzM2OTdhNWMzNGY3NGNmZDg4ZjIwNTlhNmIwODU4ZTQ1ZmRmNDY2YmVhNjAzOGZkZA%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים , 19.11.25",
           "StreamerId": "6385318800112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/484bcdbb-0381-41a1-9411-fd51712c3952/51a6ff45-7faa-476c-96d2-f2cba8b87eb4/320x180/match/image.jpg",
@@ -2941,18 +2953,6 @@
           "ShortDescriptionLine2": "2025-11-17T21:38:50Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9a52a5e4-d3bd-48bc-9f6e-9e46ea59d7ca/10s/master.m3u8?fastly_token=Njk0MDhlZWNfMTZlMGJkMWQ4ZDUyOTdkOTA4ZjhiY2MyZmZiNDQxZWU3MDIzY2E5NzU1ZWI2YWY5NTQyNzhhMDJlZGVjNzBlYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי , 17.11.25",
-          "StreamerId": "6385219953112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/38cc70bc-88d4-4ce5-b979-d4b49fc9886d/c3f59a46-c212-4d41-aee1-8ab0641c79b9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385219953112",
-          "Date": "2025-11-17T21:13:56Z",
-          "ShortDescriptionLine1": "The business club, 17.11.25",
-          "ShortDescriptionLine2": "2025-11-17T21:13:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/38cc70bc-88d4-4ce5-b979-d4b49fc9886d/10s/master.m3u8?fastly_token=Njk0MDg3OWVfNGFkYzkxZjBmMmYxM2NlMDQ3NTc4NTM4YWQ1NWQ2NjNmMWFkNjM0YTdmNGQ4NDZkMGJmZGMxMTA3MTMyNDcwNg%3D%3D"
           ]
         },
         {
