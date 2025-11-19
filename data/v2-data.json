@@ -2403,6 +2403,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: ועדת חקירה בריבוע [live]",
+          "Poster": "https://img.mako.co.il/2025/10/21/Eretz2026_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "998f3280bc59a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-998f3280bc59a91026.htm",
+          "ShortDescriptionLine2": "Great Land presents: Investigative Committee in the Square",
+          "Date": "2025-11-19T21:39:36+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: Commission of Inquiry in the Square [live]"
+        },
+        {
           "Title": "נסלי ויואב: ההתחממות ביהודה ושומרון",
           "Poster": "https://img.mako.co.il/2025/11/19/Nesli_Yoav_191125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2485,20 +2499,6 @@
           "Date": "2025-11-13T00:18:03+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: Artificial Intelligence Bara Major"
-        },
-        {
-          "Title": "ארץ נהדרת: כל הזוגות מגיעים",
-          "Poster": "https://img.mako.co.il/2025/11/12/Eretz_Nehederet23_04_121125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_04_121125_VOD_fix045/Eretz_Nehederet23_04_121125_VOD_fix045_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_04_121125_VOD_fix045/Eretz_Nehederet23_04_121125_VOD_fix045_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c0a8ae84a077a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-c0a8ae84a077a91027.htm",
-          "ShortDescriptionLine2": "Get ready for the great experiment of a wonderful land in salt water!",
-          "Date": "2025-11-12T21:39:02+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: All couples arrive"
         },
         {
           "Title": "בזמן שעבדתם: אפוקליפסה קוונטית מתקרבת?",
@@ -2715,6 +2715,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית , 19.11.25",
+          "StreamerId": "6385315513112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c6ab093e-07a9-4f23-b1ef-789a712d9c03/97aec34c-a7ad-4ecb-a94e-b76f34573207/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385315513112",
+          "Date": "2025-11-19T19:24:51Z",
+          "ShortDescriptionLine1": "The main edition, 19.11.25",
+          "ShortDescriptionLine2": "2025-11-19T19:24:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c6ab093e-07a9-4f23-b1ef-789a712d9c03/10s/master.m3u8?fastly_token=Njk0MzI0NDZfYzAyZjZlY2E4OGI4MWIyN2Y1OGM1YTNjMGNhYTJhMjdiODIyNDY4MGU1OTJiOTcwZmM0ZWQ3ZDhkMzVjM2ZhZA%3D%3D"
+          ]
+        },
         {
           "Title": "7 שרון גל , 19.11.25",
           "StreamerId": "6385313637112",
@@ -2941,18 +2953,6 @@
           "ShortDescriptionLine2": "2025-11-17T20:32:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/12f9f205-c1fb-4de6-9d0a-914839732ee2/10s/master.m3u8?fastly_token=Njk0MDhiNjlfN2MxOGNjZmY5MjFiNDgyOTFhYjlkYWJmMzdhMWM5MDU1MDUwOTg1YWE0YTBmYWQ3ZWQzZTRlZWQyMGZiM2M3MA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 17.11.25",
-          "StreamerId": "6385216745112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e61d1841-1e66-426e-8a37-cebee1bc5e71/92039529-545a-4a58-852b-c11f2dce1243/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385216745112",
-          "Date": "2025-11-17T19:28:35Z",
-          "ShortDescriptionLine1": "The main edition, 17.11.25",
-          "ShortDescriptionLine2": "2025-11-17T19:28:35Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e61d1841-1e66-426e-8a37-cebee1bc5e71/10s/master.m3u8?fastly_token=Njk0MDgxZThfMWRhZTk4NTQyNzE3MjRhNGMwYmU4NTNkM2UxZDI1OTc0NjZhMmMyZjVjYzg3ZTlmYzU2NTZjOWZjOGNiZDg3NA%3D%3D"
           ]
         },
         {
