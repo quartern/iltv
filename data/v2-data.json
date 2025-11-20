@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 20.11.25",
+          "ShortDescriptionLine1": "Tonight's news 20.11.25",
+          "ShortDescriptionLine2": "2025-11-20 21:39:32",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_d8inszi9/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_d8inszi9/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_d8inszi9",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/972347",
+          "Date": "2025-11-20 21:39:32"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 20.11.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 20.11.25",
           "ShortDescriptionLine2": "2025-11-20 21:10:36",
@@ -547,18 +559,6 @@
           "StreamerId": "1_j4j5zuyb",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/972338",
           "Date": "2025-11-20 15:04:53"
-        },
-        {
-          "Title": "חדשות הלילה | 19.11.25",
-          "ShortDescriptionLine1": "Tonight's news 19.11.25",
-          "ShortDescriptionLine2": "2025-11-19 21:35:27",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_fpepkr55/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_fpepkr55/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_fpepkr55",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/972176",
-          "Date": "2025-11-19 21:35:27"
         },
         {
           "Title": "8 נרצחים מפיגועים בבניין אחד: שותפות הגורל הקשה בקריית ארבע",
@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המרכזית: 20.11.25",
           "Poster": "https://img.mako.co.il/2025/11/20/Hamadura_Hamerkazit_201125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574235/21574235_noAdds/21574235_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574235/21574235_noAdds/21574235_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadurafull_vtr2_n20251120_v1/20mahadurafull_vtr2_n20251120_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadurafull_vtr2_n20251120_v1/20mahadurafull_vtr2_n20251120_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4c2e855abff9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-4c2e855abff9a91026.htm",
@@ -2261,8 +2261,8 @@
           "Title": "המהדורה המוקדמת: 20.11.25",
           "Poster": "https://img.mako.co.il/2025/11/20/Hamadura_Hamukdemet_201125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680854/21680854_noAdds/21680854_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680854/21680854_noAdds/21680854_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251120_v1/19mukdemetfull_vtr2_n20251120_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251120_v1/19mukdemetfull_vtr2_n20251120_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "426d855abff9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-426d855abff9a91026.htm",
@@ -2275,8 +2275,8 @@
           "Title": "שש עם עודד בן עמי: 20.11.25",
           "Poster": "https://img.mako.co.il/2025/11/20/Shesh_201125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574232/21574232_noAdds/21574232_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574232/21574232_noAdds/21574232_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251120_v1/18shesh_vtr2_n20251120_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251120_v1/18shesh_vtr2_n20251120_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d54a855abff9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-d54a855abff9a91026.htm",
@@ -2354,6 +2354,20 @@
           "Date": "2025-11-15T16:58:49+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Saturday at five: 15.11.25"
+        },
+        {
+          "Title": "המהדורה הצעירה: 15.11.25",
+          "Poster": "https://img.mako.co.il/2025/11/15/Tzeira_151125_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/lekettt_vtr2_n20251114_v1/lekettt_vtr2_n20251114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/lekettt_vtr2_n20251114_v1/lekettt_vtr2_n20251114_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "19ffe14aeeb7a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2025/de026d406f42a910/VOD-19ffe14aeeb7a91026.htm",
+          "ShortDescriptionLine2": "Lieutenant Hadar Goldin is laid to rest",
+          "Date": "2025-11-15T06:54:13+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 15.11.25"
         },
         {
           "Title": "אולפן שישי: 14.11.25",
