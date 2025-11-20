@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "כאן בשש | 20.11.25",
+          "ShortDescriptionLine1": "Here at six 20.11.25",
+          "ShortDescriptionLine2": "2025-11-20 17:57:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_p7rtocil/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_p7rtocil/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_p7rtocil",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/972343",
+          "Date": "2025-11-20 17:57:40"
+        },
+        {
           "Title": "חן ליברמן וישי שנרב | 20.11.25",
           "ShortDescriptionLine1": "Chen Lieberman and Vichy Schnerev 20.11.25",
           "ShortDescriptionLine2": "2025-11-20 17:16:42",
@@ -559,18 +571,6 @@
           "StreamerId": "1_zddu8cei",
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/972214",
           "Date": "2025-11-19 20:04:33"
-        },
-        {
-          "Title": "כאן בשש | 19.11.25",
-          "ShortDescriptionLine1": "Here at six 19.11.25",
-          "ShortDescriptionLine2": "2025-11-19 17:39:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_4wih0g7k/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4wih0g7k/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_4wih0g7k",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/972166",
-          "Date": "2025-11-19 17:39:50"
         },
         {
           "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 20.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 20.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4c2e855abff9a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-4c2e855abff9a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-20T19:55:19+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 20.11.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 20.11.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680854/21680854_noAdds/21680854_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680854/21680854_noAdds/21680854_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "426d855abff9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-426d855abff9a91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-20T18:58:26+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 20.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 20.11.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 20.11.25",
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-20T15:00:21+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 20.11.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 19.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/19/Hamadura_hamerkazit_191125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251119_v1/20mahadura_full_vtr2_n20251119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251119_v1/20mahadura_full_vtr2_n20251119_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9d679aa8cca9a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-9d679aa8cca9a91026.htm",
-          "ShortDescriptionLine2": "Guy Gilboa Dalal in a shocking testimony about the assaults in captivity",
-          "Date": "2025-11-19T19:52:36+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 19.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 15.11.25",
