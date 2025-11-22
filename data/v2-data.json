@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שישי עם יפעת גליק ותמר אלמוג | 21.11.25",
+          "ShortDescriptionLine1": "Friday with Yifat Glick and Tamar Almog 21.11.25",
+          "ShortDescriptionLine2": "2025-11-22 15:05:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jtbzwtyg/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jtbzwtyg/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_jtbzwtyg",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/972681",
+          "Date": "2025-11-22 15:05:29"
+        },
+        {
           "Title": "חדשות שישי | 21.11.25",
           "ShortDescriptionLine1": "Friday news | 21.11.25",
           "ShortDescriptionLine2": "2025-11-21 21:10:37",
@@ -619,18 +631,6 @@
           "StreamerId": "1_riwowtjx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/970873",
           "Date": "2025-11-15 17:23:21"
-        },
-        {
-          "Title": "שישי עם יפעת גליק ותמר אלמוג | 14.11.25",
-          "ShortDescriptionLine1": "Friday with Yifat Glick and Tamar Almog 14.11.25",
-          "ShortDescriptionLine2": "2025-11-14 18:25:57",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_x16ty54q/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_x16ty54q/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_x16ty54q",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/970652",
-          "Date": "2025-11-14 18:25:57"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 7 - בר קופרשטיין מדבר",
@@ -2244,6 +2244,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שבת בחמש: 22.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "afe0855abff9a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2025/5eb58eea6b52a910/VOD-afe0855abff9a91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-22T16:58:46+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Saturday at five: 22.11.25 [live]"
+        },
+        {
           "Title": "המהדורה הצעירה: 22.11.25",
           "Poster": "https://img.mako.co.il/2023/11/13/MahadoraCheira_3__X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2261,8 +2275,8 @@
           "Title": "אולפן שישי: 21.11.25",
           "Poster": "https://img.mako.co.il/2025/11/21/Ulpan_Shishi_211125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21574247/21574247_noAdds/21574247_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21574247/21574247_noAdds/21574247_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20ulpash_vtr2_n20251121_v1/20ulpash_vtr2_n20251121_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20ulpash_vtr2_n20251121_v1/20ulpash_vtr2_n20251121_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "163f855abff9a910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/d9f86d406f42a910/VOD-163f855abff9a91026.htm",
@@ -2370,20 +2384,6 @@
           "ShortDescriptionLine1": "Meet the press: 15.11.25"
         },
         {
-          "Title": "שבת בחמש: 15.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/15/Shabat_Behamesh_151125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/17shabat_vtr2_n20251115_v1/17shabat_vtr2_n20251115_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/17shabat_vtr2_n20251115_v1/17shabat_vtr2_n20251115_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "bdc1e14aeeb7a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2025/5eb58eea6b52a910/VOD-bdc1e14aeeb7a91026.htm",
-          "ShortDescriptionLine2": "The American plan on the future of Gaza will be put to a vote",
-          "Date": "2025-11-15T16:58:49+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Saturday at five: 15.11.25"
-        },
-        {
           "Title": "פגוש את העיתונות: 08.11.25",
           "Poster": "https://img.mako.co.il/2025/11/08/Pgosh_111025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2406,11 +2406,11 @@
           "Title": "אופירה: יאיר גולן",
           "Poster": "https://img.mako.co.il/2025/11/21/Ofira_211125_Yair_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/ofira_and_levinson/21574262/21574262_noAdds/21574262_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/ofira_and_levinson/21574262/21574262_noAdds/21574262_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/ofira_levinson/2025/Nov/Ofira_211125_VOD_gyct6/Ofira_211125_VOD_gyct6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/ofira_levinson/2025/Nov/Ofira_211125_VOD_gyct6/Ofira_211125_VOD_gyct6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "fdb15181f569a910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/ofira_levinson-2025/VOD-fdb15181f569a91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_levinson-2025/VOD-fdb15181f569a91026.htm",
           "ShortDescriptionLine2": "The fight for the state investigation committee is moving up a notch",
           "Date": "2025-11-21T17:59:53+02:00",
           "Live": false,
