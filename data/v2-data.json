@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 23.11.25",
+          "ShortDescriptionLine1": "The world today 23.11.25",
+          "ShortDescriptionLine2": "2025-11-23 15:47:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lwc7w38h/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_lwc7w38h/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_lwc7w38h",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/973143",
+          "Date": "2025-11-23 15:47:24"
+        },
+        {
           "Title": "חדשות השבת | 22.11.25",
           "ShortDescriptionLine1": "Shabbat news 22.11.25",
           "ShortDescriptionLine2": "2025-11-22 20:41:34",
@@ -595,18 +607,6 @@
           "StreamerId": "1_k3z0vlzb",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/972340",
           "Date": "2025-11-20 17:16:42"
-        },
-        {
-          "Title": "העולם היום | 20.11.25",
-          "ShortDescriptionLine1": "The world today 20.11.25",
-          "ShortDescriptionLine2": "2025-11-20 16:38:01",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qbqbwr74/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qbqbwr74/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_qbqbwr74",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/972339",
-          "Date": "2025-11-20 16:38:01"
         },
         {
           "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
@@ -2246,6 +2246,20 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 23.11.25 [live]"
         },
         {
+          "Title": "מהדורת היום: 23.11.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21574306/21574306_noAdds/21574306_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21574306/21574306_noAdds/21574306_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "f58cec8075faa910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-f58cec8075faa91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-23T14:59:45+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 23.11.25"
+        },
+        {
           "Title": "חדשות סוף השבוע: 22.11.25",
           "Poster": "https://img.mako.co.il/2025/11/22/Hadshot_Sof_Hashvua_221125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2445,6 +2459,20 @@
           "Date": "2025-11-20T00:13:47+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: Hollywood in crisis"
+        },
+        {
+          "Title": "ארץ נהדרת: ועדת חקירה בריבוע",
+          "Poster": "https://img.mako.co.il/2025/11/19/Eretz_Neederet23_05_191125_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_04_121125_VOD_NMO384/Eretz_Nehederet23_04_121125_VOD_NMO384_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_04_121125_VOD_NMO384/Eretz_Nehederet23_04_121125_VOD_NMO384_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "998f3280bc59a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-998f3280bc59a91026.htm",
+          "ShortDescriptionLine2": "Great Land presents: Investigative Committee in the Square",
+          "Date": "2025-11-19T21:39:36+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: Commission of Inquiry in the Square"
         },
         {
           "Title": "דוח מצב עם עינב וירון: המסמך הסודי",
