@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 24.11.25",
+          "ShortDescriptionLine1": "Tonight's news 24.11.25",
+          "ShortDescriptionLine2": "2025-11-24 22:00:28",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jiiw3g0y/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jiiw3g0y/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_jiiw3g0y",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/973542",
+          "Date": "2025-11-24 22:00:28"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 24.11.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 24.11.25",
           "ShortDescriptionLine2": "2025-11-24 21:11:07",
@@ -559,18 +571,6 @@
           "StreamerId": "1_fsg04uqk",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/973532",
           "Date": "2025-11-24 15:01:23"
-        },
-        {
-          "Title": "חדשות הלילה | 23.11.25",
-          "ShortDescriptionLine1": "Tonight's news 23.11.25",
-          "ShortDescriptionLine2": "2025-11-23 21:56:01",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y07fa81i/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y07fa81i/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_y07fa81i",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/973150",
-          "Date": "2025-11-23 21:56:01"
         },
         {
           "Title": "חדשות השבת | 22.11.25",
@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המוקדמת: 24.11.25",
           "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574339/21574339_noAdds/21574339_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574339/21574339_noAdds/21574339_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251124_v1/19mukdemetfull_vtr2_n20251124_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemetfull_vtr2_n20251124_v1/19mukdemetfull_vtr2_n20251124_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "5e2ce5ea994ba910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-5e2ce5ea994ba91027.htm",
@@ -2259,28 +2259,28 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 24.11.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/24/Shesh_241125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574338/21574338_noAdds/21574338_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574338/21574338_noAdds/21574338_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251124_v1/18shesh_vtr2_n20251124_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/18shesh_vtr2_n20251124_v1/18shesh_vtr2_n20251124_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c2e9e5ea994ba910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-c2e9e5ea994ba91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Report: Abducted space site",
           "Date": "2025-11-24T17:56:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/24/25"
         },
         {
           "Title": "חמש עם רפי רשף: 24.11.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/24/Hamesh_241125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21574337/21574337_noAdds/21574337_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21574337/21574337_noAdds/21574337_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/17rafi_vtr2_n20251124_v1/17rafi_vtr2_n20251124_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/17rafi_vtr2_n20251124_v1/17rafi_vtr2_n20251124_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "db98e5ea994ba910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/2f556d406f42a910/VOD-db98e5ea994ba91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The Minister of Defense against the Chief of Staff",
           "Date": "2025-11-24T16:54:20+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 24.11.25"
@@ -2443,6 +2443,20 @@
           "Date": "2025-11-24T07:11:07+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: The 7.10 default"
+        },
+        {
+          "Title": "אופירה: יאיר גולן",
+          "Poster": "https://img.mako.co.il/2025/11/21/Ofira_211125_Yair_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/ofira_levinson/2025/Nov/Ofira_211125_VOD_gyct6/Ofira_211125_VOD_gyct6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/ofira_levinson/2025/Nov/Ofira_211125_VOD_gyct6/Ofira_211125_VOD_gyct6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "fdb15181f569a910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_levinson-2025/VOD-fdb15181f569a91026.htm",
+          "ShortDescriptionLine2": "The fight for the state investigation committee is moving up a notch",
+          "Date": "2025-11-21T17:59:53+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira: Yair Golan"
         },
         {
           "Title": "בזמן שעבדתם: הוליווד במשבר",
