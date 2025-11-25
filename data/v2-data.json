@@ -1072,6 +1072,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "זהו זה! עונה 8 | פרק 4 - 25.11.25",
+          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 4 - 25.11.25",
+          "ShortDescriptionLine2": "2025-11-25 19:21:39",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xny15nce/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_xny15nce/a.m3u8"
+          ],
+          "StreamerId": "1_xny15nce",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/973570",
+          "Date": "2025-11-25 19:21:39"
+        },
+        {
           "Title": "תגידו קצר | פרק 22- 25.11.25",
           "ShortDescriptionLine1": "Say it briefly Chapter 22- 25.11.25",
           "ShortDescriptionLine2": "2025-11-25 17:40:10",
@@ -1298,18 +1310,6 @@
           "StreamerId": "1_8klffr73",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s9/939930",
           "Date": "2025-11-20 19:22:23"
-        },
-        {
-          "Title": "פלאי האוקיינוס עונה 2 | פרק 4 - כלבי ים ודומדמני הים",
-          "ShortDescriptionLine1": "Wonders of the Ocean Season 2 | Chapter 4 - Seals and sea gooseberries",
-          "ShortDescriptionLine2": "2025-11-20 10:00:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nigjl2hd/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nigjl2hd/a.m3u8"
-          ],
-          "StreamerId": "1_nigjl2hd",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-794147/%D7%A2%D7%95%D7%A0%D7%94-2/968950",
-          "Date": "2025-11-20 10:00:59"
         }
       ]
     },
@@ -2244,18 +2244,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 25.11.25 [live]",
+          "Title": "המהדורה המרכזית: 25.11.25",
           "Poster": "https://img.mako.co.il/2025/11/25/Mahadura_Merkazit_251125_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574355/21574355_noAdds/21574355_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574355/21574355_noAdds/21574355_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "55499da87f9ba910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-55499da87f9ba91027.htm",
           "ShortDescriptionLine2": "The confrontation between the chief of staff and the army",
           "Date": "2025-11-25T19:53:12+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 25.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 25.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 25.11.25",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 25.11.25",
+          "StreamerId": "6385578022112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3b5dab00-b7c2-43ae-8153-c4de7295a311/8bbb81ff-6b46-4884-8360-5759d308b04d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385578022112",
+          "Date": "2025-11-25T19:16:56Z",
+          "ShortDescriptionLine1": "The main edition, 25.11.25",
+          "ShortDescriptionLine2": "2025-11-25T19:16:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3b5dab00-b7c2-43ae-8153-c4de7295a311/10s/master.m3u8?fastly_token=Njk0YjA5ZjRfZTJlZjQ3N2RkM2RiMWViNTYwZDBkYzU5OWIwNTBiMDMyOTQwMTk3YjJhMDUyZjAwNGYxZDA2ZTRjNmQ5OTJkMA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 25.11.25",
           "StreamerId": "6385576059112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5ebbc5fe-37af-48ee-903a-7e8def191736/3b9850c2-4f78-46a8-b21f-73dc2c17e53a/320x180/match/image.jpg",
@@ -2917,18 +2929,6 @@
           "ShortDescriptionLine2": "2025-11-23T20:36:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b15ea7f1-9e58-4896-8509-ef3e9c437f71/10s/master.m3u8?fastly_token=Njk0ODc0YWVfZDgxODA1Y2ZkZjFhODExOWJlZTVjZTEwN2QwYmFhYWZmMjhiZDRkNjE4YmU4YzNlZTVhZmUwNDUzNzQ0YTc0YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 23.11.25",
-          "StreamerId": "6385494085112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b03556c5-3637-423b-b98f-2a2a334259ef/875bee18-51ec-46a2-8529-0927d2924ade/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385494085112",
-          "Date": "2025-11-23T19:24:54Z",
-          "ShortDescriptionLine1": "The main edition, 23.11.25",
-          "ShortDescriptionLine2": "2025-11-23T19:24:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b03556c5-3637-423b-b98f-2a2a334259ef/10s/master.m3u8?fastly_token=Njk0ODZiMjFfODA2YWU1NjhhMWNhMDllNmU4Y2Y3MzY1NjU2ZWQ0NzAzZTBiOWI2ZDkxMjM5MGZkYjY0OGE4NjhlMDJiZTUzYw%3D%3D"
           ]
         },
         {
