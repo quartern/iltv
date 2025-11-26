@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 25.11.25",
+          "ShortDescriptionLine1": "Tonight's news 25.11.25",
+          "ShortDescriptionLine2": "2025-11-26 08:57:13",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_sto2p69w/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_sto2p69w/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_sto2p69w",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/974014",
+          "Date": "2025-11-26 08:57:13"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 25.11.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 25.11.25",
           "ShortDescriptionLine2": "2025-11-25 20:51:32",
@@ -547,18 +559,6 @@
           "StreamerId": "1_nxuyqdnh",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/974007",
           "Date": "2025-11-25 14:59:07"
-        },
-        {
-          "Title": "חדשות הלילה | 24.11.25",
-          "ShortDescriptionLine1": "Tonight's news 24.11.25",
-          "ShortDescriptionLine2": "2025-11-24 22:00:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_jiiw3g0y/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jiiw3g0y/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_jiiw3g0y",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/973542",
-          "Date": "2025-11-24 22:00:28"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 8 - גרעין של אמת",
@@ -2403,18 +2403,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: דרור אור ז\"ל הושב לישראל [live]",
+          "Title": "נסלי ויואב: דרור אור ז\"ל הושב לישראל",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21574393/21574393_noAdds/21574393_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21574393/21574393_noAdds/21574393_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "680699c1cafaa910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-680699c1cafaa91026.htm",
           "ShortDescriptionLine2": "The late Dror Or is the abducted spaceman who was returned to Israel",
           "Date": "2025-11-26T09:33:56+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: The late Dror Or was returned to Israel [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: The late Dror Or was returned to Israel"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: השוד האלים במתחם קניות",
