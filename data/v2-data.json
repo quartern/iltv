@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 26.11.25",
+          "ShortDescriptionLine1": "Tonight's news 26.11.25",
+          "ShortDescriptionLine2": "2025-11-26 21:52:17",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_djlfwgla/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_djlfwgla/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_djlfwgla",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/974385",
+          "Date": "2025-11-26 21:52:17"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 26.11.25",
           "ShortDescriptionLine1": "Evening News | 26.11.25",
           "ShortDescriptionLine2": "2025-11-26 21:37:32",
@@ -547,18 +559,6 @@
           "StreamerId": "1_npwl8gfv",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/974359",
           "Date": "2025-11-26 15:46:54"
-        },
-        {
-          "Title": "חדשות הלילה | 25.11.25",
-          "ShortDescriptionLine1": "Tonight's news 25.11.25",
-          "ShortDescriptionLine2": "2025-11-26 08:57:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_sto2p69w/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_sto2p69w/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_sto2p69w",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/974014",
-          "Date": "2025-11-26 08:57:13"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 8 - גרעין של אמת",
@@ -2740,6 +2740,18 @@
           ]
         },
         {
+          "Title": "הישראלים , 26.11.25",
+          "StreamerId": "6385623936112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/42144a4d-623e-457a-ab8f-697d267bcb2a/2efc6d56-368a-4eaa-bf95-31c6ea88088f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385623936112",
+          "Date": "2025-11-26T21:35:37Z",
+          "ShortDescriptionLine1": "The Israelis, 26.11.25",
+          "ShortDescriptionLine2": "2025-11-26T21:35:37Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/42144a4d-623e-457a-ab8f-697d267bcb2a/10s/master.m3u8?fastly_token=Njk0YzdhZDJfZjZmNzcxYjBhM2Y4YWQ2MDNjMmFjMTdkNjAxYjNkOTcxNGZhZmVjNWU0ZmQzMTMxZTU5MzNhY2M0OGE2ZGM5Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית , 26.11.25",
           "StreamerId": "6385620542112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3ca6d933-b653-45d7-a5d8-3c9101b27a6b/32f83566-a77b-4278-b688-26cbc28137bd/320x180/match/image.jpg",
@@ -2929,18 +2941,6 @@
           "ShortDescriptionLine2": "2025-11-24T22:04:05Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6cd7d3af-28cf-44f3-91f6-b61b6fea0178/10s/master.m3u8?fastly_token=Njk0OWNmNGNfMmI5ODQ0NGMzZGFhYTBhNGY2ZWEzODA0ZmZiN2MzZDVmMjQ0NDBmNWEzOTEzNGNlMGFkOGIzODM1NTVjYzE4YQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים , 23.11.25",
-          "StreamerId": "6385495224112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b15ea7f1-9e58-4896-8509-ef3e9c437f71/544552ad-575a-4f5c-a230-475dcf34adae/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385495224112",
-          "Date": "2025-11-23T20:36:07Z",
-          "ShortDescriptionLine1": "The Israelis, 23.11.25",
-          "ShortDescriptionLine2": "2025-11-23T20:36:07Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b15ea7f1-9e58-4896-8509-ef3e9c437f71/10s/master.m3u8?fastly_token=Njk0Yzc1MjlfYWQ2MDUxOWM0ODlkNDRjNjRjYWJiZTY4N2I0NzQ1Y2FmNzQ5ZGRkYzkzYTMxYjY3NTZhZTUxMGU1OWZjYzQ1Ng%3D%3D"
           ]
         },
         {
