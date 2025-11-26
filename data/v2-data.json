@@ -2244,6 +2244,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 26.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f1031f2ea84ba910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-f1031f2ea84ba91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-26T15:00:25+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Today's edition: 26.11.25 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 25.11.25",
           "Poster": "https://img.mako.co.il/2025/11/25/Mahadura_Merkazit_251125_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-25T16:55:41+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 25.11.25"
-        },
-        {
-          "Title": "מהדורת היום: 25.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/25/Madurat_Hayom_251125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251125_v1/15hayom_vtr2_n20251125_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251125_v1/15hayom_vtr2_n20251125_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2fea5764ce9ba910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-2fea5764ce9ba91027.htm",
-          "ShortDescriptionLine2": "Hamas and Jihad: We will hand over an abducted space today",
-          "Date": "2025-11-25T14:59:03+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 25.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.11.25",
@@ -2406,11 +2406,11 @@
           "Title": "נסלי ויואב: דרור אור ז\"ל הושב לישראל",
           "Poster": "https://img.mako.co.il/2025/11/26/Nesli_Yoav_261125_VOD2_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_and_yoav_2025/21574393/21574393_noAdds/21574393_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_and_yoav_2025/21574393/21574393_noAdds/21574393_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2025/November/Nesli_Yoav_261125_VOD_SIN942/Nesli_Yoav_261125_VOD_SIN942_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2025/November/Nesli_Yoav_261125_VOD_SIN942/Nesli_Yoav_261125_VOD_SIN942_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "680699c1cafaa910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2025/VOD-680699c1cafaa91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2025/VOD-680699c1cafaa91026.htm",
           "ShortDescriptionLine2": "The late Dror Or is the abducted spaceman who was returned to Israel",
           "Date": "2025-11-26T09:33:56+02:00",
           "Live": false,
