@@ -2244,18 +2244,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 27.11.25 [live]",
+          "Title": "המהדורה המרכזית: 27.11.25",
           "Poster": "https://img.mako.co.il/2025/11/27/Hamadura_Hamerkazit_271125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574429/21574429_noAdds/21574429_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574429/21574429_noAdds/21574429_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "933686c2cf3ca910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-933686c2cf3ca91027.htm",
           "ShortDescriptionLine2": "All the details about the draft exemption law drama",
           "Date": "2025-11-27T19:54:18+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 27.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 27.11.25"
         },
         {
           "Title": "המהדורה המוקדמת: 27.11.25",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 27.11.25 ",
+          "StreamerId": "6385667546112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6b652fad-25b5-43c7-a38a-ff966a78c380/c5c85735-4400-431c-8221-5c62fb18577c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385667546112",
+          "Date": "2025-11-27T19:23:47Z",
+          "ShortDescriptionLine1": "The main edition, 27.11.25",
+          "ShortDescriptionLine2": "2025-11-27T19:23:47Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6b652fad-25b5-43c7-a38a-ff966a78c380/10s/master.m3u8?fastly_token=Njk0ZGIwZTlfYzk2ZjM0MzNlOTE4NmQwYzg4NWVjOTcwMWY2MTA5ZGQyODcxMTcxYmMyODU4YTkwYjAxNmI1MzBjN2RhZWI3Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 27.11.25",
           "StreamerId": "6385661755112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7f9026f-3ff3-4d1b-b306-a51c979eac0e/121c2a1f-9b75-48a0-a64a-404d88827ab2/320x180/match/image.jpg",
@@ -2905,18 +2917,6 @@
           "ShortDescriptionLine2": "2025-11-25T20:31:15Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/158105a2-c05d-4fc6-8d49-531d64ef6d69/10s/master.m3u8?fastly_token=Njk0YzZmYTRfOWVmMDIwZGUwZjBkZTlkZGNkZmZhMzdjZTAxYjAxYTIxYTczZGQ1Y2U3YmVlYzhjZmQzMzhjMDgwNzQwMzUzOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 25.11.25",
-          "StreamerId": "6385578022112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3b5dab00-b7c2-43ae-8153-c4de7295a311/8bbb81ff-6b46-4884-8360-5759d308b04d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385578022112",
-          "Date": "2025-11-25T19:16:56Z",
-          "ShortDescriptionLine1": "The main edition, 25.11.25",
-          "ShortDescriptionLine2": "2025-11-25T19:16:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3b5dab00-b7c2-43ae-8153-c4de7295a311/10s/master.m3u8?fastly_token=Njk0YjA5ZjRfZTJlZjQ3N2RkM2RiMWViNTYwZDBkYzU5OWIwNTBiMDMyOTQwMTk3YjJhMDUyZjAwNGYxZDA2ZTRjNmQ5OTJkMA%3D%3D"
           ]
         },
         {
