@@ -662,6 +662,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 27.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_fz5ytvmz",
+          "Date": "2025-11-27 19:45:22",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4171679/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-11-27 19:45:22",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_fz5ytvmz/flavorIds/1_acqqasya,1_1i5ncbqp,1_rnjobv8n,1_xqxz6h27,1_n6ts9yfk,1_6cnl0tnu/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 27.11.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_l2nh2x8c",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-11-26 22:01:42",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rxd08dq0/flavorIds/1_17stgo2n,1_kbhb8qjz,1_awyftg53,1_4l91npv6,1_1fz3flaj,1_90z17dys/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 26.11.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_c84d61h9",
-          "Date": "2025-11-26 20:38:30",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4168549/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-11-26 20:38:30",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_c84d61h9/flavorIds/1_2xb8mxtf,1_7uygotxe,1_ibwgii1q,1_lhiirr0t,1_kjx8b7n2,1_sruz8sdn/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 27.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 27.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "933686c2cf3ca910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-933686c2cf3ca91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-27T19:54:18+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 27.11.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 27.11.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680855/21680855_noAdds/21680855_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21680855/21680855_noAdds/21680855_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f5f386c2cf3ca910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-f5f386c2cf3ca91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-27T18:58:32+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 27.11.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 27.11.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 27.11.25",
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-27T14:59:22+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 27.11.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 26.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/26/Hamadura_Hamerkazit_261125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251126_v1/20mahadura_full_vtr2_n20251126_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251126_v1/20mahadura_full_vtr2_n20251126_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "41699da87f9ba910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-41699da87f9ba91027.htm",
-          "ShortDescriptionLine2": "New details about the confrontation between the Minister of Defense and the Chief of Staff",
-          "Date": "2025-11-26T19:54:25+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 26.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.11.25",
