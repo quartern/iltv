@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 27.11.25",
+          "ShortDescriptionLine1": "The world today 27.11.25",
+          "ShortDescriptionLine2": "2025-11-27 16:51:59",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5h8hdgbm/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5h8hdgbm/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_5h8hdgbm",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/974779",
+          "Date": "2025-11-27 16:51:59"
+        },
+        {
           "Title": "חן ליברמן וישי שנרב | 27.11.25",
           "ShortDescriptionLine1": "Chen Lieberman and Vichy Schnerev 27.11.25",
           "ShortDescriptionLine2": "2025-11-27 16:47:03",
@@ -547,18 +559,6 @@
           "StreamerId": "1_jv8r4iu3",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/974364",
           "Date": "2025-11-26 18:11:24"
-        },
-        {
-          "Title": "העולם היום | 26.11.25",
-          "ShortDescriptionLine1": "The world today 26.11.25",
-          "ShortDescriptionLine2": "2025-11-26 15:46:54",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_npwl8gfv/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_npwl8gfv/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_npwl8gfv",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/974359",
-          "Date": "2025-11-26 15:46:54"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 8 - גרעין של אמת",
@@ -662,6 +662,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 27.11.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_l2nh2x8c",
+          "Date": "2025-11-27 18:41:46",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4171678/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-11-27 18:41:46",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l2nh2x8c/flavorIds/1_py3mrste,1_4j7mjzuf,1_m184feb0,1_60mqxzo6,1_ws33ma1f,1_kjn0xfve/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 27.11.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_61zjvgbk",
@@ -719,18 +731,6 @@
           "ShortDescriptionLine2": "2025-11-26 20:38:30",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_c84d61h9/flavorIds/1_2xb8mxtf,1_7uygotxe,1_ibwgii1q,1_lhiirr0t,1_kjx8b7n2,1_sruz8sdn/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 26.11.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_h0neyd93",
-          "Date": "2025-11-26 19:10:06",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4168548/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-11-26 19:10:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_h0neyd93/flavorIds/1_zfqznpf6,1_vi4lhnus,1_juywebbj,1_o2atsw19,1_3i35fqiq,1_tvn859t3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 27.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 27.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f5f386c2cf3ca910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-f5f386c2cf3ca91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-27T18:58:32+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 27.11.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 27.11.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574426/21574426_noAdds/21574426_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574426/21574426_noAdds/21574426_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d50186c2cf3ca910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-d50186c2cf3ca91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-27T17:55:23+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/27/25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/27/25"
         },
         {
           "Title": "חמש עם רפי רשף: 27.11.25",
@@ -2273,14 +2287,14 @@
         },
         {
           "Title": "מהדורת היום: 27.11.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/11/27/Mahadurat_Hayom_271125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21574424/21574424_noAdds/21574424_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21574424/21574424_noAdds/21574424_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251127_v1/15hayom_vtr2_n20251127_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251127_v1/15hayom_vtr2_n20251127_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "915e86c2cf3ca910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/c5548eea6b52a910/VOD-915e86c2cf3ca91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The search for a space abductor in Gaza has been renewed",
           "Date": "2025-11-27T14:59:22+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 27.11.25"
@@ -2298,20 +2312,6 @@
           "Date": "2025-11-26T19:54:25+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 26.11.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 26.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/26/amadurs_Hamerkazit_261125_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251126_v1/19mukdemet_vtr2_n20251126_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251126_v1/19mukdemet_vtr2_n20251126_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ec93d2eebdeba910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-ec93d2eebdeba91027.htm",
-          "ShortDescriptionLine2": "The crisis between the Chief of Staff and the Minister of Defense",
-          "Date": "2025-11-26T18:59:11+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 26.11.25"
         },
         {
           "Title": "חדשות סוף השבוע: 22.11.25",
@@ -2354,6 +2354,20 @@
           "Date": "2025-11-22T16:58:46+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Saturday at five: 22.11.25"
+        },
+        {
+          "Title": "המהדורה הצעירה: 22.11.25",
+          "Poster": "https://img.mako.co.il/2025/11/22/Tzeira_221125_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/leket_vtr2_n20251119_v1/leket_vtr2_n20251119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/leket_vtr2_n20251119_v1/leket_vtr2_n20251119_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "d9ef4fa7ba5aa910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2025/de026d406f42a910/VOD-d9ef4fa7ba5aa91027.htm",
+          "ShortDescriptionLine2": "A visit to the Japanese Embassy in Israel",
+          "Date": "2025-11-22T07:00:25+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 22.11.25"
         },
         {
           "Title": "אולפן שישי: 21.11.25",
