@@ -2275,8 +2275,8 @@
           "Title": "חמש עם רפי רשף: 27.11.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21574425/21574425_noAdds/21574425_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21574425/21574425_noAdds/21574425_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251127_v1/15hayom_vtr2_n20251127_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/15hayom_vtr2_n20251127_v1/15hayom_vtr2_n20251127_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1f6f86c2cf3ca910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/2f556d406f42a910/VOD-1f6f86c2cf3ca91027.htm",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 27.11.25",
+          "StreamerId": "6385662704112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/efd609e9-e958-4824-9578-1ec3fe28b600/81aaf2d1-2178-459a-a890-21da26dcc350/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385662704112",
+          "Date": "2025-11-27T16:55:07Z",
+          "ShortDescriptionLine1": "Gilboa index, 27.11.25",
+          "ShortDescriptionLine2": "2025-11-27T16:55:07Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/efd609e9-e958-4824-9578-1ec3fe28b600/10s/master.m3u8?fastly_token=Njk0ZDg0YjJfY2RmODJlZTkyMjk5ZTMwNjlkMDU2ODM3NjZjNWNhNWM0NWY5ZGIwODgzNzIxOGZhNWE2OWU1MDI2ZTk5ZDg1ZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 , 27.11.25",
           "StreamerId": "6385659665112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2f356708-7311-4611-9de3-0361e96f450c/c961522b-ecb8-4389-912d-1cb8c8fb3bd5/320x180/match/image.jpg",
@@ -2905,18 +2917,6 @@
           "ShortDescriptionLine2": "2025-11-25T17:52:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5ebbc5fe-37af-48ee-903a-7e8def191736/10s/master.m3u8?fastly_token=Njk0YWVhOTlfODU0NzU4YzA1OTk3M2M5ZjVjZTA4ZmIyZTZkNDQ4YjUyMDhiZmZjYjZkYzZlOTU2YmY2MGM0YjBlMzBhNzQ3Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 25.11.25",
-          "StreamerId": "6385572777112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/00793b16-6420-4841-ac3a-727c01aef65c/e6ce9b01-e03e-46d2-82ef-c26a92886e52/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385572777112",
-          "Date": "2025-11-25T16:59:57Z",
-          "ShortDescriptionLine1": "Gilboa index, 25.11.25",
-          "ShortDescriptionLine2": "2025-11-25T16:59:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00793b16-6420-4841-ac3a-727c01aef65c/10s/master.m3u8?fastly_token=Njk0YWUxMTNfMjQ0ODAzZjk1YjY0NjNkMTJmMzc1NjMwOGNhNWVjOTA1ZDNhNGUyY2FiMTE0ZGI0YmRhOWU4N2UzMWY0ZDczNw%3D%3D"
           ]
         },
         {
