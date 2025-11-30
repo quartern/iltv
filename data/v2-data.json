@@ -465,6 +465,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 30.11.25",
+          "ShortDescriptionLine1": "Tonight's news 30.11.25",
+          "ShortDescriptionLine2": "2025-11-30 21:52:54",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_si5i6gbe/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_si5i6gbe/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_si5i6gbe",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/975481",
+          "Date": "2025-11-30 21:52:54"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 30.11.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 30.11.25",
           "ShortDescriptionLine2": "2025-11-30 21:16:36",
@@ -595,18 +607,6 @@
           "StreamerId": "1_x66kllav",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/975083",
           "Date": "2025-11-28 18:24:05"
-        },
-        {
-          "Title": "חדשות הלילה | 27.11.25",
-          "ShortDescriptionLine1": "Tonight's news 27.11.25",
-          "ShortDescriptionLine2": "2025-11-27 21:53:42",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_t8a5hr1k/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_t8a5hr1k/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_t8a5hr1k",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/974790",
-          "Date": "2025-11-27 21:53:42"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 8 - גרעין של אמת",
@@ -2261,8 +2261,8 @@
           "Title": "המהדורה המוקדמת: 30.11.25",
           "Poster": "https://img.mako.co.il/2025/11/30/Mahadura_Mukdemet_301025_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574501/21574501_noAdds/21574501_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21574501/21574501_noAdds/21574501_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19keren_vtr2_n20251130_v1/19keren_vtr2_n20251130_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19keren_vtr2_n20251130_v1/19keren_vtr2_n20251130_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f49b56f7393da910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-f49b56f7393da91026.htm",
