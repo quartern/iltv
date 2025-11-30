@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 30.11.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 30.11.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f49b56f7393da910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-f49b56f7393da91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-11-30T18:59:16+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 30.11.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 30.11.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21574500/21574500_noAdds/21574500_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21574500/21574500_noAdds/21574500_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1cd6bbe9483da910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/f9578eea6b52a910/VOD-1cd6bbe9483da91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-11-30T17:55:47+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/30/25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/30/25"
         },
         {
           "Title": "חמש עם רפי רשף: 30.11.25",
@@ -2368,20 +2382,6 @@
           "Date": "2025-11-27T19:54:18+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The main edition: 27.11.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 27.11.25",
-          "Poster": "https://img.mako.co.il/2025/11/27/Hamadura_Hamukdemet_271125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251127_v1/19mukdemet_vtr2_n20251127_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/19mukdemet_vtr2_n20251127_v1/19mukdemet_vtr2_n20251127_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f5f386c2cf3ca910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/b83e6d406f42a910/VOD-f5f386c2cf3ca91027.htm",
-          "ShortDescriptionLine2": "The conscription exemption law is underway",
-          "Date": "2025-11-27T18:58:32+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 27.11.25"
         },
         {
           "Title": "פגוש את העיתונות: 22.11.25",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 30.11.25",
+          "StreamerId": "6385765657112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/75bb9b21-9dd7-41ea-ac67-879f2b20d0d6/1215bb43-e420-472b-a009-9360439f1ccc/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385765657112",
+          "Date": "2025-11-30T17:02:52Z",
+          "ShortDescriptionLine1": "Gilboa Index, 11/30/25",
+          "ShortDescriptionLine2": "2025-11-30T17:02:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/75bb9b21-9dd7-41ea-ac67-879f2b20d0d6/10s/master.m3u8?fastly_token=Njk1MTdhZjNfZWZiMDE3NjU3YTFmNmRjNzM2MWNkM2UwOTIyZTY1ZmQ0MjMwNjlkM2JjNDAxNDY4NjQxYTllMzE2NDRhY2E5NQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 30.11.25",
           "StreamerId": "6385764635112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1740f665-675c-45dc-8a68-80e4d6b119ff/552acce7-0da2-4c06-91b1-16dfc8105fe2/320x180/match/image.jpg",
@@ -2977,18 +2989,6 @@
           "ShortDescriptionLine2": "2025-11-26T17:59:30Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1825a242-c6e9-4585-ac5f-289971ec0962/10s/master.m3u8?fastly_token=Njk0YzNmYjBfOTQ3ODNjZWUwMDczNWRhYTNkNDE2NDMxOWIzYWM0YjFhMDY3NzBmNTBiMTU1ZDNjNWVjY2QzYjhjNTM0MTJkZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 26.11.25",
-          "StreamerId": "6385615469112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/88593433-b8f0-41a3-b7ac-d0fc22e6345c/5091fecc-28a1-46ed-9b82-155be260c4c7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385615469112",
-          "Date": "2025-11-26T17:08:24Z",
-          "ShortDescriptionLine1": "Gilboa index, 26.11.25",
-          "ShortDescriptionLine2": "2025-11-26T17:08:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/88593433-b8f0-41a3-b7ac-d0fc22e6345c/10s/master.m3u8?fastly_token=Njk0YzM3NThfZjg2YzlmNjY0ZDEyODVkOTM3YTM4MTRiNzRlNWNmNmY0ZDlkMTRjMjVhMDE1NGExOWQwODFlMGViMTc2ZGViNA%3D%3D"
           ]
         },
         {
