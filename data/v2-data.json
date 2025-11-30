@@ -2247,8 +2247,8 @@
           "Title": "המהדורה המרכזית: 30.11.25",
           "Poster": "https://img.mako.co.il/2025/11/30/Mahadura_Merkazit_301125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21574502/21574502_noAdds/21574502_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21574502/21574502_noAdds/21574502_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251130_v1/20mahadura_full_vtr2_n20251130_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/11/20mahadura_full_vtr2_n20251130_v1/20mahadura_full_vtr2_n20251130_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "da3d56f7393da910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/96de6d406f42a910/VOD-da3d56f7393da91026.htm",
@@ -2403,6 +2403,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e6ee167b7c3da910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-e6ee167b7c3da91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-11-30T23:35:18+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: החטופים החללים שעדיין בשבי",
           "Poster": "https://img.mako.co.il/2025/11/30/Nesli_Yoav_301125_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2429,20 +2443,6 @@
           "Date": "2025-11-30T07:10:22+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the conscription exemption law"
-        },
-        {
-          "Title": "אברי ושרקי: טליק גואילי",
-          "Poster": "https://img.mako.co.il/2025/11/29/Avri_Sherki_291125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_291125_VOD_4b5fd6/Avri_Sherki_291125_VOD_4b5fd6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/November/Avri_Sherki_291125_VOD_4b5fd6/Avri_Sherki_291125_VOD_4b5fd6_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "42ece2ca9a4ca910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-42ece2ca9a4ca91027.htm",
-          "ShortDescriptionLine2": "And also: Sarah Hatzani Cohen, Roy Kunkol, Itai Engel",
-          "Date": "2025-11-29T23:17:38+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Abri and Sharki: Talic Gueli"
         },
         {
           "Title": "אופירה: אביגדור ליברמן",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות , 30.11.25",
+          "StreamerId": "6385771508112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5910542a-a890-4385-9c0b-70f4a6705b65/b50b4809-9052-4c4d-8b96-27e4f9a359f7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385771508112",
+          "Date": "2025-11-30T21:34:02Z",
+          "ShortDescriptionLine1": "Talking news, 30.11.25",
+          "ShortDescriptionLine2": "2025-11-30T21:34:02Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5910542a-a890-4385-9c0b-70f4a6705b65/10s/master.m3u8?fastly_token=Njk1MWIxYzNfYjU1MDI0YjI3OTZmMDI2MzJjMWRjMDUxMTFlNGRiMWE3YTFlNDNlM2YwMjYzNmFkZGMxNTMwZjdhMWVlMTgzYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המועדון העסקי , 30.11.25",
           "StreamerId": "6385770605112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/71f5a753-e565-41b0-8a1b-2d8bdc26b6c6/778816a6-a33f-4956-a116-43060342ec72/320x180/match/image.jpg",
@@ -2977,18 +2989,6 @@
           "ShortDescriptionLine2": "2025-11-27T13:06:13Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/499bf8a1-b75d-4eae-91fc-1906b3690f92/10s/master.m3u8?fastly_token=Njk0ZDRkODhfNTM5ODhiZWIxMmFjZDllMjc0YjlkODI2ZGYzMjZlOTY2MGUyNWRiMGI3OTg2OTMzMWIxOTAwMTBlMWZiNzUyNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 26.11.25",
-          "StreamerId": "6385624144112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/be92c007-6858-4b21-9fca-9a05054b1119/8b7bdfa3-2232-49a1-b333-91da655795b7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385624144112",
-          "Date": "2025-11-26T21:38:58Z",
-          "ShortDescriptionLine1": "Talking news, 26.11.25",
-          "ShortDescriptionLine2": "2025-11-26T21:38:58Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be92c007-6858-4b21-9fca-9a05054b1119/10s/master.m3u8?fastly_token=Njk0YzZiZTVfYTFkYzgzMWNiZjAyMDkyMjNkNGE1ZWEzOTA2ZGFlYjc5MjVlMWU3NzYxOGExNzA0NDY3MGZiYWQzNzQ1YmMxYg%3D%3D"
           ]
         },
         {
