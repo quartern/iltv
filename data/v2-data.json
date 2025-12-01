@@ -2244,18 +2244,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 01.12.25 [live]",
+          "Title": "חמש עם רפי רשף: 01.12.25",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21628131/21628131_noAdds/21628131_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21628131/21628131_noAdds/21628131_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3eb70092b98da910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-3eb70092b98da91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-01T16:55:50+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 01.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 01.12.25"
         },
         {
           "Title": "מהדורת היום: 01.12.25",
@@ -2418,7 +2418,7 @@
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: פרשת מפקד להב 433",
-          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/01/Hadshot_Haboker_011225_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21628123/21628123_noAdds/21628123_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21628123/21628123_noAdds/21628123_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש , 01.12.25",
+          "StreamerId": "6385803301112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d44be14c-94e4-4f94-9692-fa8e38c90204/d9ecd668-7456-4730-90e0-8bfd6d7de969/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385803301112",
+          "Date": "2025-12-01T15:54:55Z",
+          "ShortDescriptionLine1": "Five edition, 01.12.25",
+          "ShortDescriptionLine2": "2025-12-01T15:54:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d44be14c-94e4-4f94-9692-fa8e38c90204/10s/master.m3u8?fastly_token=Njk1MmJmMmVfOTkxNTQzZDQ4MjA3NTdmYTJkNzNiM2YzYjU5MGI3YzY2YjQ2MWJiYzNiYjhiY2FiZWNlODY3YjM0NGIwZjJlMw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 , 01.12.95",
           "StreamerId": "6385802089112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a19302de-cf4c-473a-8d6f-74b608fc0c87/9b5afbcc-8b5e-4d5f-9d3c-b0756fbbef96/320x180/match/image.jpg",
@@ -2965,18 +2977,6 @@
           "ShortDescriptionLine2": "2025-11-27T19:23:47Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6b652fad-25b5-43c7-a38a-ff966a78c380/10s/master.m3u8?fastly_token=Njk0ZGIwZTlfYzk2ZjM0MzNlOTE4NmQwYzg4NWVjOTcwMWY2MTA5ZGQyODcxMTcxYmMyODU4YTkwYjAxNmI1MzBjN2RhZWI3Ng%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש , 27.11.25",
-          "StreamerId": "6385661755112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7f9026f-3ff3-4d1b-b306-a51c979eac0e/121c2a1f-9b75-48a0-a64a-404d88827ab2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385661755112",
-          "Date": "2025-11-27T16:59:03Z",
-          "ShortDescriptionLine1": "Five edition, 27.11.25",
-          "ShortDescriptionLine2": "2025-11-27T16:59:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c7f9026f-3ff3-4d1b-b306-a51c979eac0e/10s/master.m3u8?fastly_token=Njk0ZDhhZGRfOWMzNzI5ZDQ4MGJmYThhNTE2NjY2OTI2OWFiZjU4NjY3ZGQ0MDgyN2YwMjhmZWVhZDMwYjI4NmE4NDU2N2M0ZQ%3D%3D"
           ]
         },
         {
