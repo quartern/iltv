@@ -2244,18 +2244,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 02.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 02.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ea65b426bddda910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-ea65b426bddda91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-02T19:53:51+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 02.12.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 02.12.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21628164/21628164_noAdds/21628164_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21628164/21628164_noAdds/21628164_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4704b426bddda910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-4704b426bddda91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-02T18:59:02+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 02.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 02.12.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 02.12.25",
@@ -2298,20 +2312,6 @@
           "Date": "2025-12-02T14:59:37+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 02.12.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 01.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/01/Mahadura_Merkazit_011225_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251201_v12/20mahadura_full_vtr2_n20251201_v12_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251201_v12/20mahadura_full_vtr2_n20251201_v12_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d2283270fa8da910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-d2283270fa8da91026.htm",
-          "ShortDescriptionLine2": "Alon Ahal in an exclusive interview",
-          "Date": "2025-12-01T19:53:23+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Main edition: 01.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 29.11.25",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל , 02.12.25",
+          "StreamerId": "6385858860112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2e962413-d54a-45c9-9407-5c10d507b1d1/468f08d6-d8d7-48d6-85b8-fca2d7afddf1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385858860112",
+          "Date": "2025-12-02T17:50:55Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 02.12.25",
+          "ShortDescriptionLine2": "2025-12-02T17:50:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2e962413-d54a-45c9-9407-5c10d507b1d1/10s/master.m3u8?fastly_token=Njk1NDI0ZDNfZmM1ZDYxMDQ2ZDFiNTM2MjRmMzlmN2E1NTM3NWIwNzUzMTU4ZGUwYjEzNWUyODRkYTk0NDIwNzIzMjBlZGJlOA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע , 02.12.25",
           "StreamerId": "6385857535112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a612b8a3-7f52-432c-9a22-3488afc7e28c/cbe4a9f3-d9c4-470b-8633-31fe62223504/320x180/match/image.jpg",
@@ -2917,18 +2929,6 @@
           "ShortDescriptionLine2": "2025-11-30T19:19:21Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b31200bf-3fc6-4545-81fd-fc7fe20ebc82/10s/master.m3u8?fastly_token=Njk1MWExMmRfNDUwYmQyMzRhMWIyMmNiODVlMmEwMGY0NDA0Njc4MDRmNzdmZWRiODg1MmI2ZWU2MzMyMmZjMTk3YWJiYmQ2Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל , 30.11.25",
-          "StreamerId": "6385766388112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5565c19e-e0d0-4bba-9ef9-27cfdd936d06/5b8153cd-046f-44ee-aeef-d087146ffd98/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385766388112",
-          "Date": "2025-11-30T17:52:29Z",
-          "ShortDescriptionLine1": "7 Sharon Gal, 30.11.25",
-          "ShortDescriptionLine2": "2025-11-30T17:52:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5565c19e-e0d0-4bba-9ef9-27cfdd936d06/10s/master.m3u8?fastly_token=Njk1MTgyOTFfNjczZjQ0NTRlZDE2NThjMzBjZDJlNTcwZTIwMjU3ZDg3ZTcxMGYwMjdmZjI0MjQ2ZjgzMmMyOTBkMjc4MDAyYw%3D%3D"
           ]
         },
         {
