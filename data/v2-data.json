@@ -2258,18 +2258,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 03.12.25 [live]"
         },
         {
-          "Title": "מהדורת היום: 03.12.25 [live]",
+          "Title": "מהדורת היום: 03.12.25",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21628192/21628192_noAdds/21628192_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21628192/21628192_noAdds/21628192_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "55d3660cc13ea910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-55d3660cc13ea91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-03T15:00:05+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 03.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 03.12.25"
         },
         {
           "Title": "המהדורה המרכזית: 02.12.25",
@@ -2716,6 +2716,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 03.12.25",
+          "StreamerId": "6385906406112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/69f77f8a-9b97-45c8-97af-bfd3b1a64316/71975871-e002-4d30-938e-3ac37a151933/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385906406112",
+          "Date": "2025-12-03T14:52:40Z",
+          "ShortDescriptionLine1": "15th edition, 03.12.25",
+          "ShortDescriptionLine2": "2025-12-03T14:52:40Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/69f77f8a-9b97-45c8-97af-bfd3b1a64316/10s/master.m3u8?fastly_token=Njk1NTYwNDBfOTFlN2FkN2ZiMzcxMDc0NjBhN2Y4MTNiMzhhZTQwN2JkODJmYzY0ZDk0MjI3NjlhZjIwOTVhZWY0YTczZTY2MA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 03.12.25",
           "StreamerId": "6385902219112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0bdc0a14-b6ea-41ea-a70b-d4c9ca35e03c/e2848cba-9879-45ae-aeb7-d289088f11ca/320x180/match/image.jpg",
@@ -2917,18 +2929,6 @@
           "ShortDescriptionLine2": "2025-12-01T15:54:55Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d44be14c-94e4-4f94-9692-fa8e38c90204/10s/master.m3u8?fastly_token=Njk1NGFiNzlfNTJiMzZhMzQ4MzM4OGQ0MTBjZDNiNWQ1MWE5NGExZmM4MmNjOTVlYmJkMjFkZDFkNGEwNDJmM2FhOWY1OTdkNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 01.12.95",
-          "StreamerId": "6385802089112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a19302de-cf4c-473a-8d6f-74b608fc0c87/9b5afbcc-8b5e-4d5f-9d3c-b0756fbbef96/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385802089112",
-          "Date": "2025-12-01T15:02:50Z",
-          "ShortDescriptionLine1": "15th edition, 01.12.95",
-          "ShortDescriptionLine2": "2025-12-01T15:02:50Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a19302de-cf4c-473a-8d6f-74b608fc0c87/10s/master.m3u8?fastly_token=Njk1MmJmNmFfZDYwN2EyMWY2NTY3OGZkNjkwYzQwZTRjMjkzM2UxMjkzN2RkZGY1ZTAzYWRjZmJiZDEzYzE0NmY1OGIwMzBhZA%3D%3D"
           ]
         },
         {
