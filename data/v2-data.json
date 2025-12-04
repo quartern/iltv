@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: הרמזים שפספסנו בדרך לחנינה [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "40d9cc66b73ea910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-40d9cc66b73ea91026.htm",
+          "ShortDescriptionLine2": "Herzog and Netanyahu - deal closed in advance?",
+          "Date": "2025-12-04T23:18:17+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the clues we missed on the way to amnesty [live]"
+        },
+        {
           "Title": "חשיפה: שי-לי עטרי שוברת שתיקה",
           "Poster": "https://img.mako.co.il/2020/02/16/HD-Hasifa2020_I_reduced.jpg",
           "StreamUrls": [
@@ -2497,20 +2511,6 @@
           "Date": "2025-11-28T18:00:00+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Ofira: Avigdor Lieberman"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: המתקפה על ביסמוט",
-          "Poster": "https://img.mako.co.il/2025/11/28/Dohe_Mazav_271125_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2025/November/Doh_Matzav_271125_VOD_vsdu469/Doh_Matzav_271125_VOD_vsdu469_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2025/November/Doh_Matzav_271125_VOD_vsdu469/Doh_Matzav_271125_VOD_vsdu469_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4560c728634ca910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2025/VOD-4560c728634ca91026.htm",
-          "ShortDescriptionLine2": "The attack on bismuth, and what will the 2026 Bennett party look like?",
-          "Date": "2025-11-27T23:56:38+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the attack on bismuth"
         },
         {
           "Title": "בזמן שעבדתם: הקפיצה של גוגל",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות, 04.12.25",
+          "StreamerId": "6385972614112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/55c2dc0c-ff94-4ce6-bcde-257720e28b59/b1a63a22-1afc-4d38-b9b8-eb65c97789e2/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385972614112",
+          "Date": "2025-12-04T21:10:22Z",
+          "ShortDescriptionLine1": "Talking news, 04.12.25",
+          "ShortDescriptionLine2": "2025-12-04T21:10:22Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/55c2dc0c-ff94-4ce6-bcde-257720e28b59/10s/master.m3u8?fastly_token=Njk1NmZjMjBfMTdlNDc3NzFiYjg5MTZjYzFlZmM4ZWYxYTc3YmQzNjdjOGUwZTVkZWQ2NjM5YTMyZDk5ZWVkNmM1ZGYwY2I3Yw%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות , 03.12.25",
           "StreamerId": "6385919729112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bce7ee27-27ab-4e27-803c-52a6ed3a50a8/a2cb8393-202d-49c9-ba4c-1e894c991ed8/320x180/match/image.jpg",
@@ -2819,18 +2831,6 @@
           "ShortDescriptionLine2": "2025-12-03T13:24:35Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0bdc0a14-b6ea-41ea-a70b-d4c9ca35e03c/10s/master.m3u8?fastly_token=Njk1NWJlNWFfMWYxMDYzYmZjNGFkZTRhZDlmN2E2OGQ3N2UxZWE3YzkyYjIxNDZlNDdiMjQ0YzM5N2VjOWJjOGI2NjQ2MzNkZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 02.12.25",
-          "StreamerId": "6385867535112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f1b781d-99b8-4e3d-a9d9-da6fad13857d/6bdddf95-9466-4ea9-ade8-de8a42c64dd9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6385867535112",
-          "Date": "2025-12-02T21:36:47Z",
-          "ShortDescriptionLine1": "Talking news, 02.12.25",
-          "ShortDescriptionLine2": "2025-12-02T21:36:47Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f1b781d-99b8-4e3d-a9d9-da6fad13857d/10s/master.m3u8?fastly_token=Njk1NWE0OGRfYmE1OTc3MTEzOTE5Y2Y1NDEwNTNmYmUxN2Y5OTQwYTljOWI3ZDhiNDRmMDZkZmFjNzQ3ZWQ4ZmMwYmM1OGE4Zg%3D%3D"
           ]
         },
         {
