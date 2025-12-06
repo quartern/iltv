@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות השבת | 06.12.25",
+          "ShortDescriptionLine1": "Shabbat news 06.12.25",
+          "ShortDescriptionLine2": "2025-12-06 20:06:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y6eoxnd1/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y6eoxnd1/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_y6eoxnd1",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/977482",
+          "Date": "2025-12-06 20:06:14"
+        },
+        {
           "Title": "שבע עם איילה חסון | 06.12.25",
           "ShortDescriptionLine1": "Seven with Ayala Hasson | 06.12.25",
           "ShortDescriptionLine2": "2025-12-06 18:16:07",
@@ -617,18 +629,6 @@
           "StreamerId": "1_jptd2rtg",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887042",
           "Date": "2025-12-01 19:30:50"
-        },
-        {
-          "Title": "חדשות השבת | 29.11.25",
-          "ShortDescriptionLine1": "Shabbat news 29.11.25",
-          "ShortDescriptionLine2": "2025-11-29 20:34:46",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_yvzkdoxn/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_yvzkdoxn/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_yvzkdoxn",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/975330",
-          "Date": "2025-11-29 20:34:46"
         },
         {
           "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אונר\"א",
+          "ShortDescriptionLine1": "UNRA",
+          "ShortDescriptionLine2": "2025-12-06 20:02:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_blvw2m66/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_blvw2m66/a.m3u8"
+          ],
+          "StreamerId": "1_blvw2m66",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-975601/967476",
+          "Date": "2025-12-06 20:02:03"
+        },
+        {
           "Title": "פגישה עם רוני קובן עונה 10 | פרק 2 - נועה קולר",
           "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 2 - Noa Kohler",
           "ShortDescriptionLine2": "2025-12-06 19:20:10",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_fipb5xtd",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-704326/s2/952484",
           "Date": "2025-11-30 20:02:00"
-        },
-        {
-          "Title": "החמאם | פרק 1 - המנחוס מנחוס",
-          "ShortDescriptionLine1": "The Hammam | Chapter 1 - The Manchus Manchus",
-          "ShortDescriptionLine2": "2025-11-30 19:22:04",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g1xt2wu8/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g1xt2wu8/a.m3u8"
-          ],
-          "StreamerId": "1_g1xt2wu8",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380463",
-          "Date": "2025-11-30 19:22:04"
         }
       ]
     },
@@ -2243,7 +2243,7 @@
       "Items": [
         {
           "Title": "חדשות סוף השבוע: 06.12.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/06/Hadshot_Sof_Hashavua_061225_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21628275/21628275_noAdds/21628275_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21628275/21628275_noAdds/21628275_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
