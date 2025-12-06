@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שרון ואורי | 06.12.25",
+          "ShortDescriptionLine1": "Sharon and Uri 06.12.25",
+          "ShortDescriptionLine2": "2025-12-06 18:02:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_s2qg4b94/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_s2qg4b94/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_s2qg4b94",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/977480",
+          "Date": "2025-12-06 18:02:43"
+        },
+        {
           "Title": "חדשות שישי | 05.12.25",
           "ShortDescriptionLine1": "Friday news | 05.12.25",
           "ShortDescriptionLine2": "2025-12-05 20:45:20",
@@ -617,18 +629,6 @@
           "StreamerId": "1_yvzkdoxn",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/975330",
           "Date": "2025-11-29 20:34:46"
-        },
-        {
-          "Title": "שרון ואורי | 29.11.25",
-          "ShortDescriptionLine1": "Sharon and Uri 29.11.25",
-          "ShortDescriptionLine2": "2025-11-29 17:35:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3e86j0id/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3e86j0id/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_3e86j0id",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/975328",
-          "Date": "2025-11-29 17:35:09"
         },
         {
           "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 06.12.25 [live]",
+          "Title": "פגוש את העיתונות: 06.12.25",
           "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21628292/21628292_noAdds/21628292_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21628292/21628292_noAdds/21628292_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "61ffb22ff98ea910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-61ffb22ff98ea91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-06T17:59:40+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the press: 06.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 06.12.25"
         },
         {
           "Title": "שבת בחמש: 06.12.25",
