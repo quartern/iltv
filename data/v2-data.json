@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 09.12.25",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 09.12.25",
+          "ShortDescriptionLine2": "2025-12-09 21:20:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hmnz9fkh/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_hmnz9fkh/a.m3u8"
+          ],
+          "StreamerId": "1_hmnz9fkh",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/978797",
+          "Date": "2025-12-09 21:20:53"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 09.12.25",
           "ShortDescriptionLine1": "Evening News | 09.12.25",
           "ShortDescriptionLine2": "2025-12-09 20:23:15",
@@ -545,18 +557,6 @@
           "StreamerId": "1_0pabh02r",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/978073",
           "Date": "2025-12-08 21:29:20"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 08.12.25",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 08.12.25",
-          "ShortDescriptionLine2": "2025-12-08 21:15:24",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_p7etfgp9/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_p7etfgp9/a.m3u8"
-          ],
-          "StreamerId": "1_p7etfgp9",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/978075",
-          "Date": "2025-12-08 21:15:24"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 10 - בעלי הבית",
@@ -2245,8 +2245,8 @@
           "Title": "המהדורה המרכזית: 09.12.25",
           "Poster": "https://img.mako.co.il/2025/12/09/Mahadura_Merkazit_091225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21628356/21628356_noAdds/21628356_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21628356/21628356_noAdds/21628356_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251209_v1/20mahadura_full_vtr2_n20251209_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251209_v1/20mahadura_full_vtr2_n20251209_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "dda38fdaad10b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-dda38fdaad10b91027.htm",
