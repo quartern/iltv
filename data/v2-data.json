@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם יונתן אוחיון | 09.12.25",
+          "ShortDescriptionLine1": "Three with Yonatan Ohion 09.12.25",
+          "ShortDescriptionLine2": "2025-12-09 15:01:54",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5jet1j64/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5jet1j64/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_5jet1j64",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/978762",
+          "Date": "2025-12-09 15:01:54"
+        },
+        {
           "Title": "חדשות הלילה | 08.12.25",
           "ShortDescriptionLine1": "Tonight's news 08.12.25",
           "ShortDescriptionLine2": "2025-12-08 21:29:20",
@@ -557,18 +569,6 @@
           "StreamerId": "1_cmtgvim7",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/978067",
           "Date": "2025-12-08 15:27:43"
-        },
-        {
-          "Title": "שלוש עם יונתן אוחיון | 08.12.25",
-          "ShortDescriptionLine1": "Three with Yonatan Ohion 08.12.25",
-          "ShortDescriptionLine2": "2025-12-08 14:39:11",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_0jfxctbp/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_0jfxctbp/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_0jfxctbp",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/978065",
-          "Date": "2025-12-08 14:39:11"
         },
         {
           "Title": "חדשות השבת | 06.12.25",
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 09.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 09.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "55a18fdaad10b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-55a18fdaad10b91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-09T16:55:01+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.12.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 09.12.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21628367/21628367_noAdds/21628367_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21628367/21628367_noAdds/21628367_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "15908fdaad10b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-15908fdaad10b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-09T15:00:00+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 09.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 09.12.25"
         },
         {
           "Title": "המהדורה המרכזית: 08.12.25",
@@ -2296,20 +2310,6 @@
           "Date": "2025-12-08T17:55:03+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 08.12.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 08.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/08/Hamesh_081225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/17rafi_vtr2_n20251208_v1/17rafi_vtr2_n20251208_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/17rafi_vtr2_n20251208_v1/17rafi_vtr2_n20251208_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a957ee3b9cfa910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-1a957ee3b9cfa91027.htm",
-          "ShortDescriptionLine2": "The Minister of Defense and the Chief of Staff met privately",
-          "Date": "2025-12-08T16:55:57+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 08.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 06.12.25",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 09.12.25",
+          "StreamerId": "6386235950112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6ce37d8f-defb-41e3-b938-1ca5fb324755/dbe6294c-606f-40ba-b2f3-e6c5203297e7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386235950112",
+          "Date": "2025-12-09T14:51:51Z",
+          "ShortDescriptionLine1": "15th edition, 09.12.25",
+          "ShortDescriptionLine2": "2025-12-09T14:51:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6ce37d8f-defb-41e3-b938-1ca5fb324755/10s/master.m3u8?fastly_token=Njk1ZDQ1MzJfODIxYjk0MmI5MzllNWQzMDg0MTA1MGY5ZTdlMzZhYWUyYjE0ZTBhODljZDQxYmFjMmZiYjlkNmRkY2U0MDE2Mw%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 09.12.25",
           "StreamerId": "6386234493112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f2234953-3763-4242-8294-22dad08745f5/10bb60bd-2290-427b-9aaf-039fbe40b71e/320x180/match/image.jpg",
@@ -2927,18 +2939,6 @@
           "ShortDescriptionLine2": "2025-12-07T15:56:49Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a2af2b6a-a681-4ebf-ac8b-f1b19dc4e679/10s/master.m3u8?fastly_token=Njk1YWE0YWJfMGQ0YzZmMjk0NTViZDQ0OTRjZWIxYzQ2OGQ0ZTZiNGQ1ODBlMGNmYTYwZGRmODQ4ZWI0N2IyMGIzOTljNjk4ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 07.12.25",
-          "StreamerId": "6386154924112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/807c7a40-6ac8-4cec-9698-b29bf5e455db/2069a22c-93e3-4736-b142-b3fed424bdf8/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386154924112",
-          "Date": "2025-12-07T14:48:10Z",
-          "ShortDescriptionLine1": "15th edition, 07.12.25",
-          "ShortDescriptionLine2": "2025-12-07T14:48:10Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/807c7a40-6ac8-4cec-9698-b29bf5e455db/10s/master.m3u8?fastly_token=Njk1YWEyNzVfNDA1OGJlMjk3N2ZmOGM4NTZiYmQ3NDAwMjQ2OWJhYTBjNjU2YTJhMjMxZTNkZTUzYjhlNzBhZWI5MWUxNzdjNg%3D%3D"
           ]
         },
         {
