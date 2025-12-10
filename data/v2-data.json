@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: הסערות האמיתיות מגיעות [live]",
+          "Poster": "https://img.mako.co.il/2025/10/21/Eretz2026_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "23cf3d4bb170b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-23cf3d4bb170b91027.htm",
+          "ShortDescriptionLine2": "The big storms are really breaking into the studio!",
+          "Date": "2025-12-10T21:37:50+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: The real storms are coming [live]"
+        },
+        {
           "Title": "נסלי ויואב: הסופה ביירון הגיעה",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2497,20 +2511,6 @@
           "Date": "2025-12-04T00:16:43+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: How do you build a pharmaceutical empire?"
-        },
-        {
-          "Title": "ארץ נהדרת: הזמנה לחנינה",
-          "Poster": "https://img.mako.co.il/2025/12/03/Eretz_Nehederet_Hanina_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_06_031225_VOD_jhi889/Eretz_Nehederet23_06_031225_VOD_jhi889_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_06_031225_VOD_jhi889/Eretz_Nehederet23_06_031225_VOD_jhi889_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7dd6a04b503ea910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-7dd6a04b503ea91027.htm",
-          "ShortDescriptionLine2": "The big moment has arrived - everyone is invited to the amnesty celebration",
-          "Date": "2025-12-03T21:41:16+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: Invitation to Pardon"
         },
         {
           "Title": "בזמן שעבדתם: הקפיצה של גוגל",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 10.12.25",
+          "StreamerId": "6386290090112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b15fcba7-f411-4106-a2a4-04e096862435/e2503e47-449e-41b7-8f87-014a698e6b6c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386290090112",
+          "Date": "2025-12-10T19:27:59Z",
+          "ShortDescriptionLine1": "The main edition, 10.12.25",
+          "ShortDescriptionLine2": "2025-12-10T19:27:59Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b15fcba7-f411-4106-a2a4-04e096862435/10s/master.m3u8?fastly_token=Njk1ZWQ0ZmFfYjc2YTA0MGVlNjk5Zjg4YzcwNTNkOTNjNmQxMTU2ZGU5OGRmOTEzNjZlNjAwYzhiMjdmY2FkMWE3NTA0MDY0YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל , 10.12.25",
           "StreamerId": "6386286861112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0b4e19d3-0cf7-4b0d-b93b-071b79e8ec55/49cc1f6d-d981-474d-a4af-a831beaca648/320x180/match/image.jpg",
@@ -2915,18 +2927,6 @@
           "ShortDescriptionLine2": "2025-12-08T20:37:40Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d4e53ba9-d4eb-4f1a-8ee5-f40a5c89bba5/10s/master.m3u8?fastly_token=Njk1YzNlOTRfMThlYTc4YTI3NGE4OTRlNTY4Nzc1NTdmM2Y1MzkzZGUzZjYwZWVlMGNlN2Y3MzI0ODljZWVjZTdiYTVkM2ZlYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 08.12.25",
-          "StreamerId": "6386202239112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/61ac8a44-211e-49f5-a254-4408275aef72/d6e38f54-984b-453a-acad-91d035366480/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386202239112",
-          "Date": "2025-12-08T19:18:38Z",
-          "ShortDescriptionLine1": "The main edition, 08.12.25",
-          "ShortDescriptionLine2": "2025-12-08T19:18:38Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/61ac8a44-211e-49f5-a254-4408275aef72/10s/master.m3u8?fastly_token=Njk1YzJkMmZfMmJiYjQxYWRjZDc1NjRiODkxZDUxY2U2MjBmNWFjOGIxYmY1NTI1N2E1N2FhOWYwZDFlMzkyMGYyMTIyMWI4MA%3D%3D"
           ]
         },
         {
