@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 10.12.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_33m9ia6e",
+          "Date": "2025-12-10 18:46:10",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/nypdj-904885506/",
+          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine2": "2025-12-10 18:46:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_33m9ia6e/flavorIds/1_txc7nzwj,1_n21hr4ul,1_6zevpymf,1_iuj74vfk,1_6zpjdjiu,1_hig64h5e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 10.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_fiyggzef",
@@ -717,18 +729,6 @@
           "ShortDescriptionLine2": "2025-12-09 19:37:38",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pnta3rlk/flavorIds/1_hztjaoco,1_28unydf6,1_vrnra9cg,1_48imk5nc,1_0dhuu06n,1_5t8fvu7j/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 09.12.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_v91gogik",
-          "Date": "2025-12-09 18:35:03",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4188618/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-12-09 18:35:03",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_v91gogik/flavorIds/1_502nybk9,1_ddn1wk24,1_g89invo6,1_rnlnx7wf,1_feubszwv,1_in8k7s7z/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 10.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 10.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7acfc48b0e60b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-7acfc48b0e60b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-10T18:58:49+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 10.12.25 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 10.12.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21628399/21628399_noAdds/21628399_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21628399/21628399_noAdds/21628399_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "86cec48b0e60b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-86cec48b0e60b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-10T17:55:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 10.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 10.12.25"
         },
         {
           "Title": "חמש עם רפי רשף: 10.12.25",
@@ -2296,20 +2310,6 @@
           "Date": "2025-12-09T19:54:51+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Main edition: 09.12.25"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 09.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/09/Hamadura_Hamukdemet_091225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/19mukdemet_vtr2_n20251209_v1/19mukdemet_vtr2_n20251209_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/19mukdemet_vtr2_n20251209_v1/19mukdemet_vtr2_n20251209_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "aab28fdaad10b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-aab28fdaad10b91027.htm",
-          "ShortDescriptionLine2": "Ronen Bar's attack against Prime Minister Netanyahu",
-          "Date": "2025-12-09T18:58:38+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 09.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 06.12.25",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע , 10.12.25",
+          "StreamerId": "6386287878112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c6a6d63a-f68f-4c01-ad10-df62f7339bfb/d6a8d2ad-e86a-4422-b5b8-ee809b906860/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386287878112",
+          "Date": "2025-12-10T17:08:19Z",
+          "ShortDescriptionLine1": "Gilboa Index, 10.12.25",
+          "ShortDescriptionLine2": "2025-12-10T17:08:19Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c6a6d63a-f68f-4c01-ad10-df62f7339bfb/10s/master.m3u8?fastly_token=Njk1ZWFjN2FfNWNmYzcwNDUyYTVjMGMxOWIxNTA2NWE5NDlmNmI2MDRiZTQ2MzQxZDRhMDRiYTQ2YjlmYmY4N2ZlMmUzOWU1OA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש , 10.12.25",
           "StreamerId": "6386285575112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/05331a9b-fbbb-48c5-8d70-3bd10cc979f3/dec24985-c7ab-4279-ab5a-6149dc098cc5/320x180/match/image.jpg",
@@ -2915,18 +2927,6 @@
           "ShortDescriptionLine2": "2025-12-08T17:58:05Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/766b1593-29cd-44ad-8396-34720b546b44/10s/master.m3u8?fastly_token=Njk1YzEyNjlfNThjZjkzMjMyNjRmYjYzNTc3OTZkOTkyZGNiNzkzNzU3ZmQ3NmE1M2Q3MmRjZGI2NjA2MTYzMjAxODQ2ZTk0MQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע , 08.12.25",
-          "StreamerId": "6386197313112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f78359ad-07ad-4c22-bd3a-afe1d6ab0ee6/6cb62ed3-e414-4aa9-aeb4-722766932076/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386197313112",
-          "Date": "2025-12-08T17:07:52Z",
-          "ShortDescriptionLine1": "Gilboa index, 08.12.25",
-          "ShortDescriptionLine2": "2025-12-08T17:07:52Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f78359ad-07ad-4c22-bd3a-afe1d6ab0ee6/10s/master.m3u8?fastly_token=Njk1YzA4MzVfOWUxNjAyYjE0MzUyNTFmZjY5MzBmOWY0NWRlNmI1YmFkOWVlY2RjZmI2ZWVmYmYwNTgyYWYyNWNlOGUwZTYyZA%3D%3D"
           ]
         },
         {
