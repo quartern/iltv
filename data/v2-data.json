@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "החמאם | פרק 4 - מלכות חדשה",
+          "ShortDescriptionLine1": "The Hammam | Chapter 4 - New Kingdom",
+          "ShortDescriptionLine2": "2025-12-10 19:20:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_80mqrmhl/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_80mqrmhl/a.m3u8"
+          ],
+          "StreamerId": "1_80mqrmhl",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/380469",
+          "Date": "2025-12-10 19:20:03"
+        },
+        {
           "Title": "תגידו קצר | פרק 33 - 10.12.25",
           "ShortDescriptionLine1": "Say it briefly Chapter 33 - 10.12.25",
           "ShortDescriptionLine2": "2025-12-10 17:40:03",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_6932b5tl",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967896",
           "Date": "2025-12-04 19:19:13"
-        },
-        {
-          "Title": "שליחות על ארבע | פרק 4 - לנדון וסנדי, איזבלה ורוזי",
-          "ShortDescriptionLine1": "Mission on all fours Chapter 4 - Landon and Sandy, Isabella and Rosie",
-          "ShortDescriptionLine2": "2025-12-04 10:15:55",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g94gagnw/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g94gagnw/a.m3u8"
-          ],
-          "StreamerId": "1_g94gagnw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-972467/s1/972548",
-          "Date": "2025-12-04 10:15:55"
         }
       ]
     },
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 10.12.25 [live]",
+          "Title": "המהדורה המרכזית: 10.12.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21628401/21628401_noAdds/21628401_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21628401/21628401_noAdds/21628401_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e060c48b0e60b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-e060c48b0e60b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-10T19:53:24+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 10.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 10.12.25"
         },
         {
           "Title": "המהדורה המוקדמת: 10.12.25",
