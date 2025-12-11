@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 11.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 11.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "558aaaa187c0b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-558aaaa187c0b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-11T16:55:33+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 11.12.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 11.12.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21628427/21628427_noAdds/21628427_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21628427/21628427_noAdds/21628427_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "144548b027c0b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-144548b027c0b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-11T15:00:05+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 11.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 11.12.25"
         },
         {
           "Title": "המהדורה המרכזית: 10.12.25",
@@ -2296,20 +2310,6 @@
           "Date": "2025-12-10T17:55:39+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 10.12.25"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 10.12.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/17hamas_vtr2_n20251210_v1/17hamas_vtr2_n20251210_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/17hamas_vtr2_n20251210_v1/17hamas_vtr2_n20251210_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7efdc48b0e60b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-7efdc48b0e60b91026.htm",
-          "ShortDescriptionLine2": "Netanyahu's trial: Bereaved families were required to leave the hearing",
-          "Date": "2025-12-10T16:54:42+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 10.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 06.12.25",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15 , 11.12.25",
+          "StreamerId": "6386326233112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d95afb15-87fb-49d3-b24e-763738be5855/eea5f094-68b5-4afe-9daf-6f29761ed3d1/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386326233112",
+          "Date": "2025-12-11T14:47:59Z",
+          "ShortDescriptionLine1": "15th edition, 11.12.25",
+          "ShortDescriptionLine2": "2025-12-11T14:47:59Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d95afb15-87fb-49d3-b24e-763738be5855/10s/master.m3u8?fastly_token=Njk1ZmU5NDBfN2VlNTliMDhjY2NjZGQzZDMwOTQzMjg5Yzg2MGJkYWRlYTdmMGYyZGJmZDc3ZTMxOGRkMTFlMDFkZTk1ZDgzMA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת הצוהריים , 11.12.25",
           "StreamerId": "6386324420112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6f5f240f-3a73-4baa-8276-adba726d54f5/ce71cdfb-4139-41f3-bc7c-fc71e040815f/320x180/match/image.jpg",
@@ -2903,18 +2915,6 @@
           "ShortDescriptionLine2": "2025-12-09T15:56:58Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/eff81f83-ad49-42ee-9b2c-a756397126f7/10s/master.m3u8?fastly_token=Njk1ZDQ5MmZfYWYzODIxODk0OWFiMjQ2NDQ0M2IzMDg5MDk5YjIxN2E1NTM3OTM3ZmM3YTNiZmM4NWIxMWY2ZTA1Y2UwODg0OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 , 09.12.25",
-          "StreamerId": "6386235950112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6ce37d8f-defb-41e3-b938-1ca5fb324755/dbe6294c-606f-40ba-b2f3-e6c5203297e7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386235950112",
-          "Date": "2025-12-09T14:51:51Z",
-          "ShortDescriptionLine1": "15th edition, 09.12.25",
-          "ShortDescriptionLine2": "2025-12-09T14:51:51Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6ce37d8f-defb-41e3-b938-1ca5fb324755/10s/master.m3u8?fastly_token=Njk1ZDQ1MzJfODIxYjk0MmI5MzllNWQzMDg0MTA1MGY5ZTdlMzZhYWUyYjE0ZTBhODljZDQxYmFjMmZiYjlkNmRkY2U0MDE2Mw%3D%3D"
           ]
         },
         {
