@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 11.12.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_x3obdhtb",
+          "Date": "2025-12-11 22:30:33",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4191109/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-12-11 22:30:33",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x3obdhtb/flavorIds/1_pr2y17x3,1_9fx6m9n7,1_yayveri7,1_6zu61vbt,1_58qtz2gp,1_ai3x3twp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 11.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_8t6cecf2",
@@ -705,18 +717,6 @@
           "ShortDescriptionLine2": "2025-12-10 23:30:48",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8ud2earr/flavorIds/1_nonpa7xb,1_37vnk6pw,1_ppofwfvb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 10.12.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_73bewa5b",
-          "Date": "2025-12-10 22:20:26",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4190308/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-12-10 22:20:26",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_73bewa5b/flavorIds/1_1mep84gb,1_o6uc715p/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: עדת המפתח בתיק נתניהו מגיבה [live]",
+          "Title": "דוח מצב עם עינב וירון: עדת המפתח בתיק נתניהו מגיבה",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav/21628447/21628447_noAdds/21628447_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav/21628447/21628447_noAdds/21628447_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e34548b027c0b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2025/VOD-e34548b027c0b91026.htm",
           "ShortDescriptionLine2": "Hadas Klein responds to publications about the amnesty",
           "Date": "2025-12-11T23:17:58+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the key witness in the Netanyahu case reacts [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the key witness in the Netanyahu case reacts"
         },
         {
           "Title": "עובדה: תוכנית פתיחת העונה",
