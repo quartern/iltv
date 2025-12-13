@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה הצעירה: 13.12.25 [live]",
+          "Title": "המהדורה הצעירה: 13.12.25",
           "Poster": "https://img.mako.co.il/2023/11/13/MahadoraCheira_3__X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamhadura_hazeira/A183639/A183639_noAdds/A183639_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamhadura_hazeira/A183639/A183639_noAdds/A183639_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ad71dc0533d0b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2025/da96cd7bff4ca910/VOD-ad71dc0533d0b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-13T06:56:30+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The young edition: 13.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 13.12.25"
         },
         {
           "Title": "אולפן שישי: 12.12.25",
@@ -2595,62 +2595,6 @@
           "Date": "2025-04-25T22:09:54+03:00",
           "Live": false,
           "ShortDescriptionLine1": "What really happened there?: Erez Tal with Nir Davori"
-        },
-        {
-          "Title": "הראש: מבצע חילוץ",
-          "Poster": "https://img.mako.co.il/2025/04/06/Harosh_4_060425_VOD_vcx432_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_04_060425_VOD_n33ku5o/Harosh_04_060425_VOD_n33ku5o_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_04_060425_VOD_n33ku5o/Harosh_04_060425_VOD_n33ku5o_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5f75bbd5ae906910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-5f75bbd5ae90691026.htm",
-          "ShortDescriptionLine2": "Itamar decides to act alone - will he succeed?",
-          "Date": "2025-04-06T21:56:46+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HaRosh (The head): Rescue operation"
-        },
-        {
-          "Title": "הראש: איתמר חוצה את הקווים",
-          "Poster": "https://img.mako.co.il/2025/03/30/Harosh_03_300325_VOD__autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_n36fy80b/Harosh_03_300325_VOD_n36fy80b_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_03_300325_VOD_n36fy80b/Harosh_03_300325_VOD_n36fy80b_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ce7c64c3906e5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-ce7c64c3906e591027.htm",
-          "ShortDescriptionLine2": "For the first time Itamar is about to cross the lines",
-          "Date": "2025-03-30T21:55:19+03:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HaRosh (The head): Itamar crosses the lines"
-        },
-        {
-          "Title": "הראש: על מי אפשר לסמוך?",
-          "Poster": "https://img.mako.co.il/2025/03/23/Harosh1_02_230325_07_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_n3df519/Harosh_02_230325_VOD_n3df519_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_02_230325_VOD_n3df519/Harosh_02_230325_VOD_n3df519_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a4cd2303c2c5910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-1a4cd2303c2c591027.htm",
-          "ShortDescriptionLine2": "All the closest people become suspects",
-          "Date": "2025-03-23T21:55:58+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HaRosh (The head): Who can be trusted?"
-        },
-        {
-          "Title": "הראש: ההדלפה",
-          "Poster": "https://img.mako.co.il/2025/03/18/Harosh_01_170325_VOD2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_n6ca65a/Harosh_01_170325_VOD_n6ca65a_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Harosh/EP/Harosh_01_170325_VOD_n6ca65a/Harosh_01_170325_VOD_n6ca65a_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "f12fa17fade54910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_head-s1/VOD-f12fa17fade5491027.htm",
-          "ShortDescriptionLine2": "The head of the Shin Bet is dealing with a huge leak",
-          "Date": "2025-03-17T21:51:59+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "HaRosh (The head): The leak"
         }
       ]
     },
