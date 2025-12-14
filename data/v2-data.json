@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר חדשות מיוחד | 14.12.25",
+          "ShortDescriptionLine1": "special news broadcast | 14.12.25",
+          "ShortDescriptionLine2": "2025-12-14 11:47:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nx1hzdtl/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_nx1hzdtl/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_nx1hzdtl",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/980311",
+          "Date": "2025-12-14 11:47:41"
+        },
+        {
           "Title": "חדשות השבת | 13.12.25",
           "ShortDescriptionLine1": "Shabbat news 13.12.25",
           "ShortDescriptionLine2": "2025-12-13 20:17:18",
@@ -629,18 +641,6 @@
           "StreamerId": "1_fx79cd37",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12043/s9/887043",
           "Date": "2025-12-08 19:32:11"
-        },
-        {
-          "Title": "משדר מיוחד עם יונתן אוחיון | 18.11.25",
-          "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 18.11.25",
-          "ShortDescriptionLine2": "2025-11-18 13:32:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bq1onzol/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bq1onzol/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bq1onzol",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/971793",
-          "Date": "2025-11-18 13:32:51"
         },
         {
           "Title": "אפילו המנכ\"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון",
@@ -2418,11 +2418,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: החיסול הדרמטי בעזה",
           "Poster": "https://img.mako.co.il/2025/12/14/Hadshot_Haboker_141225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21628503/21628503_noAdds/21628503_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21628503/21628503_noAdds/21628503_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2025/December/Hadshot_Haboker_141225_VOD_qws453/Hadshot_Haboker_141225_VOD_qws453_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2025/December/Hadshot_Haboker_141225_VOD_qws453/Hadshot_Haboker_141225_VOD_qws453_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0e39ed795ecfa910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-0e39ed795ecfa91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2025/VOD-0e39ed795ecfa91026.htm",
           "ShortDescriptionLine2": "The IDF killed senior Hamas leader Ra'ad Saad",
           "Date": "2025-12-14T07:10:09+02:00",
           "Live": false,
