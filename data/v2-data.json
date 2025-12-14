@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7f9fe97a0cb1b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-7f9fe97a0cb1b91026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2025-12-14T23:30:49+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: החיסול בעזה",
           "Poster": "https://img.mako.co.il/2025/12/14/Nesli_Yoav_141225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2427,20 +2441,6 @@
           "Date": "2025-12-14T07:10:09+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the dramatic elimination in Gaza"
-        },
-        {
-          "Title": "אברי ושרקי: בני סבטי",
-          "Poster": "https://img.mako.co.il/2025/12/13/Avri_Sherki_131225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_131225_VOD_zxc098/Avri_Sherki_131225_VOD_zxc098_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_131225_VOD_zxc098/Avri_Sherki_131225_VOD_zxc098_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c191a051a5d0b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-c191a051a5d0b91026.htm",
-          "ShortDescriptionLine2": "And also: Roy Kunkol, Sara Haatsani Cohen, Emi Palmore",
-          "Date": "2025-12-13T23:18:12+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sharki: My Sabati children"
         },
         {
           "Title": "אופירה: יאיר לפיד ",
@@ -2657,6 +2657,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מדברים חדשות , 14.12.25",
+          "StreamerId": "6386483532112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2d78fc32-f9ae-43d4-b2e4-38031e0f29b1/8c087615-b4c6-4292-a394-06b8cb2e73fe/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386483532112",
+          "Date": "2025-12-14T21:36:32Z",
+          "ShortDescriptionLine1": "Talking news, 14.12.25",
+          "ShortDescriptionLine2": "2025-12-14T21:36:32Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2d78fc32-f9ae-43d4-b2e4-38031e0f29b1/10s/master.m3u8?fastly_token=Njk2NDI2ZjdfNmRmNTllMmM3ZTQ0NWE4NjhhMGQ3OTgyZThmMTZjZDllNTFjOGQ3YjczYjQ0NjMwN2E4ZmY1NzZmNzY1NjNhYg%3D%3D"
+          ]
+        },
         {
           "Title": "המועדון העסקי , 14.12.25",
           "StreamerId": "6386481447112",
@@ -2919,18 +2931,6 @@
           "ShortDescriptionLine2": "2025-12-11T14:02:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6f5f240f-3a73-4baa-8276-adba726d54f5/10s/master.m3u8?fastly_token=Njk1ZmU1MWZfMGJkMTU0MDJhODg2NTkzNDljODUxNmNlN2VjZDQzNmMwMWZhMGEyZWJmZGY3OTA0OWNlZGRjYjNlNTgxNjEwMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות , 10.12.25",
-          "StreamerId": "6386295296112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1d683857-49b4-4211-8fb6-5fb339e54720/67e56ba8-d6b6-4c34-92de-fa4a5afbd404/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386295296112",
-          "Date": "2025-12-10T21:33:24Z",
-          "ShortDescriptionLine1": "Talking news, 10.12.25",
-          "ShortDescriptionLine2": "2025-12-10T21:33:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1d683857-49b4-4211-8fb6-5fb339e54720/10s/master.m3u8?fastly_token=Njk1ZWUwNzRfZTEyN2YwM2U4ZDEwYjVjMWFkMzE3ODJjMzE5YzNlNjgxMWRlYTA0ZGZhNjIyMjQ0Njg5OGRlYzcyNjNhMTE0Ng%3D%3D"
           ]
         },
         {
