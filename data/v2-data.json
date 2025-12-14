@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 14.12.25",
+          "ShortDescriptionLine1": "The world today 14.12.25",
+          "ShortDescriptionLine2": "2025-12-14 16:01:26",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6s52d3rb/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6s52d3rb/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_6s52d3rb",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/980275",
+          "Date": "2025-12-14 16:01:26"
+        },
+        {
           "Title": "שלוש עם יונתן אוחיון | 14.12.25",
           "ShortDescriptionLine1": "Three with Yonatan Ohion 14.12.25",
           "ShortDescriptionLine2": "2025-12-14 15:03:19",
@@ -605,18 +617,6 @@
           "StreamerId": "1_4gjnarsa",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/979628",
           "Date": "2025-12-11 16:25:49"
-        },
-        {
-          "Title": "העולם היום | 11.12.25",
-          "ShortDescriptionLine1": "The world today 11.12.25",
-          "ShortDescriptionLine2": "2025-12-11 15:15:11",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3g4xil6q/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3g4xil6q/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_3g4xil6q",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/979627",
-          "Date": "2025-12-11 15:15:11"
         },
         {
           "Title": "קבוצת הכדורגל עירוני קרית שמונה עדיין לא חזרה לשחק בעיר: \"רוצים הביתה\"",
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 14.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 14.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "aa872bdb59b1b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-aa872bdb59b1b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-14T17:55:28+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 14.12.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 14.12.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21628511/21628511_noAdds/21628511_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21628511/21628511_noAdds/21628511_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "00a42bdb59b1b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-00a42bdb59b1b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-14T16:55:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 14.12.25"
         },
         {
           "Title": "מהדורת היום: 14.12.25",
@@ -2366,20 +2380,6 @@
           "Date": "2025-12-11T18:58:30+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 11.12.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 11.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/11/Shesh_111225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251211_v1/18shesh_vtr2_n20251211_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251211_v1/18shesh_vtr2_n20251211_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6eedaaa187c0b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-6eedaaa187c0b91026.htm",
-          "ShortDescriptionLine2": "\"Byron\": floods and rescues throughout the country",
-          "Date": "2025-12-11T17:55:45+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11.12.25"
         },
         {
           "Title": "פגוש את העיתונות: 06.12.25",
