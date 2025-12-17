@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "החמאם | פרק 6 – יום הדין",
+          "ShortDescriptionLine1": "The Hammam | Chapter 6 - Judgment Day",
+          "ShortDescriptionLine2": "2025-12-17 19:23:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e370iicv/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_e370iicv/a.m3u8"
+          ],
+          "StreamerId": "1_e370iicv",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-371806/s1/383232",
+          "Date": "2025-12-17 19:23:53"
+        },
+        {
           "Title": "תגידו קצר | פרק 37 - 17.12.25",
           "ShortDescriptionLine1": "Say it briefly Chapter 37 - 17.12.25",
           "ShortDescriptionLine2": "2025-12-17 17:40:03",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_86hzqho6",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s10/979648",
           "Date": "2025-12-11 09:56:21"
-        },
-        {
-          "Title": "חפצים וסודות",
-          "ShortDescriptionLine1": "Objects and secrets",
-          "ShortDescriptionLine2": "2025-12-10 20:24:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_awm843fa/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_awm843fa/a.m3u8"
-          ],
-          "StreamerId": "1_awm843fa",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-978124/978126",
-          "Date": "2025-12-10 20:24:06"
         }
       ]
     },
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 17.12.25 [live]",
+          "Title": "המהדורה המרכזית: 17.12.25",
           "Poster": "https://img.mako.co.il/2025/12/17/Hamahadora_Hamerkazit_171225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21628608/21628608_noAdds/21628608_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21628608/21628608_noAdds/21628608_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d26c1793bfa2b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-d26c1793bfa2b91026.htm",
           "ShortDescriptionLine2": "More details about the Heimnot affair",
           "Date": "2025-12-17T19:53:46+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 17.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 17.12.25"
         },
         {
           "Title": "המהדורה המוקדמת: 17.12.25",
