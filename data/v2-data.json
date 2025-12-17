@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור בחירה 17.12.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
+          "StreamerId": "1_2qcvltbp",
+          "Date": "2025-12-17 21:41:12",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/owfl6-904893871/",
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2025-12-17 21:41:12",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2qcvltbp/flavorIds/1_csskw83o,1_khdklyzq,1_w8thbe5a,1_8kya0it9,1_f550i9lm,1_ly4ygfvx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מוריה וברקו 17.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_ildpvh9e",
@@ -717,18 +729,6 @@
           "ShortDescriptionLine2": "2025-12-16 23:23:06",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ttklt087/flavorIds/1_5cmf4tsp,1_ijxk6eaz,1_kx7pt1lc,1_5trax7d9,1_glopypvg,1_j80bdmfh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור בחירה 16.12.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
-          "StreamerId": "1_vandaalb",
-          "Date": "2025-12-16 21:36:06",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/b0lbk-904892802/",
-          "ShortDescriptionLine1": "Vote Zone",
-          "ShortDescriptionLine2": "2025-12-16 21:36:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vandaalb/flavorIds/1_6j983xk6,1_ppf3iiq6,1_8njrhg2d,1_p2aich4d,1_kfz350fj,1_6g2hznu7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: אירוע החנוכה העצום [live]",
+          "Poster": "https://img.mako.co.il/2025/10/21/Eretz2026_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0be7ef4141b2b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-0be7ef4141b2b91026.htm",
+          "ShortDescriptionLine2": "A great country presents - a huge Hanukkah celebration!",
+          "Date": "2025-12-17T21:37:55+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: The huge Hanukkah event [live]"
+        },
+        {
           "Title": "נסלי ויואב: המתיחות מול חיזבאללה",
           "Poster": "https://img.mako.co.il/2025/12/17/Nesli_Yoav_171225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2497,20 +2511,6 @@
           "Date": "2025-12-11T00:26:25+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: Netflix drops a bombshell"
-        },
-        {
-          "Title": "ארץ נהדרת: הסערות האמיתיות מגיעות",
-          "Poster": "https://img.mako.co.il/2025/12/10/YonitKoshi_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_07_101225_VOD_ghf66/Eretz_Nehederet23_07_101225_VOD_ghf66_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_07_101225_VOD_ghf66/Eretz_Nehederet23_07_101225_VOD_ghf66_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23cf3d4bb170b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-23cf3d4bb170b91027.htm",
-          "ShortDescriptionLine2": "The big storms are really breaking into the studio!",
-          "Date": "2025-12-10T21:37:50+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: The real storms are coming"
         },
         {
           "Title": "חשיפה: שי-לי עטרי שוברת שתיקה",
@@ -2671,6 +2671,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 17.12.25",
+          "StreamerId": "6386615741112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4cb0332c-c5f0-414b-8142-8bfb2b222319/4f0c7211-1b2d-4e17-94cc-73881c5443af/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386615741112",
+          "Date": "2025-12-17T19:34:14Z",
+          "ShortDescriptionLine1": "The main edition 17.12.25",
+          "ShortDescriptionLine2": "2025-12-17T19:34:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4cb0332c-c5f0-414b-8142-8bfb2b222319/10s/master.m3u8?fastly_token=Njk2ODEwNjlfZWU3ZjNmZGFkODU4NTU1MWZmM2YxNDAxNTRkMWEyMzUwMzU5YjQ2ZmQxOWE3NjIxY2FiNTlmNDM2Y2Y1ZDRmOA%3D%3D"
+          ]
+        },
         {
           "Title": "7 שרון גל 17.12.25",
           "StreamerId": "6386612404112",
@@ -2873,18 +2885,6 @@
           "ShortDescriptionLine2": "2025-12-15T20:32:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/12621d1e-e50b-4d4f-929d-1d574c9fb1be/10s/master.m3u8?fastly_token=Njk2NTc2MzhfN2JmMWJkMzM0ZDgxYmU1ZWM1MTg3ODg3MWE3ZDdiMDhhNGQwZTIzYWFlZGI3OWQwNjdiN2MzM2EwZGU3YmUwMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 15.12.25",
-          "StreamerId": "6386521463112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8141e95e-69a1-4e61-a0be-0416f9c316dd/391135be-88e4-4289-8058-a1eab0afcf46/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386521463112",
-          "Date": "2025-12-15T19:20:14Z",
-          "ShortDescriptionLine1": "The main edition, 15.12.25",
-          "ShortDescriptionLine2": "2025-12-15T19:20:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8141e95e-69a1-4e61-a0be-0416f9c316dd/10s/master.m3u8?fastly_token=Njk2NTZiYzRfZWMzYWI5NzFkNDdlNWI3YjUwZDFhYjhlMWVkNGVhM2EzNDUwMjhjNGI5NzdjYTNjMDFmNDIzNDIyMDRhNjU4Zg%3D%3D"
           ]
         },
         {
