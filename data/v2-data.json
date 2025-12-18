@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "תגידו קצר | פרק 38 - סיכום שבועי, 18.12.25",
+          "ShortDescriptionLine1": "Say it briefly Chapter 38 - Weekly summary, 18.12.25",
+          "ShortDescriptionLine2": "2025-12-18 19:55:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3ppuy3up/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3ppuy3up/a.m3u8"
+          ],
+          "StreamerId": "1_3ppuy3up",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978086",
+          "Date": "2025-12-18 19:55:53"
+        },
+        {
           "Title": "סיפורים מהכורסה עונה 5 | פרק 6 - חידושים והמצאות",
           "ShortDescriptionLine1": "Stories from the armchair season 5 | Chapter 6 - Innovations and inventions",
           "ShortDescriptionLine2": "2025-12-18 19:20:03",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_8r1rqvbu",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/978079",
           "Date": "2025-12-11 19:58:05"
-        },
-        {
-          "Title": "סיפורים מהכורסה עונה 5 | פרק 5 - אני מול הטבע",
-          "ShortDescriptionLine1": "Stories from the armchair season 5 | Chapter 5 - Me against nature",
-          "ShortDescriptionLine2": "2025-12-11 19:20:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3rvvtbrc/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3rvvtbrc/a.m3u8"
-          ],
-          "StreamerId": "1_3rvvtbrc",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12955/s5/967898",
-          "Date": "2025-12-11 19:20:06"
         }
       ]
     },
@@ -2242,25 +2242,25 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 18.12.25 [live]",
+          "Title": "המהדורה המרכזית: 18.12.25",
           "Poster": "https://img.mako.co.il/2025/12/18/Mahadura_Merkazit_181225_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21628638/21628638_noAdds/21628638_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21628638/21628638_noAdds/21628638_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "320ce62e4803b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-320ce62e4803b91027.htm",
           "ShortDescriptionLine2": "The US ambassador to Israel warns of a foreign influence campaign",
           "Date": "2025-12-18T19:52:37+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 18.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 18.12.25"
         },
         {
           "Title": "המהדורה המוקדמת: 18.12.25",
           "Poster": "https://img.mako.co.il/2025/12/18/Hamadura_Hamukdemet_181225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21681702/21681702_noAdds/21681702_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21681702/21681702_noAdds/21681702_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/19hisachon_vtr2_n20251218_v1/19hisachon_vtr2_n20251218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/19hisachon_vtr2_n20251218_v1/19hisachon_vtr2_n20251218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6899e62e4803b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-6899e62e4803b91027.htm",
@@ -2271,28 +2271,28 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 18.12.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/18/Sheshe_181225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21628636/21628636_noAdds/21628636_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21628636/21628636_noAdds/21628636_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251218_v1/18shesh_vtr2_n20251218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251218_v1/18shesh_vtr2_n20251218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "25c675006703b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-25c675006703b91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Violent riots against the arrest of deserters in Jerusalem",
           "Date": "2025-12-18T17:55:33+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.12.25"
         },
         {
           "Title": "חמש עם רפי רשף: 18.12.25",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=2ba375006703b910VgnVCM100000700a10acRCRD&ts=1766087397",
+          "Poster": "https://img.mako.co.il/2025/12/18/Hamesh_181225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/17hamesh_vtr2_n20251218_v1/17hamesh_vtr2_n20251218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/17hamesh_vtr2_n20251218_v1/17hamesh_vtr2_n20251218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2ba375006703b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-2ba375006703b91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Disorders in Jerusalem: 10 police officers were injured",
           "Date": "2025-12-18T16:54:44+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 18.12.25"
