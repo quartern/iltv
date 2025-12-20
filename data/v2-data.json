@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "יפעת ואורי | 20.12.25",
+          "ShortDescriptionLine1": "Yifat and Uri 20.12.25",
+          "ShortDescriptionLine2": "2025-12-20 17:39:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rhb2o51o/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rhb2o51o/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_rhb2o51o",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/982093",
+          "Date": "2025-12-20 17:39:03"
+        },
+        {
           "Title": "חדשות שישי | 19.12.25",
           "ShortDescriptionLine1": "Friday news | 19.12.25",
           "ShortDescriptionLine2": "2025-12-19 20:55:23",
@@ -605,18 +617,6 @@
           "StreamerId": "1_pmpq4zgf",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/980113",
           "Date": "2025-12-13 20:17:18"
-        },
-        {
-          "Title": "שרון ואורי | 13.12.25",
-          "ShortDescriptionLine1": "Sharon and Uri 13.12.25",
-          "ShortDescriptionLine2": "2025-12-13 18:09:39",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_46tra7uw/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_46tra7uw/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_46tra7uw",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/980111",
-          "Date": "2025-12-13 18:09:39"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 10 - בעלי הבית",
@@ -2242,6 +2242,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "פגוש את העיתונות: 20.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "148f6f1ad803b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-148f6f1ad803b91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-20T17:58:54+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the press: 20.12.25 [live]"
+        },
+        {
           "Title": "שבת בחמש: 20.12.25",
           "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2366,6 +2380,20 @@
           "Date": "2025-12-13T19:54:08+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Weekend news: 13.12.25"
+        },
+        {
+          "Title": "פגוש את העיתונות: 13.12.25",
+          "Poster": "https://img.mako.co.il/2025/12/13/Pgosh_131225_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251213_v1/pgosh_vtr2_n20251213_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251213_v1/pgosh_vtr2_n20251213_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "6bbe0112c3d0b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-6bbe0112c3d0b91027.htm",
+          "ShortDescriptionLine2": "MK Noama Lazimi on the storm of the parking lots",
+          "Date": "2025-12-13T18:00:02+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 13.12.25"
         }
       ]
     },
