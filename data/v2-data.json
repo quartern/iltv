@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 20.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 20.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1cb16f1ad803b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/ce27cd7bff4ca910/VOD-1cb16f1ad803b91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-20T19:54:19+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend news: 20.12.25 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 20.12.25",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/pgosh_et_haitonit/21628701/21628701_noAdds/21628701_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/pgosh_et_haitonit/21628701/21628701_noAdds/21628701_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "148f6f1ad803b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-148f6f1ad803b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-20T17:58:54+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the press: 20.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 20.12.25"
         },
         {
           "Title": "שבת בחמש: 20.12.25",
@@ -2366,20 +2380,6 @@
           "Date": "2025-12-18T15:00:16+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 18.12.25"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 13.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/13/Hadshot_Sof_Hashvua_131225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251213_v1/20mahadura_full_vtr2_n20251213_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251213_v1/20mahadura_full_vtr2_n20251213_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "e0420112c3d0b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2025/ce27cd7bff4ca910/VOD-e0420112c3d0b91027.htm",
-          "ShortDescriptionLine2": "The latest attempts to prevent a large-scale conflict in Lebanon",
-          "Date": "2025-12-13T19:54:08+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend news: 13.12.25"
         },
         {
           "Title": "פגוש את העיתונות: 13.12.25",
