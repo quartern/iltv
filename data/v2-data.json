@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 21.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 21.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "caddc422e9f3b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-caddc422e9f3b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-21T16:55:28+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.12.25 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 21.12.25",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21628716/21628716_noAdds/21628716_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21628716/21628716_noAdds/21628716_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "2529c422e9f3b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-2529c422e9f3b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-21T14:59:32+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 21.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 21.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 20.12.25",
@@ -2368,20 +2382,6 @@
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.12.25"
         },
         {
-          "Title": "חמש עם רפי רשף: 18.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/18/Hamesh_181225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/17hamesh_vtr2_n20251218_v1/17hamesh_vtr2_n20251218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/17hamesh_vtr2_n20251218_v1/17hamesh_vtr2_n20251218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2ba375006703b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-2ba375006703b91027.htm",
-          "ShortDescriptionLine2": "Disorders in Jerusalem: 10 police officers were injured",
-          "Date": "2025-12-18T16:54:44+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.12.25"
-        },
-        {
           "Title": "פגוש את העיתונות: 13.12.25",
           "Poster": "https://img.mako.co.il/2025/12/13/Pgosh_131225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2427,6 +2427,20 @@
           "Date": "2025-12-21T07:08:43+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the young woman who was kidnapped to Jericho"
+        },
+        {
+          "Title": "אברי ושרקי: אלוף במיל' גיורא איילנד",
+          "Poster": "https://img.mako.co.il/2025/12/20/Avri_Sherki_201225_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_201225_VOD_qwe123/Avri_Sherki_201225_VOD_qwe123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_201225_VOD_qwe123/Avri_Sherki_201225_VOD_qwe123_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "803e092e4a03b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-803e092e4a03b91027.htm",
+          "ShortDescriptionLine2": "Also: Josh Breiner, Moriah Kor, Anat Sharaf",
+          "Date": "2025-12-20T23:21:40+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Avery and Sharky: champion in the Giora Island res"
         },
         {
           "Title": "אופירה: מיקי זוהר שר התרבות ",
@@ -2657,6 +2671,18 @@
     {
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
+        {
+          "Title": "מהדורת 15 , 21.12.25",
+          "StreamerId": "6386788623112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9fa7ac8c-eeb7-42ad-b6b3-08f79123ede1/0faa9ac2-7f46-4d51-ab04-7cbaa6372723/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386788623112",
+          "Date": "2025-12-21T14:49:16Z",
+          "ShortDescriptionLine1": "15th edition, 21.12.25",
+          "ShortDescriptionLine2": "2025-12-21T14:49:16Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9fa7ac8c-eeb7-42ad-b6b3-08f79123ede1/10s/master.m3u8?fastly_token=Njk2ZDE3NmFfZWRmMmQzY2MxODQ1MmUwNWM2NzFlNTEzODkzYTBlYzRkNTJjMzhjMGMzYjkzYTUxZGVhNGE2MWYyNjk0ZjFmZQ%3D%3D"
+          ]
+        },
         {
           "Title": "מהדורת הצוהריים , 21.12.25",
           "StreamerId": "6386787787112",
@@ -2907,18 +2933,6 @@
           "ShortDescriptionLine2": "2025-12-17T16:33:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3c1b6ac-0364-4650-9345-94a5e8545308/10s/master.m3u8?fastly_token=Njk2YTg2MWZfYzMwN2E3MGU4NmI2MWVlZDUxZGZhNDg2NzUzYjFlNjkwMzcxZmU0OGY1ZGE1MmNmMGExZDNlMjU2MWVjYTU3Yw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 17.12.25",
-          "StreamerId": "6386608695112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0bbb1d97-ff04-4a1e-a763-37df98eb3f8e/e0bcbafc-fbc6-4206-936b-167b14d4b378/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386608695112",
-          "Date": "2025-12-17T16:32:17Z",
-          "ShortDescriptionLine1": "15th edition 17.12.25",
-          "ShortDescriptionLine2": "2025-12-17T16:32:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0bbb1d97-ff04-4a1e-a763-37df98eb3f8e/10s/master.m3u8?fastly_token=Njk2YmZhYTdfMjFmMDZkZTg2OGM5YTMwZmEzYjY4ODY0Y2Y1YTY0ZDA4YTBjMjUxZDAyM2M2ODM1M2RkNzljM2RlMTg2NjEyNw%3D%3D"
           ]
         },
         {
