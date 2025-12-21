@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 21.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 21.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e0dec422e9f3b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-e0dec422e9f3b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-21T17:55:22+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 21.12.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 21.12.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21628717/21628717_noAdds/21628717_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21628717/21628717_noAdds/21628717_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "caddc422e9f3b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-caddc422e9f3b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-21T16:55:28+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 21.12.25"
         },
         {
           "Title": "מהדורת היום: 21.12.25",
@@ -2366,20 +2380,6 @@
           "Date": "2025-12-18T18:58:36+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 18.12.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 18.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/18/Sheshe_181225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251218_v1/18shesh_vtr2_n20251218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/18shesh_vtr2_n20251218_v1/18shesh_vtr2_n20251218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "25c675006703b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-25c675006703b91027.htm",
-          "ShortDescriptionLine2": "Violent riots against the arrest of deserters in Jerusalem",
-          "Date": "2025-12-18T17:55:33+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 18.12.25"
         },
         {
           "Title": "פגוש את העיתונות: 13.12.25",
@@ -2672,6 +2672,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש , 21.12.25",
+          "StreamerId": "6386789935112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bf066760-9a4a-45d2-a1c2-e0d1e21476b1/97ea7358-ae23-4ad0-b6ac-1bcc0dc48228/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386789935112",
+          "Date": "2025-12-21T15:59:34Z",
+          "ShortDescriptionLine1": "Five edition, 21.12.25",
+          "ShortDescriptionLine2": "2025-12-21T15:59:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bf066760-9a4a-45d2-a1c2-e0d1e21476b1/10s/master.m3u8?fastly_token=Njk2ZDE5NDZfYzkwY2NlOTFmZTE3MWY3MGJhMjAxNWFmZTc4ZWI0ZTcyNTNkZDU2YTczYWE5MzQ3NWYwNzA1NzJlMzYyNzViNQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 , 21.12.25",
           "StreamerId": "6386788623112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9fa7ac8c-eeb7-42ad-b6b3-08f79123ede1/0faa9ac2-7f46-4d51-ab04-7cbaa6372723/320x180/match/image.jpg",
@@ -2921,18 +2933,6 @@
           "ShortDescriptionLine2": "2025-12-17T17:13:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/39970bc8-8b2a-486f-a8b7-e233e8ce0400/10s/master.m3u8?fastly_token=Njk2N2VhNWFfMzE1YTNmMGY0N2JjYjI5MDEyMzU2OWU1MzNmMDNkMWVjNDhhNmZiODkyM2UzZDIyZTcxYTZiYTkyYTQ4MWZmNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש 17.12.25",
-          "StreamerId": "6386607823112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3c1b6ac-0364-4650-9345-94a5e8545308/afd99287-e098-4906-82f7-68a3a0c7281d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386607823112",
-          "Date": "2025-12-17T16:33:18Z",
-          "ShortDescriptionLine1": "Fifth Edition 17.12.25",
-          "ShortDescriptionLine2": "2025-12-17T16:33:18Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3c1b6ac-0364-4650-9345-94a5e8545308/10s/master.m3u8?fastly_token=Njk2YTg2MWZfYzMwN2E3MGU4NmI2MWVlZDUxZGZhNDg2NzUzYjFlNjkwMzcxZmU0OGY1ZGE1MmNmMGExZDNlMjU2MWVjYTU3Yw%3D%3D"
           ]
         },
         {
