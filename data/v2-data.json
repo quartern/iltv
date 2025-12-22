@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 22.12.25",
+          "ShortDescriptionLine1": "Tonight's news 22.12.25",
+          "ShortDescriptionLine2": "2025-12-22 21:46:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_uqnah5o7/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_uqnah5o7/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_uqnah5o7",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/982706",
+          "Date": "2025-12-22 21:46:24"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 22.12.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 22.12.25",
           "ShortDescriptionLine2": "2025-12-22 21:06:59",
@@ -545,18 +557,6 @@
           "StreamerId": "1_6nduhqml",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982692",
           "Date": "2025-12-22 14:42:10"
-        },
-        {
-          "Title": "חדשות הלילה | 21.12.25",
-          "ShortDescriptionLine1": "Tonight's news 21.12.25",
-          "ShortDescriptionLine2": "2025-12-21 21:42:17",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_b5q5r12o/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_b5q5r12o/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_b5q5r12o",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/982335",
-          "Date": "2025-12-21 21:42:17"
         },
         {
           "Title": "חדשות השבת | 20.12.25",
@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9279e18c1054b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-9279e18c1054b91026.htm",
+          "ShortDescriptionLine2": "Avri and Sharki in a special program",
+          "Date": "2025-12-22T23:30:42+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: וועדת החקירה הפוליטית",
           "Poster": "https://img.mako.co.il/2025/12/22/Nesli_Yoav_221225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2427,20 +2441,6 @@
           "Date": "2025-12-22T07:09:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the protection case in Safed"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/12/21/Avri_Sherki_211225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_211225_VOD_khgiu766/Avri_Sherki_211225_VOD_khgiu766_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2025/Dec/Avri_Sherki_211225_VOD_khgiu766/Avri_Sherki_211225_VOD_khgiu766_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "8dba31fc6ff3b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2025/VOD-8dba31fc6ff3b91026.htm",
-          "ShortDescriptionLine2": "Avri and Sharki in a special program",
-          "Date": "2025-12-21T23:30:14+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה: מיקי זוהר שר התרבות ",
