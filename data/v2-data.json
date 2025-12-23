@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם יונתן אוחיון | 23.12.25",
+          "ShortDescriptionLine1": "Three with Yonatan Ohion 23.12.25",
+          "ShortDescriptionLine2": "2025-12-23 14:43:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rlx471ot/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rlx471ot/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_rlx471ot",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982970",
+          "Date": "2025-12-23 14:43:33"
+        },
+        {
           "Title": "חדשות הלילה | 22.12.25",
           "ShortDescriptionLine1": "Tonight's news 22.12.25",
           "ShortDescriptionLine2": "2025-12-22 21:46:24",
@@ -545,18 +557,6 @@
           "StreamerId": "1_r5po0n6y",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/982694",
           "Date": "2025-12-22 15:42:20"
-        },
-        {
-          "Title": "שלוש עם יונתן אוחיון | 22.12.25",
-          "ShortDescriptionLine1": "Three with Yonatan Ohion 22.12.25",
-          "ShortDescriptionLine2": "2025-12-22 14:42:10",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6nduhqml/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6nduhqml/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_6nduhqml",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/982692",
-          "Date": "2025-12-22 14:42:10"
         },
         {
           "Title": "חדשות השבת | 20.12.25",
@@ -2242,20 +2242,6 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 23.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
-          ],
-          "StreamerId": "76ba95601f94b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-76ba95601f94b91027.htm",
-          "ShortDescriptionLine2": "Today's events",
-          "Date": "2025-12-23T14:59:58+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Today's edition: 23.12.25 [live]"
-        },
-        {
           "Title": "המהדורה המרכזית: 22.12.25",
           "Poster": "https://img.mako.co.il/2025/12/22/Mahadura_Merkazit_221225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2382,6 +2368,20 @@
           "ShortDescriptionLine1": "Studio Friday: 19.12.25"
         },
         {
+          "Title": "מהדורת היום: 17.12.25",
+          "Poster": "https://img.mako.co.il/2025/12/17/Mahadurat_Hayom_171225_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/15hayom_vtr2_n20251217_v1/15hayom_vtr2_n20251217_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/15hayom_vtr2_n20251217_v1/15hayom_vtr2_n20251217_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "db091793bfa2b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-db091793bfa2b91026.htm",
+          "ShortDescriptionLine2": "That's not how you fight blackmailing businesses",
+          "Date": "2025-12-17T14:58:52+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 17.12.25"
+        },
+        {
           "Title": "פגוש את העיתונות: 13.12.25",
           "Poster": "https://img.mako.co.il/2025/12/13/Pgosh_131225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2455,20 +2455,6 @@
           "Date": "2025-12-19T18:00:17+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Ofira: Miki Zohar Minister of Culture"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: מי פרץ לטלפון של בנט?",
-          "Poster": "https://img.mako.co.il/2025/12/18/Doh_Matzav_181225_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2025/December/Doh_Matzav_181225_VOD_dqb426/Doh_Matzav_181225_VOD_dqb426_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2025/December/Doh_Matzav_181225_VOD_dqb426/Doh_Matzav_181225_VOD_dqb426_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23820b3ae503b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2025/VOD-23820b3ae503b91027.htm",
-          "ShortDescriptionLine2": "Who is really responsible for hacking Bennett's phone?",
-          "Date": "2025-12-18T23:17:18+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: who broke into Bennett's phone?"
         },
         {
           "Title": "בזמן שעבדתם: הנפקת על חלל",
