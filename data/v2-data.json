@@ -2401,21 +2401,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: פרשת קטאר-גייט [live]",
+          "Title": "חדשות הבוקר עם ניב רסקין: פרשת קטאר-גייט",
           "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2025/21628803/21628803_noAdds/21628803_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hadshot_haboker_2025/21628803/21628803_noAdds/21628803_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "0d39c6b23f44b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2025/VOD-0d39c6b23f44b91026.htm",
           "ShortDescriptionLine2": "The new revelations in the Qatar-Gate case",
           "Date": "2025-12-24T07:10:15+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The morning news with Niv Raskin: the Qatar-Gate affair [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The morning news with Niv Raskin: the Qatar-Gate affair"
         },
         {
-          "Title": "אברי ושרקי: אברי ושרקי",
+          "Title": "אברי ושרקי: ד\"ר ענבל קדמן",
           "Poster": "https://img.mako.co.il/2025/12/24/Avri_Sherki_231225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/RamzorArchive/07815bc763a4b910VgnVCM100000700a10acRCRD/241220250837/21628796_noAdds/21628796_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
@@ -2423,10 +2423,10 @@
           ],
           "StreamerId": "07815bc763a4b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2025/VOD-07815bc763a4b91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "ShortDescriptionLine2": "Also: Assaf (Fizer) Cohen, Omer Rahim, Ilan Zagdon",
           "Date": "2025-12-23T23:34:43+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
+          "ShortDescriptionLine1": "Avery and Sharky: Dr. Inbal Kadman"
         },
         {
           "Title": "נסלי ויואב: פרשת קטאר-גייט",
