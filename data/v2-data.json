@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 25.12.25 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_6b3qj4sd",
+          "Date": "2025-12-25 19:55:52",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4212148/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-12-25 19:55:52",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6b3qj4sd/flavorIds/1_27l1mdz7,1_fgmbjr7m,1_5gn9dq64,1_2k4lot63,1_gwtbv5jp,1_2o87n9du/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 25.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_w0ctw9fj",
@@ -717,18 +729,6 @@
           "ShortDescriptionLine2": "2025-12-24 20:13:13",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_jw84wbix/flavorIds/1_ksq9665d,1_gewu8iy4,1_68x4j92l,1_4cpsaypb,1_hdmkcilh,1_zcvwp1zc/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 24.12.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_dt4mp385",
-          "Date": "2025-12-24 19:57:20",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4211000/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-12-24 19:57:20",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dt4mp385/flavorIds/1_it9biy0s,1_d6nh03gq,1_902cxr81,1_l39at8w8,1_79o20mz7,1_3pe8qlal/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 25.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 25.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f82b4e231745b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-f82b4e231745b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-25T19:53:35+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 25.12.25 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 25.12.25",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21681703/21681703_noAdds/21681703_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21681703/21681703_noAdds/21681703_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b2c3c4628645b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-b2c3c4628645b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-25T18:58:54+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 25.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 25.12.25"
         },
         {
           "Title": "שש עם עודד בן עמי: 25.12.25",
@@ -2271,45 +2285,31 @@
         },
         {
           "Title": "חמש עם רפי רשף: 25.12.25",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/25/hamesh_251225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21628841/21628841_noAdds/21628841_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21628841/21628841_noAdds/21628841_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/17full_vtr2_n20251225_v1/17full_vtr2_n20251225_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/17full_vtr2_n20251225_v1/17full_vtr2_n20251225_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c38ac4628645b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-c38ac4628645b91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Smotrich: \"Those who worked with Kater should be imprisoned\"",
           "Date": "2025-12-25T16:55:12+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 25.12.25"
         },
         {
           "Title": "מהדורת היום: 25.12.25",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/25/Madurat_Hayom_251225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/maadurat_hayom/21628840/21628840_noAdds/21628840_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/maadurat_hayom/21628840/21628840_noAdds/21628840_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/15hayomfull_vtr2_n20251225_v1/15hayomfull_vtr2_n20251225_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/15hayomfull_vtr2_n20251225_v1/15hayomfull_vtr2_n20251225_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "004198698545b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2025/0419273ef05ca910/VOD-004198698545b91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Lieberman against the Mossad: \"Work to improve Qatar's image\"",
           "Date": "2025-12-25T15:00:09+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 25.12.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 24.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/24/Hamahadura_Hamerkazit_241225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251224_v1/20mahadura_full_vtr2_n20251224_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20mahadura_full_vtr2_n20251224_v1/20mahadura_full_vtr2_n20251224_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "29f2e6c343f4b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-29f2e6c343f4b91026.htm",
-          "ShortDescriptionLine2": "New details from the investigation of Eli Feldstein in the Shin Bet",
-          "Date": "2025-12-24T19:53:35+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 24.12.25"
         },
         {
           "Title": "חדשות סוף השבוע: 20.12.25",
