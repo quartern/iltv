@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 25.12.25 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_970s8mct",
+          "Date": "2025-12-25 22:35:57",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4212167/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2025-12-25 22:35:57",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_970s8mct/flavorIds/1_m22c65vr,1_89uhpmk9,1_4n5seequ,1_95ilcbie,1_5w3gkj8n,1_4n10ki6h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 25.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_l3gcqk6h",
@@ -717,18 +729,6 @@
           "ShortDescriptionLine2": "2025-12-24 23:30:36",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zgimji89/flavorIds/1_chylh8l8,1_qum74ofl,1_8i2n4ss7,1_ye78fcih,1_2ke7t7ul,1_gldm9672/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 24.12.25 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_xzcabfa2",
-          "Date": "2025-12-24 22:24:02",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4211003/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-12-24 22:24:02",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xzcabfa2/flavorIds/1_ac1os1mt,1_qm8p0i0d,1_es5ct6yp,1_8kj0czcd,1_g3wimcwi,1_5px0723k/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: רומי גונן - באומץ יוצא דופן [live]",
+          "Title": "עובדה: רומי גונן - באומץ יוצא דופן",
           "Poster": "https://img.mako.co.il/2025/12/25/Uvda26_03_251225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/21628853/21628853_noAdds/21628853_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2026/21628853/21628853_noAdds/21628853_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "61b098698545b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-61b098698545b91026.htm",
           "ShortDescriptionLine2": "The brave and extraordinary testimony of Romi Gonen",
           "Date": "2025-12-25T21:40:45+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Uvda: Romi Gonen - with extraordinary courage [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Uvda: Romi Gonen - with extraordinary courage"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: ועדת החקירה הפוליטית",
