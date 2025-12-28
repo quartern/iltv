@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 28.12.25",
+          "ShortDescriptionLine1": "The world today 28.12.25",
+          "ShortDescriptionLine2": "2025-12-28 15:52:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_2lko83ry/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_2lko83ry/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_2lko83ry",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/984323",
+          "Date": "2025-12-28 15:52:56"
+        },
+        {
           "Title": "שלוש עם יונתן אוחיון | 28.12.25",
           "ShortDescriptionLine1": "Three with Yonatan Ohion 28.12.25",
           "ShortDescriptionLine2": "2025-12-28 14:53:41",
@@ -605,18 +617,6 @@
           "StreamerId": "1_st1h9x7u",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/983656",
           "Date": "2025-12-25 16:25:19"
-        },
-        {
-          "Title": "העולם היום | 25.12.25",
-          "ShortDescriptionLine1": "The world today 25.12.25",
-          "ShortDescriptionLine2": "2025-12-25 15:32:22",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_luhb4vtg/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_luhb4vtg/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_luhb4vtg",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/983653",
-          "Date": "2025-12-25 15:32:22"
         },
         {
           "Title": "משדר חדשות מיוחד | 14.12.25",
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 28.12.25 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 28.12.25 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "03c420a95b36b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-03c420a95b36b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2025-12-28T17:55:09+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 28.12.25 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 28.12.25",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi/21628922/21628922_noAdds/21628922_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi/21628922/21628922_noAdds/21628922_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "18f120a95b36b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2025/f658273ef05ca910/VOD-18f120a95b36b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-28T16:55:09+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 28.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 28.12.25"
         },
         {
           "Title": "מהדורת היום: 28.12.25",
@@ -2366,20 +2380,6 @@
           "Date": "2025-12-25T18:58:54+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 25.12.25"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 25.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/25/Shesh_251225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/18fulreall_vtr2_n20251225_v1/18fulreall_vtr2_n20251225_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/18fulreall_vtr2_n20251225_v1/18fulreall_vtr2_n20251225_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "459fc4628645b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2025/606c273ef05ca910/VOD-459fc4628645b91026.htm",
-          "ShortDescriptionLine2": "Minister Miki Zohar reacts to the revelations in Cargate",
-          "Date": "2025-12-25T17:54:56+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 12.25.25"
         },
         {
           "Title": "פגוש את העיתונות: 20.12.25",
@@ -2686,6 +2686,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש , 28.12.25",
+          "StreamerId": "6387005613112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fa22d8c3-3721-46bd-81e1-df147f4c0d0d/95bf8953-ede4-4ee1-8b2a-8cdd7c85c08b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387005613112",
+          "Date": "2025-12-28T15:58:32Z",
+          "ShortDescriptionLine1": "Five edition, 28.12.25",
+          "ShortDescriptionLine2": "2025-12-28T15:58:32Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fa22d8c3-3721-46bd-81e1-df147f4c0d0d/10s/master.m3u8?fastly_token=Njk3NjUzNTdfNzU0NzYzNmMzNzVmZjM4YzU4MDIzOWMyYTQzNjBjNzI4NzljMjVjMmEzYmI4YjNkMzIwYTg2MTViNWViNDU3YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15 , 28.12.25",
           "StreamerId": "6387003618112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/18e07bdc-9db3-4979-be7f-99dca70a13e0/d8376096-d3d0-4b86-849f-7e70219ac7dc/320x180/match/image.jpg",
@@ -2923,18 +2935,6 @@
           "ShortDescriptionLine2": "2025-12-24T17:07:29Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c1e19cd9-be44-4e5b-914e-b86d0b620e8c/10s/master.m3u8?fastly_token=Njk3MTIxNjdfMThmNzQyOWI0MDc0ZmNkYTMwMjNhYTdkNmFiZjA3YjZiMmU0YWY4ZWUxY2E3Mjk3NjBmMjUyNWYzNWZkM2EyMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש , 24.12.25",
-          "StreamerId": "6386916404112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b0ebad75-8f7d-4c49-bb42-31ef9eae14ec/c67ba40c-ea3f-4fcb-b85d-5f12fd417e5d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386916404112",
-          "Date": "2025-12-24T15:57:42Z",
-          "ShortDescriptionLine1": "Five edition, 24.12.25",
-          "ShortDescriptionLine2": "2025-12-24T15:57:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b0ebad75-8f7d-4c49-bb42-31ef9eae14ec/10s/master.m3u8?fastly_token=Njk3MTEwMWNfNGIxNGFhNjdkYWViOTY4NTQxMTliMjIzNjU4MTViMjJkN2FmMmFmZWRhZTM5MWMxYzE2YmZhZjBhNzg4NDU5Mw%3D%3D"
           ]
         },
         {
