@@ -2242,29 +2242,29 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 28.12.25 [live]",
+          "Title": "המהדורה המרכזית: 28.12.25",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21628925/21628925_noAdds/21628925_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21628925/21628925_noAdds/21628925_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "35788a51ac36b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-35788a51ac36b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2025-12-28T19:53:05+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 28.12.25 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 28.12.25"
         },
         {
           "Title": "המהדורה המוקדמת: 28.12.25",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2025/12/28/Mahadura_Mukdemet_281225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21628924/21628924_noAdds/21628924_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21628924/21628924_noAdds/21628924_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "66c620a95b36b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2025/0474cd7bff4ca910/VOD-66c620a95b36b91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Trump-Netanyahu meeting",
           "Date": "2025-12-28T18:58:43+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Early release: 28.12.25"
@@ -2686,6 +2686,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית , 28.12.25",
+          "StreamerId": "6387006081112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b5b99d79-254d-40e4-8d79-6f442e7d91d6/57b29f82-69b4-4d7b-b6c6-cf5a4f2ec5b6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387006081112",
+          "Date": "2025-12-28T19:19:17Z",
+          "ShortDescriptionLine1": "The main edition, 28.12.25",
+          "ShortDescriptionLine2": "2025-12-28T19:19:17Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b5b99d79-254d-40e4-8d79-6f442e7d91d6/10s/master.m3u8?fastly_token=Njk3NjhiYWZfYWU4OGU4M2E2NzljZmNmOGNhNDQzMTZiZWVkMzI3Y2YxZWVmYjJiMDAxNGRiMGFkMDVlNjVlZDEwZWIzYmFmNg%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע , 28.12.25",
           "StreamerId": "6387006325112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f2948569-52a3-45cd-97fe-b88553d58dd1/431d7075-1616-45d6-b8d9-a16c98fed150/320x180/match/image.jpg",
@@ -2911,18 +2923,6 @@
           "ShortDescriptionLine2": "2025-12-24T20:35:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/70f7bba6-2728-4caa-82cb-4b294ce46569/10s/master.m3u8?fastly_token=Njk3MTU0NDRfNmJkYjg4MDIyYTRlNTNkZDg1ZmQxNGVhMTA4MmMxOWU5YjM0MWEzNjMyODViNTU0YWJiNmViODNmYmNmODBiMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית , 24.12.25",
-          "StreamerId": "6386919630112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7005afa6-d6ec-44f5-a635-5b5b92bf33e8/701359a0-4d5f-4b56-8f86-353f72db8b6c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386919630112",
-          "Date": "2025-12-24T19:21:42Z",
-          "ShortDescriptionLine1": "The main edition, 24.12.25",
-          "ShortDescriptionLine2": "2025-12-24T19:21:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7005afa6-d6ec-44f5-a635-5b5b92bf33e8/10s/master.m3u8?fastly_token=Njk3MTQ3ZTBfNzRkOTBhNzUyNWFlZTk1M2YzYzU4NjA5OGQxY2E4ZTFkYWE1M2E0YTI1N2I2NjU0YzM1NmRkYzVlNzFmMGU5ZA%3D%3D"
           ]
         },
         {
