@@ -2401,14 +2401,28 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "בזמן שעבדתם: התחזיות לשנת 2026 - חלק א' [live]",
+          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=de204e6b8437b910VgnVCM100000700a10acRCRD&ts=1767219814",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "de204e6b8437b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-podcasts/while_you_work-s1/VOD-de204e6b8437b91027.htm",
+          "ShortDescriptionLine2": "Danny and Dror with the predictions for the coming year",
+          "Date": "2026-01-01T00:08:56+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "While You Worked: Predictions for 2026 - Part I [live]"
+        },
+        {
           "Title": "ארץ נהדרת: פותחים את 2026 במיאמי",
           "Poster": "https://img.mako.co.il/2025/12/31/Eretz_Nehederet23_10_311225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/21629021/21629021_noAdds/21629021_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/21629021/21629021_noAdds/21629021_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_10_311225_VOD_vgc343_1/Eretz_Nehederet23_10_311225_VOD_vgc343_1_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_10_311225_VOD_vgc343_1/Eretz_Nehederet23_10_311225_VOD_vgc343_1_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "35c556452437b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-35c556452437b91027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-35c556452437b91027.htm",
           "ShortDescriptionLine2": "A Great Land kicks off 2026 straight from Miami",
           "Date": "2025-12-31T21:42:26+02:00",
           "Live": false,
@@ -2511,20 +2525,6 @@
           "Date": "2025-12-18T00:09:42+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: IPO on space"
-        },
-        {
-          "Title": "בזמן שעבדתם: נטפליקס מטילה פצצה",
-          "Poster": "https://img.mako.co.il/2025/12/10/Bizman_Sheavadetem_101225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem_101225_VOD_gdr458/Bizman_Sheavadetem_101225_VOD_gdr458_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2025/Bizman_Sheavadetem_101225_VOD_gdr458/Bizman_Sheavadetem_101225_VOD_gdr458_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "cb1a56d49270b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-cb1a56d49270b91027.htm",
-          "ShortDescriptionLine2": "The story of Netflix's founding and how it got to the top",
-          "Date": "2025-12-11T00:26:25+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "While you were working: Netflix drops a bombshell"
         },
         {
           "Title": "חשיפה: שי-לי עטרי שוברת שתיקה",
