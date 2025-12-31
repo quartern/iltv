@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 31.12.25",
+          "ShortDescriptionLine1": "Tonight's news 31.12.25",
+          "ShortDescriptionLine2": "2025-12-31 21:53:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gbzxacis/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gbzxacis/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_gbzxacis",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/985441",
+          "Date": "2025-12-31 21:53:33"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 31.12.25",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 31.12.25",
           "ShortDescriptionLine2": "2025-12-31 21:16:28",
@@ -545,18 +557,6 @@
           "StreamerId": "1_pzk0p9sx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/985431",
           "Date": "2025-12-31 15:41:23"
-        },
-        {
-          "Title": "חדשות הלילה | 30.12.25",
-          "ShortDescriptionLine1": "Tonight's news 30.12.25",
-          "ShortDescriptionLine2": "2025-12-30 21:37:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_9wzi24pg/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_9wzi24pg/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_9wzi24pg",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/985102",
-          "Date": "2025-12-30 21:37:56"
         },
         {
           "Title": "חדשות השבת | 27.12.25",
@@ -2298,20 +2298,6 @@
           "ShortDescriptionLine1": "Today's edition: 31.12.25"
         },
         {
-          "Title": "המהדורה המרכזית: 30.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/30/Mahadura_Merkazit_301225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20fullkoshmaro_vtr2_n20251230_v1/20fullkoshmaro_vtr2_n20251230_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20fullkoshmaro_vtr2_n20251230_v1/20fullkoshmaro_vtr2_n20251230_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7cd04bb9a1e6b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-7cd04bb9a1e6b91027.htm",
-          "ShortDescriptionLine2": "What do the security establishment say about the riots in Iran?",
-          "Date": "2025-12-30T19:53:25+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 30.12.25"
-        },
-        {
           "Title": "חדשות סוף השבוע: 27.12.25",
           "Poster": "https://img.mako.co.il/2025/12/27/Hadshot_Vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2394,6 +2380,20 @@
           "Date": "2025-12-20T17:58:54+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the press: 20.12.25"
+        },
+        {
+          "Title": "המהדורה המרכזית: 31.12.25",
+          "Poster": "https://img.mako.co.il/2025/12/31/Hamadura_Hamerkazit_311225_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20full_vtr2_n20251231_v1/20full_vtr2_n20251231_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20full_vtr2_n20251231_v1/20full_vtr2_n20251231_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "442bb2b64137b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-442bb2b64137b91026.htm",
+          "ShortDescriptionLine2": "Special: Testimony from Tehran on a day of riots",
+          "Date": "",
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 31.12.25"
         }
       ]
     },
@@ -2714,6 +2714,42 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש, 31.12.25",
+          "StreamerId": "6387113727112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b5dfeb45-2826-4139-bb87-e4547d6c4c95/8923a3e3-43fe-413d-81e7-dd27ed569a07/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387113727112",
+          "Date": "2025-12-31T21:44:34Z",
+          "ShortDescriptionLine1": "Fifth edition, 31.12.25",
+          "ShortDescriptionLine2": "2025-12-31T21:44:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b5dfeb45-2826-4139-bb87-e4547d6c4c95/10s/master.m3u8?fastly_token=Njk3YTljNWRfODZlODA2MTE0MGVhZjVjNzAzMjY1OTY2ZWEyMDc1MTNjZGU2MDM0MzU4M2JlZTBmZjk4ZjUyMDI3OTZhYWE3Mg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15, 31.12.25",
+          "StreamerId": "6387113643112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a544a9d9-ea34-40d0-bbff-0a2f473631c8/2c95f3ea-2df5-4fec-8834-d8789d76ab1f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387113643112",
+          "Date": "2025-12-31T21:43:50Z",
+          "ShortDescriptionLine1": "15th edition, 31.12.25",
+          "ShortDescriptionLine2": "2025-12-31T21:43:50Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a544a9d9-ea34-40d0-bbff-0a2f473631c8/10s/master.m3u8?fastly_token=Njk3YWE5MGVfMjIwMDA2YWNhY2U1ZGM4OGI5ZmZhNTczMDM1YmJjNDk2MGRlZjkwZDc1ZWVmYTQ1N2M5NGY2OGFmZmFiZGM4Mw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת הצוהריים",
+          "StreamerId": "6387114982112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3c9cb962-4ee7-47b0-8306-9293d1fad617/f4e817c2-0fdd-4f7b-9967-be34975c8eee/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387114982112",
+          "Date": "2025-12-31T21:42:22Z",
+          "ShortDescriptionLine1": "The afternoon edition",
+          "ShortDescriptionLine2": "2025-12-31T21:42:22Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3c9cb962-4ee7-47b0-8306-9293d1fad617/10s/master.m3u8?fastly_token=Njk3YWFjZTNfNmMxZjk5NTYzNjhlMDMxMmZlZWQ5YWFlYTRiYWIyZTcwYjgyYjBjM2I3ZDA1NDk3YmFhNjdjYThkOGFiNzcyNw%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות , 30.12.25",
           "StreamerId": "6387082350112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5be316ab-abb4-4505-a885-6d500b0e235d/00dd999c-9463-459e-9213-798d3b3a674e/320x180/match/image.jpg",
@@ -2879,42 +2915,6 @@
           "ShortDescriptionLine2": "2025-12-30T09:29:54Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b8f7eb68-0caf-4d08-8a41-e24c000c1833/10s/master.m3u8?fastly_token=Njk3OGM5ZmRfNmI2NjM2NzA3OGU3Nzk4MDIwNjI3OTc5YjQyMzg4ZmQ1OWI2OGY4N2QzYTNmOGE0ZTQzOGE3YTJiYjg4NDVkYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש, 29.12.25",
-          "StreamerId": "6387066891112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cfc76db4-aea6-4234-af12-92116c21e241/c5c5caa2-6ac0-476d-a427-d72560015feb/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387066891112",
-          "Date": "2025-12-30T09:29:34Z",
-          "ShortDescriptionLine1": "Five edition, 29.12.25",
-          "ShortDescriptionLine2": "2025-12-30T09:29:34Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cfc76db4-aea6-4234-af12-92116c21e241/10s/master.m3u8?fastly_token=Njk3OWU5NTNfOWMxZmIzYjlmMDBmNDNmNTgwYmZjMmEyZWY4ZjA3YmIzOWQ5YmMyNGM5NGExNDBkOGUwOWNlYTdkMjc1NmUwYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15 | 29.12",
-          "StreamerId": "6387066799112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/59ba2d04-e846-4608-a705-1b5561c4dac4/b486cd55-f675-4722-926b-8fe52ea2f298/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387066799112",
-          "Date": "2025-12-30T09:28:44Z",
-          "ShortDescriptionLine1": "15th edition | 29.12",
-          "ShortDescriptionLine2": "2025-12-30T09:28:44Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/59ba2d04-e846-4608-a705-1b5561c4dac4/10s/master.m3u8?fastly_token=Njk3OGFmNzZfMTM1NTdlOTBmZWRkM2I0MmI3YTg0MGNmOTk5MmI2YzQ0MTRjN2YzNTI4YWMzM2QwYjhlNzY0MDlmOTk5M2VjNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים 29.12",
-          "StreamerId": "6387066026112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b808cc0a-12ec-4810-93d8-0e76edeb681d/754ac315-b02d-4618-8fa0-9f5fcf89c2f1/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387066026112",
-          "Date": "2025-12-30T09:28:37Z",
-          "ShortDescriptionLine1": "The afternoon edition 29.12",
-          "ShortDescriptionLine2": "2025-12-30T09:28:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b808cc0a-12ec-4810-93d8-0e76edeb681d/10s/master.m3u8?fastly_token=Njk3OGIzMTRfMWExNjBmN2RhMjJlZjdkNjFjNzJlYzhhNDQzMjNhZTcwYzJjZGQ4NzgxODUzZmRmZDc2N2I2ZTc5NmIxNTI1Ng%3D%3D"
           ]
         },
         {
