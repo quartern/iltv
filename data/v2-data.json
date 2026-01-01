@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 01.01.26",
+          "ShortDescriptionLine1": "Tonight's news 01.01.26",
+          "ShortDescriptionLine2": "2026-01-01 22:21:57",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_oh1zy36e/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_oh1zy36e/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_oh1zy36e",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/985803",
+          "Date": "2026-01-01 22:21:57"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 01.01.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 01.01.26",
           "ShortDescriptionLine2": "2026-01-01 21:23:38",
@@ -545,18 +557,6 @@
           "StreamerId": "1_aeca53n4",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/985787",
           "Date": "2026-01-01 14:41:47"
-        },
-        {
-          "Title": "חדשות הלילה | 31.12.25",
-          "ShortDescriptionLine1": "Tonight's news 31.12.25",
-          "ShortDescriptionLine2": "2025-12-31 21:53:33",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gbzxacis/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gbzxacis/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_gbzxacis",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/985441",
-          "Date": "2025-12-31 21:53:33"
         },
         {
           "Title": "חדשות השבת | 27.12.25",
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: מחאות הענק באיראן [live]",
-          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: מחאות הענק באיראן",
+          "Poster": "https://img.mako.co.il/2026/01/02/Doh_Matzav_010126_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21740218/21740218_noAdds/21740218_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/21740218/21740218_noAdds/21740218_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "6921be477687b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-6921be477687b91027.htm",
           "ShortDescriptionLine2": "Did Trump set a trap for Netanyahu in front of the cameras?",
           "Date": "2026-01-01T23:17:59+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the huge protests in Iran [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the huge protests in Iran"
         },
         {
           "Title": "נסלי ויואב: המתקפה החרדית על בג\"צ",
