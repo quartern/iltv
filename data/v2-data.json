@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 01.01.26",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 01.01.26",
+          "ShortDescriptionLine2": "2026-01-01 21:23:38",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3fzx6rlg/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3fzx6rlg/a.m3u8"
+          ],
+          "StreamerId": "1_3fzx6rlg",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/985804",
+          "Date": "2026-01-01 21:23:38"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 01.01.26",
           "ShortDescriptionLine1": "Evening News | 01.01.26",
           "ShortDescriptionLine2": "2026-01-01 20:48:41",
@@ -545,18 +557,6 @@
           "StreamerId": "1_gbzxacis",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/985441",
           "Date": "2025-12-31 21:53:33"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 31.12.25",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 31.12.25",
-          "ShortDescriptionLine2": "2025-12-31 21:16:28",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tujf43ue/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tujf43ue/a.m3u8"
-          ],
-          "StreamerId": "1_tujf43ue",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/985442",
-          "Date": "2025-12-31 21:16:28"
         },
         {
           "Title": "חדשות השבת | 27.12.25",
@@ -2253,7 +2253,7 @@
           "ShortDescriptionLine2": "The loss of control in Iran - and the appreciation in Israel",
           "Date": "2026-01-01T19:53:53+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "Main edition: 01.01.26"
+          "ShortDescriptionLine1": ""
         },
         {
           "Title": "המהדורה המוקדמת: 01.01.26",
@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: מחאות הענק באיראן [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6921be477687b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-6921be477687b91027.htm",
+          "ShortDescriptionLine2": "Did Trump set a trap for Netanyahu in front of the cameras?",
+          "Date": "2026-01-01T23:17:59+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the huge protests in Iran [live]"
+        },
+        {
           "Title": "נסלי ויואב: המתקפה החרדית על בג\"צ",
           "Poster": "https://img.mako.co.il/2026/01/01/Nesli_Yoav_010126_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2497,20 +2511,6 @@
           "Date": "2025-12-25T00:14:59+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While You Worked: While You Worked Awards of the Year"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: מי פרץ לטלפון של בנט?",
-          "Poster": "https://img.mako.co.il/2025/12/18/Doh_Matzav_181225_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2025/December/Doh_Matzav_181225_VOD_dqb426/Doh_Matzav_181225_VOD_dqb426_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2025/December/Doh_Matzav_181225_VOD_dqb426/Doh_Matzav_181225_VOD_dqb426_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23820b3ae503b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2025/VOD-23820b3ae503b91027.htm",
-          "ShortDescriptionLine2": "Who is really responsible for hacking Bennett's phone?",
-          "Date": "2025-12-18T23:17:18+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: who broke into Bennett's phone?"
         },
         {
           "Title": "בזמן שעבדתם: הנפקת על חלל",
