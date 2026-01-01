@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 01.01.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_a7gy95kf",
+          "Date": "2026-01-01 19:33:10",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4220329/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-01-01 19:33:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_a7gy95kf/flavorIds/1_me3c26qh,1_jfnvpfln,1_pmt9euji,1_k3s20dxr,1_a52o05k9,1_j0s1vwjg/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 31.12.25 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
           "StreamerId": "1_34gvreyl",
@@ -705,18 +717,6 @@
           "ShortDescriptionLine2": "2025-12-31 19:31:52",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_i5e2t3eg/flavorIds/1_1r735c6l,1_n4kfsz98,1_er4vuxg6,1_95zzydh5,1_d05slrtf,1_eji2nqxs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 31.12.25 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_wsifivps",
-          "Date": "2025-12-31 18:47:45",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4219186/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2025-12-31 18:47:45",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wsifivps/flavorIds/1_jvcnl4nd,1_0u1ausli,1_5hq739cr,1_cexmxjx0,1_rozt60vc,1_xm5rouf4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2242,6 +2242,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 01.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7189df4db787b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-7189df4db787b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-01T19:53:53+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Main edition: 01.01.26 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 01.01.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2380,20 +2394,6 @@
           "Date": "2025-12-20T17:58:54+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the press: 20.12.25"
-        },
-        {
-          "Title": "המהדורה המרכזית: 31.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/31/Hamadura_Hamerkazit_311225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20full_vtr2_n20251231_v1/20full_vtr2_n20251231_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20full_vtr2_n20251231_v1/20full_vtr2_n20251231_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "442bb2b64137b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2025/19f4cd7bff4ca910/VOD-442bb2b64137b91026.htm",
-          "ShortDescriptionLine2": "Special: Testimony from Tehran on a day of riots",
-          "Date": "",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 31.12.25"
         }
       ]
     },
