@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר בשישי | 02.01.26",
+          "ShortDescriptionLine1": "Glick and Tamar on Friday 02.01.26",
+          "ShortDescriptionLine2": "2026-01-02 18:00:48",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_qx8ah8q3/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qx8ah8q3/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_qx8ah8q3",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/986045",
+          "Date": "2026-01-02 18:00:48"
+        },
+        {
           "Title": "חדשות הלילה | 01.01.26",
           "ShortDescriptionLine1": "Tonight's news 01.01.26",
           "ShortDescriptionLine2": "2026-01-01 22:21:57",
@@ -605,18 +617,6 @@
           "StreamerId": "1_ohnv1hzx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/984077",
           "Date": "2025-12-26 19:37:02"
-        },
-        {
-          "Title": "גליק ותמר בשישי | 26.12.25",
-          "ShortDescriptionLine1": "Glick and Tamar on Friday 26.12.25",
-          "ShortDescriptionLine2": "2025-12-26 17:42:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_453qah4k/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_453qah4k/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_453qah4k",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/983959",
-          "Date": "2025-12-26 17:42:50"
         },
         {
           "Title": "משדר חדשות מיוחד | 14.12.25",
@@ -2242,6 +2242,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 02.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "36cba88cb887b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/ec4629f046f6b910/VOD-36cba88cb887b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-02T19:55:14+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Studio Friday: 02.01.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 01.01.26",
           "Poster": "https://img.mako.co.il/2026/01/01/Mahadura_Merakzit_010126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2326,6 +2340,20 @@
           "ShortDescriptionLine1": "Weekend news: 27.12.25"
         },
         {
+          "Title": "פגוש את העיתונות: 27.12.25",
+          "Poster": "https://img.mako.co.il/2025/12/27/Pgos_Et_Haeitonut_271225_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/18pgosh2_full_vtr2_n20251227_v1/18pgosh2_full_vtr2_n20251227_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/18pgosh2_full_vtr2_n20251227_v1/18pgosh2_full_vtr2_n20251227_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "3e8dd7722845b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-3e8dd7722845b91026.htm",
+          "ShortDescriptionLine2": "The dramatic development in the Cattergate affair",
+          "Date": "2025-12-27T17:59:18+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 27.12.25"
+        },
+        {
           "Title": "שבת בחמש: 27.12.25",
           "Poster": "https://img.mako.co.il/2025/12/27/Sabat_Behamesh_271225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2354,18 +2382,18 @@
           "ShortDescriptionLine1": "The young edition: 27.12.25"
         },
         {
-          "Title": "אולפן שישי: 26.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/26/Ulpan_Shishi_261225_VOD_autoOrient_I_reduced.jpg",
+          "Title": "פגוש את העיתונות: 20.12.25",
+          "Poster": "https://img.mako.co.il/2025/12/20/Pgos_At_Haeitonut_201225_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/20mahadura_fulll_vtr2_n20251226_v1/20mahadura_fulll_vtr2_n20251226_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/20mahadura_fulll_vtr2_n20251226_v1/20mahadura_fulll_vtr2_n20251226_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251220_v1/pgosh_vtr2_n20251220_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251220_v1/pgosh_vtr2_n20251220_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
-          "StreamerId": "144a3a459745b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2025/dd82cd7bff4ca910/VOD-144a3a459745b91026.htm",
-          "ShortDescriptionLine2": "Danny Sanderson turns 75 and breaks a long silence",
-          "Date": "2025-12-26T19:54:52+02:00",
+          "StreamerId": "148f6f1ad803b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-148f6f1ad803b91027.htm",
+          "ShortDescriptionLine2": "Bennett's phone hacking storm",
+          "Date": "2025-12-20T17:58:54+02:00",
           "Live": false,
-          "ShortDescriptionLine1": "Studio Friday: 26.12.25"
+          "ShortDescriptionLine1": "Meet the press: 20.12.25"
         }
       ]
     },
