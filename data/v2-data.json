@@ -2242,6 +2242,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "פגוש את העיתונות: 03.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "17294be73b87b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/f11535070007b910/VOD-17294be73b87b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-03T17:59:44+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Meet the press: 03.01.26 [live]"
+        },
+        {
           "Title": "שבת בחמש: 03.01.26",
           "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2380,20 +2394,6 @@
           "Date": "2025-12-27T17:59:18+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Meet the press: 27.12.25"
-        },
-        {
-          "Title": "פגוש את העיתונות: 20.12.25",
-          "Poster": "https://img.mako.co.il/2025/12/20/Pgos_At_Haeitonut_201225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251220_v1/pgosh_vtr2_n20251220_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2025/12/pgosh_vtr2_n20251220_v1/pgosh_vtr2_n20251220_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "148f6f1ad803b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2025/2ff9273ef05ca910/VOD-148f6f1ad803b91027.htm",
-          "ShortDescriptionLine2": "Bennett's phone hacking storm",
-          "Date": "2025-12-20T17:58:54+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Meet the press: 20.12.25"
         }
       ]
     },
