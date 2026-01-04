@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם ליאל קייזר ורועי שרון | 04.01.26",
+          "ShortDescriptionLine1": "Sheva with Liel Kaiser and Roi Sharon 04.01.26",
+          "ShortDescriptionLine2": "2026-01-04 18:05:39",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_8267om0s/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_8267om0s/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_8267om0s",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/986421",
+          "Date": "2026-01-04 18:05:39"
+        },
+        {
           "Title": "כאן בשש | 04.01.26",
           "ShortDescriptionLine1": "Here at six 04.01.26",
           "ShortDescriptionLine2": "2026-01-04 17:19:03",
@@ -521,18 +533,6 @@
           "StreamerId": "1_x2x2v5nc",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/986249",
           "Date": "2026-01-03 20:45:22"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 03.01.26",
-          "ShortDescriptionLine1": "שבע עם Ayala Hasson | 03.01.26",
-          "ShortDescriptionLine2": "2026-01-03 18:16:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_m8w3wy1b/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_m8w3wy1b/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_m8w3wy1b",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/986248",
-          "Date": "2026-01-03 18:16:51"
         },
         {
           "Title": "שרון ואורי | 03.01.26",
@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 04.01.26- התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_df6tvlng",
+          "Date": "2026-01-04 19:55:10",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4223600/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-01-04 19:55:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_df6tvlng/flavorIds/1_i9woats9,1_3v12l421,1_g7tcyfsd,1_tpcxw8wj,1_oj72mqby/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 04.01.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_yjzo3all",
@@ -693,18 +705,6 @@
           "ShortDescriptionLine2": "2026-01-03 22:53:42",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_swlr8ytj/flavorIds/1_0jk951di,1_e52tb2h0,1_rf917rzk,1_68i74aym,1_naaltkxq,1_744h1f5o/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 03.01.26- התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_a7squ5yn",
-          "Date": "2026-01-03 20:49:53",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4223473/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-01-03 20:49:53",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_a7squ5yn/flavorIds/1_nq5ygnco,1_vqtmw66n,1_x8tecaqu,1_bbiz0eqg,1_wjrpgnp7,1_iq6ufz6i/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 04.01.26 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 04.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "e949b8a4bb78b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-e949b8a4bb78b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-04T19:54:42+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Main edition: 04.01.26 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 04.01.26",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740293/21740293_noAdds/21740293_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740293/21740293_noAdds/21740293_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b5f8b8a4bb78b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-b5f8b8a4bb78b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-04T18:58:57+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 04.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 04.01.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 04.01.26",
@@ -2366,20 +2380,6 @@
           "Date": "2026-01-02T19:55:14+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Studio Friday: 02.01.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 01.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/01/Mahadura_Merakzit_010126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/20mahadura_full_vtr2_n20260101_v1/20mahadura_full_vtr2_n20260101_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/20mahadura_full_vtr2_n20260101_v1/20mahadura_full_vtr2_n20260101_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7189df4db787b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-7189df4db787b91026.htm",
-          "ShortDescriptionLine2": "The loss of control in Iran - and the appreciation in Israel",
-          "Date": "2026-01-01T19:53:53+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Main edition: 01.01.26"
         },
         {
           "Title": "פגוש את העיתונות: 27.12.25",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל, 04.01.25",
+          "StreamerId": "6387224067112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1581b5ea-8d41-4df6-829f-c8ce37c28d51/c5b5fd68-80ec-43f1-8ef5-b7a185cd381f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387224067112",
+          "Date": "2026-01-04T17:52:43Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 04.01.25",
+          "ShortDescriptionLine2": "2026-01-04T17:52:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1581b5ea-8d41-4df6-829f-c8ce37c28d51/10s/master.m3u8?fastly_token=Njk3ZmE4MTNfZGQ0M2RhMjZkODE4YTNmODE4ZTk1ODAxYjdlYzU4ZDU0YjBlNjIyMzU4YWZkOGUzMGRlMWEyZWIxNzZlNjI1Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע, 04.01.25",
           "StreamerId": "6387223376112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6322cd96-235b-4c49-9f9c-9217d304af3c/e26bc987-bd17-4136-b4d3-d10559fd22f5/320x180/match/image.jpg",
@@ -2999,18 +3011,6 @@
           "ShortDescriptionLine2": "2025-12-30T21:01:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5d1f0c0b-9499-4bb8-a17c-e31d7af67289/10s/master.m3u8?fastly_token=Njk3OTM1NzZfZDljMjYwZDU3ZmQwZjQ0NTdiNTQxNWZhOThmMTkxNjBmMWZlYjBjNmVjM2NlZTMwOWU0NDQyNWEwMDgyZDBhMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל , 30.12.25 ",
-          "StreamerId": "6387077117112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c66cfef5-979b-4e67-91e7-efb929dcf027/6dfe4c42-a599-4869-af5c-2a0c21ce1d5a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387077117112",
-          "Date": "2025-12-30T17:51:09Z",
-          "ShortDescriptionLine1": "7 Sharon Gal, 30.12.25",
-          "ShortDescriptionLine2": "2025-12-30T17:51:09Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c66cfef5-979b-4e67-91e7-efb929dcf027/10s/master.m3u8?fastly_token=Njk3OTBlZDRfMjYyNWMwYjcxMjNhZmQ0MDY1YWRkNWRiNTQyNGZjNWIwZDk3OWVmMWM5OTk3OGZhOWUyYTRlNTk0Y2Y5NjJjOA%3D%3D"
           ]
         },
         {
