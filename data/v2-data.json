@@ -2418,11 +2418,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: הקהילה היהודית בוונצואלה",
           "Poster": "https://img.mako.co.il/2026/01/04/Hadshot_Haboker_040126_Venezuela_autoOrient_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/morning_raskin_2026/21740286/21740286_noAdds/21740286_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/morning_raskin_2026/21740286/21740286_noAdds/21740286_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/January/Hadshot_Haboker_040126_VOD_nfj435/Hadshot_Haboker_040126_VOD_nfj435_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/January/Hadshot_Haboker_040126_VOD_nfj435/Hadshot_Haboker_040126_VOD_nfj435_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a69fb059a046b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-a69fb059a046b91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-a69fb059a046b91026.htm",
           "ShortDescriptionLine2": "What is happening to the Jewish community in Venezuela?",
           "Date": "2026-01-04T07:10:26+02:00",
           "Live": false,
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מגזין השבת, 03.01.26",
+          "StreamerId": "6387216050112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/12e74542-04ec-42d9-a499-8def85c9347f/cc065fdf-3f5c-4575-9212-a4d9614fba2e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387216050112",
+          "Date": "2026-01-04T11:05:06Z",
+          "ShortDescriptionLine1": "The Sabbath magazine, 03.01.26",
+          "ShortDescriptionLine2": "2026-01-04T11:05:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/12e74542-04ec-42d9-a499-8def85c9347f/10s/master.m3u8?fastly_token=Njk3ZjU2ZjdfYzBmYTJjOGYzYzZjY2EzMDE2MDJkM2Y2ZWU4YjIxZGIxYzMzNDA0N2M0OTQwNTFjNjk0Mzk4NDQzYjMzYWZmYw%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים 03.01.26",
           "StreamerId": "6387215547112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9b6bb6e5-5b7f-4247-b87a-5c324ae96af8/5847400a-eee3-4c49-b408-d325a199c815/320x180/match/image.jpg",
@@ -2723,6 +2735,30 @@
           "ShortDescriptionLine2": "2026-01-04T11:04:52Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9b6bb6e5-5b7f-4247-b87a-5c324ae96af8/10s/master.m3u8?fastly_token=Njk3ZjQ2ZjhfZTQwNzZmZGY3Y2IyZmRjYzFjMjZkMmQwNmM0MGJjY2VlYzg5MzQ0NTk0MjQ3YzQ3NDQzNWI5N2Y1YzZhYzBkNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים, 03.01.26",
+          "StreamerId": "6387217046112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/15ae1609-12a0-493b-8eac-b99b7d1b3a10/3d538088-8223-4bcd-8146-ec49e6c23d8c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387217046112",
+          "Date": "2026-01-04T11:00:13Z",
+          "ShortDescriptionLine1": "The Israelis, 03.01.26",
+          "ShortDescriptionLine2": "2026-01-04T11:00:13Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/15ae1609-12a0-493b-8eac-b99b7d1b3a10/10s/master.m3u8?fastly_token=Njk3ZjRlN2ZfYzVmMjYxMmNmMzZmMmNhMzMzYzhjMTQ4ZWZiMzk1OTZmMjMxZTgzMmI0NzVhNGJhYTkzNDMwY2Q1YTc2N2U3Ng%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת, 03.01.26",
+          "StreamerId": "6387217220112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1ee7cd92-cb27-4ac3-8bda-116d237f1842/8317bb8a-afcc-4dd8-a417-7e2de724e9c6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387217220112",
+          "Date": "2026-01-04T10:54:29Z",
+          "ShortDescriptionLine1": "The early edition, 03.01.26",
+          "ShortDescriptionLine2": "2026-01-04T10:54:29Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1ee7cd92-cb27-4ac3-8bda-116d237f1842/10s/master.m3u8?fastly_token=Njk3ZjVkMzdfNmM1YWNmZGU2NTFmNjZkZWIzZGZmMDQ1Njk4ZWMzZWIzYmIwMjZhM2M3YjAwZDBjN2UwZTk3NTAzZTBhYjQwYw%3D%3D"
           ]
         },
         {
@@ -2966,18 +3002,6 @@
           ]
         },
         {
-          "Title": "הישראלים , 30.12.25",
-          "StreamerId": "6387080361112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/da5019ff-bd7f-4e53-8091-3faba04be99d/5e2d8aac-a236-4fe5-b94f-b0a1bc0111ce/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387080361112",
-          "Date": "2025-12-30T20:29:56Z",
-          "ShortDescriptionLine1": "The Israelis, 30.12.25",
-          "ShortDescriptionLine2": "2025-12-30T20:29:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/da5019ff-bd7f-4e53-8091-3faba04be99d/10s/master.m3u8?fastly_token=Njk3OTNhODlfZGEzYzQ3NGE0MzFmNWI5ZjQwNTA2OTAzODNiZDZlOTA5NGUxMjE2ZWI2MWZjN2RlY2VlNGMzMjAwZjU3NDI0Yw%3D%3D"
-          ]
-        },
-        {
           "Title": "7 שרון גל , 30.12.25 ",
           "StreamerId": "6387077117112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c66cfef5-979b-4e67-91e7-efb929dcf027/6dfe4c42-a599-4869-af5c-2a0c21ce1d5a/320x180/match/image.jpg",
@@ -2987,30 +3011,6 @@
           "ShortDescriptionLine2": "2025-12-30T17:51:09Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c66cfef5-979b-4e67-91e7-efb929dcf027/10s/master.m3u8?fastly_token=Njk3OTBlZDRfMjYyNWMwYjcxMjNhZmQ0MDY1YWRkNWRiNTQyNGZjNWIwZDk3OWVmMWM5OTk3OGZhOWUyYTRlNTk0Y2Y5NjJjOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת - 27.12.25",
-          "StreamerId": "6387001177112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/94176ea7-1042-4b7e-94c6-49aef0e33afe/f3bc2f59-1a75-4725-af28-978377914e33/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387001177112",
-          "Date": "2025-12-28T11:15:03Z",
-          "ShortDescriptionLine1": "The early edition - 27.12.25",
-          "ShortDescriptionLine2": "2025-12-28T11:15:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/94176ea7-1042-4b7e-94c6-49aef0e33afe/10s/master.m3u8?fastly_token=Njk3NjI0YTVfNGM3NzFiMTYxZTA4N2IzOWJmMDVjNjMzOTBiMDdjNmI2MTNkMTdiMDc5MzBkN2QwNGJiZGNhMjg1NjZiZjM0OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת 27.12.25",
-          "StreamerId": "6386998206112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9921b68e-afba-4135-b0da-9452ef869119/3c9a0bce-ad39-4130-916d-9a39c6c99657/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386998206112",
-          "Date": "2025-12-28T05:19:56Z",
-          "ShortDescriptionLine1": "Shabbat magazine 12.27.25",
-          "ShortDescriptionLine2": "2025-12-28T05:19:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9921b68e-afba-4135-b0da-9452ef869119/10s/master.m3u8?fastly_token=Njk3NWM5MzJfMWQ3MzZmYTgwYmU5ZGNmMDE3NTljMDMzZDkzYzhkODBjMDA3M2M4ZTlkNDVmZTU3ODZlMzZiM2NjOTJiMzI3Mw%3D%3D"
           ]
         },
         {
