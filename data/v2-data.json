@@ -2400,18 +2400,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: חוק ההשתמטות [live]",
+          "Title": "נסלי ויואב: חוק ההשתמטות",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/21740357/21740357_noAdds/21740357_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_yoav_2026/21740357/21740357_noAdds/21740357_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "50ce16f80fc8b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-50ce16f80fc8b91026.htm",
           "ShortDescriptionLine2": "The evasion law, and also: IDF attacks in southern Lebanon",
           "Date": "2026-01-06T09:34:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Nesli and Yoav: The Law of Evasion [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Nesli and Yoav: The Law of Evasion"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: העימות האנטישמי בשדה התעופה",
@@ -2941,18 +2941,6 @@
           ]
         },
         {
-          "Title": "מהדורת הצוהריים | 1.1",
-          "StreamerId": "6387139633112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/277ab0db-b8ef-45f9-a482-6ef334148033/bce6f3fa-3c35-4d66-9157-ef48865bb9c2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387139633112",
-          "Date": "2026-01-01T19:55:33Z",
-          "ShortDescriptionLine1": "The latrine edition 1.1",
-          "ShortDescriptionLine2": "2026-01-01T19:55:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/277ab0db-b8ef-45f9-a482-6ef334148033/10s/master.m3u8?fastly_token=Njk3YmU2M2NfYWMyYTdhZTFmODIxNTU2OGMxZDVhNzBlNDc5YzAxYTcxZTk0YmRiZGQxZWU0Nzk5MTk2MTRiMDcxYzMwZjE3NQ%3D%3D"
-          ]
-        },
-        {
           "Title": "מדברים חדשות, 31.12.25",
           "StreamerId": "6387117172112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f6c40058-4a55-4b4b-8132-450fd02c9a2f/e8e33f90-6317-45e3-a439-13e8da0ffb32/320x180/match/image.jpg",
@@ -2962,42 +2950,6 @@
           "ShortDescriptionLine2": "2025-12-31T23:55:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f6c40058-4a55-4b4b-8132-450fd02c9a2f/10s/master.m3u8?fastly_token=Njk3YWIwZGRfYTU2NTJkOWVhNmJiZmE1N2QxZWM2Y2M1NGJmZDdiYTMxYjk4NmI0ZjljZjI1NTA4NWQ3MmMyZmMxNTcyY2MzNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי, 31.12.25",
-          "StreamerId": "6387118816112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ec3dc41f-af52-4d8a-aa1a-e04a3284ea61/d1b15a0d-944e-434d-bdc2-b3299eda98f9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387118816112",
-          "Date": "2025-12-31T23:51:19Z",
-          "ShortDescriptionLine1": "The business club, 31.12.25",
-          "ShortDescriptionLine2": "2025-12-31T23:51:19Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ec3dc41f-af52-4d8a-aa1a-e04a3284ea61/10s/master.m3u8?fastly_token=Njk3YWIxYmFfYzM3OGNhYjkwMTA2MzE3YjdhNDg3NzM3NDQ5NTM0MDlmY2ZmMDNlYTY2NDU3NjBlMWYxNTVkMmJkOGQxYWJlMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת הצוהריים",
-          "StreamerId": "6387114982112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3c9cb962-4ee7-47b0-8306-9293d1fad617/f4e817c2-0fdd-4f7b-9967-be34975c8eee/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387114982112",
-          "Date": "2025-12-31T21:42:22Z",
-          "ShortDescriptionLine1": "The afternoon edition",
-          "ShortDescriptionLine2": "2025-12-31T21:42:22Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3c9cb962-4ee7-47b0-8306-9293d1fad617/10s/master.m3u8?fastly_token=Njk3YWFjZTNfNmMxZjk5NTYzNjhlMDMxMmZlZWQ5YWFlYTRiYWIyZTcwYjgyYjBjM2I3ZDA1NDk3YmFhNjdjYThkOGFiNzcyNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המועדון העסקי , 30.12.25",
-          "StreamerId": "6387080474112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5d1f0c0b-9499-4bb8-a17c-e31d7af67289/5a8b5c01-1105-45b9-ba01-0a4359c4100e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387080474112",
-          "Date": "2025-12-30T21:01:06Z",
-          "ShortDescriptionLine1": "The business club, 30.12.25",
-          "ShortDescriptionLine2": "2025-12-30T21:01:06Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5d1f0c0b-9499-4bb8-a17c-e31d7af67289/10s/master.m3u8?fastly_token=Njk3OTM1NzZfZDljMjYwZDU3ZmQwZjQ0NTdiNTQxNWZhOThmMTkxNjBmMWZlYjBjNmVjM2NlZTMwOWU0NDQyNWEwMDgyZDBhMg%3D%3D"
           ]
         },
         {
@@ -3049,30 +3001,6 @@
           ]
         },
         {
-          "Title": "תוכנית הלילה , 11.12.25",
-          "StreamerId": "6386345093112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/592fe211-ec98-4301-9da7-5638c82254f2/5e00c6e2-aa69-41e5-9bc4-6d860540cc8f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386345093112",
-          "Date": "2025-12-11T21:52:52Z",
-          "ShortDescriptionLine1": "The night program, 11.12.25",
-          "ShortDescriptionLine2": "2025-12-11T21:52:52Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/592fe211-ec98-4301-9da7-5638c82254f2/10s/master.m3u8?fastly_token=Njk2MDJlODZfNTU4OGY1Yjc4MWY1MzcxYmNmNjhhODQ2NGQzODU0MDA5NDMyM2VkZTRmZjdkOWIyODk4OTc2NDJjYTJkMDE1NQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "תוכנית הלילה עם דניאל רוט אבנרי, 04.12.25",
-          "StreamerId": "6386152333112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4569c652-d3ad-4316-9cb8-9e713c5757bb/a13a3c03-8ce6-401b-ad45-c9d55e7abb40/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386152333112",
-          "Date": "2025-12-07T09:50:17Z",
-          "ShortDescriptionLine1": "The tonight program with Daniel Roth Avnery, 04.12.25",
-          "ShortDescriptionLine2": "2025-12-07T09:50:17Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4569c652-d3ad-4316-9cb8-9e713c5757bb/10s/master.m3u8?fastly_token=Njk1YTQ3ZWJfODM2MDRmM2U5MDVlZGRmMjc5NDY4YTJhMDM2MDM0MDUzMjI5M2JkNDM0YTI2Y2E5NjU5Yzk4YjFlNmVjYTQ5MQ%3D%3D"
-          ]
-        },
-        {
           "Title": "בשורה התחתונה - 18.11.25 | תוכן ממומן",
           "StreamerId": "6385274945112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9c22d3a0-ac6b-41cf-89b7-f1f046b98e4a/0b2dad4f-c843-4a63-a2ed-09bf2557297a/320x180/match/image.jpg",
@@ -3094,54 +3022,6 @@
           "ShortDescriptionLine2": "2025-11-11T22:02:56Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0a51e6fd-4314-4bad-9e64-381eb135fa4f/10s/master.m3u8?fastly_token=Njk1NWEzZjRfNDgwY2NhNDY2ZmQ4MmM0NDdmNTQzOWNlZTg3ZDg3MDQ1OTFhY2FhMzU4OTRmMjlmMmU2MTRlM2EyMGMxZjNiNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "שיחת נפש , 2.11.25",
-          "StreamerId": "6384434182112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/78db0731-7286-4d95-97f5-63f5b99a129a/80205ac5-caeb-46ab-92c1-088cbc9004dc/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384434182112",
-          "Date": "2025-11-02T21:56:54Z",
-          "ShortDescriptionLine1": "Soul conversation, 2.11.25",
-          "ShortDescriptionLine2": "2025-11-02T21:56:54Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/78db0731-7286-4d95-97f5-63f5b99a129a/10s/master.m3u8?fastly_token=Njk1NWE0NjBfNDMyZmVkODljZDdiYmE2Y2I1NjkxNTQ5MDFiMzYwNTFiN2NkOWU1YzU5M2Y1ZTg4N2Q4ZWY4NDI2ZGY3MWVjOQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "אילת לוי, אמא של נעמה התצפיתנית בשיחת נפש: \"פחדתי להכעיס את רה\"מ ורעייתו\"",
-          "StreamerId": "6384124778112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/87b35df5-6710-446f-bfe6-2c715dc348eb/bfa73bab-e380-481e-bc94-b4d89c996f35/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384124778112",
-          "Date": "2025-10-27T06:40:49Z",
-          "ShortDescriptionLine1": "Eilat Levy, Naama's mother, the observer in Shechat Nefesh: \"I was afraid to anger the Prime Minister and his wife\"",
-          "ShortDescriptionLine2": "2025-10-27T06:40:49Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/87b35df5-6710-446f-bfe6-2c715dc348eb/10s/master.m3u8?fastly_token=Njk1NWE1ZDJfOGNmMjYxY2FjNTVlMmM4YTZhZTU5MzdlYmU5NzU3ZWYzM2RjNDNmZTk5NzRlOGI2YWVlYzY0ZjhiMjFjMzc2NQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מה הסרט שלך - 26.10.25",
-          "StreamerId": "6384104450112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3072dfda-8552-4426-b556-ee1ec44d06ed/d127d077-148f-4b4e-b186-4b34b8cee025/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6384104450112",
-          "Date": "2025-10-26T21:49:11Z",
-          "ShortDescriptionLine1": "What is your movie - 26.10.25",
-          "ShortDescriptionLine2": "2025-10-26T21:49:11Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3072dfda-8552-4426-b556-ee1ec44d06ed/10s/master.m3u8?fastly_token=Njk2N2I4NGFfN2U2N2NmZDdjOTBkODJhZTkyM2MyNWRmZDdmZTg1ZTIxMzc4Y2E0YWI5Nzg0N2E5ODYzMzdkYjRlM2M2MmJmZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מה הסרט שלך? | 14.09.25",
-          "StreamerId": "6379698229112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d6eb2a54-7e78-4b53-b6b6-b7bc49e6c9e6/b3f4fd32-8f31-4122-bbb7-d3701d2b939a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6379698229112",
-          "Date": "2025-09-17T14:46:13Z",
-          "ShortDescriptionLine1": "what is your movie | 14.09.25",
-          "ShortDescriptionLine2": "2025-09-17T14:46:13Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d6eb2a54-7e78-4b53-b6b6-b7bc49e6c9e6/10s/master.m3u8?fastly_token=Njk2N2I4NzJfZDQ5YzI1MTllMjk2NTA5MjY3MWVhMTU5MDk5ODJjZmJhMDdjNTZkNTIwZDg4YjE2NTA1N2YyNjE1NmJkY2YyZA%3D%3D"
           ]
         }
       ]
