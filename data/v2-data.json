@@ -462,6 +462,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "בנימיני וגואטה | 06.01.26",
+          "ShortDescriptionLine1": "Binyamini and Guetta | 06.01.26",
+          "ShortDescriptionLine2": "2026-01-06 17:05:46",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_6a73fq9v/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6a73fq9v/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_6a73fq9v",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/987292",
+          "Date": "2026-01-06 17:05:46"
+        },
+        {
           "Title": "העולם היום | 06.01.26",
           "ShortDescriptionLine1": "The world today 06.01.26",
           "ShortDescriptionLine2": "2026-01-06 16:48:36",
@@ -558,18 +570,6 @@
           "Date": "2026-01-05 17:32:51"
         },
         {
-          "Title": "בנימיני וגואטה | 05.01.26",
-          "ShortDescriptionLine1": "Binyamini and Guetta | 05.01.26",
-          "ShortDescriptionLine2": "2026-01-05 17:04:42",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rz3juavh/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_rz3juavh/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_rz3juavh",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/986773",
-          "Date": "2026-01-05 17:04:42"
-        },
-        {
           "Title": "חדשות השבת | 03.01.26",
           "ShortDescriptionLine1": "Shabbat news 03.01.26",
           "ShortDescriptionLine2": "2026-01-03 20:45:22",
@@ -659,6 +659,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות היום 06.01.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
+          "StreamerId": "1_bpgti77u",
+          "Date": "2026-01-06 18:35:54",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/4227113/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-01-06 18:35:54",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bpgti77u/flavorIds/1_55qzghkk,1_vmwza8w5,1_xjqii1r7,1_v0uetjz6,1_bf539anl,1_6kz0nwvs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 05.01.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
           "StreamerId": "1_3kdfkbuv",
@@ -716,18 +728,6 @@
           "ShortDescriptionLine2": "2026-01-05 19:13:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6n94jhtx/flavorIds/1_2x1okzfx,1_ljqggv3z,1_mza4w1h7,1_pgkb52t0,1_ib7m6s2w,1_69x8xrzz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "חדשות היום 05.01.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
-          "StreamerId": "1_k0j386bx",
-          "Date": "2026-01-05 18:25:03",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/4225945/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-01-05 18:25:03",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_k0j386bx/flavorIds/1_9u0h077n,1_roj2xk46,1_8m4mn5x9,1_bmeherdd,1_0gmz9woq,1_lxz95geq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2241,18 +2241,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 06.01.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 06.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "672db4747129b910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-672db4747129b91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-06T18:58:42+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 06.01.26 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 06.01.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21740353/21740353_noAdds/21740353_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21740353/21740353_noAdds/21740353_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "aa6bb4747129b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/c83535070007b910/VOD-aa6bb4747129b91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-06T17:55:36+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 06.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 06.01.26"
         },
         {
           "Title": "חמש עם רפי רשף: 06.01.26",
@@ -2295,20 +2309,6 @@
           "Date": "2026-01-05T19:53:36+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Main edition: 05.01.26"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 05.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/05/Mahadura_Mukdemet_050126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/19mukdemetfull_vtr2_n20260105_v1/19mukdemetfull_vtr2_n20260105_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/19mukdemetfull_vtr2_n20260105_v1/19mukdemetfull_vtr2_n20260105_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "60a4551e5cc8b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-60a4551e5cc8b91027.htm",
-          "ShortDescriptionLine2": "The stormy confrontation in the Knesset plenum",
-          "Date": "2026-01-05T18:58:29+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 05.01.26"
         },
         {
           "Title": "חדשות סוף השבוע: 03.01.26",
