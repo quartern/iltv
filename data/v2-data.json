@@ -1057,6 +1057,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "יאפא | פרק 5 - משפחה",
+          "ShortDescriptionLine1": "Yapa Chapter 5 - Family",
+          "ShortDescriptionLine2": "2026-01-07 19:38:55",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lf42j4ai/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_lf42j4ai/a.m3u8"
+          ],
+          "StreamerId": "1_lf42j4ai",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-882422/s1/882449",
+          "Date": "2026-01-07 19:38:55"
+        },
+        {
           "Title": "תגידו קצר | פרק 52 - 07.01.26",
           "ShortDescriptionLine1": "Say it briefly Chapter 52 - 07.01.26",
           "ShortDescriptionLine2": "2026-01-07 17:46:53",
@@ -1283,18 +1295,6 @@
           "StreamerId": "1_amy6c5p5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-747274/s2/791065",
           "Date": "2025-12-31 20:10:01"
-        },
-        {
-          "Title": "יאפא | פרק 3 - אחים",
-          "ShortDescriptionLine1": "Yapa Chapter 3 - Brothers",
-          "ShortDescriptionLine2": "2025-12-31 19:20:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tlsfmrhx/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_tlsfmrhx/a.m3u8"
-          ],
-          "StreamerId": "1_tlsfmrhx",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-882422/s1/882447",
-          "Date": "2025-12-31 19:20:06"
         }
       ]
     },
@@ -2229,18 +2229,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 0701.26 [live]",
+          "Title": "המהדורה המרכזית: 0701.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21740385/21740385_noAdds/21740385_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21740385/21740385_noAdds/21740385_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a9eee4d3e179b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-a9eee4d3e179b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-07T19:53:26+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 0701.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 0701.26"
         },
         {
           "Title": "המהדורה המוקדמת: 07.01.26",
