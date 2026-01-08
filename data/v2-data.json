@@ -462,6 +462,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 08.01.26",
+          "ShortDescriptionLine1": "Tonight's news 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08 21:50:54",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_i6z73sc9/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_i6z73sc9/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_i6z73sc9",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/988025",
+          "Date": "2026-01-08 21:50:54"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 08.01.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 08.01.26",
           "ShortDescriptionLine2": "2026-01-08 21:29:30",
@@ -544,18 +556,6 @@
           "StreamerId": "1_p1de419q",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/988016",
           "Date": "2026-01-08 14:56:34"
-        },
-        {
-          "Title": "חדשות הלילה | 07.01.26",
-          "ShortDescriptionLine1": "Tonight's news 07.01.26",
-          "ShortDescriptionLine2": "2026-01-07 21:30:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bi2o85zs/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bi2o85zs/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_bi2o85zs",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/987697",
-          "Date": "2026-01-07 21:30:51"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 11 - המחדל שנשטף",
@@ -2258,8 +2258,8 @@
           "Title": "המהדורה המוקדמת: 08.01.26",
           "Poster": "https://img.mako.co.il/2026/01/08/Mahadura_Mukdemet_080126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740413/21740413_noAdds/21740413_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740413/21740413_noAdds/21740413_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/19keren_vtr2_n20260108_v1/19keren_vtr2_n20260108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/19keren_vtr2_n20260108_v1/19keren_vtr2_n20260108_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "23b19f7de5c9b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-23b19f7de5c9b91026.htm",
@@ -2270,28 +2270,28 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 08.01.26",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/01/08/Shesh_080126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21740414/21740414_noAdds/21740414_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21740414/21740414_noAdds/21740414_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/18oded_vtr2_n20260108_v1/18oded_vtr2_n20260108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/18oded_vtr2_n20260108_v1/18oded_vtr2_n20260108_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a9509f7de5c9b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/c83535070007b910/VOD-a9509f7de5c9b91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The announcement of the Lebanese army and the facts on the ground",
           "Date": "2026-01-08T17:55:59+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.08.26"
         },
         {
           "Title": "חמש עם רפי רשף: 08.01.26",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/01/08/Hamesh_080126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21740418/21740418_noAdds/21740418_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_2026/21740418/21740418_noAdds/21740418_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/17yaron2_vtr2_n20260108_v1/17yaron2_vtr2_n20260108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/17yaron2_vtr2_n20260108_v1/17yaron2_vtr2_n20260108_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f11b9f7de5c9b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/958435070007b910/VOD-f11b9f7de5c9b91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The fatal stampede in Jerusalem - and the arrest of the bus driver",
           "Date": "2026-01-08T16:55:15+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 08.01.26"
@@ -2400,18 +2400,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: כל התגובות לעדות הדרמטית [live]",
+          "Title": "דוח מצב עם עינב וירון: כל התגובות לעדות הדרמטית",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21740423/21740423_noAdds/21740423_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/21740423/21740423_noAdds/21740423_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e262433b78c9b910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-e262433b78c9b91026.htm",
           "ShortDescriptionLine2": "All the reactions to the dramatic testimony of the close to the president",
           "Date": "2026-01-08T22:48:11+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: all the reactions to the dramatic testimony [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: all the reactions to the dramatic testimony"
         },
         {
           "Title": "עובדה: איש הסוד",
@@ -2713,6 +2713,78 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות, 08.01.26",
+          "StreamerId": "6387429150112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8eefce90-bfe6-4de8-8bac-d357fb6942c7/e20891da-559d-46e6-8dcb-8cea9628b41c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429150112",
+          "Date": "2026-01-08T21:38:31Z",
+          "ShortDescriptionLine1": "Talking news, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:38:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8eefce90-bfe6-4de8-8bac-d357fb6942c7/10s/master.m3u8?fastly_token=Njk4NTIwY2FfZjc5MTY3NDUxMWE1OTMzZGM2NTkwZWJlMjA0ODA1NWM0N2ExZDlhNjg1YTk1ODk5MTg5OGFjZDcxMDAwNTczMg%3D%3D"
+          ]
+        },
+        {
+          "Title": "הערביסטים, 08.01.26",
+          "StreamerId": "6387429923112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/be8c646a-8798-470a-8366-c170e0240f5d/ad526d5a-d126-4513-a6d3-820dee531a38/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429923112",
+          "Date": "2026-01-08T21:38:08Z",
+          "ShortDescriptionLine1": "The Arabists, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:38:08Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be8c646a-8798-470a-8366-c170e0240f5d/10s/master.m3u8?fastly_token=Njk4NTIzZjZfYzhkNDJiMTNkYzhhYmE4NGFiNmY3ZWMwYzVlOGEzMDJlZGY3MmI5Zjc2ZGNmZGZjMTM0ZWFlMjAzMWM1MjliMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "7 שרון גל, 08.01.26",
+          "StreamerId": "6387429044112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b6dc7c2a-8b89-4912-b390-9dd1c7aeba3c/db2affe4-d4f5-4608-9826-f782fb1efcce/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429044112",
+          "Date": "2026-01-08T21:34:56Z",
+          "ShortDescriptionLine1": "7 Sharon Gal, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:34:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b6dc7c2a-8b89-4912-b390-9dd1c7aeba3c/10s/master.m3u8?fastly_token=Njk4NTIzNGZfYzU3MzIzNmE1YTIzNmI4ZTdjZTBlNDgyYzYwMjExNDdmNDA1ZTc5YjgyZGY5YzY1Y2ExNjI3YzcwYjZhZmIzNA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדד גלבוע, 08.01.26",
+          "StreamerId": "6387429918112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d3499c43-a5e8-43a2-948a-8375a8bdf9ca/59ef39ed-b2fa-452d-be1c-2b361291c43e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429918112",
+          "Date": "2026-01-08T21:34:17Z",
+          "ShortDescriptionLine1": "Gilboa index, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:34:17Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d3499c43-a5e8-43a2-948a-8375a8bdf9ca/10s/master.m3u8?fastly_token=Njk4NTI2ZjdfZDVlM2U0OTBmOThkOTZjMjJjM2YyNjg2OWE1NmFjNTIyMGY0MGI2MzQ1MWEwYzcyOWY5ZGJmZjliNDFkMmZhNw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש, 08.01.26",
+          "StreamerId": "6387429830112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e44ea67b-920c-4225-b4fe-e210b58f9836/3855aecd-f516-42cc-ab17-57f4aebc6313/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429830112",
+          "Date": "2026-01-08T21:33:10Z",
+          "ShortDescriptionLine1": "Five edition, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:33:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e44ea67b-920c-4225-b4fe-e210b58f9836/10s/master.m3u8?fastly_token=Njk4NTI2ZDRfNWFlMWFkNGI4YTU5NzhjMWQ5Nzg1ZWY4Nzc5M2FjMDQ1ZjA4YTVhZmY1MTczYzBhMjBkMmUwN2Q3MThiMDhmYw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15, 08.01.26",
+          "StreamerId": "6387429142112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/372bf7e0-9263-4cd4-bf74-011b6b6702fc/50efea46-06a0-4d8a-bf39-a83c6870c94d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429142112",
+          "Date": "2026-01-08T21:33:06Z",
+          "ShortDescriptionLine1": "15th edition, 08.01.26",
+          "ShortDescriptionLine2": "2026-01-08T21:33:06Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/372bf7e0-9263-4cd4-bf74-011b6b6702fc/10s/master.m3u8?fastly_token=Njk4NTMyMmJfZDQxMWEyM2YwY2RlYzY4MjNhZThmMGFjMjQ4NDg4MjZiNDE2MzhiYWM3NWRiZDM0NWJjZDNmNWE2NjNmYjM2OQ%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל, 07.01.26",
           "StreamerId": "6387404189112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/22647a87-0157-4124-9911-9552457e6848/77bc1012-afbe-498c-a5e6-28b8da13c0fa/320x180/match/image.jpg",
@@ -2797,18 +2869,6 @@
           ]
         },
         {
-          "Title": "מדברים חדשות, 06.01.26",
-          "StreamerId": "6387345047112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8325d3fd-d32c-4ae0-b045-9cbc901ad3b9/1ce577e7-cd9b-40e5-b5b4-7ed03a2656df/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387345047112",
-          "Date": "2026-01-07T07:17:59Z",
-          "ShortDescriptionLine1": "Talking news, 06.01.26",
-          "ShortDescriptionLine2": "2026-01-07T07:17:59Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8325d3fd-d32c-4ae0-b045-9cbc901ad3b9/10s/master.m3u8?fastly_token=Njk4NDJhNTNfNGM0ZTU4Y2EyOTIwNTVjN2NiYjQ0YWQ5MzNmZWIxYjE4MTMzOTdjMzliYzJjOTE1OGMyNmMxMTkzNWM3MGM2ZA%3D%3D"
-          ]
-        },
-        {
           "Title": "הישראלים, 06.01.26",
           "StreamerId": "6387311800112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3497a920-ee3f-44ea-8c1b-85debb52c3d1/7f72b760-b3e6-4fd2-b884-58c57c6524fa/320x180/match/image.jpg",
@@ -2830,54 +2890,6 @@
           "ShortDescriptionLine2": "2026-01-06T19:59:50Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3886526d-2608-4d7e-a4ee-27d7328f3430/10s/master.m3u8?fastly_token=Njk4Mjc5NzlfOWUxYjI4MjdlMTg2OTRiN2YwOWVmN2Y4NDc3ZjdjNTA5ZDRkYWY2MWE3YTk3MGM4YzQ4Y2JmN2YzZjc0NjNmMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל, 06.01.26",
-          "StreamerId": "6387309834112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/44a5134f-6a63-4309-9ada-e62ca7b4c9dd/f0c53f2e-3dbc-434a-9790-0ac4f3516928/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387309834112",
-          "Date": "2026-01-06T19:29:36Z",
-          "ShortDescriptionLine1": "7 Sharon Gal, 06.01.26",
-          "ShortDescriptionLine2": "2026-01-06T19:29:36Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/44a5134f-6a63-4309-9ada-e62ca7b4c9dd/10s/master.m3u8?fastly_token=Njk4MjVmZGFfYzhjZjk0ZDVlM2FmY2VhNDYxZDE1NTRkZmU0M2ZkY2Y0NjJhZDQ2MmVhMDg4ODA2Njc2MWIxMDY5NGNhNTIwOQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע, 06.01.26",
-          "StreamerId": "6387304219112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/04d3bdf4-6265-4f78-9323-9af67dbebb7e/8419c94f-17a4-494b-8d18-e6b44ca73091/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387304219112",
-          "Date": "2026-01-06T17:46:20Z",
-          "ShortDescriptionLine1": "Gilboa index, 06.01.26",
-          "ShortDescriptionLine2": "2026-01-06T17:46:20Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/04d3bdf4-6265-4f78-9323-9af67dbebb7e/10s/master.m3u8?fastly_token=Njk4MjRlNWVfMmJjYTI5ZThiOTc0YzBjZTc2MmQzN2VmMGU0YjUxZDdiNWRlMmRjM2ZkMmJkOWM2M2Y5NjVmMDliNjZlYjdhMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש, 06.01.26",
-          "StreamerId": "6387306258112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/25495a26-d86f-4e00-a922-affcb43b49c7/798d1efd-7130-4570-b68a-c459884f20e5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387306258112",
-          "Date": "2026-01-06T17:44:03Z",
-          "ShortDescriptionLine1": "Five edition, 06.01.26",
-          "ShortDescriptionLine2": "2026-01-06T17:44:03Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/25495a26-d86f-4e00-a922-affcb43b49c7/10s/master.m3u8?fastly_token=Njk4MjRlYjlfZTE2Y2FmOGM4N2M3N2U5MGEwMWJlODA4OWFmYTVhNTcwYjVkODU4ZGJmZWI3N2Y0OGZmZjg1ZDJlZWQ4ZDJkMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 06.01.26",
-          "StreamerId": "6387300721112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1e2e848e-498c-4ea0-9401-1a43ba3bf6f1/4dffd702-8622-457d-8988-069693d419d6/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387300721112",
-          "Date": "2026-01-06T15:53:43Z",
-          "ShortDescriptionLine1": "15th edition, 06.01.26",
-          "ShortDescriptionLine2": "2026-01-06T15:53:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1e2e848e-498c-4ea0-9401-1a43ba3bf6f1/10s/master.m3u8?fastly_token=Njk4MjQzNzBfMWFmYmI4YzkxNTBiNDNkN2ZiYTM4MmVkZjhhMmVkNThlZTMxY2E1MTFhNWVjMGZjNjMzYjU0ZjVkOWVlZWNmNQ%3D%3D"
           ]
         },
         {
@@ -2950,18 +2962,6 @@
           "ShortDescriptionLine2": "2026-01-02T17:53:58Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4afb8a5c-23ae-452d-b603-f90feec81e6a/10s/master.m3u8?fastly_token=Njk3ZDE5NWNfMTcxOTljYjExZDkxMGU4YWUxNDI4ZTEyM2M4ZjhkNmZlYzlmNDQxMTcyOWZlZjA5Y2M2ZTljZTc3ZDk1MDhlZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים 1.1",
-          "StreamerId": "6387138174112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b78a438c-6940-4668-9cde-95be98c455f4/89756410-1407-4fb4-bc9b-af1d6cc0f529/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387138174112",
-          "Date": "2026-01-01T20:21:50Z",
-          "ShortDescriptionLine1": "The Arabists 1.1",
-          "ShortDescriptionLine2": "2026-01-01T20:21:50Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b78a438c-6940-4668-9cde-95be98c455f4/10s/master.m3u8?fastly_token=Njk3YmQ2ZjZfZWVhMjI4MTRjYTFlOTAwNzA3MmU5OTJkM2VkMGQxZGMwODNlZjg0NTZmZjk1OWY1MDYwMDgyMDYxMTk3MzA2OQ%3D%3D"
           ]
         },
         {
