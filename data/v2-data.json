@@ -462,6 +462,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שרון ואורי | 10.01.26",
+          "ShortDescriptionLine1": "Sharon and Uri 10.01.26",
+          "ShortDescriptionLine2": "2026-01-10 17:57:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_g3zsneaq/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g3zsneaq/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_g3zsneaq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/988455",
+          "Date": "2026-01-10 17:57:03"
+        },
+        {
           "Title": "חדשות שישי | 09.01.26",
           "ShortDescriptionLine1": "Friday news | 09.01.26",
           "ShortDescriptionLine2": "2026-01-09 20:57:30",
@@ -604,18 +616,6 @@
           "StreamerId": "1_x2x2v5nc",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/986249",
           "Date": "2026-01-03 20:45:22"
-        },
-        {
-          "Title": "שרון ואורי | 03.01.26",
-          "ShortDescriptionLine1": "Sharon and Uri 03.01.26",
-          "ShortDescriptionLine2": "2026-01-03 17:40:13",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_h1bdh40r/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_h1bdh40r/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_h1bdh40r",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/986246",
-          "Date": "2026-01-03 17:40:13"
         },
         {
           "Title": "\"זו ועדת טיוח\": רפי בן שטרית לא מוכן לוותר על ועדת חקירה שתחשוף את האמת",
@@ -2241,18 +2241,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "פגוש את העיתונות: 10.01.26 [live]",
-          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 10.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "01a7be2729c9b910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-01a7be2729c9b91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-10T19:54:24+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Weekend news: 10.01.26 [live]"
+        },
+        {
+          "Title": "פגוש את העיתונות: 10.01.26",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Pgosh_Et_Haitonut/21740465/21740465_noAdds/21740465_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Pgosh_Et_Haitonut/21740465/21740465_noAdds/21740465_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4f63be2729c9b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/f11535070007b910/VOD-4f63be2729c9b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-10T17:59:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Meet the press: 10.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Meet the press: 10.01.26"
         },
         {
           "Title": "שבת בחמש: 10.01.26",
@@ -2365,20 +2379,6 @@
           "Date": "2026-01-08T14:59:51+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 08.01.26"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 03.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/03/Hadshot_Sof_Shavua_030126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/20full_vtr2_n20260103_v1/20full_vtr2_n20260103_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/20full_vtr2_n20260103_v1/20full_vtr2_n20260103_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2168473a1c87b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-2168473a1c87b91026.htm",
-          "ShortDescriptionLine2": "Gali and Ziv Berman speak for the first time",
-          "Date": "2026-01-03T19:54:37+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Weekend news: 03.01.26"
         },
         {
           "Title": "פגוש את העיתונות: 03.01.26",
