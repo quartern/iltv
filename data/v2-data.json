@@ -2241,18 +2241,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 10.01.26 [live]",
+          "Title": "חדשות סוף השבוע: 10.01.26",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21740466/21740466_noAdds/21740466_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21740466/21740466_noAdds/21740466_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "01a7be2729c9b910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-01a7be2729c9b91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-10T19:54:24+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 10.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 10.01.26"
         },
         {
           "Title": "פגוש את העיתונות: 10.01.26",
@@ -2713,6 +2713,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מגזין השבת, 10.01.26",
+          "StreamerId": "6387533347112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/59071026-b66b-477e-89c9-c8a1bdcbf510/0f54c3f0-1834-4142-8750-e27e3e892ef3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387533347112",
+          "Date": "2026-01-10T19:27:22Z",
+          "ShortDescriptionLine1": "The Sabbath magazine, 10.01.26",
+          "ShortDescriptionLine2": "2026-01-10T19:27:22Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/59071026-b66b-477e-89c9-c8a1bdcbf510/10s/master.m3u8?fastly_token=Njk4N2IzZWVfMTE5YWYzYzdmYTYzMjNmMzg1N2YxZDg0ZTlmNWMxMDg0MTRmMmJlNmMxMjMxN2MwZjZmM2RjNTQ2NjE4OGE4ZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי 9.1.26",
           "StreamerId": "6387491444112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3f40f5dc-ef37-49c3-899c-4e9831abdfce/0254afec-2b7f-41bd-a2eb-5567522556ec/320x180/match/image.jpg",
@@ -2974,18 +2986,6 @@
           "ShortDescriptionLine2": "2026-01-02T19:58:52Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/11b93838-ebad-4975-8a02-4ba2338a8241/10s/master.m3u8?fastly_token=Njk3ZDM2MmRfNjE2MTczN2Q1ZjY0NmJmMTg3Y2I0NTdlZjEzMDczODRhNDZhMjE4ODVmMzgwZTBiOWY5YTU2ZmFjODI2MWMyYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת 27.12.25",
-          "StreamerId": "6386998206112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9921b68e-afba-4135-b0da-9452ef869119/3c9a0bce-ad39-4130-916d-9a39c6c99657/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6386998206112",
-          "Date": "2025-12-28T05:19:56Z",
-          "ShortDescriptionLine1": "Shabbat magazine 12.27.25",
-          "ShortDescriptionLine2": "2025-12-28T05:19:56Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9921b68e-afba-4135-b0da-9452ef869119/10s/master.m3u8?fastly_token=Njk4MDkyNDNfZWE5MzliNzA4NjEwMjUxMjM2NjEyNjdkYTg5ZjgxMGM5MDUzMDdmYTU0MzM2NTI0YWQxNGVjMGFjNmJkMzM2MA%3D%3D"
           ]
         },
         {
