@@ -2400,6 +2400,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "5daa9eac31cab910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-5daa9eac31cab91026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-01-11T23:40:26+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: האם המשטר באיראן ייפול?",
           "Poster": "https://img.mako.co.il/2026/01/11/Nesli_Yoav_110126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2426,20 +2440,6 @@
           "Date": "2026-01-11T07:09:20+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: Towards an escalation in Lebanon?"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/01/10/Avri_Sherki_100126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_110126_VOD_iik999/Avri_Sherki_110126_VOD_iik999_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_110126_VOD_iik999/Avri_Sherki_110126_VOD_iik999_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2025f9220fc9b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-2025f9220fc9b91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-01-10T23:10:29+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "דוח מצב עם עינב וירון: כל התגובות לעדות הדרמטית",
@@ -2713,6 +2713,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות, 11.01.26",
+          "StreamerId": "6387576074112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1915a57b-60d2-49a4-9376-8f06a19b0ab2/48783163-ef8f-43b9-8d2d-dc2b0ea884bf/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387576074112",
+          "Date": "2026-01-11T21:35:33Z",
+          "ShortDescriptionLine1": "Talking news, 11.01.26",
+          "ShortDescriptionLine2": "2026-01-11T21:35:33Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1915a57b-60d2-49a4-9376-8f06a19b0ab2/10s/master.m3u8?fastly_token=Njk4OTExYzhfYzk0YTgwMTQxZTAxYzBiN2I5NDUxM2UxNWM0YTM1ZWIxODA2YTA5ZjIxNzIwZGEyNDMyNmZhNDg2Mzc0NjYwOA%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 11.01.26",
           "StreamerId": "6387574381112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1664998a-4d73-435f-b64d-8301f83949de/9f452031-2b5d-45a3-9777-f60069d963d3/320x180/match/image.jpg",
@@ -2926,18 +2938,6 @@
           "ShortDescriptionLine2": "2026-01-08T21:33:06Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/372bf7e0-9263-4cd4-bf74-011b6b6702fc/10s/master.m3u8?fastly_token=Njk4NTMyMmJfZDQxMWEyM2YwY2RlYzY4MjNhZThmMGFjMjQ4NDg4MjZiNDE2MzhiYWM3NWRiZDM0NWJjZDNmNWE2NjNmYjM2OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות, 07.01.26",
-          "StreamerId": "6387400985112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/70ef7123-64d6-4ff9-b3dd-c2bd23df2b27/02469493-b7cf-429f-94e2-9c006dfdf6ca/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387400985112",
-          "Date": "2026-01-08T07:04:43Z",
-          "ShortDescriptionLine1": "Talking news, 07.01.26",
-          "ShortDescriptionLine2": "2026-01-08T07:04:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/70ef7123-64d6-4ff9-b3dd-c2bd23df2b27/10s/master.m3u8?fastly_token=Njk4NDRlMjhfZjQ0NmFhYjQ2MDkzYmUyMGQyZGU4MGViOGJjMjFiYjU2MDQyM2M5YzhjMjlmZGM3MGMwZGYzN2M1YzEyOWMxZA%3D%3D"
           ]
         },
         {
