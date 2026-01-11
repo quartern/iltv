@@ -2241,18 +2241,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 11.01.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המוקדמת: 11.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "529eb16e7dbab910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-529eb16e7dbab91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-11T18:58:50+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Early release: 11.01.26 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 11.01.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21740498/21740498_noAdds/21740498_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21740498/21740498_noAdds/21740498_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f61550995cbab910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/c83535070007b910/VOD-f61550995cbab91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-11T17:55:27+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11.01.26"
         },
         {
           "Title": "חמש עם רפי רשף: 11.01.26",
@@ -2365,20 +2379,6 @@
           "Date": "2026-01-08T19:53:45+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Main edition: 08.01.26"
-        },
-        {
-          "Title": "המהדורה המוקדמת: 08.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/08/Mahadura_Mukdemet_080126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/19keren_vtr2_n20260108_v1/19keren_vtr2_n20260108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/19keren_vtr2_n20260108_v1/19keren_vtr2_n20260108_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "23b19f7de5c9b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-23b19f7de5c9b91026.htm",
-          "ShortDescriptionLine2": "Iran: the most stormy day since the beginning of the protest",
-          "Date": "2026-01-08T18:58:59+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Early release: 08.01.26"
         },
         {
           "Title": "פגוש את העיתונות: 03.01.26",
