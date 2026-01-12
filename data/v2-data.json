@@ -2400,18 +2400,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חשיפה: תיק זוהר ארגוב נפתח [live]",
+          "Title": "חשיפה: תיק זוהר ארגוב נפתח",
           "Poster": "https://img.mako.co.il/2020/02/16/HD-Hasifa2020_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hasifa_2026/A186542/A186542_noAdds/A186542_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hasifa_2026/A186542/A186542_noAdds/A186542_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "878451b82b0bb910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/exposure-s6/VOD-878451b82b0bb91027.htm",
           "ShortDescriptionLine2": "A special project by Haim Etgar on Zohar Argov",
           "Date": "2026-01-12T21:52:19+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Chasifa (Exposure): Zohar Argov bag opened [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Chasifa (Exposure): Zohar Argov bag opened"
         },
         {
           "Title": "נסלי ויואב: גל ההפגנות הנרחב באיראן",
@@ -2713,6 +2713,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 12.01.26",
+          "StreamerId": "6387620193112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b2286382-4a0c-42b8-8d1a-e3b7df5e5307/21f7bedb-ae1f-4bb8-be50-7149c4982378/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387620193112",
+          "Date": "2026-01-12T20:53:51Z",
+          "ShortDescriptionLine1": "The Israelis, 12.01.26",
+          "ShortDescriptionLine2": "2026-01-12T20:53:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b2286382-4a0c-42b8-8d1a-e3b7df5e5307/10s/master.m3u8?fastly_token=Njk4YTY5ZWNfNjM4MmE3MmY3Y2M4NjQzYWVmZDhmNzRkZjQ5NTM1ZmI3YWQzNjMyNDZhZDAyZWJlZjdkYmQ3MWZlZmFjMmM5Ng%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית, 12.01.26",
           "StreamerId": "6387617561112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9e704413-174b-4816-90d2-e6f5af8481f0/915d14fe-6e56-4159-a890-0388609f227d/320x180/match/image.jpg",
@@ -2938,18 +2950,6 @@
           "ShortDescriptionLine2": "2026-01-08T21:38:08Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be8c646a-8798-470a-8366-c170e0240f5d/10s/master.m3u8?fastly_token=Njk4NTIzZjZfYzhkNDJiMTNkYzhhYmE4NGFiNmY3ZWMwYzVlOGEzMDJlZGY3MmI5Zjc2ZGNmZGZjMTM0ZWFlMjAzMWM1MjliMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים, 08.01.26",
-          "StreamerId": "6387401672112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e65699d4-4313-4520-b197-61d48c04d925/31f0565d-5cdb-4f78-94c4-885e02c02c16/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387401672112",
-          "Date": "2026-01-08T07:01:32Z",
-          "ShortDescriptionLine1": "The Israelis, 08.01.26",
-          "ShortDescriptionLine2": "2026-01-08T07:01:32Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e65699d4-4313-4520-b197-61d48c04d925/10s/master.m3u8?fastly_token=Njk4NDVlYWNfNjAzMzQ2Y2RmNmZmNzBmMTQ2NDNiODJkNjc4OTk5NGM4NDIwNjNiOGYxYmE2MGNlNGE5ZjBjMDYyNTI2NzUzYQ%3D%3D"
           ]
         },
         {
