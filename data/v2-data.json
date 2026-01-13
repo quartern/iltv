@@ -663,8 +663,8 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_snxpivsl",
           "Date": "2026-01-13 23:17:08",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/de67u-904928789/",
-          "ShortDescriptionLine1": "The Main Edition",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4238870/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-01-13 23:17:08",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_snxpivsl/flavorIds/1_5dznyxw2,1_gkf5zbmf,1_40q9jgsd,1_iridmi2i,1_dcgwthxv,1_tidmkhil/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2400,6 +2400,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "28116df9746bb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-28116df9746bb91026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-01-14T00:12:19+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: מזג האוויר הסוער",
           "Poster": "https://img.mako.co.il/2026/01/13/Nesli_Yoav_130126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2426,20 +2440,6 @@
           "Date": "2026-01-13T07:11:33+02:00",
           "Live": false,
           "ShortDescriptionLine1": "This morning's news with Niv Raskin: The conscription law crisis"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/01/13/Avri_Sherki_120126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_120126_VOD_hyt543/Avri_Sherki_120126_VOD_hyt543_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_120126_VOD_hyt543/Avri_Sherki_120126_VOD_hyt543_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "72aaf9c71d0bb910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-72aaf9c71d0bb91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-01-12T23:43:31+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "חשיפה: תיק זוהר ארגוב נפתח",
