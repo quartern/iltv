@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: המתיחות בישראל [live]",
-          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: המתיחות בישראל",
+          "Poster": "https://img.mako.co.il/2026/01/16/Doh_Matzav_150126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21740632/21740632_noAdds/21740632_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/21740632/21740632_noAdds/21740632_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "62ac698a161cb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-62ac698a161cb91026.htm",
           "ShortDescriptionLine2": "All updates for a possible attack",
           "Date": "2026-01-15T23:18:43+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the tensions in Israel [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: the tensions in Israel"
         },
         {
           "Title": "נסלי ויואב: היערכות לתקיפה אמריקנית",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים, 15.1.26",
+          "StreamerId": "6387777051112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/10cfc998-1966-4631-8113-5f62f9545291/99e2596c-9abc-4c20-8bf9-f7ce31b5bab3/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387777051112",
+          "Date": "2026-01-15T21:43:08Z",
+          "ShortDescriptionLine1": "The Arabists, 15.1.26",
+          "ShortDescriptionLine2": "2026-01-15T21:43:08Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/10cfc998-1966-4631-8113-5f62f9545291/10s/master.m3u8?fastly_token=Njk4ZTYwNjVfN2U5MjI0OWQzNThjNGVmYWM3NzJkNGMwZmM5YTM2M2E4OWUyNWE3YTliZDFiZjg2ZWYzMjk2Y2U1YzQ5YWQxNA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות, 15.01.26",
           "StreamerId": "6387776293112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ed00a037-675c-416e-8847-8a5e3bd33b0d/995a94f7-d883-4782-950d-28036ad02418/320x180/match/image.jpg",
@@ -2723,6 +2735,30 @@
           "ShortDescriptionLine2": "2026-01-15T21:41:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ed00a037-675c-416e-8847-8a5e3bd33b0d/10s/master.m3u8?fastly_token=Njk4ZTViNTlfNjE5ODZlODZiYzA0ZDhjZmE0MzZmYzVjMGI2OGQ2ZWMxYzliZWU5MmE1NzJlMmRkMWRiMzVhYmZmNWI2NDk2YQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית, 15.01.26",
+          "StreamerId": "6387777341112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/48409505-f3e2-43ec-af98-a18fa1652403/84df0586-567e-488b-8bc1-8bbb4f4012ae/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387777341112",
+          "Date": "2026-01-15T21:40:31Z",
+          "ShortDescriptionLine1": "The main edition, 15.01.26",
+          "ShortDescriptionLine2": "2026-01-15T21:40:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/48409505-f3e2-43ec-af98-a18fa1652403/10s/master.m3u8?fastly_token=Njk4ZTZjZGRfZTM2MjE4NGY2ZTBmZDM4YWQ1NTgyYjIzYTJmYWY5ZjZmNzYxMjQ0NWJkYWExNmMwY2FmMzNkNjlkNjUzNGFjNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "הערביסטים, 15.01.26",
+          "StreamerId": "6387777441112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aa5cc060-98d3-4d63-a165-781d39e1cd19/e20adb8e-7070-4659-a11c-ffaff85f777a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387777441112",
+          "Date": "2026-01-15T21:40:25Z",
+          "ShortDescriptionLine1": "The Arabists, 15.01.26",
+          "ShortDescriptionLine2": "2026-01-15T21:40:25Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aa5cc060-98d3-4d63-a165-781d39e1cd19/10s/master.m3u8?fastly_token=Njk4ZTY0NzdfYjNkN2JiYzE3MTYyYzdhN2NlMjJmYTA4ZWI4ZDZhYjEyN2UxNDYyMTk4NzljNTAxNzRiZGQwZjRhNDMwZGNlYw%3D%3D"
           ]
         },
         {
@@ -2834,18 +2870,6 @@
           ]
         },
         {
-          "Title": "המהדורה המרכזית, 13.01.26",
-          "StreamerId": "6387674506112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/33b29a11-d724-4213-b275-e9ca26b26d78/43be2a3f-8acc-4c40-ab5c-cad518916595/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387674506112",
-          "Date": "2026-01-13T20:12:45Z",
-          "ShortDescriptionLine1": "The main edition, 13.01.26",
-          "ShortDescriptionLine2": "2026-01-13T20:12:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/33b29a11-d724-4213-b275-e9ca26b26d78/10s/master.m3u8?fastly_token=Njk4YmJhNmZfZjgzNGEzNmQ2YWRmZTZjMWNkYmE2OGNjYjM5MDM2NzhmNjUyZjQxYWU1MmMyYWYyMzYwYzk1OGZjMjllN2ZkMg%3D%3D"
-          ]
-        },
-        {
           "Title": "מדד גלבוע, 13.01.26",
           "StreamerId": "6387672365112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c93becb9-aec3-4e39-abae-624f587e0f1c/e6618c25-cf0e-4ee7-8289-535e6a9831c4/320x180/match/image.jpg",
@@ -2894,18 +2918,6 @@
           ]
         },
         {
-          "Title": "הערביסטים, 10.01.26",
-          "StreamerId": "6387535949112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9ec8207a-5194-466c-9ffb-95ba7e291bd1/e34c93aa-88f2-4de2-9039-a1eb445a769d/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387535949112",
-          "Date": "2026-01-10T20:16:29Z",
-          "ShortDescriptionLine1": "The Arabists, 10.01.26",
-          "ShortDescriptionLine2": "2026-01-10T20:16:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9ec8207a-5194-466c-9ffb-95ba7e291bd1/10s/master.m3u8?fastly_token=Njk4N2IxZDVfYWE4OTZmM2Y3NzlmMTJhMGYxYTUxZGE4ZjRkZDVlNzgyY2UwNDgwYTE5ODkzMzZhOTY2M2JmMmI0NDk3MGNkMg%3D%3D"
-          ]
-        },
-        {
           "Title": "מגזין השבת, 10.01.26",
           "StreamerId": "6387533347112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/59071026-b66b-477e-89c9-c8a1bdcbf510/0f54c3f0-1834-4142-8750-e27e3e892ef3/320x180/match/image.jpg",
@@ -2951,18 +2963,6 @@
           "ShortDescriptionLine2": "2026-01-09T09:41:04Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b911a37-c551-4805-a9dc-03cf0afad587/10s/master.m3u8?fastly_token=Njk4ZGU2MTVfM2RjNjlhNGZjYTExNjQxOTkxMjVlYThlNzg3NTBlZTk5ODJlOTYzMTQ5OWIwZTI3NmRmZGEwNDNmMzA4NTEwMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים, 08.01.26",
-          "StreamerId": "6387429923112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/be8c646a-8798-470a-8366-c170e0240f5d/ad526d5a-d126-4513-a6d3-820dee531a38/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387429923112",
-          "Date": "2026-01-08T21:38:08Z",
-          "ShortDescriptionLine1": "The Arabists, 08.01.26",
-          "ShortDescriptionLine2": "2026-01-08T21:38:08Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/be8c646a-8798-470a-8366-c170e0240f5d/10s/master.m3u8?fastly_token=Njk4NTIzZjZfYzhkNDJiMTNkYzhhYmE4NGFiNmY3ZWMwYzVlOGEzMDJlZGY3MmI5Zjc2ZGNmZGZjMTM0ZWFlMjAzMWM1MjliMA%3D%3D"
           ]
         },
         {
