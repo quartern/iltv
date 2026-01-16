@@ -463,18 +463,6 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "גליק ותמר בשישי | 16.01.26",
-          "ShortDescriptionLine1": "Glick and Tamar on Friday 16.01.26",
-          "ShortDescriptionLine2": "2026-01-16 18:13:36",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_5bzle66w/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_5bzle66w/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_5bzle66w",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/990316",
-          "Date": "2026-01-16 18:13:36"
-        },
-        {
           "Title": "חדשות הלילה | 15.01.26",
           "ShortDescriptionLine1": "Tonight's news 15.01.26",
           "ShortDescriptionLine2": "2026-01-15 21:46:26",
@@ -617,6 +605,18 @@
           "StreamerId": "1_qgltwfj5",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/988252",
           "Date": "2026-01-09 20:57:30"
+        },
+        {
+          "Title": "גליק ותמר בשישי | 09.01.26",
+          "ShortDescriptionLine1": "Glick and Tamar on Friday 09.01.26",
+          "ShortDescriptionLine2": "2026-01-09 17:46:49",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_npgsqzcd/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_npgsqzcd/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_npgsqzcd",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/988251",
+          "Date": "2026-01-09 17:46:49"
         },
         {
           "Title": "\"זו ועדת טיוח\": רפי בן שטרית לא מוכן לוותר על ועדת חקירה שתחשוף את האמת",
@@ -2714,6 +2714,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת 16.1.26",
+          "StreamerId": "6387823120112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/79a0eb9f-1831-436d-af08-538eca898ac7/3bbefd7f-f5e9-480b-98ef-94fd6b947621/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387823120112",
+          "Date": "2026-01-16T18:02:14Z",
+          "ShortDescriptionLine1": "The early edition 16.1.26",
+          "ShortDescriptionLine2": "2026-01-16T18:02:14Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/79a0eb9f-1831-436d-af08-538eca898ac7/10s/master.m3u8?fastly_token=Njk4ZjkwMzBfZjc1NjU2MjNmNTk0MTdjNDE3OTlkYWUzYzM1M2E1YjZkMjRiZGIxMjA3ZjYxNmJmYzc0NzU1YWRmYWJjM2M2Yw%3D%3D"
+          ]
+        },
+        {
           "Title": "זמן ריפוי, 16.01.26 | תוכן ממומן",
           "StreamerId": "6387800143112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a7ef8993-ff56-4441-8548-af23844880ae/0229b597-ea2f-4fa5-97eb-2bb8ba98fa57/320x180/match/image.jpg",
@@ -2951,18 +2963,6 @@
           "ShortDescriptionLine2": "2026-01-09T20:17:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3f40f5dc-ef37-49c3-899c-4e9831abdfce/10s/master.m3u8?fastly_token=Njk4Njc1NGZfZjIzOTY4YWYyZGE5NjZjZjE1MjFlYTRjNGRiZWRiYzEzYzA3ZTViOGExMGQ0NjNkYjZkYTg2NmVhMDlhYmJlMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת 9.1.26",
-          "StreamerId": "6387487268112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/31be6568-cb41-4e7d-92c8-6bab59bedcd3/d0de42a8-fda2-412b-ad91-033f5618a7e5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387487268112",
-          "Date": "2026-01-09T18:09:42Z",
-          "ShortDescriptionLine1": "The early edition 9.1.26",
-          "ShortDescriptionLine2": "2026-01-09T18:09:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/31be6568-cb41-4e7d-92c8-6bab59bedcd3/10s/master.m3u8?fastly_token=Njk4NjU5MTdfMWE4ZWY4NGU1N2U2YmFmMzIxMTAwYTViNDVmNjlmZjg4ZTM1N2VjZjRhOTkwNGZiMGU4NzUwMGJlYTY0NjllMg%3D%3D"
           ]
         },
         {
