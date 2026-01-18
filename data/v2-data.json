@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 18.01.26",
+          "ShortDescriptionLine1": "Tonight's news 18.01.26",
+          "ShortDescriptionLine2": "2026-01-18 22:17:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_cwogmz3b/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_cwogmz3b/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_cwogmz3b",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/990733",
+          "Date": "2026-01-18 22:17:34"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 18.01.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 18.01.26",
           "ShortDescriptionLine2": "2026-01-18 21:31:30",
@@ -605,18 +617,6 @@
           "StreamerId": "1_4abs8xij",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/990318",
           "Date": "2026-01-16 20:49:19"
-        },
-        {
-          "Title": "חדשות הלילה | 15.01.26",
-          "ShortDescriptionLine1": "Tonight's news 15.01.26",
-          "ShortDescriptionLine2": "2026-01-15 21:46:26",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3pg3gghp/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_3pg3gghp/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_3pg3gghp",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/989964",
-          "Date": "2026-01-15 21:46:26"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 12 - משני תודעה",
@@ -2245,8 +2245,8 @@
           "Title": "המהדורה המרכזית: 18.01.26",
           "Poster": "https://img.mako.co.il/2026/01/18/Mahadura_Merkazit_180126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21740709/21740709_noAdds/21740709_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21740709/21740709_noAdds/21740709_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/20mahadurafull_vtr2_n20260118_v1/20mahadurafull_vtr2_n20260118_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/20mahadurafull_vtr2_n20260118_v1/20mahadurafull_vtr2_n20260118_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ebf515cd9dfcb910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-ebf515cd9dfcb91027.htm",
