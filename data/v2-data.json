@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המוקדמת: 20.01.26 [live]",
-          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 20.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "07628985d3adb910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-07628985d3adb91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-20T19:53:33+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "The main edition: 20.01.26 [live]"
+        },
+        {
+          "Title": "המהדורה המוקדמת: 20.01.26",
+          "Poster": "https://img.mako.co.il/2023/11/13/Hisachon_03_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740768/21740768_noAdds/21740768_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamahadura_hamerkazit_hamukdemet_2024/21740768/21740768_noAdds/21740768_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "17118985d3adb910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/e5c235070007b910/VOD-17118985d3adb91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-20T18:58:01+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Early release: 20.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Early release: 20.01.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 20.01.26",
@@ -2296,20 +2310,6 @@
           "Date": "2026-01-20T15:00:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 20.01.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 19.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/19/Mahadura_Merkazit_190126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/20mahadura_full_vtr2_n20260119_v1/20mahadura_full_vtr2_n20260119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/20mahadura_full_vtr2_n20260119_v1/20mahadura_full_vtr2_n20260119_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "58c01c80bd4db910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-58c01c80bd4db91027.htm",
-          "ShortDescriptionLine2": "New details about the disaster in the US",
-          "Date": "2026-01-19T19:52:21+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "The main edition: 19.01.26"
         },
         {
           "Title": "חדשות סוף השבוע: 17.01.26",
@@ -2784,6 +2784,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע, 20.01.26",
+          "StreamerId": "6387994872112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/89512dfb-ee1e-43b1-9626-8222bbd3826a/99bb6c4b-96b1-4f55-a844-6f9f39270cf5/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387994872112",
+          "Date": "2026-01-20T17:40:16Z",
+          "ShortDescriptionLine1": "Gilboa index, 20.01.26",
+          "ShortDescriptionLine2": "2026-01-20T17:40:16Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/89512dfb-ee1e-43b1-9626-8222bbd3826a/10s/master.m3u8?fastly_token=Njk5NGMyMjZfZTBkYjE3MjUxZWUwOGZiOTVmZjgxODU5NGFjZmE3YWViNTgwODEzZGQ2NTNmMDE0YTRmODc4NzE2MWJiNWFjYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש, 20.01.26",
           "StreamerId": "6387993701112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/807617d9-99a1-45e8-8056-5daefe3c6cd3/f5a1caa3-1869-4ffd-9cfe-d00e045ef622/320x180/match/image.jpg",
@@ -2937,18 +2949,6 @@
           "ShortDescriptionLine2": "2026-01-18T20:40:26Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b4aeb14b-56ca-415d-93a2-7a86bd765466/10s/master.m3u8?fastly_token=Njk5MjQyNWFfN2E1MDYzN2JkN2E1MGY3YWJhNTRhOWNhZDA1MzYzYWJmNjQzYTljN2EyZTM3OGJiNzFjMzU3YTdmY2EyMWQ2ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע, 18.01.26",
-          "StreamerId": "6387911832112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f188557e-ea25-4130-9945-649dc06c067e/b6f4d287-1746-4ade-8988-59bb81b99cfd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387911832112",
-          "Date": "2026-01-18T20:39:25Z",
-          "ShortDescriptionLine1": "Gilboa index, 18.01.26",
-          "ShortDescriptionLine2": "2026-01-18T20:39:25Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f188557e-ea25-4130-9945-649dc06c067e/10s/master.m3u8?fastly_token=Njk5MjRhNjVfNzEyNzc3NTg1NGQzMTk0Y2Q0N2JlMjNhMWYzNmRhMDA0ZWNjYzljZDdhNDY2MjljODY5YWQ3MjI1NWY0YzE3Zg%3D%3D"
           ]
         },
         {
