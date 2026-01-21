@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "החוקר והרב | פרק 1 - זכות אבות",
+          "ShortDescriptionLine1": "The researcher and rabbi Chapter 1 - Right of fathers",
+          "ShortDescriptionLine2": "2026-01-21 19:40:07",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_04piypvo/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_04piypvo/a.m3u8"
+          ],
+          "StreamerId": "1_04piypvo",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-986836/s1/991049",
+          "Date": "2026-01-21 19:40:07"
+        },
+        {
           "Title": "תגידו קצר | פרק 62 - 21.01.26",
           "ShortDescriptionLine1": "Say it briefly Chapter 62 - 21.01.26",
           "ShortDescriptionLine2": "2026-01-21 17:42:28",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_l7mdkcuj",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-975806/990120",
           "Date": "2026-01-17 20:10:26"
-        },
-        {
-          "Title": "פגישה עם רוני קובן עונה 10 | פרק 8 - בן כספית",
-          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 8 - Ben Caspit",
-          "ShortDescriptionLine2": "2026-01-17 19:28:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_be85u3nb/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_be85u3nb/a.m3u8"
-          ],
-          "StreamerId": "1_be85u3nb",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s10/990348",
-          "Date": "2026-01-17 19:28:07"
         }
       ]
     },
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 21.01.26 [live]",
+          "Title": "המהדורה המרכזית: 21.01.26",
           "Poster": "https://img.mako.co.il/2026/01/21/Mahadura_Merkazit_210626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21740798/21740798_noAdds/21740798_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21740798/21740798_noAdds/21740798_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fafed5c055fdb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-fafed5c055fdb91026.htm",
           "ShortDescriptionLine2": "The rabbis' recordings are revealed: no one will enlist",
           "Date": "2026-01-21T19:53:21+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 21.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 21.01.26"
         },
         {
           "Title": "המהדורה המוקדמת: 21.01.26",
@@ -2284,6 +2284,20 @@
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.21.26"
         },
         {
+          "Title": "מהדורת היום: 21.01.26",
+          "Poster": "https://img.mako.co.il/2026/01/21/Mahadurat_Hayom_210126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/15hayom_vtr2_n20260121_v1/15hayom_vtr2_n20260121_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/15hayom_vtr2_n20260121_v1/15hayom_vtr2_n20260121_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "496445b7f1fdb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/35e235070007b910/VOD-496445b7f1fdb91026.htm",
+          "ShortDescriptionLine2": "Reports in Gaza: dead and injured in a vehicle attack",
+          "Date": "2026-01-21T15:00:01+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Today's edition: 21.01.26"
+        },
+        {
           "Title": "חמש עם רפי רשף: 20.01.26",
           "Poster": "https://img.mako.co.il/2026/01/20/Hamesh_200126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2296,20 +2310,6 @@
           "Date": "2026-01-20T16:54:58+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 20.01.26"
-        },
-        {
-          "Title": "מהדורת היום: 20.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/20/Mahadurat_Hayom_200126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/15hayom_vtr2_n20260120_v1/15hayom_vtr2_n20260120_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/15hayom_vtr2_n20260120_v1/15hayom_vtr2_n20260120_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "795c8985d3adb910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/35e235070007b910/VOD-795c8985d3adb91027.htm",
-          "ShortDescriptionLine2": "The disaster in the nursery - assessment: the babies were dehydrated",
-          "Date": "2026-01-20T15:00:02+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Today's edition: 20.01.26"
         },
         {
           "Title": "חדשות סוף השבוע: 17.01.26",
@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: הכוכב הבא של המזרח התיכון [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d0ca971342bdb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-d0ca971342bdb91026.htm",
+          "ShortDescriptionLine2": "The grand finale really comes to a great country!",
+          "Date": "2026-01-21T21:39:43+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: The Next Star of the Middle East [live]"
+        },
+        {
           "Title": "נסלי ויואב: ראיון עם איתן הורן",
           "Poster": "https://img.mako.co.il/2026/01/21/Nesli_Yoav_210126_Eitan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2483,20 +2497,6 @@
           "Date": "2026-01-15T00:40:02+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you worked: a journey into the future"
-        },
-        {
-          "Title": "ארץ נהדרת: הבלאגן באיראן מגיע לאולפן",
-          "Poster": "https://img.mako.co.il/2026/01/14/Eretz_Nehederet23_11_140126_Trump_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_11_140126_VOD_NEW_ghg589/Eretz_Nehederet23_11_140126_VOD_NEW_ghg589_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_11_140126_VOD_NEW_ghg589/Eretz_Nehederet23_11_140126_VOD_NEW_ghg589_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4adf7e4a77bbb910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-4adf7e4a77bbb91027.htm",
-          "ShortDescriptionLine2": "Trump arrives to give answers together with the panel of experts",
-          "Date": "2026-01-14T21:59:41+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: The rush in Iran comes to the studio"
         },
         {
           "Title": "חשיפה: תיק זוהר ארגוב נפתח",
