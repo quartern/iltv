@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הסוכנות עונה 1 | פרק 2 - נאמנות",
+          "ShortDescriptionLine1": "The agency season 1 | Chapter 2 - Loyalty",
+          "ShortDescriptionLine2": "2026-01-22 22:00:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3laodmn2/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_3laodmn2/a.m3u8"
+          ],
+          "StreamerId": "1_3laodmn2",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-963910/s1/971342",
+          "Date": "2026-01-22 22:00:43"
+        },
+        {
           "Title": "סטורי טיים",
           "ShortDescriptionLine1": "Story time",
           "ShortDescriptionLine2": "2026-01-22 20:07:36",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_x7jdxph4",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/983842",
           "Date": "2026-01-19 19:27:43"
-        },
-        {
-          "Title": "תגידו קצר | פרק 60 - 19.01.26",
-          "ShortDescriptionLine1": "Say it briefly Chapter 60 - 19.01.26",
-          "ShortDescriptionLine2": "2026-01-19 17:43:04",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gtj7m1rd/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_gtj7m1rd/a.m3u8"
-          ],
-          "StreamerId": "1_gtj7m1rd",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/991121",
-          "Date": "2026-01-19 17:43:04"
         }
       ]
     },
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: שגריר ארה״ב לשעבר באולפן [live]",
+          "Title": "דוח מצב עם עינב וירון: שגריר ארה״ב לשעבר באולפן",
           "Poster": "https://img.mako.co.il/2026/01/22/Doh_Matzav_220126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21740833/21740833_noAdds/21740833_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/21740833/21740833_noAdds/21740833_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "657c00ef9b4eb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-657c00ef9b4eb91026.htm",
           "ShortDescriptionLine2": "How did Yoav Limor become a target of the Iranians?",
           "Date": "2026-01-22T22:53:33+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Situation report with Einav Veyron: former US ambassador in the studio [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav Veyron: former US ambassador in the studio"
         },
         {
           "Title": "נסלי ויואב: הדריכות בישראל",
