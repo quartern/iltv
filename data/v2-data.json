@@ -660,6 +660,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "עושים שישי עם אריק וייס 23.01.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
+          "StreamerId": "1_273y7u45",
+          "Date": "2026-01-23 22:16:05",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/osim-shishi/episodes/j5svn-904941801/",
+          "ShortDescriptionLine1": "Osim Shishi",
+          "ShortDescriptionLine2": "2026-01-23 22:16:05",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_273y7u45/flavorIds/1_pukhmedw,1_zxhng365,1_h454mnla,1_vjjrze0u,1_ky18jrb8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המגזין 23.01.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
           "StreamerId": "1_i75lfzoa",
@@ -765,18 +777,6 @@
           "ShortDescriptionLine2": "2026-01-16 23:03:45",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_7zrrvmrm/flavorIds/1_x0cjepav,1_597xbz8g,1_tml81h9l,1_unskqtwi,1_vdn87mrx,1_mdm9etq3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "עושים שישי עם אריק וייס 16.01.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
-          "StreamerId": "1_f5fnpjx7",
-          "Date": "2026-01-16 20:53:27",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/606/season/1/4242226/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-01-16 20:53:27",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_f5fnpjx7/flavorIds/1_o523g9od,1_1mdw38u8,1_ajpj9mfr,1_5kp56gi8,1_zwd4adk1,1_btqb5dcs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 23.01.26 [live]",
+          "Title": "אולפן שישי: 23.01.26",
           "Poster": "https://img.mako.co.il/2026/01/23/Ulpan_Shisi_230126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21740847/21740847_noAdds/21740847_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21740847/21740847_noAdds/21740847_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3b36ceb81a4eb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/ec4629f046f6b910/VOD-3b36ceb81a4eb91026.htm",
           "ShortDescriptionLine2": "The deployment of American forces in the Middle East",
           "Date": "2026-01-23T19:54:16+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Studio Friday: 23.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Studio Friday: 23.01.26"
         },
         {
           "Title": "המהדורה המרכזית: 22.01.26",
