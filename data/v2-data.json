@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר בשישי | 23.01.26",
+          "ShortDescriptionLine1": "Glick and Tamar on Friday 23.01.26",
+          "ShortDescriptionLine2": "2026-01-23 18:09:30",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_y1h5ebvp/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_y1h5ebvp/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_y1h5ebvp",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/992286",
+          "Date": "2026-01-23 18:09:30"
+        },
+        {
           "Title": "חדשות הלילה | 22.01.26",
           "ShortDescriptionLine1": "Tonight's news 22.01.26",
           "ShortDescriptionLine2": "2026-01-22 22:18:18",
@@ -605,18 +617,6 @@
           "StreamerId": "1_xng8n7nx",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/990491",
           "Date": "2026-01-17 18:06:33"
-        },
-        {
-          "Title": "גליק ותמר בשישי | 16.01.26",
-          "ShortDescriptionLine1": "Glick and Tamar on Friday 16.01.26",
-          "ShortDescriptionLine2": "2026-01-17 08:49:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_dny62x8s/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_dny62x8s/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_dny62x8s",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/990316",
-          "Date": "2026-01-17 08:49:07"
         },
         {
           "Title": "חדשות שישי | 16.01.26",
@@ -2242,6 +2242,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 23.01.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "3b36ceb81a4eb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/ec4629f046f6b910/VOD-3b36ceb81a4eb91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-01-23T19:54:16+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Studio Friday: 23.01.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 22.01.26",
           "Poster": "https://img.mako.co.il/2026/01/22/Mahadura_Merkazit_220626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2368,20 +2382,6 @@
           "ShortDescriptionLine1": "The young edition: 17.01.26"
         },
         {
-          "Title": "אולפן שישי: 16.01.26",
-          "Poster": "https://img.mako.co.il/2026/01/16/Ulpan_Shishi_160126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2026/Jan/Ulpan_Shishi_160126_VOD_NIF492/Ulpan_Shishi_160126_VOD_NIF492_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Ulpan_Shishi/2026/Jan/Ulpan_Shishi_160126_VOD_NIF492/Ulpan_Shishi_160126_VOD_NIF492_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ad1fe3dcb60cb910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/ulpan-shishi-2026/ec4629f046f6b910/VOD-ad1fe3dcb60cb91026.htm",
-          "ShortDescriptionLine2": "Zagori Imperia - the real story",
-          "Date": "2026-01-16T19:55:16+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Studio Friday: 16.01.26"
-        },
-        {
           "Title": "פגוש את העיתונות: 10.01.26",
           "Poster": "https://img.mako.co.il/2026/01/10/Pgosh_100126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה: הדריכות בישראל [live]",
-          "Poster": "https://img.mako.co.il/2025/11/07/Ofira_X5_re_autoOrient_I_reduced.jpg",
+          "Title": "אופירה: הדריכות בישראל",
+          "Poster": "https://img.mako.co.il/2026/01/23/Ofira_230126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira/21740854/21740854_noAdds/21740854_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Ofira/21740854/21740854_noAdds/21740854_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4df03832b05eb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira-2026/VOD-4df03832b05eb91026.htm",
           "ShortDescriptionLine2": "What does Trump want - immediate war or peace?",
           "Date": "2026-01-23T18:00:11+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Ofira: the vigilance in Israel [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Ofira: the vigilance in Israel"
         },
         {
           "Title": "דוח מצב עם עינב וירון: שגריר ארה״ב לשעבר באולפן",
