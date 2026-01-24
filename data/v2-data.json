@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "פגישה עם רוני קובן עונה 10 | פרק 9 - עדי שהם",
+          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 9 - Adi Shoham",
+          "ShortDescriptionLine2": "2026-01-24 19:33:47",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rgqto9c0/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_rgqto9c0/a.m3u8"
+          ],
+          "StreamerId": "1_rgqto9c0",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s10/992297",
+          "Date": "2026-01-24 19:33:47"
+        },
+        {
           "Title": "שאלון קצר עם מיקי קם",
           "ShortDescriptionLine1": "A short questionnaire with Mickey Kam",
           "ShortDescriptionLine2": "2026-01-23 21:13:28",
@@ -1296,18 +1308,6 @@
           "StreamerId": "1_law8fzyj",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13401/s8/990853",
           "Date": "2026-01-20 19:29:50"
-        },
-        {
-          "Title": "זהו זה! עונה 8 | פרק 11 - 20.01.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 11 - 20.01.26",
-          "ShortDescriptionLine2": "2026-01-20 19:27:05",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_81e0init/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_81e0init/a.m3u8"
-          ],
-          "StreamerId": "1_81e0init",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/991195",
-          "Date": "2026-01-20 19:27:05"
         }
       ]
     },
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 24.01.26 [live]",
+          "Title": "חדשות סוף השבוע: 24.01.26",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21740876/21740876_noAdds/21740876_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21740876/21740876_noAdds/21740876_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b09510451e4eb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-b09510451e4eb91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-24T19:54:10+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Weekend news: 24.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Weekend news: 24.01.26"
         },
         {
           "Title": "פגוש את העיתונות: 24.01.26",
@@ -2541,48 +2541,6 @@
           "ShortDescriptionLine1": "Chasifa (Exposure): Zohar Argov bag opened"
         },
         {
-          "Title": "עובדה: איש הסוד",
-          "Poster": "https://img.mako.co.il/2026/01/08/Uvda2026_05_080126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/Jan/Uvda2026_05_080126_VOD_rey679/Uvda2026_05_080126_VOD_rey679_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/Jan/Uvda2026_05_080126_VOD_rey679/Uvda2026_05_080126_VOD_rey679_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a732b6c2e7c9b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-a732b6c2e7c9b91026.htm",
-          "ShortDescriptionLine2": "The one who was Yitzhak Herzog's confidant opens everything",
-          "Date": "2026-01-08T21:32:16+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: The Secret Man"
-        },
-        {
-          "Title": "עובדה: רומי גונן - החלק השני",
-          "Poster": "https://img.mako.co.il/2026/01/01/Uvda_010126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/Jan/Uvda2026_04_010126_VOD_fgh123/Uvda2026_04_010126_VOD_fgh123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/Jan/Uvda2026_04_010126_VOD_fgh123/Uvda2026_04_010126_VOD_fgh123_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a0f714db9587b910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-a0f714db9587b91027.htm",
-          "ShortDescriptionLine2": "Romi Gonen's brave testimony - the last part",
-          "Date": "2026-01-01T21:38:48+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: Romi Gonen - the second part"
-        },
-        {
-          "Title": "עובדה: רומי גונן - באומץ יוצא דופן",
-          "Poster": "https://img.mako.co.il/2025/12/25/Uvda26_03_251225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2025/Dec/Uvda2026_03_251225_VOD_dol204/Uvda2026_03_251225_VOD_dol204_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2025/Dec/Uvda2026_03_251225_VOD_dol204/Uvda2026_03_251225_VOD_dol204_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "61b098698545b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-61b098698545b91026.htm",
-          "ShortDescriptionLine2": "The brave and extraordinary testimony of Romi Gonen",
-          "Date": "2025-12-25T21:40:45+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: Romi Gonen - with extraordinary courage"
-        },
-        {
           "Title": "נוטוק: פרק הסיום",
           "Poster": "https://img.mako.co.il/2025/12/15/Nutuk_08_151225_8_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2595,20 +2553,6 @@
           "Date": "2025-12-15T22:02:18+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Nutuk: The Final Chapter"
-        },
-        {
-          "Title": "עובדה: הצילומים האבודים מהמנהרות",
-          "Poster": "https://img.mako.co.il/2025/12/11/Uvda_2025_1_111225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2025/Dec/Uvda26_01_121225_VOD_hvy77/Uvda26_01_121225_VOD_hvy77_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2025/Dec/Uvda26_01_121225_VOD_hvy77/Uvda26_01_121225_VOD_hvy77_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "3f7248b027c0b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-3f7248b027c0b91026.htm",
-          "ShortDescriptionLine2": "The lost footage from the tunnels is revealed",
-          "Date": "2025-12-11T21:31:18+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: the lost footage from the tunnels"
         },
         {
           "Title": "נוטוק: הסרטון שחושף את הסוד של עלי",
@@ -2693,20 +2637,6 @@
           "Date": "2025-11-04T22:02:06+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Nutuk: Everything is going to change"
-        },
-        {
-          "Title": "עובדה: זהות סודית בשבי",
-          "Poster": "https://img.mako.co.il/2025/10/30/Uvda2024_301025_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2024/EP/Uvda2024_19_301025_VOD_DNI482/Uvda2024_19_301025_VOD_DNI482_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2024/EP/Uvda2024_19_301025_VOD_DNI482/Uvda2024_19_301025_VOD_DNI482_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "89cb84b7b1f2a910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-89cb84b7b1f2a91027.htm",
-          "ShortDescriptionLine2": "Maxim Harkin speaks for the first time about what happened to him in captivity",
-          "Date": "2025-10-30T21:41:35+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: a secret identity in captivity"
         },
         {
           "Title": "נוטוק: פרק הבכורה",
