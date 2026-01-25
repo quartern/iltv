@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "בנימיני וגואטה | 25.01.26",
+          "ShortDescriptionLine1": "Binyamini and Guetta | 25.01.26",
+          "ShortDescriptionLine2": "2026-01-25 17:08:26",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_88436waf/poster",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_88436waf/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_88436waf",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/992853",
+          "Date": "2026-01-25 17:08:26"
+        },
+        {
           "Title": "העולם היום | 25.01.26",
           "ShortDescriptionLine1": "The world today 25.01.26",
           "ShortDescriptionLine2": "2026-01-25 15:28:57",
@@ -593,18 +605,6 @@
           "StreamerId": "1_hp0uiud8",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/991966",
           "Date": "2026-01-22 17:58:05"
-        },
-        {
-          "Title": "חן ליברמן וישי שנרב | 22.01.26",
-          "ShortDescriptionLine1": "Chen Lieberman and Vichy Schnerev 22.01.26",
-          "ShortDescriptionLine2": "2026-01-22 16:30:51",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_x6pnksgu/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_x6pnksgu/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_x6pnksgu",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/991964",
-          "Date": "2026-01-22 16:30:51"
         },
         {
           "Title": "המתנה שלא זכה להכיר: איגור שם קץ לחייו בעקבות 7.10 - אלמנתו חן ילדה את בנם",
@@ -2256,18 +2256,18 @@
           "ShortDescriptionLine1": "Early release: 25.01.26 [live]"
         },
         {
-          "Title": "שש עם עודד בן עמי: 25.01.26 [live]",
+          "Title": "שש עם עודד בן עמי: 25.01.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21740907/21740907_noAdds/21740907_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21740907/21740907_noAdds/21740907_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "447662c2ad3fb910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/c83535070007b910/VOD-447662c2ad3fb91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-01-25T17:56:03+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 25.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 25.01.26"
         },
         {
           "Title": "חמש עם רפי רשף: 25.01.26",
@@ -2338,6 +2338,20 @@
           "Date": "2026-01-24T16:58:46+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Saturday at five: 24.01.26"
+        },
+        {
+          "Title": "המהדורה הצעירה: 24.01.26",
+          "Poster": "https://img.mako.co.il/2026/01/24/Mahadura_Zeira_240126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/zeitaleket_vtr_20260123_V1/zeitaleket_vtr_20260123_V1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/zeitaleket_vtr_20260123_V1/zeitaleket_vtr_20260123_V1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "d929af488d4eb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2026/fb4335070007b910/VOD-d929af488d4eb91026.htm",
+          "ShortDescriptionLine2": "Off-road motorcycle riding competitions",
+          "Date": "2026-01-24T07:10:44+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "The young edition: 24.01.26"
         },
         {
           "Title": "אולפן שישי: 23.01.26",
