@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 27.01.26",
+          "ShortDescriptionLine1": "Evening News | 27.01.26",
+          "ShortDescriptionLine2": "2026-01-27 21:34:00",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_ss71wjk0/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ss71wjk0/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_ss71wjk0",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/993599",
+          "Date": "2026-01-27 21:34:00"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 27.01.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 27.01.26",
           "ShortDescriptionLine2": "2026-01-27 21:02:30",
@@ -2209,8 +2221,8 @@
           "Title": "המהדורה המרכזית: 27.01.26",
           "Poster": "https://img.mako.co.il/2026/01/27/Mahadura_Merkazit_270126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21740966/21740966_noAdds/21740966_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21740966/21740966_noAdds/21740966_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/01/20dani_vtr2_n20260127_v1/20dani_vtr2_n20260127_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/01/20dani_vtr2_n20260127_v1/20dani_vtr2_n20260127_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "19eb19d532efb910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-19eb19d532efb91027.htm",
@@ -2365,6 +2377,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "d36b0f68f24fb910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-d36b0f68f24fb91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-01-27T23:29:25+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: רן גואילי ז\"ל הושב לישראל",
           "Poster": "https://img.mako.co.il/2026/01/27/Nesli_Yoav_270126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2391,20 +2417,6 @@
           "Date": "2026-01-27T07:10:29+02:00",
           "Live": false,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the transition to Phase B in Gaza"
-        },
-        {
-          "Title": "אברי ושרקי: רן גואילי ז\"ל חזר הביתה",
-          "Poster": "https://img.mako.co.il/2026/01/26/Avri_Sherki_260126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_260126_VOD_gty654/Avri_Sherki_260126_VOD_gty654_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/January/Avri_Sherki_260126_VOD_gty654/Avri_Sherki_260126_VOD_gty654_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1f8b0f68f24fb910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-1f8b0f68f24fb91027.htm",
-          "ShortDescriptionLine2": "The late Ran Gueli returned home - the families come full circle",
-          "Date": "2026-01-26T23:24:28+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Avery and Sharky: The late Ran Guili returned home"
         },
         {
           "Title": "אופירה: הדריכות בישראל",
