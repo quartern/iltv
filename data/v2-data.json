@@ -1022,6 +1022,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "החוקר והרב | פרק 2 - שבעים ימים",
+          "ShortDescriptionLine1": "The researcher and rabbi Chapter 2 - Seventy days",
+          "ShortDescriptionLine2": "2026-01-28 19:37:41",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_4wtu4l4w/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4wtu4l4w/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_4wtu4l4w",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-986836/s1/993370",
+          "Date": "2026-01-28 19:37:41"
+        },
+        {
           "Title": "תגידו קצר | פרק 67 - 28.01.26",
           "ShortDescriptionLine1": "Say it briefly Chapter 67 - 28.01.26",
           "ShortDescriptionLine2": "2026-01-28 17:44:26",
@@ -1248,18 +1260,6 @@
           "StreamerId": "1_1l6hnkxl",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/393227",
           "Date": "2026-01-26 11:00:34"
-        },
-        {
-          "Title": "קופה ראשית עונה 4 | פרק 8 - מרד בר כוכבה",
-          "ShortDescriptionLine1": "KupaRashit (checkout) Season 4 | Chapter 8 - Bar Kochva Rebellion",
-          "ShortDescriptionLine2": "2026-01-26 11:00:20",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_w6dy5g0u/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_w6dy5g0u/a.m3u8"
-          ],
-          "StreamerId": "1_w6dy5g0u",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s4/389973",
-          "Date": "2026-01-26 11:00:20"
         }
       ]
     },
@@ -2194,18 +2194,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 28.01.26 [live]",
+          "Title": "המהדורה המרכזית: 28.01.26",
           "Poster": "https://img.mako.co.il/2026/01/28/Mahadura_Merkazit_280126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21740997/21740997_noAdds/21740997_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21740997/21740997_noAdds/21740997_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2f192c3f6430c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47c335070007b910/VOD-2f192c3f6430c91027.htm",
           "ShortDescriptionLine2": "American action options against Iran",
           "Date": "2026-01-28T19:53:44+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 28.01.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 28.01.26"
         },
         {
           "Title": "המהדורה המוקדמת: 28.01.26",
@@ -2353,6 +2353,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: כל המידעים לשבוע הגורלי [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "20a40115d630c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-20a40115d630c91027.htm",
+          "ShortDescriptionLine2": "Great Land presents: all the information for the fateful week",
+          "Date": "2026-01-28T21:41:10+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: All the information for the fateful week [live]"
+        },
+        {
           "Title": "נסלי ויואב: מפקדו של רן גואילי ז\"ל נפרד",
           "Poster": "https://img.mako.co.il/2026/01/28/Nesli_Yoav_280126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2435,20 +2449,6 @@
           "Date": "2026-01-22T00:09:48+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: how many books did you actually read this year?"
-        },
-        {
-          "Title": "ארץ נהדרת: הכוכב הבא של המזרח התיכון",
-          "Poster": "https://img.mako.co.il/2026/01/21/Eretz_Nehederet23_12_210126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_12_210126_VOD_hgy765/Eretz_Nehederet23_12_210126_VOD_hgy765_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_12_210126_VOD_hgy765/Eretz_Nehederet23_12_210126_VOD_hgy765_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d0ca971342bdb910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-d0ca971342bdb91026.htm",
-          "ShortDescriptionLine2": "The grand finale really comes to a great country!",
-          "Date": "2026-01-21T21:39:43+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: The Next Star of the Middle East"
         },
         {
           "Title": "אופירה: האם טראמפ ישנה את מזה\"ת?",
