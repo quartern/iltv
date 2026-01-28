@@ -463,6 +463,18 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 28.01.26",
+          "ShortDescriptionLine1": "Tonight's news 28.01.26",
+          "ShortDescriptionLine2": "2026-01-28 21:39:50",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_iglkh9o3/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_iglkh9o3/format/applehttp/protocol/https/desiredFileName.m3u8"
+          ],
+          "StreamerId": "1_iglkh9o3",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/993944",
+          "Date": "2026-01-28 21:39:50"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 28.01.26",
           "ShortDescriptionLine1": "Evening News | 28.01.26",
           "ShortDescriptionLine2": "2026-01-28 21:14:56",
@@ -509,18 +521,6 @@
           "StreamerId": "1_dryfyxtv",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/993841",
           "Date": "2026-01-28 16:16:06"
-        },
-        {
-          "Title": "חדשות הלילה | 27.01.26",
-          "ShortDescriptionLine1": "Tonight's news 27.01.26",
-          "ShortDescriptionLine2": "2026-01-27 22:01:17",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_klyaxrxo/poster",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_klyaxrxo/format/applehttp/protocol/https/desiredFileName.m3u8"
-          ],
-          "StreamerId": "1_klyaxrxo",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/993617",
-          "Date": "2026-01-27 22:01:17"
         },
         {
           "Title": "חדשות השבת | 24.01.26",
@@ -2354,13 +2354,13 @@
       "Items": [
         {
           "Title": "ארץ נהדרת: כל המידעים לשבוע הגורלי",
-          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/01/28/Eretz_Nehederet23_13_280126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/21740998/21740998_noAdds/21740998_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/21740998/21740998_noAdds/21740998_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_13_280126_VOD_htg485/Eretz_Nehederet23_13_280126_VOD_htg485_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_13_280126_VOD_htg485/Eretz_Nehederet23_13_280126_VOD_htg485_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "20a40115d630c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-20a40115d630c91027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-20a40115d630c91027.htm",
           "ShortDescriptionLine2": "Great Land presents: all the information for the fateful week",
           "Date": "2026-01-28T21:41:10+02:00",
           "Live": false,
