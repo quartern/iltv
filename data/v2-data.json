@@ -1010,6 +1010,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הסוכנות עונה 1 | פרק 7 - חיים או מוות",
+          "ShortDescriptionLine1": "The agency season 1 | Chapter 7 - Life or Death",
+          "ShortDescriptionLine2": "2026-01-29 21:20:53",
+          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_bikwy64h/width/400/vid_sec/5",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_bikwy64h/a.m3u8"
+          ],
+          "StreamerId": "1_bikwy64h",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-963910/s1/971413",
+          "Date": "2026-01-29 21:20:53"
+        },
+        {
           "Title": "חברות הכי כנות – על סקס ועוד",
           "ShortDescriptionLine1": "The most honest friends - about sex and more",
           "ShortDescriptionLine2": "2026-01-29 20:08:34",
@@ -1236,18 +1248,6 @@
           "StreamerId": "1_uxqmdhze",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/993498",
           "Date": "2026-01-27 19:32:59"
-        },
-        {
-          "Title": "תגידו קצר | פרק 66 - 27.01.26",
-          "ShortDescriptionLine1": "Say it briefly Chapter 66 - 27.01.26",
-          "ShortDescriptionLine2": "2026-01-27 17:42:35",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kfb4ip20/poster",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_kfb4ip20/a.m3u8"
-          ],
-          "StreamerId": "1_kfb4ip20",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-962897/s1/993496",
-          "Date": "2026-01-27 17:42:35"
         }
       ]
     },
@@ -2341,18 +2341,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: סוכן בלב איראן  [live]",
-          "Poster": "https://img.mako.co.il/2026/01/29/POSTER_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: הדילמה של טראמפ [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f7c24bd2ff30c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-f7c24bd2ff30c91026.htm",
+          "ShortDescriptionLine2": "Trump's dilemma - what will be the intensity of the attack in Iran",
+          "Date": "2026-01-29T23:17:20+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Trump's dilemma [live]"
+        },
+        {
+          "Title": "עובדה: סוכן בלב איראן ",
+          "Poster": "https://img.mako.co.il/2026/01/29/POSTER_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/21840825/21840825_noAdds/21840825_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2026/21840825/21840825_noAdds/21840825_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "09fe4bd2ff30c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-09fe4bd2ff30c91026.htm",
           "ShortDescriptionLine2": "A Mossad agent who was operating in Iran on the night of the surprise attack is speaking",
           "Date": "2026-01-29T21:47:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Uvda: an agent in the heart of Iran [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Uvda: an agent in the heart of Iran"
         },
         {
           "Title": "נסלי ויואב: ראיון עם משפחת גואילי",
@@ -2437,20 +2451,6 @@
           "Date": "2026-01-23T18:00:11+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Ofira: the vigilance in Israel"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: שגריר ארה״ב לשעבר באולפן",
-          "Poster": "https://img.mako.co.il/2026/01/22/Doh_Matzav_220126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/January/Doh_Matzav_220126_VOD_fbp357/Doh_Matzav_220126_VOD_fbp357_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/January/Doh_Matzav_220126_VOD_fbp357/Doh_Matzav_220126_VOD_fbp357_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "657c00ef9b4eb910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-657c00ef9b4eb91026.htm",
-          "ShortDescriptionLine2": "How did Yoav Limor become a target of the Iranians?",
-          "Date": "2026-01-22T22:53:33+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Situation report with Einav Veyron: former US ambassador in the studio"
         },
         {
           "Title": "בזמן שעבדתם: כמה ספרים באמת קראתם השנה?",
