@@ -2149,11 +2149,11 @@
           "Title": "חדשות סוף השבוע: 31.01.26",
           "Poster": "https://img.mako.co.il/2026/01/31/Hadshot_Sof_Hashavua_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/21741072/21741072_noAdds/21741072_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/21741072/21741072_noAdds/21741072_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2026/January/Hadshot_Sof_Hashavua_310126_VOD_jgvbu8/Hadshot_Sof_Hashavua_310126_VOD_jgvbu8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Hadshot_Sof_Hashavua/2026/January/Hadshot_Sof_Hashavua_310126_VOD_jgvbu8/Hadshot_Sof_Hashavua_310126_VOD_jgvbu8_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e469d5a18c90c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-e469d5a18c90c91027.htm",
+          "EpisodeUrl": "/mako-vod-channel2-news/weekend-news-2026/4b1435070007b910/VOD-e469d5a18c90c91027.htm",
           "ShortDescriptionLine2": "The preparations in Israel and the series of explosions in Iran",
           "Date": "2026-01-31T19:54:10+02:00",
           "Live": false,
@@ -2772,6 +2772,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים, 31.01.26",
+          "StreamerId": "6388604250112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/815c56c2-82ae-4f57-8183-61e31c68f13d/34a13346-ece6-4218-905a-b80943575945/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6388604250112",
+          "Date": "2026-01-31T20:45:43Z",
+          "ShortDescriptionLine1": "The Arabists, 31.01.26",
+          "ShortDescriptionLine2": "2026-01-31T20:45:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/815c56c2-82ae-4f57-8183-61e31c68f13d/10s/master.m3u8?fastly_token=NjlhMzY4ZWFfMzg1N2FjNzZkNzY4Yzc5NDQxZjlmNzI0ZTczNTQxNTJkY2QyMmQ3NDE5YWQxYjZjN2U1YTA0MDgyMGQ4MjEzYg%3D%3D"
+          ]
+        },
+        {
           "Title": "מגזין השבת, 31.01.26",
           "StreamerId": "6388600449112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8825d8e7-a0a5-48e6-bedc-ed8b737780d7/059ed9db-4acf-4747-8e2a-7b66d3bb2090/320x180/match/image.jpg",
@@ -3057,18 +3069,6 @@
           "ShortDescriptionLine2": "2026-01-23T20:03:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a89585b1-83dc-4c8c-a244-a121eeee4ca3/10s/master.m3u8?fastly_token=Njk5OGVjZjRfMmM5MzcxNjhkZTFjZGIzZjYwYjZmYWVkYjQ2OGZlZWEwMTY1MTBhZGFjNjE4OTg0NDliODgxZjIzNDhmNGM3Ng%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים, 22.01.26",
-          "StreamerId": "6388107243112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/316b79be-1cc0-4918-ae1d-eb4584e72e64/e73c9968-a39e-404f-9b1a-170ed762a788/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6388107243112",
-          "Date": "2026-01-22T22:03:14Z",
-          "ShortDescriptionLine1": "The Arabists, 22.01.26",
-          "ShortDescriptionLine2": "2026-01-22T22:03:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/316b79be-1cc0-4918-ae1d-eb4584e72e64/10s/master.m3u8?fastly_token=Njk5NzlkZDBfZDQxZTU5NmJlNTVkN2QxOWM4ZWQ5ZmIxYjdiYjNlYThhNDAzNTVhOTExOWQ1NmUzOTM5Y2I1ZTJhOTUxNzg5Zg%3D%3D"
           ]
         },
         {
