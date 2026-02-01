@@ -540,6 +540,18 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור בחירה 01.02.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
+          "StreamerId": "1_5ti55g2z",
+          "Date": "2026-02-01 21:34:09",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4264095/",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-02-01 21:34:09",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5ti55g2z/flavorIds/1_gqq4kuff,1_bxsz8ehw,1_szmn1evh,1_1u3s3e5e,1_dl81wvtp,1_alfxlg9n/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מוריה וברקו 01.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_9hb0rb6f",
@@ -645,18 +657,6 @@
           "ShortDescriptionLine2": "2026-01-29 23:40:48",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dx0boh66/flavorIds/1_96lxvz1v,1_qbnsa4vy,1_grop9j9i,1_8mpx910g,1_aj6ry6h1,1_xrtrdllj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור בחירה 29.01.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
-          "StreamerId": "1_nkqyk3nv",
-          "Date": "2026-01-29 21:13:18",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4259944/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-01-29 21:13:18",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nkqyk3nv/flavorIds/1_psx2n4pp,1_wlkhbv4c,1_vwlwpfii,1_vt8c92kt,1_dg5ngf3p,1_5mg8k408/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2122,18 +2122,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 01.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 01.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/01/Mahadura_Merkazit_010226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21840700/21840700_noAdds/21840700_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21840700/21840700_noAdds/21840700_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "28a4fe7fff71c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-28a4fe7fff71c91027.htm",
           "ShortDescriptionLine2": "Trump's messages to the Iranians",
           "Date": "2026-02-01T19:52:41+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 01.02.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 01.02.26"
         },
         {
           "Title": "המהדורה המוקדמת: 01.02.26",
