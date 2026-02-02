@@ -938,6 +938,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הורים בטיפול - פרק 1",
+          "ShortDescriptionLine1": "Parents in care - Chapter 1",
+          "ShortDescriptionLine2": "2026-02-02 20:02:31",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ae7lflcq/poster",
+          "StreamUrls": [
+            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_ae7lflcq/a.m3u8"
+          ],
+          "StreamerId": "1_ae7lflcq",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-798231/s1/798234",
+          "Date": "2026-02-02 20:02:31"
+        },
+        {
           "Title": "כל האימהות משקרות | פרק 1 - ערב סרט",
           "ShortDescriptionLine1": "All mothers lie Chapter 1 - Movie night",
           "ShortDescriptionLine2": "2026-02-02 19:28:33",
@@ -1164,18 +1176,6 @@
           "StreamerId": "1_98bzszix",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-965576/993490",
           "Date": "2026-01-29 10:37:48"
-        },
-        {
-          "Title": "טעמו של שינוי | פרק 3 - אוכל להצלת הפלנטה",
-          "ShortDescriptionLine1": "The taste of change Chapter 3 - Food to save the planet",
-          "ShortDescriptionLine2": "2026-01-29 10:30:50",
-          "Poster": "https://cdnapisec.kaltura.com/p/2717431/thumbnail/entry_id/1_nxxbp0ze/width/400/vid_sec/5",
-          "StreamUrls": [
-            "https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_nxxbp0ze/a.m3u8"
-          ],
-          "StreamerId": "1_nxxbp0ze",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-974867/s1/975931",
-          "Date": "2026-01-29 10:30:50"
         }
       ]
     },
@@ -2110,18 +2110,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 02.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 02.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/02/Mahadura_Merkazit_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21840728/21840728_noAdds/21840728_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21840728/21840728_noAdds/21840728_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e0c9fd8085d1c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-e0c9fd8085d1c91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The seniors who were summoned to a meeting with Witkoff",
           "Date": "2026-02-02T19:53:44+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Main edition: 02.02.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Main edition: 02.02.26"
         },
         {
           "Title": "המהדורה המוקדמת: 02.02.26",
@@ -2323,6 +2323,20 @@
           "Date": "2026-01-30T17:59:43+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Ofira Ohana Sri: Who will be the first guest?"
+        },
+        {
+          "Title": "דוח מצב עם עינב וירון: הדילמה של טראמפ",
+          "Poster": "https://img.mako.co.il/2026/01/30/Doh_Matzav_290126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/January/Doh_Matzav_300126_VOD_ikd9356/Doh_Matzav_300126_VOD_ikd9356_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/January/Doh_Matzav_300126_VOD_ikd9356/Doh_Matzav_300126_VOD_ikd9356_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "f7c24bd2ff30c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-f7c24bd2ff30c91026.htm",
+          "ShortDescriptionLine2": "Trump's dilemma - what will be the intensity of the attack in Iran",
+          "Date": "2026-01-29T23:17:20+02:00",
+          "Live": false,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Trump's dilemma"
         },
         {
           "Title": "עובדה: סוכן בלב איראן ",
