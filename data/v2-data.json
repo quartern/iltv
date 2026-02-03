@@ -2417,11 +2417,11 @@
           "Title": "חדשות הבוקר עם ניב רסקין: בניית הממ\"דים בעוטף",
           "Poster": "https://img.mako.co.il/2026/02/03/Hadshot_Haboker_030226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/morning_raskin_2026/21840739/21840739_noAdds/21840739_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/morning_raskin_2026/21840739/21840739_noAdds/21840739_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_030226_VOD_bfp673/Hadshot_Haboker_030226_VOD_bfp673_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_030226_VOD_bfp673/Hadshot_Haboker_030226_VOD_bfp673_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7e4b20bc6581c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-7e4b20bc6581c91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-7e4b20bc6581c91026.htm",
           "ShortDescriptionLine2": "In Otef, new neighborhoods are being built with no change in dimensions",
           "Date": "2026-02-03T07:09:14+02:00",
           "Live": false,
@@ -2867,6 +2867,18 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הנדל\"ניסטים, 02.02.26 | בשיתוף אלין תקשורת",
+          "StreamerId": "6388685241112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7ae59ac5-d4d4-4646-9991-774245941128/227bbbef-945b-481b-a24e-05a3b1c5e7be/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6388685241112",
+          "Date": "2026-02-02T21:44:48Z",
+          "ShortDescriptionLine1": "The Realtors, 02.02.26 | In collaboration with Elin Communications",
+          "ShortDescriptionLine2": "2026-02-02T21:44:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7ae59ac5-d4d4-4646-9991-774245941128/10s/master.m3u8?fastly_token=NjlhNmQzMjNfY2VmZjc0MDY4NGUxNTNlOTRjZmVmODliOTdkYjRkYWU5ZTc0OGEyYTFiNzM0ODljN2U0OGRjODgzNDg1ZTg1Nw%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 02.02.26",
           "StreamerId": "6388685716112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8f3fa3d7-93de-4564-bc3a-973c50e63050/e141dea2-47d5-4095-ab21-42998d19b26b/320x180/match/image.jpg",
@@ -3164,18 +3176,6 @@
           "ShortDescriptionLine2": "2026-01-23T20:03:10Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a89585b1-83dc-4c8c-a244-a121eeee4ca3/10s/master.m3u8?fastly_token=NjlhNmE1MjhfNTdiMzMyMmNjYzBiOWEwYWYxYzg5ZWY4YTE1MDVmYmIxMmM5ZDQ2MjVhYjI1MjRjMDIyNDliOGNlMTk0YmQwZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הנדל\"ניסטים, 19.01.26 | בשיתוף אלין תקשורת",
-          "StreamerId": "6387955762112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5ee80830-cbc1-4ce3-9609-4490ea29a0b9/2daa8431-be8c-41e6-8e57-dfc13fa9b7f2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6387955762112",
-          "Date": "2026-01-19T21:45:57Z",
-          "ShortDescriptionLine1": "The Realtors, 19.01.26 | In collaboration with Elin Communications",
-          "ShortDescriptionLine2": "2026-01-19T21:45:57Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5ee80830-cbc1-4ce3-9609-4490ea29a0b9/10s/master.m3u8?fastly_token=NjlhNmEyMjRfYjNhMzYzMTA5Nzk0ZGUwZTkyMDVkNDUxNTcyM2VlNmNjMjE5YWFlMjVmNmY0MDE5MjExNDdlNmFhNzQzNTg4NQ%3D%3D"
           ]
         },
         {
