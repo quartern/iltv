@@ -2242,18 +2242,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 09.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/09/Sheva_VOD_a_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 09.02.26 [live]",
+          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=acd95b7af314c910VgnVCM100000700a10acRCRD&ts=1770660345",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "acd95b7af314c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-acd95b7af314c91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-02-09T19:53:41+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Main edition: 09.02.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 09.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/09/Sheva_VOD_a_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/21960583/21960583_noAdds/21960583_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Seven_With_Keren/21960583/21960583_noAdds/21960583_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d6354a42b214c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-d6354a42b214c91027.htm",
           "ShortDescriptionLine2": "Netanyahu leaves for the US, a wave of arrests in Iran",
           "Date": "2026-02-09T18:59:00+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 09.02.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 09.02.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 09.02.26",
@@ -2296,20 +2310,6 @@
           "Date": "2026-02-09T14:59:38+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Today's edition: 09.02.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 08.02.26",
-          "Poster": "https://img.mako.co.il/2026/02/08/Mahadura_Merkazit_080226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/February/Mahadura_Merkazit_080226_VOD_DHU382/Mahadura_Merkazit_080226_VOD_DHU382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/February/Mahadura_Merkazit_080226_VOD_DHU382/Mahadura_Merkazit_080226_VOD_DHU382_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b3c318f9deb3c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-b3c318f9deb3c91027.htm",
-          "ShortDescriptionLine2": "Chasifa (Exposure): The protocols from before October 7th",
-          "Date": "2026-02-08T19:53:50+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Main edition: 08.02.26"
         },
         {
           "Title": "חדשות סוף השבוע: 07.02.26",
