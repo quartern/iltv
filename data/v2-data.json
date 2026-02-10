@@ -660,12 +660,24 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 10.02.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_w7sh7gfs",
+          "Date": "2026-02-10 23:59:06",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/xix8m-904967613/",
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2026-02-10 23:59:06",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_w7sh7gfs/flavorIds/1_agrmr8ez,1_sqt9esqo,1_1pmsqbow,1_bx50tcr4,1_ik1mkxt9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 10.02.26 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_cniv3ueg",
           "Date": "2026-02-10 23:49:13",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/o7pus-904967553/",
-          "ShortDescriptionLine1": "The Main Edition",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4277668/",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-02-10 23:49:13",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cniv3ueg/flavorIds/1_3kit7tom,1_4byotm4s,1_2fdsfsur,1_wntdiqz7,1_oezajsla,1_zctizfsy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -717,18 +729,6 @@
           "ShortDescriptionLine2": "2026-02-10 18:15:20",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ds40ujik/flavorIds/1_9csmdyym,1_vrfldn9a,1_7999zgvv,1_zm16tppl,1_5fzq8dec,1_alqttchp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 09.02.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_w6qcqa3e",
-          "Date": "2026-02-09 23:59:28",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4276640/",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-09 23:59:28",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_w6qcqa3e/flavorIds/1_gkvkfig9,1_uibg960p,1_bejqlxix,1_vdrqy8n5,1_9lwgx8ny/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2026/02/10/Avri_Sherki_100226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21840962/21840962_noAdds/21840962_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21840962/21840962_noAdds/21840962_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "47b841947532c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-47b841947532c91027.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-02-10T23:25:22+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "נסלי ויואב: הפסטיבל לזכר שירי ביבס ז\"ל",
