@@ -2401,18 +2401,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: דיווחים מפגישת ביבי-טראמפ [live]",
+          "Title": "ארץ נהדרת: דיווחים מפגישת ביבי-טראמפ",
           "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/21840987/21840987_noAdds/21840987_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/21840987/21840987_noAdds/21840987_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a0e8990efa82c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-a0e8990efa82c91026.htm",
           "ShortDescriptionLine2": "Exclusive reports from the Bibi-Trump meeting",
           "Date": "2026-02-11T21:38:39+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "Eretz Nehederet: Reports from the Bibi-Trump meeting [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "Eretz Nehederet: Reports from the Bibi-Trump meeting"
         },
         {
           "Title": "נסלי ויואב: זיהום אוויר חמור",
@@ -2763,6 +2763,48 @@
           "Date": "2025-10-27T21:50:30+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Nutuk: The premiere episode"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם בן כספית",
+          "Poster": "https://img.mako.co.il/2025/05/09/Ma_Beemet_Kara_Sham_090525_Ben_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "85ccefcf7bea6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-85ccefcf7bea691026.htm",
+          "ShortDescriptionLine2": "Ben Caspit on the secret relationship between him and Netanyahu",
+          "Date": "2025-05-09T21:56:52+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Ben Caspit"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם אברי גלעד",
+          "Poster": "https://img.mako.co.il/2025/05/02/Ma_Beemet_Kara_Sham_020525_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "89458bdf93186910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-89458bdf9318691027.htm",
+          "ShortDescriptionLine2": "Avery Gilad arrives and opens everything in the studio",
+          "Date": "2025-05-02T22:10:32+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Avri Gilad"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם ניר דבורי",
+          "Poster": "https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e10edc7658666910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-e10edc765866691027.htm",
+          "ShortDescriptionLine2": "What really happened there? Nir Davori comes to the show",
+          "Date": "2025-04-25T22:09:54+03:00",
+          "Live": false,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Nir Davori"
         },
         {
           "Title": "טורקי והמשכנו: תנו לזה לשקוע ",
