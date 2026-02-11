@@ -59,7 +59,7 @@ function update {
     json2m3u < "${JSON_PATH}" > "${M3U_TMP_PATH}"
     if manifests_differ; then
         mv "${M3U_TMP_PATH}" "${M3U_PATH}"
-        git add "${M3U_PATH}"
+        git -C "${REPODIR}" add "${M3U_PATH}"
     fi
 }
 
