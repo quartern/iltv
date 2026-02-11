@@ -1070,6 +1070,18 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "האחוזון העליון עונה 3 | פרק 7",
+          "ShortDescriptionLine1": "The top percentile season 3 | Chapter 7",
+          "ShortDescriptionLine2": "2026-02-11 19:37:19",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan984363/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1999310/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan984363",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984363",
+          "Date": "2026-02-11 19:37:19"
+        },
+        {
           "Title": "תגידו קצר | פרק 77 - 11.02.26",
           "ShortDescriptionLine1": "Say it briefly Chapter 77 - 11.02.26",
           "ShortDescriptionLine2": "2026-02-11 17:42:59",
@@ -1296,18 +1308,6 @@
           "StreamerId": "kan965924",
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-965920/965924",
           "Date": "2026-02-07 20:19:12"
-        },
-        {
-          "Title": "פגישה עם רוני קובן עונה 10 | פרק 11 - גדי איזנקוט",
-          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 11 - Gadi Eisenkot",
-          "ShortDescriptionLine2": "2026-02-07 19:28:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan996446/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2164070/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan996446",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11486/s10/996446",
-          "Date": "2026-02-07 19:28:06"
         }
       ]
     },
@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 11.02.26 [live]",
+          "Title": "המהדורה המרכזית: 11.02.26",
           "Poster": "https://img.mako.co.il/2026/02/11/Mahadura_Merkazit_110226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21840988/21840988_noAdds/21840988_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21840988/21840988_noAdds/21840988_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2580b24a9c84c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-2580b24a9c84c91026.htm",
           "ShortDescriptionLine2": "Trump and Netanyahu's dramatic summit",
           "Date": "2026-02-11T19:53:10+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 11.02.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 11.02.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 11.02.26",
@@ -2401,6 +2401,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: דיווחים מפגישת ביבי-טראמפ [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a0e8990efa82c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-a0e8990efa82c91026.htm",
+          "ShortDescriptionLine2": "Exclusive reports from the Bibi-Trump meeting",
+          "Date": "2026-02-11T21:38:39+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Eretz Nehederet: Reports from the Bibi-Trump meeting [live]"
+        },
+        {
           "Title": "נסלי ויואב: זיהום אוויר חמור",
           "Poster": "https://img.mako.co.il/2026/02/11/Nesli_Yoav_110226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2483,20 +2497,6 @@
           "Date": "2026-02-05T00:06:51+02:00",
           "Live": false,
           "ShortDescriptionLine1": "While you were working: no entry for humans"
-        },
-        {
-          "Title": "ארץ נהדרת: הכוכבים החדשים באים",
-          "Poster": "https://img.mako.co.il/2026/02/04/Eretz_Nehederet23_14_040226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_14_040226_VOD_kjhg888/Eretz_Nehederet23_14_040226_VOD_kjhg888_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_14_040226_VOD_kjhg888/Eretz_Nehederet23_14_040226_VOD_kjhg888_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "56524a6485e1c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-56524a6485e1c91027.htm",
-          "ShortDescriptionLine2": "While waiting for an attack in Iran - the new stars are here",
-          "Date": "2026-02-04T21:42:53+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Eretz Nehederet: The new stars are coming"
         },
         {
           "Title": "אופירה אוחנה סרי: מי יהיה האורח הראשון?",
