@@ -24,6 +24,10 @@ function check_json_file {
 
 function main {
     local -i failed=0
+    # The m3u8 validate should only stop commits executed from the service (no human)
+    if ! ./m3u-convert.sh validate && [ -n "${GIT_SSH_COMMAND}" ]; then
+        failed=1
+    fi
     for jsonfile in $(find -name "*.json"); do
         check_json_file "${jsonfile}" || failed=1
     done
