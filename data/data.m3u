@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-02-12 13:04
+# Last updated: 2026-02-12 13:21
 
 #EXTINF:-1 tvg-logo="ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,8 +109,11 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998627/poster" group-title="11 News - Latest shows",שבע עם איילה חסון | 12.02.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166291/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998612/poster" group-title="11 News - Latest shows",כאן בשש | 12.02.26
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4&startTime=792604200000&stopTime=792608149000
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166286/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998598/poster" group-title="11 News - Latest shows",חן ליברמן וישי שנרב | 12.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166276/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -126,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165785/LIBCODER
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998189/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 11.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165779/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998146/poster" group-title="11 News - Latest shows",שבע עם איילה חסון | 11.02.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165749/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998054/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 11.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165710/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
