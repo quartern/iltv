@@ -2242,18 +2242,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.02.26 [live]",
+          "Title": "המהדורה המרכזית: 12.02.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21841016/21841016_noAdds/21841016_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21841016/21841016_noAdds/21841016_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f0fbeab61b05c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-f0fbeab61b05c91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-12T19:54:27+02:00",
-          "Live": true,
-          "ShortDescriptionLine1": "The main edition: 12.02.26 [live]"
+          "Live": false,
+          "ShortDescriptionLine1": "The main edition: 12.02.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 12.02.26",
@@ -2400,6 +2400,20 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "עובדה: קובי שבתאי מחליט לדבר [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Ovda2025_01N_x5_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "5e4866eb32e2c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-5e4866eb32e2c91027.htm",
+          "ShortDescriptionLine2": "Kobi Shabtai opens everything for the first time about everything that happened",
+          "Date": "2026-02-12T21:38:36+02:00",
+          "Live": true,
+          "ShortDescriptionLine1": "Uvda: Kobi Shabtai decides to speak [live]"
+        },
         {
           "Title": "נסלי ויואב: זעם המשפחות השכולות",
           "Poster": "https://img.mako.co.il/2026/02/12/Nesli_Yoav_120226_VOD_autoOrient_I_reduced.jpg",
@@ -2651,20 +2665,6 @@
           "Date": "2025-12-15T22:02:18+02:00",
           "Live": false,
           "ShortDescriptionLine1": "Nutuk: The Final Chapter"
-        },
-        {
-          "Title": "עובדה: הצילומים האבודים מהמנהרות",
-          "Poster": "https://img.mako.co.il/2025/12/11/Uvda_2025_1_111225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2025/Dec/Uvda26_01_121225_VOD_hvy77/Uvda26_01_121225_VOD_hvy77_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2025/Dec/Uvda26_01_121225_VOD_hvy77/Uvda26_01_121225_VOD_hvy77_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "3f7248b027c0b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-3f7248b027c0b91026.htm",
-          "ShortDescriptionLine2": "The lost footage from the tunnels is revealed",
-          "Date": "2025-12-11T21:31:18+02:00",
-          "Live": false,
-          "ShortDescriptionLine1": "Uvda: the lost footage from the tunnels"
         },
         {
           "Title": "נוטוק: הסרטון שחושף את הסוד של עלי",
