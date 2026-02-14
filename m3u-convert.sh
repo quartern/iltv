@@ -11,6 +11,10 @@ declare JSON_PATH="${REPODIR}/data/v2-data.json"
 declare M3U_PATH="${REPODIR}/data/data.m3u"
 declare M3U_TMP_PATH="${REPODIR}/data.m3u.new"
 
+# could try later to see if relative will work as well
+declare BASE_URL="https://raw.githubusercontent.com/quartern/iltv/develop"
+declare POSTERS_BASE_URL="${BASE_URL}/images/posters/"
+
 function json2m3u {
     printf '#EXTM3U\n'
     printf '# Last updated: %s\n\n' "$(date +"%Y-%m-%d %H:%M")"
@@ -19,6 +23,13 @@ function json2m3u {
         .Categories[] |
         .Name as $catname |
         .Items[] |
+        .Poster |= (
+             if startswith("http") then
+                 .
+             else
+                 "'"${POSTERS_BASE_URL}"'" + .
+             end
+        ) |
         "#EXTINF:\(.Duration // -1) tvg-logo=\"\(.Poster)\" group-title=\"\($catname)\",\(.Title)\n" +
         "\(.StreamUrls[0])\n"'
 }
