@@ -19,7 +19,7 @@ function json2m3u {
         .Categories[] |
         .Name as $catname |
         .Items[] |
-        "#EXTINF:-1 tvg-logo=\"\(.Poster)\" group-title=\"\($catname)\",\(.Title)\n" +
+        "#EXTINF:\(.Duration // -1) tvg-logo=\"\(.Poster)\" group-title=\"\($catname)\",\(.Title)\n" +
         "\(.StreamUrls[0])\n"'
 }
 
