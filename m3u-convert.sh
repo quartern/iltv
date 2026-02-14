@@ -11,9 +11,6 @@ declare JSON_PATH="${REPODIR}/data/v2-data.json"
 declare M3U_PATH="${REPODIR}/data/data.m3u"
 declare M3U_TMP_PATH="${REPODIR}/data.m3u.new"
 
-# All errors fatal
-set -e
-
 function json2m3u {
     printf '#EXTM3U\n'
     printf '# Last updated: %s\n\n' "$(date +"%Y-%m-%d %H:%M")"
@@ -78,4 +75,9 @@ function main {
     esac
 }
 
-main "${@}"
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    # All errors fatal
+    set -e
+
+    main "${@}"
+fi
