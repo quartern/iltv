@@ -1048,8 +1048,29 @@
           "ShortDescriptionLine2": "",
           "Poster": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",
           "StreamUrls": [
-            "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8",
-            "https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8"
+            "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "Fox News",
+          "ShortDescriptionLine1": "Fox News (very temporary)",
+          "ShortDescriptionLine2": "",
+          "Poster": "https://logodix.com/logo/276706.jpg",
+          "StreamUrls": [
+            "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "CNBC",
+          "ShortDescriptionLine1": "CNBC (very temporary)",
+          "ShortDescriptionLine2": "",
+          "Poster": "https://thedesk.net/wp-content/uploads/2025/12/BLANK-CNBC-New-Logo-Versant-2025-WEBP-TD.webp",
+          "StreamUrls": [
+            "https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
@@ -1061,6 +1082,17 @@
           "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/512px-CNN.svg.png",
           "StreamUrls": [
             "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8"
+          ],
+          "StreamFormat": "hls",
+          "Live": true
+        },
+        {
+          "Title": "CNN International",
+          "ShortDescriptionLine1": "CNN International (very temporary)",
+          "ShortDescriptionLine2": "",
+          "Poster": "https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg?c=16x9&q=w_630",
+          "StreamUrls": [
+            "https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8"
           ],
           "StreamFormat": "hls",
           "Live": true
