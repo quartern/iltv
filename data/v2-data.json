@@ -2380,19 +2380,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 15.02.26 [live]",
+          "Title": "שבע עם קרן מרציאנו: 15.02.26",
           "Poster": "https://img.mako.co.il/2026/02/15/Sheva_150226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/21960624/21960624_noAdds/21960624_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Seven_With_Keren/21960624/21960624_noAdds/21960624_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "453f3c18fef5c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-453f3c18fef5c91027.htm",
           "ShortDescriptionLine2": "The loss of control in Bnei Brak",
           "Date": "2026-02-15T18:59:05+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 15.02.26 [live]"
+          "Live": false,
+          "Duration": 2237,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 15.02.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 15.02.26",
