@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 15.02.26",
+          "ShortDescriptionLine1": "Tonight's news 15.02.26",
+          "ShortDescriptionLine2": "2026-02-15 21:42:13",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999522/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167210/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan999522",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/999522",
+          "Date": "2026-02-15 21:42:13",
+          "Duration": "3109"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 15.02.26",
           "ShortDescriptionLine1": "Evening News | 15.02.26",
           "ShortDescriptionLine2": "2026-02-15 21:22:38",
@@ -595,19 +608,6 @@
           "Duration": "7706"
         },
         {
-          "Title": "חדשות הלילה | 12.02.26",
-          "ShortDescriptionLine1": "Tonight's news 12.02.26",
-          "ShortDescriptionLine2": "2026-02-12 21:39:16",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998679/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166336/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan998679",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/998679",
-          "Date": "2026-02-12 21:39:16",
-          "Duration": "1617"
-        },
-        {
           "Title": "חרם בפיתה: המסעדנים הישראלים שנשארים בניו יורק למרות העלייה באנטישמיות",
           "ShortDescriptionLine1": "Pita boycott: the Israeli restaurateurs who remain in New York despite the rise in anti-Semitism",
           "ShortDescriptionLine2": "2026-02-12 20:11:56",
@@ -664,6 +664,19 @@
     {
       "Name": "13 News - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 15.02.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_bxjed2ws",
+          "Date": "2026-02-15 23:26:06",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4284561/",
+          "Duration": 4372,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-02-15 23:26:06",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bxjed2ws/flavorIds/1_2psaadgp,1_t6w1hwnz,1_7js4olyd,1_qox6tfkt,1_fcu2rfg5,1_95skqf6e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
         {
           "Title": "אזור בחירה 15.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
@@ -779,19 +792,6 @@
           "ShortDescriptionLine2": "2026-02-12 23:59:09",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_m9afou2c/flavorIds/1_dg5b2enw,1_gf8xi3jx,1_exltsapn,1_7atlxdtq,1_tux8relg,1_tw6mgn75/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 12.02.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_imr4qpfn",
-          "Date": "2026-02-12 22:28:10",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4280993/",
-          "Duration": 4763,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-12 22:28:10",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_imr4qpfn/flavorIds/1_zym3v0gg,1_28v6qyuh,1_yxlkdb8a,1_87ahzoal,1_5u8ezce6,1_15rje2y6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2552,6 +2552,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "71d6cf421024c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-71d6cf421024c91026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-02-15T23:33:19+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: הדד ליין של טראמפ לאיראן",
           "Poster": "https://img.mako.co.il/2026/02/15/Hadshot_Haboker_150226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2580,21 +2595,6 @@
           "Live": false,
           "Duration": 7261,
           "ShortDescriptionLine1": "Morning news with Niv Raskin: Trump-Netanyahu meeting"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/02/14/Avri_Sherki_140226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/February/Avri_Sherki_140226_VOD_hgf915/Avri_Sherki_140226_VOD_hgf915_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/February/Avri_Sherki_140226_VOD_hgf915/Avri_Sherki_140226_VOD_hgf915_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5af2cf421024c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-5af2cf421024c91026.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-02-14T23:19:21+02:00",
-          "Live": false,
-          "Duration": 2509,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה אוחנה סרי: בני גנץ",
