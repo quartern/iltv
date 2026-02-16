@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 16.02.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_zxij91d3",
+          "Date": "2026-02-16 23:57:05",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/wefy1-904975541/",
+          "Duration": 4472,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-02-16 23:57:05",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zxij91d3/flavorIds/1_c9urf0m2,1_mxz3d2nn,1_villu6ww,1_bxle4hg2,1_plih9mu5,1_9q2lkbg3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 16.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_475115zs",
@@ -727,19 +740,6 @@
           "ShortDescriptionLine2": "2026-02-15 23:59:11",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0ilttpyt/flavorIds/1_2dl644b1,1_ruz2qd96,1_li6u9twb,1_kgmz58ol,1_b6gm3knt,1_mrc0zygi/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 15.02.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_bxjed2ws",
-          "Date": "2026-02-15 23:26:06",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4284561/",
-          "Duration": 4372,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-15 23:26:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bxjed2ws/flavorIds/1_2psaadgp,1_t6w1hwnz,1_7js4olyd,1_qox6tfkt,1_fcu2rfg5,1_95skqf6e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2385,16 +2385,31 @@
           "Title": "המהדורה המרכזית: 16.02.26",
           "Poster": "https://img.mako.co.il/2026/02/16/Mahadura_Merkazit_160226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21841130/21841130_noAdds/21841130_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21841130/21841130_noAdds/21841130_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/20mahadura_fullfix_vtr2_n20260216_v1/20mahadura_fullfix_vtr2_n20260216_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/20mahadura_fullfix_vtr2_n20260216_v1/20mahadura_fullfix_vtr2_n20260216_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "875959a54456c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-875959a54456c91027.htm",
           "ShortDescriptionLine2": "Towards the decision of an agreement or war",
           "Date": "2026-02-16T19:53:28+02:00",
           "Live": false,
-          "Duration": 4658,
+          "Duration": 4645,
           "ShortDescriptionLine1": "The main edition: 16.02.26"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 16.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/16/Sheva_160226_VOD2_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/19sheva_vtr2_n20260216_v1/19sheva_vtr2_n20260216_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/19sheva_vtr2_n20260216_v1/19sheva_vtr2_n20260216_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "3791f1309356c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-3791f1309356c91027.htm",
+          "ShortDescriptionLine2": "US Ambassador: Ready to deal with the nuke",
+          "Date": "2026-02-16T18:59:12+02:00",
+          "Live": false,
+          "Duration": 2182,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 16.02.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 16.02.26",
