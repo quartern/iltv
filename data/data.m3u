@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-02-17 12:39
+# Last updated: 2026-02-17 12:51
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -265,6 +265,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:491 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1000251/poster" group-title="Kan 11 Featured",תגידו קצר | פרק 81 - 17.02.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168105/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3061 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan980745/poster" group-title="Kan 11 Featured",הסוכנות עונה 2 | פרק 8 - האיש בפנים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1975254/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -321,9 +324,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2151928/LIBCODER
 
 #EXTINF:91 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan995038/poster" group-title="Kan 11 Featured",אישה יפה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2151927/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:163 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan995036/poster" group-title="Kan 11 Featured",פודקאסט - אור ואהבה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2151926/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -567,6 +567,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recordi
 
 #EXTINF:4645 tvg-logo="https://img.mako.co.il/2026/02/16/Mahadura_Merkazit_160226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 16.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/20mahadura_fullfix_vtr2_n20260216_v1/20mahadura_fullfix_vtr2_n20260216_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4233 tvg-logo="https://img.mako.co.il/2026/02/14/Mahadura_Merkazit_140226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 14.02.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/20mahadura_full_vtr2_n20260212_v1/20mahadura_full_vtr2_n20260212_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5340 tvg-logo="https://img.mako.co.il/2026/02/14/Pgosh_140226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 14.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/18pgosh_vtr2_n20260214_v1/18pgosh_vtr2_n20260214_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
