@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 19.02.26 [live]",
+          "Title": "המהדורה המרכזית: 19.02.26",
           "Poster": "https://img.mako.co.il/2026/02/19/Mahadura_Merkazit_190226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21841221/21841221_noAdds/21841221_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21841221/21841221_noAdds/21841221_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3f2d9c36ba47c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-3f2d9c36ba47c91026.htm",
           "ShortDescriptionLine2": "The last secret messages between Iran and the USA",
           "Date": "2026-02-19T19:52:48+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 19.02.26 [live]"
+          "Live": false,
+          "Duration": 4098,
+          "ShortDescriptionLine1": "The main edition: 19.02.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 19.02.26",
@@ -2551,6 +2551,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "עובדה: המבוקשת מאיראן [live]",
+          "Poster": "https://img.mako.co.il/2026/02/19/Uvda2026_08_190226_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "a2df5e9ba2d4c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-a2df5e9ba2d4c91026.htm",
+          "ShortDescriptionLine2": "Itai Engel meets the number 1 wanted girl in Tehran",
+          "Date": "2026-02-19T21:26:55+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Uvda: wanted from Iran [live]"
+        },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: רצח רודף רצח",
           "Poster": "https://img.mako.co.il/2026/02/19/Hadshot_Haboker_190226_VOD_autoOrient_I_reduced.jpg",
@@ -2820,21 +2835,6 @@
           "Live": false,
           "Duration": 4216,
           "ShortDescriptionLine1": "Uvda: Romi Gonen - the second part"
-        },
-        {
-          "Title": "עובדה: רומי גונן - באומץ יוצא דופן",
-          "Poster": "https://img.mako.co.il/2025/12/25/Uvda26_03_251225_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2025/Dec/Uvda2026_03_251225_VOD_dol204/Uvda2026_03_251225_VOD_dol204_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2025/Dec/Uvda2026_03_251225_VOD_dol204/Uvda2026_03_251225_VOD_dol204_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "61b098698545b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-61b098698545b91026.htm",
-          "ShortDescriptionLine2": "The brave and extraordinary testimony of Romi Gonen",
-          "Date": "2025-12-25T21:40:45+02:00",
-          "Live": false,
-          "Duration": 4001,
-          "ShortDescriptionLine1": "Uvda: Romi Gonen - with extraordinary courage"
         },
         {
           "Title": "נוטוק: הסוף שאף אחד לא דמיין",
