@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם קרן רפאלי לנץ | 19.02.26",
+          "ShortDescriptionLine1": "Three with the Rafael Lentz Foundation 19.02.26",
+          "ShortDescriptionLine2": "2026-02-19 15:19:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001077/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168885/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1001077",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1001077",
+          "Date": "2026-02-19 15:19:41",
+          "Duration": "4522"
+        },
+        {
           "Title": "חדשות הלילה | 18.02.26",
           "ShortDescriptionLine1": "Tonight's news 18.02.26",
           "ShortDescriptionLine2": "2026-02-18 21:39:03",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1000682",
           "Date": "2026-02-18 15:26:20",
           "Duration": "2390"
-        },
-        {
-          "Title": "שלוש עם יונתן אוחיון | 18.02.26",
-          "ShortDescriptionLine1": "Three with Yonatan Ohion 18.02.26",
-          "ShortDescriptionLine2": "2026-02-18 14:19:18",
-          "Poster": "https://www.kan.org.il/media/lmqpiwgu/%d7%a9%d7%9c%d7%95%d7%a9.jpg?rmode=pad&width=1200&height=630",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168353/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1000599",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1000599",
-          "Date": "2026-02-18 14:19:18",
-          "Duration": "3588"
         },
         {
           "Title": "חדשות השבת | 14.02.26",
@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 19.02.26 [live]",
+          "Title": "מהדורת היום: 19.02.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21841215/21841215_noAdds/21841215_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21841215/21841215_noAdds/21841215_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fdc403034847c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/e81f1b43e7ffb910/VOD-fdc403034847c91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-19T14:59:55+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 19.02.26 [live]"
+          "Live": false,
+          "Duration": 4788,
+          "ShortDescriptionLine1": "Today's edition: 19.02.26"
         },
         {
           "Title": "המהדורה המרכזית: 18.02.26",
