@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חן ליברמן וישי שנרב | 19.02.26",
+          "ShortDescriptionLine1": "Chen Lieberman and Vichy Schnerev 19.02.26",
+          "ShortDescriptionLine2": "2026-02-19 18:02:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001121/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168905/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1001121",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1001121",
+          "Date": "2026-02-19 18:02:50",
+          "Duration": "4594"
+        },
+        {
           "Title": "שלוש עם קרן רפאלי לנץ | 19.02.26",
           "ShortDescriptionLine1": "Three with the Rafael Lentz Foundation 19.02.26",
           "ShortDescriptionLine2": "2026-02-19 15:19:41",
@@ -528,19 +541,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1000754",
           "Date": "2026-02-18 17:37:00",
           "Duration": "3552"
-        },
-        {
-          "Title": "בנימיני ומועלם | 18.02.26",
-          "ShortDescriptionLine1": "Binyamini and Moalem | 18.02.26",
-          "ShortDescriptionLine2": "2026-02-18 16:47:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1000732/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168376/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1000732",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900233/1000732",
-          "Date": "2026-02-18 16:47:59",
-          "Duration": "4617"
         },
         {
           "Title": "העולם היום | 18.02.26",
@@ -2382,19 +2382,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 19.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 19.02.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "3f2d9c36ba47c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-3f2d9c36ba47c91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-02-19T19:52:48+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 19.02.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 19.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/21960626/21960626_noAdds/21960626_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Seven_With_Keren/21960626/21960626_noAdds/21960626_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ee15203cb947c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-ee15203cb947c91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-19T18:58:31+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.02.26 [live]"
+          "Live": false,
+          "Duration": 2363,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.02.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 19.02.26",
@@ -2440,21 +2455,6 @@
           "Live": false,
           "Duration": 6112,
           "ShortDescriptionLine1": "Today's edition: 19.02.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 18.02.26",
-          "Poster": "https://img.mako.co.il/2026/02/18/Mahadura_Merkazit_180226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/20mahaura_full_vtr2_n20260218_v1/20mahaura_full_vtr2_n20260218_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/20mahaura_full_vtr2_n20260218_v1/20mahaura_full_vtr2_n20260218_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d3d39e9707f6c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-d3d39e9707f6c91027.htm",
-          "ShortDescriptionLine2": "The seniors around the Prime Minister and the preparation in Israel",
-          "Date": "2026-02-18T19:51:58+02:00",
-          "Live": false,
-          "Duration": 4267,
-          "ShortDescriptionLine1": "The main edition: 18.02.26"
         },
         {
           "Title": "חדשות סוף השבוע: 14.02.26",
