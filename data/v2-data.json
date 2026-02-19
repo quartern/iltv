@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 19.02.26",
+          "ShortDescriptionLine1": "Seven with Ayala Hasson | 19.02.26",
+          "ShortDescriptionLine2": "2026-02-19 18:53:02",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001131/poster",
+          "StreamUrls": [
+            "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4&startTime=793212000000&stopTime=793216398000"
+          ],
+          "StreamerId": "kan1001131",
+          "EpisodeUrl": "https:///www.kan.org.il/content/kan/kan-actual/p-11039/1001131",
+          "Date": "2026-02-19 18:53:02",
+          "Duration": "3461"
+        },
+        {
           "Title": "חן ליברמן וישי שנרב | 19.02.26",
           "ShortDescriptionLine1": "Chen Lieberman and Vichy Schnerev 19.02.26",
           "ShortDescriptionLine2": "2026-02-19 18:02:50",
@@ -515,19 +528,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1000828",
           "Date": "2026-02-18 20:54:07",
           "Duration": "6410"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 18.02.26",
-          "ShortDescriptionLine1": "Seven with Ayala Hasson | 18.02.26",
-          "ShortDescriptionLine2": "2026-02-18 18:17:42",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1000768/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168391/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1000768",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/1000768",
-          "Date": "2026-02-18 18:17:42",
-          "Duration": "3888"
         },
         {
           "Title": "כאן בשש | 18.02.26",
@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 19.02.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_1cfhkqhh",
+          "Date": "2026-02-19 20:38:06",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4291227/",
+          "Duration": 3124,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-02-19 20:38:06",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_1cfhkqhh/flavorIds/1_v9ifkk2m,1_4d6x6i0t,1_07rnmlls,1_fzts5oto,1_txasazvy,1_0vng3v7a/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 19.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_ctct9gwl",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-02-18 20:31:53",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ngj3v0y3/flavorIds/1_026jfmzt,1_x0dyo11u,1_mn5cxec5,1_ejpmhgoi,1_c35bqhep/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 18.02.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_redup9zp",
-          "Date": "2026-02-18 19:44:04",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4288928/",
-          "Duration": 2953,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-18 19:44:04",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_redup9zp/flavorIds/1_nxibt2zw,1_rvo47cnd,1_f0dajjiv,1_31kj5mf9,1_vmed32lb,1_dcz9lo41/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2383,14 +2383,14 @@
       "Items": [
         {
           "Title": "המהדורה המרכזית: 19.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/02/19/Mahadura_Merkazit_190226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
           "StreamerId": "3f2d9c36ba47c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-3f2d9c36ba47c91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The last secret messages between Iran and the USA",
           "Date": "2026-02-19T19:52:48+02:00",
           "Live": true,
           "Duration": 0,
