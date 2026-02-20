@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 20.02.26 [live]",
+          "Title": "אולפן שישי: 20.02.26",
           "Poster": "https://img.mako.co.il/2026/02/20/Ulpan_Shishi_200226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21841244/21841244_noAdds/21841244_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21841244/21841244_noAdds/21841244_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "42aa7ba75c25c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/03e21b43e7ffb910/VOD-42aa7ba75c25c91027.htm",
           "ShortDescriptionLine2": "Chasifa (Exposure): The latest Iranian offer to the US",
           "Date": "2026-02-20T19:55:43+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 20.02.26 [live]"
+          "Live": false,
+          "Duration": 6731,
+          "ShortDescriptionLine1": "Studio Friday: 20.02.26"
         },
         {
           "Title": "המהדורה המרכזית: 19.02.26",
@@ -3082,6 +3082,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "קבינט שישי 20.2.26",
+          "StreamerId": "6389639549112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7e401e87-d0c5-4de1-be92-e79d537eb1fa/0a4d22ad-4894-47fc-be98-0ae6d92ad5ef/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389639549112",
+          "Date": "2026-02-20T20:02:34Z",
+          "Duration": 7197,
+          "ShortDescriptionLine1": "Cabinet Friday 20.2.26",
+          "ShortDescriptionLine2": "2026-02-20T20:02:34Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7e401e87-d0c5-4de1-be92-e79d537eb1fa/10s/master.m3u8?fastly_token=NjliZGQyNTlfZGYzYTM3OTNjMmM3YmY1ZTQ1ZTA0NmQ2M2MxMzY5YWFkYjFiMTU1ZTI4ODYzYjBhYWQ5MzAxZDM2YTk0ZGI3NQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת 20.2.26",
           "StreamerId": "6389633564112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c987b216-447d-40d6-950d-2b5ef6cb9fb0/c348189e-2ecd-4420-ad15-93ebfb4522d6/320x180/match/image.jpg",
@@ -3339,19 +3352,6 @@
           "ShortDescriptionLine2": "2026-02-13T20:28:31Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bf49fe79-0791-4aa9-81d6-91ffdac9dbef/10s/master.m3u8?fastly_token=NjliNDc5YjdfOGQyMzNjYzY5ZTQ3ODMwN2Q5YWNjNzZhYzZiY2FmNmI2NWQxNDU4YjQxMDBlMjQwY2M1N2U1OWUyYTY2NzhjZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי 13.2.26",
-          "StreamerId": "6389195345112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/85ad156e-b070-4ce2-8908-43f584866183/b812f8dc-0c2e-4c92-b457-9c910caae7c4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389195345112",
-          "Date": "2026-02-13T20:02:33Z",
-          "Duration": 6838,
-          "ShortDescriptionLine1": "Cabinet Friday 13.2.26",
-          "ShortDescriptionLine2": "2026-02-13T20:02:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/85ad156e-b070-4ce2-8908-43f584866183/10s/master.m3u8?fastly_token=NjliNDk4YWJfM2IxMTkxN2UwNjkwYzU5MDRmYWY0YWZkMmU3YTcwNDZmMzVjMmE3MzM2ZGRmYWZhYmM4M2ZiODJmMzY5YzBmNw%3D%3D"
           ]
         },
         {
