@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-02-22 12:10
+# Last updated: 2026-02-22 12:47
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4230 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002023/poster" group-title="11 News - Latest shows",כאן בשש | 22.02.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169741/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4086 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001990/poster" group-title="11 News - Latest shows",בנימיני וגואטה | 22.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169733/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -141,9 +144,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168875/LIBCODER
 
 #EXTINF:6104 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001186/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 19.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168952/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3552 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1000754/poster" group-title="11 News - Latest shows",כאן בשש | 18.02.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168385/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:629 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998660/poster" group-title="11 News - Latest shows",חרם בפיתה: המסעדנים הישראלים שנשארים בניו יורק למרות העלייה באנטישמיות
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4&startTime=792616440000&stopTime=792617178000
@@ -265,6 +265,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:463 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001980/poster" group-title="Kan 11 Featured",תגידו קצר | פרק 84 - 22.02.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169730/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2535 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan931013/poster" group-title="Kan 11 Featured",גיים צ'יינג'ר | פרק 2 - שני שחקנים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_qi93k43o/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -321,9 +324,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166236/LIBCODER
 
 #EXTINF:1396 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998343/poster" group-title="Kan 11 Featured",מי זאת? עונה 2 | פרק 5 - בפרקים הקודמים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166225/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1633 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan997599/poster" group-title="Kan 11 Featured",כל האימהות משקרות | פרק 6 - צמד טוב
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165519/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
