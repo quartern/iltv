@@ -665,13 +665,26 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 22.02.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_qjvp433l",
+          "Date": "2026-02-22 18:29:47",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4294285/",
+          "Duration": 2648,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-02-22 18:29:47",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qjvp433l/flavorIds/1_fz0emn82,1_38dfgj0p,1_pb2c9ppp,1_1trwv2g1,1_2nwu36vn/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 22.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_d65wtd28",
           "Date": "2026-02-22 17:59:42",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/qpxos-904983579/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/4294284/",
           "Duration": 5691,
-          "ShortDescriptionLine1": "Daily News",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-02-22 17:59:42",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_d65wtd28/flavorIds/1_ogdt0kn3,1_4q7a9a92,1_bmqvmcgx,1_qvkltao7,1_hmfgctaj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -779,19 +792,6 @@
           "ShortDescriptionLine2": "2026-02-19 20:54:17",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_3z8li0wl/flavorIds/1_s79yfy7p,1_9y0x9a0o,1_mp4mefd3,1_khny35ou,1_8agmwmwp,1_se6c24ip/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 19.02.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_ctct9gwl",
-          "Date": "2026-02-19 18:35:28",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4291199/",
-          "Duration": 1173,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-19 18:35:28",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ctct9gwl/flavorIds/1_qxcmk4k2,1_palmffo0,1_2teqvns5,1_2efpc0y7,1_3blwmy3l,1_gacfs63p/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2382,48 +2382,63 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 22.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "שבע עם קרן מרציאנו: 22.02.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9fd62f4d0148c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-9fd62f4d0148c91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-02-22T18:58:43+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Sheva with the Marciano Foundation: 22.02.26 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 22.02.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21841299/21841299_noAdds/21841299_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21841299/21841299_noAdds/21841299_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4d842f4d0148c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/7b901b43e7ffb910/VOD-4d842f4d0148c91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-22T17:55:50+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 22.02.26 [live]"
+          "Live": false,
+          "Duration": 3019,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 22.02.26"
         },
         {
           "Title": "חמש עם רפי רשף: 22.02.26",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/02/22/Hamesh_220226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21841301/21841301_noAdds/21841301_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_2026/21841301/21841301_noAdds/21841301_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/17hamesh_vtr2_n20260118_v1/17hamesh_vtr2_n20260118_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/17hamesh_vtr2_n20260118_v1/17hamesh_vtr2_n20260118_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "16302f4d0148c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/c6af1b43e7ffb910/VOD-16302f4d0148c91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Attack alert: the US military is waiting for Trump's order",
           "Date": "2026-02-22T16:55:21+02:00",
           "Live": false,
-          "Duration": 2447,
+          "Duration": 2433,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 22.02.26"
         },
         {
           "Title": "מהדורת היום: 22.02.26",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/02/22/Madurat_Hayom_220226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21841297/21841297_noAdds/21841297_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21841297/21841297_noAdds/21841297_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/15hayom_vtr2_n20260222_v1/15hayom_vtr2_n20260222_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/15hayom_vtr2_n20260222_v1/15hayom_vtr2_n20260222_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fb9a2f4d0148c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/e81f1b43e7ffb910/VOD-fb9a2f4d0148c91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The cabinet will meet tonight",
           "Date": "2026-02-22T15:00:38+02:00",
           "Live": false,
-          "Duration": 5320,
+          "Duration": 5297,
           "ShortDescriptionLine1": "Today's edition: 22.02.26"
         },
         {
@@ -2515,21 +2530,6 @@
           "Live": false,
           "Duration": 4089,
           "ShortDescriptionLine1": "The main edition: 19.02.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 19.02.26",
-          "Poster": "https://img.mako.co.il/2026/02/19/Sheva_190226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/19gidon_vtr2_n20260219_v1/19gidon_vtr2_n20260219_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/19gidon_vtr2_n20260219_v1/19gidon_vtr2_n20260219_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ee15203cb947c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/0c711b43e7ffb910/VOD-ee15203cb947c91026.htm",
-          "ShortDescriptionLine2": "Trump's deadline for Iran",
-          "Date": "2026-02-19T18:58:31+02:00",
-          "Live": false,
-          "Duration": 2241,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.02.26"
         },
         {
           "Title": "פגוש את העיתונות: 14.02.26",
