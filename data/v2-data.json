@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 22.02.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_bdmtx7cd",
+          "Date": "2026-02-22 23:38:23",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4294290/",
+          "Duration": 4527,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-02-22 23:38:23",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bdmtx7cd/flavorIds/1_ejqcqar4,1_sd2xn1xw,1_m9khdn60,1_q69b3w49,1_0hyg9kuj,1_ay5kmjvp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 22.02.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_j0x7io9j",
@@ -779,19 +792,6 @@
           "ShortDescriptionLine2": "2026-02-19 23:49:55",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ba07lhys/flavorIds/1_ekyejaaf,1_ktm1xqkn,1_2n6xzjzy,1_x7y3qlb3,1_2idmglky,1_05dvrejb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 19.02.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_6hzi1aro",
-          "Date": "2026-02-19 22:43:13",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4291231/",
-          "Duration": 5005,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-02-19 22:43:13",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6hzi1aro/flavorIds/1_b2xduknq,1_hqky9feb,1_cp8opyw4,1_9toq1wd1,1_huxlge2b,1_a9m4lc7m/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1114,6 +1114,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הסוכנות עונה 3 | פרק 2 - חזרה למשחק",
+          "ShortDescriptionLine1": "The Agency Season 3 | Chapter 2 - Back to the game",
+          "ShortDescriptionLine2": "2026-02-22 21:44:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan987003/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan987003",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-963910/s3/987003",
+          "Date": "2026-02-22 21:44:29",
+          "Duration": "3162"
+        },
+        {
           "Title": "תגידו קצר | פרק 84 - 22.02.26",
           "ShortDescriptionLine1": "Say it briefly Chapter 84 - 22.02.26",
           "ShortDescriptionLine2": "2026-02-22 17:43:36",
@@ -1359,19 +1372,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-783430/s2/999075",
           "Date": "2026-02-19 20:35:40",
           "Duration": "117"
-        },
-        {
-          "Title": "מי זאת? עונה 2 | פרק 5 - בפרקים הקודמים",
-          "ShortDescriptionLine1": "who is that Season 2 | Chapter 5 - in the previous chapters",
-          "ShortDescriptionLine2": "2026-02-19 20:03:08",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan998343/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2166225/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan998343",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-783056/s2/998343",
-          "Date": "2026-02-19 20:03:08",
-          "Duration": "1396"
         }
       ]
     },
@@ -2552,8 +2552,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9f327a08c806c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-9f327a08c806c91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-02-22T23:36:26+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "מועדון לילה: ניר דבורי ולימור",
-          "Poster": "https://img.mako.co.il/2026/01/14/MoadoLayla2026_1_x5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/02/22/Moadon_Layla09_05_220226_Nir_Dvori_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/moadon_lyla_2026/A189370/A189370_noAdds/A189370_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/moadon_lyla_2026/A189370/A189370_noAdds/A189370_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2595,21 +2610,6 @@
           "Live": false,
           "Duration": 7413,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Trump gives \"last chance\""
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/02/21/Avri_Sherki_210226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/February/Avri_Sherki_210226_VOD_cvb765/Avri_Sherki_210226_VOD_cvb765_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/February/Avri_Sherki_210226_VOD_cvb765/Avri_Sherki_210226_VOD_cvb765_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "31a07a08c806c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-31a07a08c806c91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-02-21T23:00:18+02:00",
-          "Live": false,
-          "Duration": 2441,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה אוחנה סרי: האם תהיה תקיפה באיראן?",
