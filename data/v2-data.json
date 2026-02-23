@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 23.02.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 23.02.26",
+          "Poster": "https://img.mako.co.il/2026/02/23/Mahadura_Merkazit_230226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21841333/21841333_noAdds/21841333_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21841333/21841333_noAdds/21841333_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "801c4c745298c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/23121b43e7ffb910/VOD-801c4c745298c91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The wave of rumors about an imminent attack flooded Israel",
           "Date": "2026-02-23T19:55:13+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 23.02.26 [live]"
+          "Live": false,
+          "Duration": 4398,
+          "ShortDescriptionLine1": "The main edition: 23.02.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 23.02.26",
@@ -3147,6 +3147,19 @@
           ]
         },
         {
+          "Title": "מהדורת חמש, 22.02.26",
+          "StreamerId": "6389727007112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/25e7ae77-87a7-4fd6-afac-7ed8ffa6e6b2/9a5d8077-39bf-4ed2-afc8-b432653fcdb4/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389727007112",
+          "Date": "2026-02-22T22:12:48Z",
+          "Duration": 3755,
+          "ShortDescriptionLine1": "Five edition, 22.02.26",
+          "ShortDescriptionLine2": "2026-02-22T22:12:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/25e7ae77-87a7-4fd6-afac-7ed8ffa6e6b2/10s/master.m3u8?fastly_token=NjljMWFkZjVfMzFlZjY3M2ViMWRlMDM5ZGM0YzJiMTFmN2ZiYzdmNjQ3MjU3N2ZjODAwZDk3OGY0NmY3MGVkODdkNjczZWViZg%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת 15, 22.02.26",
           "StreamerId": "6389728850112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2a385a58-48be-4b0d-834b-527dcdbff294/5078baf7-8233-4cae-a13c-29207510f119/320x180/match/image.jpg",
@@ -3300,6 +3313,19 @@
           "ShortDescriptionLine2": "2026-02-19T20:49:47Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1cd1912b-10f8-4031-9025-e0f7ef6fc4e2/10s/master.m3u8?fastly_token=NjliYzk5YzdfZDY4OWM2OTAzYWFiNWEwZTM5YTQxNGUxZGQyMWFkMDc3NTlhOWViNDA4ZGQ0Njg0NGE1N2U5NzYxZDYyYmUwMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש, 19.02.26",
+          "StreamerId": "6389586671112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ccbf9f4a-9f96-459a-bf3e-588fd0d9f631/d09b4083-bfe4-4160-aa45-9705233af0b6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389586671112",
+          "Date": "2026-02-19T20:48:35Z",
+          "Duration": 1854,
+          "ShortDescriptionLine1": "Five edition, 19.02.26",
+          "ShortDescriptionLine2": "2026-02-19T20:48:35Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ccbf9f4a-9f96-459a-bf3e-588fd0d9f631/10s/master.m3u8?fastly_token=NjljMWE1NGVfMGYxY2U0MDhjODdlYTM5ZmEyZGU5ODkyNDQxZmMxNmQ4ZTBiMmE3YTI1YThlOGYxNmRmMTI5NjQ5ODAwYTczMQ%3D%3D"
           ]
         },
         {
