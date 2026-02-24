@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם יונתן אוחיון | 24.02.26 ",
+          "ShortDescriptionLine1": "Three with Yonatan Ohion 24.02.26",
+          "ShortDescriptionLine2": "2026-02-24 14:24:03",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002669/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170565/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1002669",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1002669",
+          "Date": "2026-02-24 14:24:03",
+          "Duration": "3610"
+        },
+        {
           "Title": "חדשות הלילה | 23.02.26",
           "ShortDescriptionLine1": "Tonight's news 23.02.26",
           "ShortDescriptionLine2": "2026-02-23 22:08:17",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1002336",
           "Date": "2026-02-23 15:42:05",
           "Duration": "2976"
-        },
-        {
-          "Title": "שלוש עם יונתן אוחיון | 23.02.26",
-          "ShortDescriptionLine1": "Three with Yonatan Ohion 23.02.26",
-          "ShortDescriptionLine2": "2026-02-23 14:53:05",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002317/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169855/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1002317",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1002317",
-          "Date": "2026-02-23 14:53:05",
-          "Duration": "5161"
         },
         {
           "Title": "חדשות השבת | 21.02.26",
@@ -2640,6 +2640,21 @@
           "Live": false,
           "Duration": 5409,
           "ShortDescriptionLine1": "Ofira Ohana Seri: Will there be an attack in Iran?"
+        },
+        {
+          "Title": "דוח מצב עם עינב וירון: דחייה או תקיפה הלילה? ",
+          "Poster": "https://img.mako.co.il/2026/02/19/Doh_Matzav_190226_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/February/Doh_Matzav_190226_VOD_bdt851/Doh_Matzav_190226_VOD_bdt851_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/February/Doh_Matzav_190226_VOD_bdt851/Doh_Matzav_190226_VOD_bdt851_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "2b017e33e015c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-2b017e33e015c91027.htm",
+          "ShortDescriptionLine2": "All the updates on the alert in Israel",
+          "Date": "2026-02-19T23:11:52+02:00",
+          "Live": false,
+          "Duration": 2601,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: postponement or attack tonight?"
         },
         {
           "Title": "עובדה: המבוקשת מאיראן",
