@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 25.02.26",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 25.02.26",
+          "ShortDescriptionLine2": "2026-02-25 20:58:42",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003077/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170826/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1003077",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1003077",
+          "Date": "2026-02-25 20:58:42",
+          "Duration": "909"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 25.02.26",
           "ShortDescriptionLine1": "Evening News | 25.02.26",
           "ShortDescriptionLine2": "2026-02-25 20:49:54",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1002789",
           "Date": "2026-02-24 22:39:42",
           "Duration": "2520"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 24.02.26",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 24.02.26",
-          "ShortDescriptionLine2": "2026-02-24 21:12:41",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002703/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1002703",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1002703",
-          "Date": "2026-02-24 21:12:41",
-          "Duration": "849"
         },
         {
           "Title": "חדשות השבת | 21.02.26",
@@ -2552,19 +2552,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: אהבת השם נגד ארדואן [live]",
+          "Title": "ארץ נהדרת: אהבת השם נגד ארדואן",
           "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/A186559/A186559_noAdds/A186559_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/A186559/A186559_noAdds/A186559_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9ccf7d25bdb4c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-9ccf7d25bdb4c91026.htm",
           "ShortDescriptionLine2": "attack? agreement? The real battle is coming to a great land",
           "Date": "2026-02-25T21:36:37+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: Love of God against Erdogan [live]"
+          "Live": false,
+          "Duration": 3651,
+          "ShortDescriptionLine1": "Eretz Nehederet: Love of God against Erdogan"
         },
         {
           "Title": "נסלי ויואב: החשש של תושבי הצפון",
