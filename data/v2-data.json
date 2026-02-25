@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם יונתן אוחיון | 25.02.26",
+          "ShortDescriptionLine1": "Three with Yonatan Ohion 25.02.26",
+          "ShortDescriptionLine2": "2026-02-25 15:07:23",
+          "Poster": "",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170803/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1003019",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1003019",
+          "Date": "2026-02-25 15:07:23",
+          "Duration": "4200"
+        },
+        {
           "Title": "חדשות הלילה | 24.02.26",
           "ShortDescriptionLine1": "Tonight's news 24.02.26",
           "ShortDescriptionLine2": "2026-02-24 22:39:42",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1002690",
           "Date": "2026-02-24 15:17:46",
           "Duration": "3473"
-        },
-        {
-          "Title": "שלוש עם יונתן אוחיון | 24.02.26 ",
-          "ShortDescriptionLine1": "Three with Yonatan Ohion 24.02.26",
-          "ShortDescriptionLine2": "2026-02-24 14:24:03",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002669/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170565/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1002669",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1002669",
-          "Date": "2026-02-24 14:24:03",
-          "Duration": "3610"
         },
         {
           "Title": "חדשות השבת | 21.02.26",
@@ -2397,19 +2397,19 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 25.02.26 [live]"
         },
         {
-          "Title": "מהדורת היום: 25.02.26 [live]",
+          "Title": "מהדורת היום: 25.02.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21841387/21841387_noAdds/21841387_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21841387/21841387_noAdds/21841387_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "7616bcb29839c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/e81f1b43e7ffb910/VOD-7616bcb29839c91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-25T15:00:09+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 25.02.26 [live]"
+          "Live": false,
+          "Duration": 5146,
+          "ShortDescriptionLine1": "Today's edition: 25.02.26"
         },
         {
           "Title": "המהדורה המרכזית: 24.02.26",
@@ -2570,15 +2570,15 @@
           "Title": "חדשות הבוקר עם ניב רסקין: העימות האפשרי עם איראן",
           "Poster": "https://img.mako.co.il/2026/02/25/Hadshot_Haboker_250226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/morning_raskin_2026/21841381/21841381_noAdds/21841381_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/morning_raskin_2026/21841381/21841381_noAdds/21841381_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_250226_VOD_NBA845/Hadshot_Haboker_250226_VOD_NBA845_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_250226_VOD_NBA845/Hadshot_Haboker_250226_VOD_NBA845_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b9ef34668748c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-b9ef34668748c91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-b9ef34668748c91026.htm",
           "ShortDescriptionLine2": "The possible confrontation with Iran and the discussions on readiness",
           "Date": "2026-02-25T07:11:16+02:00",
           "Live": false,
-          "Duration": 5828,
+          "Duration": 7148,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the possible confrontation with Iran"
         },
         {
@@ -2760,6 +2760,21 @@
           "Live": false,
           "Duration": 3448,
           "ShortDescriptionLine1": "While you were working: the gold rush"
+        },
+        {
+          "Title": "ארץ נהדרת: דיווחים מפגישת ביבי-טראמפ",
+          "Poster": "https://img.mako.co.il/2026/02/11/Eretz_Nehederet23_15_110226_Tramp_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_15_110226_VOD_dai097/Eretz_Nehederet23_15_110226_VOD_dai097_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_15_110226_VOD_dai097/Eretz_Nehederet23_15_110226_VOD_dai097_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "a0e8990efa82c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-a0e8990efa82c91026.htm",
+          "ShortDescriptionLine2": "Exclusive reports from the Bibi-Trump meeting",
+          "Date": "2026-02-11T21:38:39+02:00",
+          "Live": false,
+          "Duration": 3501,
+          "ShortDescriptionLine1": "Eretz Nehederet: Reports from the Bibi-Trump meeting"
         },
         {
           "Title": "בזמן שעבדתם: אין כניסה לבני-אדם",
