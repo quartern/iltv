@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-02-26 14:11
+# Last updated: 2026-02-26 14:33
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -265,6 +265,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1793 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002623/poster" group-title="Kan 11 Featured",כל האימהות משקרות | פרק 8 - אף אחד לא אוהב ילדים רעים
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170554/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3336 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan991715/poster" group-title="Kan 11 Featured",הסוכנות עונה 3 | פרק 5 - מעבר לקווי האויב
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115267/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -321,9 +324,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169791/LIBCODER
 
 #EXTINF:3162 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan987003/poster" group-title="Kan 11 Featured",הסוכנות עונה 3 | פרק 2 - חזרה למשחק
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2040532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:463 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001980/poster" group-title="Kan 11 Featured",תגידו קצר | פרק 84 - 22.02.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169730/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -565,8 +565,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recordi
 #EXTINF:2447 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 26.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21841422/21841422_noAdds/21841422_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:5044 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.02.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21841418/21841418_noAdds/21841418_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:4928 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.02.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/15hayom_vtr2_n20260226_v1/15hayom_vtr2_n20260226_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4432 tvg-logo="https://img.mako.co.il/2026/02/21/Hadshot_Sof_Hashvua_210226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 21.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/20mahadora_full_vtr2_n20260221_v1/20mahadora_full_vtr2_n20260221_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
