@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות שישי | 27.02.26",
+          "ShortDescriptionLine1": "Friday news | 27.02.26",
+          "ShortDescriptionLine2": "2026-02-27 20:22:43",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003787/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171536/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1003787",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/1003787",
+          "Date": "2026-02-27 20:22:43",
+          "Duration": "8531"
+        },
+        {
           "Title": "גליק ותמר בשישי | 27.02.26",
           "ShortDescriptionLine1": "Glick and Tamar on Friday 27.02.26",
           "ShortDescriptionLine2": "2026-02-27 18:10:26",
@@ -593,19 +606,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/1001544",
           "Date": "2026-02-21 18:27:36",
           "Duration": "7813"
-        },
-        {
-          "Title": "חדשות שישי | 20.02.26",
-          "ShortDescriptionLine1": "Friday news | 20.02.26",
-          "ShortDescriptionLine2": "2026-02-20 21:20:05",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1001424/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2169133/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1001424",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/1001424",
-          "Date": "2026-02-20 21:20:05",
-          "Duration": "8832"
         },
         {
           "Title": "חרם בפיתה: המסעדנים הישראלים שנשארים בניו יורק למרות העלייה באנטישמיות",
@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 27.02.26 [live]",
+          "Title": "אולפן שישי: 27.02.26",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21841446/21841446_noAdds/21841446_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21841446/21841446_noAdds/21841446_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "d2275c34aa89c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/03e21b43e7ffb910/VOD-d2275c34aa89c91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-02-27T19:55:10+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 27.02.26 [live]"
+          "Live": false,
+          "Duration": 5936,
+          "ShortDescriptionLine1": "Studio Friday: 27.02.26"
         },
         {
           "Title": "המהדורה המרכזית: 26.02.26",
