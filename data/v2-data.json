@@ -2382,19 +2382,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 01.03.26 [live]",
+          "Title": "מהדורת היום: 01.03.26",
           "Poster": "https://img.mako.co.il/2026/03/01/Mahadurat_Hayom_010326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21941203/21941203_noAdds/21941203_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21941203/21941203_noAdds/21941203_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "131147900459c910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/9404dca35d89c910/VOD-131147900459c91027.htm",
           "ShortDescriptionLine2": "The 2nd day of the campaign in Iran",
           "Date": "2026-03-01T15:03:17+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 01.03.26 [live]"
+          "Live": false,
+          "Duration": 7919,
+          "ShortDescriptionLine1": "Today's edition: 01.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 28.02.26",
@@ -3082,6 +3082,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם שרון גל - 28.02.26",
+          "StreamerId": "6390222180112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/852dadb4-8d38-4ff6-b4a9-783ce76740a6/e4805fa2-1a98-430c-b050-5ab67fe14e2a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390222180112",
+          "Date": "2026-03-01T15:30:48Z",
+          "Duration": 9014,
+          "ShortDescriptionLine1": "Special broadcast with Sharon Gal - 28.02.26",
+          "ShortDescriptionLine2": "2026-03-01T15:30:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/852dadb4-8d38-4ff6-b4a9-783ce76740a6/10s/master.m3u8?fastly_token=NjljOTdiNDNfM2I0ODFiNzllZTFjZGE3Yjc5ZDNhYTliOTQwMWNiNTUzOTE0NjFiZWJmNzEzZDU4ZWUyOTYwOWViNGMxZmUxZA%3D%3D"
+          ]
+        },
+        {
           "Title": "משדר מיוחד עם דניאל רוט אבנרי - 28.02.26",
           "StreamerId": "6390217709112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4b6635a0-07d6-4390-a109-9dcf2bb6e692/72bb79cb-f148-45c3-839d-5bc70fffa59a/320x180/match/image.jpg",
@@ -3092,19 +3105,6 @@
           "ShortDescriptionLine2": "2026-03-01T13:51:21Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4b6635a0-07d6-4390-a109-9dcf2bb6e692/10s/master.m3u8?fastly_token=NjljOTYzMGNfNmIwYmVlYWE0YWFjMDhjOGI3ZTNhNmNhNGYzMTNmMjk4MTVhZTIyYTA0MWI5ZWRmN2ZlZmFmOTk5NTFhMmRlNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "משדר מיוחד עם מיכל רבינוביץ' - 28.02.26",
-          "StreamerId": "6390215149112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6fb21d6a-9511-45d5-a6ac-f5c42d563517/35300b07-eb7e-4b69-93dc-e677b69cd09a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390215149112",
-          "Date": "2026-03-01T13:35:45Z",
-          "Duration": 12224,
-          "ShortDescriptionLine1": "Special broadcast with Michal Rabinovitch - 28.02.26",
-          "ShortDescriptionLine2": "2026-03-01T13:35:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6fb21d6a-9511-45d5-a6ac-f5c42d563517/10s/master.m3u8?fastly_token=NjljOTZmMGJfNDg3Nzk5MDg1Zjc5OWI2NTA5NjEwOGZjYTVkZTFmMzBlOWE2MTU4OTQ2MGM0MjQyNjQ5ZmRlZThkMTdjOTYwMA%3D%3D"
           ]
         },
         {
