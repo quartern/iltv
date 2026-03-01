@@ -2552,8 +2552,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "496234668748c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-496234668748c91026.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-03-01T07:45:37+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/02/28/Avri_Sherki_280226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21841484/21841484_noAdds/21841484_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21841484/21841484_noAdds/21841484_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2625,21 +2640,6 @@
           "Live": false,
           "Duration": 3526,
           "ShortDescriptionLine1": "Nesli and Yoav: agreement or attack?"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: ביקור ר\"מ הודו בישראל",
-          "Poster": "https://img.mako.co.il/2026/02/26/Hadshot_Haboker_260226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_260226_VOD_lkj538/Hadshot_Haboker_260226_VOD_lkj538_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/February/Hadshot_Haboker_260226_VOD_lkj538/Hadshot_Haboker_260226_VOD_lkj538_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "6f1134668748c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-6f1134668748c91026.htm",
-          "ShortDescriptionLine2": "The visit of the Prime Minister of India to Israel and the protest of the opposition",
-          "Date": "2026-02-26T07:11:52+02:00",
-          "Live": false,
-          "Duration": 6847,
-          "ShortDescriptionLine1": "Morning news with Niv Raskin: Visit of the Prime Minister of India to Israel"
         },
         {
           "Title": "בזמן שעבדתם: המהפכה של וולמארט",
