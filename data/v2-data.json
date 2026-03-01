@@ -452,17 +452,17 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "משדר מיוחד עם שרון דוידוביץ' ומואב ורדי | 28.02.26 - 23:00",
-          "ShortDescriptionLine1": "Special broadcast with Sharon Davidovich and Moav Vardi 28.02.26 - 11:00 p.m",
-          "ShortDescriptionLine2": "2026-03-01 06:54:29",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1004302/poster",
+          "Title": "משדר מיוחד עם שאול אמסטרדמסקי וליאל קייזר | 01.03.26 - 02:00",
+          "ShortDescriptionLine1": "Special broadcast with Shaul Amsterdamski and Liel Keizer 01.03.26 - 02:00",
+          "ShortDescriptionLine2": "2026-03-01 07:34:19",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1004305/poster",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2172264/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2172268/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1004302",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1004302",
-          "Date": "2026-03-01 06:54:29",
-          "Duration": "10530"
+          "StreamerId": "kan1004305",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1004305",
+          "Date": "2026-03-01 07:34:19",
+          "Duration": "14314"
         },
         {
           "Title": "חדשות השבת | 28.02.26",
@@ -2552,6 +2552,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "נסלי ויואב: נסלי ויואב [live]",
+          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b25b49764848c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-b25b49764848c91026.htm",
+          "ShortDescriptionLine2": "A special broadcast with Nesli Barda and Yoav Limor",
+          "Date": "2026-03-01T09:30:55+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav [live]"
+        },
+        {
           "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
           "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2625,21 +2640,6 @@
           "Live": false,
           "Duration": 4531,
           "ShortDescriptionLine1": "Uvda: Matan Engrest speaks"
-        },
-        {
-          "Title": "נסלי ויואב: הסכם או תקיפה?",
-          "Poster": "https://img.mako.co.il/2026/02/26/Nesli_Yoav_260226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/February/Nesli_Yoav_260226_VOD_sdf987/Nesli_Yoav_260226_VOD_sdf987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/February/Nesli_Yoav_260226_VOD_sdf987/Nesli_Yoav_260226_VOD_sdf987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "31f949764848c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-31f949764848c91026.htm",
-          "ShortDescriptionLine2": "Iran's last chance summit is underway",
-          "Date": "2026-02-26T09:36:24+02:00",
-          "Live": false,
-          "Duration": 3526,
-          "ShortDescriptionLine1": "Nesli and Yoav: agreement or attack?"
         },
         {
           "Title": "בזמן שעבדתם: המהפכה של וולמארט",
