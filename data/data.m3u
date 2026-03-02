@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-02 04:03
+# Last updated: 2026-03-02 04:19
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:15300 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1005034/poster" group-title="11 News - Latest shows",חדשות הלילה | 01.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2172434/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:11814 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1004757/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 01.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2172380/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -123,9 +126,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171536/LIBCODER
 
 #EXTINF:8069 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003754/poster" group-title="11 News - Latest shows",גליק ותמר בשישי | 27.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171509/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2543 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003532/poster" group-title="11 News - Latest shows",חדשות הלילה | 26.02.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171371/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:897 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003341/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 26.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171287/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -265,6 +265,30 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:3261 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999252/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 7 - מתחילים מההתחלה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167092/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3058 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999251/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 6 - התקפה אירופאית
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3006 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999194/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 5 - להפוך את היוצרות
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167082/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3039 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999182/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 4 - המקור
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167080/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3284 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999165/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 3 - קשר עין
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167074/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3172 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999164/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 2 - שיקול דעת
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165721/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3153 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999162/poster" group-title="Kan 11 Featured",הסוכנות עונה 5 | פרק 1 - הפיצו את השמועה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165713/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3191 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan995140/poster" group-title="Kan 11 Featured",הסוכנות עונה 4 | פרק 10 - עכשיו זה הזמן
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2152772/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3251 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan995102/poster" group-title="Kan 11 Featured",הסוכנות עונה 4 | פרק 2 - מניעים נסתרים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2070677/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -300,30 +324,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171483/LIBCODER
 
 #EXTINF:3246 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan991716/poster" group-title="Kan 11 Featured",הסוכנות עונה 3 | פרק 6 - הילחם או ברח
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2115522/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:279 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002536/poster" group-title="Kan 11 Featured",זוג בשחיקה – טיפול זוגי
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170531/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:261 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002531/poster" group-title="Kan 11 Featured",לא בלי בתי – בדיקה שגרתית
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170524/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:230 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002538/poster" group-title="Kan 11 Featured",הפאלשיות – המשפט, חלק ג'
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170529/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:467 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002537/poster" group-title="Kan 11 Featured",בחדר עם חני
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170527/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:227 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002533/poster" group-title="Kan 11 Featured",עלטה – עם צחי הברברי
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170526/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:101 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002532/poster" group-title="Kan 11 Featured",למה את לא מחייכת?
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170525/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1600 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan997742/poster" group-title="Kan 11 Featured",מי זאת? עונה 2 | פרק 6 - בחדר עם חני
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2165547/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1793 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002623/poster" group-title="Kan 11 Featured",כל האימהות משקרות | פרק 8 - אף אחד לא אוהב ילדים רעים
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170554/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
