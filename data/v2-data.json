@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור בחירה 03.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
+          "StreamerId": "1_ldegoif6",
+          "Date": "2026-03-03 21:31:16",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4306483/",
+          "Duration": 2270,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-03 21:31:16",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ldegoif6/flavorIds/1_pzgbjeyi,1_ozxjv6hb,1_yrqxn7l8,1_vcup6v0g,1_dt7m3lyb,1_n25nrvoo/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 02.03.26 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_4vd0j4gq",
@@ -675,19 +688,6 @@
           "ShortDescriptionLine2": "2026-03-02 23:14:52",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4vd0j4gq/flavorIds/1_mkg9aira,1_pnd58q46,1_x6jwkrsx,1_6eu9wyez,1_795w9590,1_0fqh4xe5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור בחירה 02.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
-          "StreamerId": "1_mwkvcwjy",
-          "Date": "2026-03-02 20:45:55",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4305873/",
-          "Duration": 2234,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-02 20:45:55",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mwkvcwjy/flavorIds/1_69t703yr,1_59w81lc0,1_qy72neew,1_aq7ag8p0,1_dbwbo5u1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 03.03.26 [live]",
+          "Title": "המהדורה המרכזית: 03.03.26",
           "Poster": "https://img.mako.co.il/2026/03/03/Mahadura_Merkazit_030326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941268/21941268_noAdds/21941268_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941268/21941268_noAdds/21941268_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "86979beb952bc910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-86979beb952bc91026.htm",
           "ShortDescriptionLine2": "Netanyahu and Trump's conversation about going to war",
           "Date": "2026-03-03T19:51:10+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Main edition: 03.03.26 [live]"
+          "Live": false,
+          "Duration": 5584,
+          "ShortDescriptionLine1": "Main edition: 03.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 03.03.26",
