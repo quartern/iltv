@@ -2563,6 +2563,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "4a3324c0e798c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-4a3324c0e798c91026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-03-03T23:43:12+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: היום הרביעי למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2026/03/03/Nesli_yoav_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2591,21 +2606,6 @@
           "Live": false,
           "Duration": 10241,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Roar Harry - Day 4"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/03/03/Avri_Sherki_020326_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_020326_VOD_gfh963/Avri_Sherki_020326_VOD_gfh963_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_020326_VOD_gfh963/Avri_Sherki_020326_VOD_gfh963_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "58af24c0e798c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-58af24c0e798c91026.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-03-02T23:16:42+02:00",
-          "Live": false,
-          "Duration": 6816,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "מועדון לילה: תוכנית מיוחדת",
@@ -3093,6 +3093,32 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל, 03.03.26",
+          "StreamerId": "6390333834112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ecb8fda9-fbdf-462b-ae35-748ba25b5cf9/b1a544ae-b123-477c-88aa-909e7132619a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390333834112",
+          "Date": "2026-03-03T21:29:36Z",
+          "Duration": 6911,
+          "ShortDescriptionLine1": "7 Sharon Gal, 03.03.26",
+          "ShortDescriptionLine2": "2026-03-03T21:29:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ecb8fda9-fbdf-462b-ae35-748ba25b5cf9/10s/master.m3u8?fastly_token=NjljYzY3YmNfYWRhMzAzYmRlZjRiYWIwMmZhMDBjNzU0ZDdiMTQ2NjM4MDJlNDI2NjcwYTkyM2U5OWNjYjdjYTQ2ODU0MTg2MA%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית, 03.03.26",
+          "StreamerId": "6390330085112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/99d27046-f156-4726-9b68-367991498b69/288e4b97-4083-4391-a84a-90dad2e04235/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390330085112",
+          "Date": "2026-03-03T21:27:52Z",
+          "Duration": 7199,
+          "ShortDescriptionLine1": "The main edition, 03.03.26",
+          "ShortDescriptionLine2": "2026-03-03T21:27:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/99d27046-f156-4726-9b68-367991498b69/10s/master.m3u8?fastly_token=NjljYzY5MDBfMzYxMmE5YzA1NGI0ZTRhOTYwMjVmMzhkOGFiY2IyMWI5MDZjZjhkOTA3NTlhNGJiYTRiYzhjNzc2MGZlZjY0ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל, 02.03.26",
           "StreamerId": "6390283571112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/15baa79c-3bb1-40c7-b2b0-78081346e136/9cfa474e-646a-47c4-96c8-b018e4ca5055/320x180/match/image.jpg",
@@ -3119,19 +3145,6 @@
           ]
         },
         {
-          "Title": "המהדורה המרכזית, 26.02.26",
-          "StreamerId": "6390262236112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a8940b89-2f80-40c9-9d6a-13d98c4cf325/d90eb4ae-4505-44e9-8279-27ee544f1fbc/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390262236112",
-          "Date": "2026-03-02T10:49:42Z",
-          "Duration": 5385,
-          "ShortDescriptionLine1": "The main edition, 26.02.26",
-          "ShortDescriptionLine2": "2026-03-02T10:49:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a8940b89-2f80-40c9-9d6a-13d98c4cf325/10s/master.m3u8?fastly_token=NjljYTdkM2NfODYyMjdhMjY0ZTgzZTRmYjhmNmVkMWI4ZTlmNjY2ZDNmNmI4MDExMThiYWJhYjQxZTQ3Y2E0ZjNhZTE1YTQxYw%3D%3D"
-          ]
-        },
-        {
           "Title": "הישראלים, 01.03.26",
           "StreamerId": "6390258200112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2ebcf448-8bff-4f45-bc71-f725dc8df733/cb7af8a0-6cb5-4dc0-9a1e-ba15306f2ed4/320x180/match/image.jpg",
@@ -3155,19 +3168,6 @@
           "ShortDescriptionLine2": "2026-03-02T07:24:00Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1465d162-ab22-4595-b432-eaead616ffa9/10s/master.m3u8?fastly_token=NjljYTNmMThfYmQ1ZTdkZTRhMmNlNmVhOWIyNWMxZDU3ZGFjNTA2YTdlZWE5NjAzNjRjMTUwNzM3NDgyZWZlMGI4NzlkZDRlMg%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל, 01.03.26",
-          "StreamerId": "6390229533112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/62a4dc32-9506-423f-a92d-9949ad3826a4/4aa61233-7388-4561-a9c3-c381199cd1d5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390229533112",
-          "Date": "2026-03-01T18:04:13Z",
-          "Duration": 6624,
-          "ShortDescriptionLine1": "7 Sharon Gal, 01.03.26",
-          "ShortDescriptionLine2": "2026-03-01T18:04:13Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/62a4dc32-9506-423f-a92d-9949ad3826a4/10s/master.m3u8?fastly_token=NjljOTk1MTRfMGRkMDdjODVmZGY3NzkyZjAwNjVjMGJmYjkyOTczNTFmYjViZGNhOWJlNGNlY2QxNjM4N2U5ZjI2MmU3YWQ4OQ%3D%3D"
           ]
         },
         {
