@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 04.03.26 [live]",
+          "Title": "המהדורה המרכזית: 04.03.26",
           "Poster": "https://img.mako.co.il/2026/03/04/Mahadura_Merkazit_040326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941299/21941299_noAdds/21941299_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941299/21941299_noAdds/21941299_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "35f95cbc0b7bc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-35f95cbc0b7bc91027.htm",
           "ShortDescriptionLine2": "History: F-35 shot down an Iranian plane",
           "Date": "2026-03-04T19:51:16+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Main edition: 04.03.26 [live]"
+          "Live": false,
+          "Duration": 5152,
+          "ShortDescriptionLine1": "Main edition: 04.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 04.03.26",
@@ -2563,6 +2563,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: מהדורת הארי: תוכנית מיוחדת [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "259819274948c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-259819274948c91026.htm",
+          "ShortDescriptionLine2": "A wonderful country in a special edition on the occasion of Operation Hagat Hari",
+          "Date": "2026-03-04T21:53:40+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Eretz Nehederet: Hari Edition: Special Program [live]"
+        },
+        {
           "Title": "נסלי ויואב: היום החמישי למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2681,21 +2696,6 @@
           "Live": false,
           "Duration": 2851,
           "ShortDescriptionLine1": "While You Worked: The Walmart Revolution"
-        },
-        {
-          "Title": "ארץ נהדרת: אהבת השם נגד ארדואן",
-          "Poster": "https://img.mako.co.il/2026/02/25/Eretz_Nehederet23_16_250226_Shem_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_16_250226_VOD_gru734/Eretz_Nehederet23_16_250226_VOD_gru734_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_16_250226_VOD_gru734/Eretz_Nehederet23_16_250226_VOD_gru734_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9ccf7d25bdb4c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-9ccf7d25bdb4c91026.htm",
-          "ShortDescriptionLine2": "attack? agreement? The real battle is coming to a great land",
-          "Date": "2026-02-25T21:36:37+02:00",
-          "Live": false,
-          "Duration": 3601,
-          "ShortDescriptionLine1": "Eretz Nehederet: Love of God against Erdogan"
         },
         {
           "Title": "ריסט: החיים החדשים של גידי",
