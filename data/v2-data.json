@@ -2408,19 +2408,19 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 05.03.26 [live]"
         },
         {
-          "Title": "מהדורת היום: 05.03.26 [live]",
+          "Title": "מהדורת היום: 05.03.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21941327/21941327_noAdds/21941327_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21941327/21941327_noAdds/21941327_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "55f344fe89cbc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/9404dca35d89c910/VOD-55f344fe89cbc91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-05T14:02:28+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 05.03.26 [live]"
+          "Live": false,
+          "Duration": 7887,
+          "ShortDescriptionLine1": "Today's edition: 05.03.26"
         },
         {
           "Title": "המהדורה המרכזית: 04.03.26",
@@ -3092,6 +3092,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 04.03.26",
+          "StreamerId": "6390428739112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/7550b43f-1818-4bc2-868b-bedb1de22349/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390428739112",
+          "Date": "2026-03-05T14:52:53Z",
+          "Duration": 7127,
+          "ShortDescriptionLine1": "The Israelis, 04.03.26",
+          "ShortDescriptionLine2": "2026-03-05T14:52:53Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/10s/master.m3u8?fastly_token=NjljZWFlN2JfYzliNGQxN2I2M2M2OTExNjdhYjMxYTEyYmY3OTA0NTUxMGJmY2UwNDBmZGY4YjQ5MjRlNjAyMDliNTllOGFiNA%3D%3D"
+          ]
+        },
+        {
           "Title": "משדר מיוחד עם ניב גלבוע - 04.03.26",
           "StreamerId": "6390427890112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7d006c24-ad57-4f92-b2c2-b3d8be17d87a/ddb40334-50ac-4e17-918b-4a26fa3bfdda/320x180/match/image.jpg",
@@ -3167,19 +3180,6 @@
           "ShortDescriptionLine2": "2026-03-04T15:26:17Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1a1fafd9-e423-4402-92b8-2bf724de0eb5/10s/master.m3u8?fastly_token=NjljZDY2MzdfMWQwODc1NWI3ZmYwNTU1MjYyZjNlYmVkODY2ZTViNDE1NGQxMjllOTk3YzRhMGEwMjgyMjEzN2Q2MjExYzBjYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים, 02.03.26",
-          "StreamerId": "6390377054112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c25e5d55-71c9-4fad-ae73-1832d9f1d8c9/d7509487-70e8-4882-bf89-f64cc9c5aa7f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390377054112",
-          "Date": "2026-03-04T15:16:27Z",
-          "Duration": 6508,
-          "ShortDescriptionLine1": "The Israelis, 02.03.26",
-          "ShortDescriptionLine2": "2026-03-04T15:16:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c25e5d55-71c9-4fad-ae73-1832d9f1d8c9/10s/master.m3u8?fastly_token=NjljZDVkN2JfMGExMzNkMTQ2ZjY0OTI1MGYxNzE5ZTI5YzQ3ZjlmMjMxNjNmMTViZmRkZDYwMjliZTcwYzFkM2EwMGJkZmZlNw%3D%3D"
           ]
         },
         {
