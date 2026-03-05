@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם קרן אוזן והדס גרינברג | 05.03.26 - 02:00",
+          "ShortDescriptionLine1": "special broadcast with Keren Ozan and Hadas Greenberg 05.03.26 - 02:00",
+          "ShortDescriptionLine2": "2026-03-05 10:12:09",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007148/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174066/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1007148",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1007148",
+          "Date": "2026-03-05 10:12:09",
+          "Duration": "14408"
+        },
+        {
           "Title": "חדשות הלילה | 04.03.26 ",
           "ShortDescriptionLine1": "Tonight's news 04.03.26",
           "ShortDescriptionLine2": "2026-03-05 09:30:48",
@@ -476,19 +489,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1006860",
           "Date": "2026-03-04 20:24:52",
           "Duration": "6600"
-        },
-        {
-          "Title": "משדר מיוחד עם איילה חסון | 04.03.26 - 18:00",
-          "ShortDescriptionLine1": "Special broadcast with Ayala Hasson 04.03.26 - 18:00",
-          "ShortDescriptionLine2": "2026-03-04 18:54:46",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1006823/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173572/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1006823",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1006823",
-          "Date": "2026-03-04 18:54:46",
-          "Duration": "6659"
         },
         {
           "Title": "\"מקלט של שפיות\": הישראלים שירדו לאילת כדי לברוח מהאזעקות ומהמלחמה",
@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: היום השישי למבצע שאגת הארי [live]",
+          "Title": "נסלי ויואב: היום השישי למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2026/03/05/Nesli_Yoav_050326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/21941346/21941346_noAdds/21941346_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_yoav_2026/21941346/21941346_noAdds/21941346_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a7eb6bd4378ac910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-a7eb6bd4378ac91026.htm",
           "ShortDescriptionLine2": "The sixth day of Operation Harry's Roar: all the reports",
           "Date": "2026-03-05T09:30:13+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Nesli and Yoav: The sixth day of Operation Hagat Hari [live]"
+          "Live": false,
+          "Duration": 6725,
+          "ShortDescriptionLine1": "Nesli and Yoav: The sixth day of Operation Hagat Hari"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום השישי [live]",
