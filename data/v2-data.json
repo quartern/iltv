@@ -2563,18 +2563,33 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ריסט: הקואצ'ר",
-          "Poster": "https://img.mako.co.il/2026/02/04/Reset_1_x5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב [live]",
+          "Poster": "https://img.mako.co.il/2026/03/05/Doh_Matzav_050326_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Reset_s1/A189598/A189598_noAdds/A189598_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Reset_s1/A189598/A189598_noAdds/A189598_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9520bf6b3b48c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-9520bf6b3b48c91026.htm",
+          "ShortDescriptionLine2": "Einav Galili and Yaron Avraham summarize the week",
+          "Date": "2026-03-05T23:23:55+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report [live]"
+        },
+        {
+          "Title": "ריסט: הקואצ'ר",
+          "Poster": "https://img.mako.co.il/2026/03/05/Reset_04_050326_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_04_050326_VOD_iut530/Reset_04_050326_VOD_iut530_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Reset/S01/EP/Reset_04_050326_VOD_iut530/Reset_04_050326_VOD_iut530_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "071049764848c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/reset-s1/VOD-071049764848c91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/reset-s1/VOD-071049764848c91026.htm",
           "ShortDescriptionLine2": "Meet the coach who tries to fix Gidi's life",
           "Date": "2026-03-05T21:54:26+02:00",
           "Live": false,
-          "Duration": 2751,
+          "Duration": 2653,
           "ShortDescriptionLine1": "Reset: the coach"
         },
         {
@@ -2666,21 +2681,6 @@
           "Live": false,
           "Duration": 4880,
           "ShortDescriptionLine1": "Ofira Ohana Seri: Have we turned to war?"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: האם ארה\"ב תתקוף בסוף השבוע?",
-          "Poster": "https://img.mako.co.il/2026/02/26/Doh_Matzav_260226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/February/Doh_Matzav_260226_VOD_SIKI866/Doh_Matzav_260226_VOD_SIKI866_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/February/Doh_Matzav_260226_VOD_SIKI866/Doh_Matzav_260226_VOD_SIKI866_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "2882f9b33d06c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-2882f9b33d06c91027.htm",
-          "ShortDescriptionLine2": "The moment of truth - will the US attack this weekend?",
-          "Date": "2026-02-26T23:16:10+02:00",
-          "Live": false,
-          "Duration": 2459,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Will the US attack this weekend?"
         },
         {
           "Title": "עובדה: מתן אנגרסט מדבר",
