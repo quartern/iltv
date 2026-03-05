@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-05 16:08
+# Last updated: 2026-03-05 16:21
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,14 +109,14 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007455/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 05.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:6530 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007359/poster" group-title="11 News - Latest shows",משדר מיוחד עם איילה חסון | 05.03.26 - 18:00
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174142/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:12323 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007125/poster" group-title="11 News - Latest shows",חדשות הלילה | 04.03.26 
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174062/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:6600 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1006860/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 04.03.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173597/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:425 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1006132/poster" group-title="11 News - Latest shows","מקלט של שפיות": הישראלים שירדו לאילת כדי לברוח מהאזעקות ומהמלחמה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173348/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -678,6 +678,21 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2367 tvg-logo="https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם ניר דבורי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:349 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_1_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: תנו לזה לשקוע 
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_01_250126_VOD_sdx123/Torki_Vehemshachnu_01_250126_VOD_sdx123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:378 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_2_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: טייק הזהב 
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_02_250126_VOD_ygb878/Torki_Vehemshachnu_02_250126_VOD_ygb878_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:540 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_3_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: מרקורי במסיבה
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_03_250126_VOD_mnb090/Torki_Vehemshachnu_03_250126_VOD_mnb090_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:200 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_4_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: קצת אוויר
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_04_250126_VOD_SIE932/Torki_Vehemshachnu_04_250126_VOD_SIE932_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:605 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_5_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: יש לנו שיר?
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:7127 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/7550b43f-1818-4bc2-868b-bedb1de22349/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",הישראלים, 04.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/10s/master.m3u8?fastly_token=NjljZWFlN2JfYzliNGQxN2I2M2M2OTExNjdhYjMxYTEyYmY3OTA0NTUxMGJmY2UwNDBmZGY4YjQ5MjRlNjAyMDliNTllOGFiNA%3D%3D
