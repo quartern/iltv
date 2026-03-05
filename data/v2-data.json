@@ -452,17 +452,17 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "משדר מיוחד עם יונתן אוחיון | 05.03.36 - 09:00",
-          "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 05.03.36 - 09:00",
-          "ShortDescriptionLine2": "2026-03-05 11:22:20",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007186/poster",
+          "Title": "משדר מיוחד עם שרון וכסלר ואורי לוי | 05.03.26 - 12:00",
+          "ShortDescriptionLine1": "Special broadcast with Sharon Wechsler and Uri Levy 05.03.26 - 12:00",
+          "ShortDescriptionLine2": "2026-03-05 14:00:39",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007251/poster",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174093/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174118/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1007186",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1007186",
-          "Date": "2026-03-05 11:22:20",
-          "Duration": "10858"
+          "StreamerId": "kan1007251",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1007251",
+          "Date": "2026-03-05 14:00:39",
+          "Duration": "10765"
         },
         {
           "Title": "חדשות הלילה | 04.03.26 ",
@@ -2593,21 +2593,6 @@
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Roaring Harry-day six"
         },
         {
-          "Title": "ארץ נהדרת: מהדורת הארי: תוכנית מיוחדת",
-          "Poster": "https://img.mako.co.il/2026/03/04/Eretz_Nehederet23_17_040326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_17_040326_VOD_gir457/Eretz_Nehederet23_17_040326_VOD_gir457_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_17_040326_VOD_gir457/Eretz_Nehederet23_17_040326_VOD_gir457_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "259819274948c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-259819274948c91026.htm",
-          "ShortDescriptionLine2": "A wonderful country in a special edition on the occasion of Operation Hagat Hari",
-          "Date": "2026-03-04T21:53:40+02:00",
-          "Live": false,
-          "Duration": 3043,
-          "ShortDescriptionLine1": "Eretz Nehederet: Hari Edition: Special Program"
-        },
-        {
           "Title": "אברי ושרקי: מבצע שאגת הארי-היום הרביעי",
           "Poster": "https://img.mako.co.il/2026/03/04/Avri_Sherki_030326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -3086,6 +3071,20 @@
           "Live": false,
           "Duration": 605,
           "ShortDescriptionLine1": "Turki and we continued: do we have a song?"
+        },
+        {
+          "Title": "ארץ נהדרת: ארץ נהדרת",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/makostore-hd.akamaized.net/i/SHORT/ErrorMessage/eror_2/eror_2_,550,850,1400,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "ece74c28309ac910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-ece74c28309ac91026.htm",
+          "ShortDescriptionLine2": "great country",
+          "Date": "",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Eretz Nehederet: Great Land"
         }
       ]
     },
