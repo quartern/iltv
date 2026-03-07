@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21941403/21941403_noAdds/21941403_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21941403/21941403_noAdds/21941403_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f0716bd4378ac910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-f0716bd4378ac91026.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-03-07T23:36:57+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "Duration": 3793,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה אוחנה סרי: כמה זמן באמת תימשך המלחמה?",
@@ -3093,6 +3093,58 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם אלי הוכנברג - 07.03.26",
+          "StreamerId": "6390559533112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/86af2c00-0c30-45b9-b997-e4ced9ebd0a7/d1e7b878-c762-4f70-a703-4040fea1bc7c/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390559533112",
+          "Date": "2026-03-07T22:43:33Z",
+          "Duration": 7162,
+          "ShortDescriptionLine1": "Special broadcast with Eli Hochenberg - 07.03.26",
+          "ShortDescriptionLine2": "2026-03-07T22:43:33Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/86af2c00-0c30-45b9-b997-e4ced9ebd0a7/10s/master.m3u8?fastly_token=NjlkMWMxYzhfODk4NTZkNjJjNWVjNzFjM2MyNDg1NTY2ODEwMDU1NWY4Y2FjOTgwNzUzZTk3MDk1ZDM2NzRjZDA1NDdjMWIwOQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המוקדמת, 07.03.26",
+          "StreamerId": "6390558948112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/01b632ed-4a21-4208-be1d-9e73c307ef27/9014b952-49eb-41c9-bb62-f3a52bbe2033/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390558948112",
+          "Date": "2026-03-07T22:40:19Z",
+          "Duration": 6904,
+          "ShortDescriptionLine1": "The early edition, 07.03.26",
+          "ShortDescriptionLine2": "2026-03-07T22:40:19Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/01b632ed-4a21-4208-be1d-9e73c307ef27/10s/master.m3u8?fastly_token=NjlkMWMwZTJfNGJhYTExNTI3NDdmNGRiMzYwNzE3NWIxNGJlYjdhNThmZTk2ZWJmZmMzM2RkOWUwM2Y0MjRmOGNjYjNlZDRjNg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מגזין השבת, 07.03.26",
+          "StreamerId": "6390558838112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e977d91a-0121-46fd-9ec1-56427abc3f86/6f289cfa-7743-40ca-8a07-99c8baeb5d5b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390558838112",
+          "Date": "2026-03-07T22:38:03Z",
+          "Duration": 8899,
+          "ShortDescriptionLine1": "Shabbat magazine, 07.03.26",
+          "ShortDescriptionLine2": "2026-03-07T22:38:03Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e977d91a-0121-46fd-9ec1-56427abc3f86/10s/master.m3u8?fastly_token=NjlkMWM5OThfZmUzNzI5OWQ5N2U2YmE1MzU2YzM5Y2Y2ZTdlYzdmMjRlOTE1NTE3OGZhZmVkNTY5ODczMGNlNTVjMmJkNDA4NA%3D%3D"
+          ]
+        },
+        {
+          "Title": "הישראלים, 07.03.26",
+          "StreamerId": "6390558837112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7e86b193-f26f-48a5-b2b7-7b8bdb8a7412/8e79a2d6-07a4-424b-82ac-89670d8fb8a6/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390558837112",
+          "Date": "2026-03-07T22:37:51Z",
+          "Duration": 5838,
+          "ShortDescriptionLine1": "The Israelis, 07.03.26",
+          "ShortDescriptionLine2": "2026-03-07T22:37:51Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7e86b193-f26f-48a5-b2b7-7b8bdb8a7412/10s/master.m3u8?fastly_token=NjlkMWJiZTZfNTJkYjM0ZTZhYmY2N2RiOTFiODIxMDgwYWM5MGIzNzY1YzEyMGZjOTAxZTgzNmVmZjhiNDkwNWNhNjUwOTQ4OQ%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי חלק 1 6.3.26",
           "StreamerId": "6390508868112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9bd87348-2e71-487f-b75f-fe75452d8c7e/1bfa5718-a62c-49f5-a9f3-b610fec518bd/320x180/match/image.jpg",
@@ -3171,19 +3223,6 @@
           ]
         },
         {
-          "Title": "משדר מיוחד עם שרון ניסים - 04.03.26",
-          "StreamerId": "6390426730112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cb11c744-583d-4d72-b298-d24ca575417f/4f4ff189-d902-427c-911c-f3dc81517265/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390426730112",
-          "Date": "2026-03-05T14:29:48Z",
-          "Duration": 10778,
-          "ShortDescriptionLine1": "Special broadcast with Sharon Nissim - 03.04.26",
-          "ShortDescriptionLine2": "2026-03-05T14:29:48Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cb11c744-583d-4d72-b298-d24ca575417f/10s/master.m3u8?fastly_token=NjljZWI3ZmNfMDFjOWY2ZjU1ODcwNGY3NjJkNWM5ZjI1ODBhOTgzOTdhNjllMWMzOTM2ZTNhZWU4NTk1NWM4NmVlMDFkZjhlYw%3D%3D"
-          ]
-        },
-        {
           "Title": "7 שרון גל, 04.03.26",
           "StreamerId": "6390416247112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/55ba36e3-0369-42ad-bfc3-53553d705c9d/24e56cce-9fad-4cee-8766-b0d13eeaf86f/320x180/match/image.jpg",
@@ -3207,19 +3246,6 @@
           "ShortDescriptionLine2": "2026-03-05T10:45:51Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/757a8fdb-6373-4c90-ae79-6154758008d4/10s/master.m3u8?fastly_token=NjljZTcyN2FfMzMxNjc5YTYxNjk4ZmU2YjUxZDA0MDQyZmIyNTYzMDhjZmFkZDA3ZTkxYzJlNTE4YzNhZTMxMGNlZDUxMmYxYQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים, 03.03.26",
-          "StreamerId": "6390378534112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/56fde869-3b8f-4336-ba9e-ccd3bf58d22e/9acae589-e5fa-45bf-8da0-02ff53d2bd94/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390378534112",
-          "Date": "2026-03-04T15:26:40Z",
-          "Duration": 6762,
-          "ShortDescriptionLine1": "The Israelis, 03.03.26",
-          "ShortDescriptionLine2": "2026-03-04T15:26:40Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/56fde869-3b8f-4336-ba9e-ccd3bf58d22e/10s/master.m3u8?fastly_token=NjljZDY1NzFfZWZiMGJjNTE3NzAzOGFjOWQzNmEzODg1MTBlNzJhOTIxODRmNzBmMWJlZWY5NzZkODRkMjgyOTAwOTZhZTdmMg%3D%3D"
           ]
         },
         {
@@ -3405,19 +3431,6 @@
           ]
         },
         {
-          "Title": "המהדורה המוקדמת, 21.02.26",
-          "StreamerId": "6389691159112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a7c42071-26ae-4d2a-9577-50c930bba3b2/07cba95b-004b-446e-b53c-f8a32f84e678/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389691159112",
-          "Date": "2026-02-21T20:20:21Z",
-          "Duration": 7084,
-          "ShortDescriptionLine1": "The early edition, 21.02.26",
-          "ShortDescriptionLine2": "2026-02-21T20:20:21Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a7c42071-26ae-4d2a-9577-50c930bba3b2/10s/master.m3u8?fastly_token=NjliZjI2MjNfMjFkNzlmZGMyYjJlZjg4NmU2NTRhYTQ1NWUwZmM3OTU5NjQyODRkYzE2MjIwNDViNzg0MzhiOTlhMzI3ZDg4MA%3D%3D"
-          ]
-        },
-        {
           "Title": "זמן ריפוי, 20.02.26 | תוכן ממומן",
           "StreamerId": "6389625800112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/294a1dad-cf39-454f-9fb6-67f6d068e9a9/93d6bfa1-cb37-433d-9a04-32b3a4dfc2ac/320x180/match/image.jpg",
@@ -3441,19 +3454,6 @@
           "ShortDescriptionLine2": "2026-02-18T10:47:12Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ec0cb893-7997-436c-99b5-8a983027ffd2/10s/master.m3u8?fastly_token=NjliYTkyMDdfMTBmMzQyYmNiNWExZTFiNzAxZThmNTA5ODFjZGQ5Zjc0NGM0YzhkM2RmYjMyMjg3MjQ2ZTA5ODhlODY1N2ViOA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת, 14.02.26",
-          "StreamerId": "6389301330112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2cb1f238-f61e-44fd-8f2b-93515020526c/2d589ca5-f27c-4005-a12c-390df5c2e15f/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6389301330112",
-          "Date": "2026-02-15T08:39:53Z",
-          "Duration": 4312,
-          "ShortDescriptionLine1": "Shabbat magazine, 14.02.26",
-          "ShortDescriptionLine2": "2026-02-15T08:39:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2cb1f238-f61e-44fd-8f2b-93515020526c/10s/master.m3u8?fastly_token=NjliNjhiMmZfOWRmZmVhYjMzZTRlOTViYzBiNjNmNDVjMTA1YjgyNDc4YjU2ZWY3MWJkM2JhNTA5ZDQyNjUzMjZmMDdmZjdjMA%3D%3D"
           ]
         }
       ]
