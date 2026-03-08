@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 08.03.26 [live]",
+          "Title": "המהדורה המרכזית: 08.03.26",
           "Poster": "https://img.mako.co.il/2026/03/08/Mahadura_Merkazit_080326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941415/21941415_noAdds/21941415_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941415/21941415_noAdds/21941415_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9fcad74e73ccc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-9fcad74e73ccc91027.htm",
           "ShortDescriptionLine2": "The Lebanese arena is heating up",
           "Date": "2026-03-08T19:49:42+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Main edition: 08.03.26 [live]"
+          "Live": false,
+          "Duration": 4722,
+          "ShortDescriptionLine1": "Main edition: 08.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 08.03.26",
@@ -2483,21 +2483,6 @@
           "ShortDescriptionLine1": "Weekend news: 07.03.26"
         },
         {
-          "Title": "פגוש את העיתונות: 07.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/07/Pgosh_Et_HaeItonot_070326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/18pgosh_vtr2_n20260307_v1/18pgosh_vtr2_n20260307_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/18pgosh_vtr2_n20260307_v1/18pgosh_vtr2_n20260307_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "934fdcd9ed47c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/1aec65878e89c910/VOD-934fdcd9ed47c91027.htm",
-          "ShortDescriptionLine2": "The eighth day of the \"Harry's Roar\" operation",
-          "Date": "2026-03-07T17:59:27+02:00",
-          "Live": false,
-          "Duration": 5191,
-          "ShortDescriptionLine1": "Meet the press: 07.03.26"
-        },
-        {
           "Title": "אולפן שישי: 06.03.26",
           "Poster": "https://img.mako.co.il/2026/03/06/Ulpan_Shishi_060326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2526,21 +2511,6 @@
           "Live": false,
           "Duration": 1798,
           "ShortDescriptionLine1": "The young edition: 21.02.26"
-        },
-        {
-          "Title": "פגוש את העיתונות: 21.02.26",
-          "Poster": "https://img.mako.co.il/2026/02/21/Pgosh_210226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/18pgosh_full_vtr2_n20260221_v1/18pgosh_full_vtr2_n20260221_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/02/18pgosh_full_vtr2_n20260221_v1/18pgosh_full_vtr2_n20260221_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "4b2fdcd9ed47c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/417a03de78ffb910/VOD-4b2fdcd9ed47c91027.htm",
-          "ShortDescriptionLine2": "Protests were renewed throughout Iran",
-          "Date": "2026-02-21T17:59:24+02:00",
-          "Live": false,
-          "Duration": 5598,
-          "ShortDescriptionLine1": "Meet the press: 21.02.26"
         },
         {
           "Title": "שבת בחמש: 21.02.26",
@@ -2966,6 +2936,51 @@
           "Live": false,
           "Duration": 2424,
           "ShortDescriptionLine1": "Nutuk: The meeting that changed everything"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם בן כספית",
+          "Poster": "https://img.mako.co.il/2025/05/09/Ma_Beemet_Kara_Sham_090525_Ben_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "85ccefcf7bea6910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-85ccefcf7bea691026.htm",
+          "ShortDescriptionLine2": "Ben Caspit on the secret relationship between him and Netanyahu",
+          "Date": "2025-05-09T21:56:52+03:00",
+          "Live": false,
+          "Duration": 2423,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Ben Caspit"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם אברי גלעד",
+          "Poster": "https://img.mako.co.il/2025/05/02/Ma_Beemet_Kara_Sham_020525_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "89458bdf93186910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-89458bdf9318691027.htm",
+          "ShortDescriptionLine2": "Avery Gilad arrives and opens everything in the studio",
+          "Date": "2025-05-02T22:10:32+03:00",
+          "Live": false,
+          "Duration": 2905,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Avri Gilad"
+        },
+        {
+          "Title": "מה באמת קרה שם?: ארז טל עם ניר דבורי",
+          "Poster": "https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "e10edc7658666910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/what_really_happened-s1/VOD-e10edc765866691027.htm",
+          "ShortDescriptionLine2": "What really happened there? Nir Davori comes to the show",
+          "Date": "2025-04-25T22:09:54+03:00",
+          "Live": false,
+          "Duration": 2367,
+          "ShortDescriptionLine1": "What really happened there?: Erez Tal with Nir Davori"
         },
         {
           "Title": "טורקי והמשכנו: תנו לזה לשקוע ",
