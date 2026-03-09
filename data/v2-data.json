@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם שרון וכסלר ואורי לוי | 09.03.26 - 12:00",
+          "ShortDescriptionLine1": "Special broadcast with Sharon Wechsler and Uri Levy 09.03.26 - 12:00",
+          "ShortDescriptionLine2": "2026-03-09 13:42:20",
+          "Poster": "https://www.kan.org.il/media/dibjr355/%d7%9e%d7%a9%d7%93%d7%a8-12.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176077/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1009333",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1009333",
+          "Date": "2026-03-09 13:42:20",
+          "Duration": "10120"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 09.03.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 09.03.26",
           "ShortDescriptionLine2": "2026-03-09 13:18:47",
@@ -463,19 +476,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1009342",
           "Date": "2026-03-09 13:18:47",
           "Duration": "598"
-        },
-        {
-          "Title": "משדר מיוחד עם יונתן אוחיון | 09.03.26 - 09:00",
-          "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 09.03.26 - 09:00",
-          "ShortDescriptionLine2": "2026-03-09 10:54:36",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1009244/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176057/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1009244",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1009244",
-          "Date": "2026-03-09 10:54:36",
-          "Duration": "10840"
         },
         {
           "Title": "חדשות הלילה | 08.03.26",
@@ -3093,6 +3093,45 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 08.03.26",
+          "StreamerId": "6390629212112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3c01821-fb67-4d64-b6b7-7791af357bef/2f08d91b-9755-4537-990c-c1654a51a917/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390629212112",
+          "Date": "2026-03-09T13:39:09Z",
+          "Duration": 4030,
+          "ShortDescriptionLine1": "The Israelis, 08.03.26",
+          "ShortDescriptionLine2": "2026-03-09T13:39:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3c01821-fb67-4d64-b6b7-7791af357bef/10s/master.m3u8?fastly_token=NjlkM2QxNGJfN2YxNTMzYWY2YTAxYWM0MWNjZDEwZTUwNzcyZjllOGM2N2UyMzQ1YjNlYjczZWU5Zjc0ZWRkZDgxYzg0NzYzZQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "הערביסטים, 08.03.26",
+          "StreamerId": "6390628825112",
+          "Poster": "https://house-fastly-signed-eu-west-1-prod.brightcovecdn.com/image/v1/static/5377161796001/00e42e0a-fb29-402d-9a83-97d8d54fc737/144656e4-20f1-4775-ae0b-8013f1beb2ec/320x180/match/image.jpg?fastly_token=NjlkM2NlNWNfMjA2NzcwOGJlNTJhZWE2NGRhZmRiYTNhMDllMzVkNmEwYTdmMmQ0MjMwMTVmNTNmM2Q2MThjZjA4ZDY5OTczNl9odHRwczovL2hvdXNlLWZhc3RseS1zaWduZWQtZXUtd2VzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vaW1hZ2UvdjEvc3RhdGljLzUzNzcxNjE3OTYwMDEvMDBlNDJlMGEtZmIyOS00MDJkLTlhODMtOTdkOGQ1NGZjNzM3LzE0NDY1NmU0LTIwZjEtNDc3NS1hZTBiLTgwMTNmMWJlYjJlYy8xMjgweDcyMC9tYXRjaC9pbWFnZS5qcGc%3D",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390628825112",
+          "Date": "2026-03-09T13:36:56Z",
+          "Duration": 3638,
+          "ShortDescriptionLine1": "The Arabists, 08.03.26",
+          "ShortDescriptionLine2": "2026-03-09T13:36:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00e42e0a-fb29-402d-9a83-97d8d54fc737/10s/master.m3u8?fastly_token=NjlkM2NmNjFfNmY4ODg0MGU0N2FlNzg0OGFlZDgwMTQ5MzcyMjFlZGQ5MzQ2NWY3MTdkMTEzNDEyMWM2ZWMwNmEwMWMyMjk0OQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "המהדורה המרכזית, 08.03.26",
+          "StreamerId": "6390629510112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1629ac80-9b78-42fa-8e32-c607dc76abda/54e33e99-f73a-42ba-812d-d7abd6bb1d75/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390629510112",
+          "Date": "2026-03-09T13:35:43Z",
+          "Duration": 7112,
+          "ShortDescriptionLine1": "The main edition, 08.03.26",
+          "ShortDescriptionLine2": "2026-03-09T13:35:43Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1629ac80-9b78-42fa-8e32-c607dc76abda/10s/master.m3u8?fastly_token=NjlkM2RmNDNfNzNjYjFhY2FmMDZjNGQyZWMzZjJhYzcyM2M5YjM0MzUxMWMzN2ZlOWNlM2U2MDAzMTZmY2Y2MmI0YzJlOTRjZA%3D%3D"
+          ]
+        },
+        {
           "Title": "משדר מיוחד עם שרון ניסים - 07.03.26",
           "StreamerId": "6390560049112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/01e29f4f-9ab8-448f-b642-7874e780e0d8/23739f8d-8b4b-4a1b-80f8-b08fb52a81ba/320x180/match/image.jpg",
@@ -3210,19 +3249,6 @@
           ]
         },
         {
-          "Title": "הישראלים, 04.03.26",
-          "StreamerId": "6390428739112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/7550b43f-1818-4bc2-868b-bedb1de22349/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390428739112",
-          "Date": "2026-03-05T14:52:53Z",
-          "Duration": 7127,
-          "ShortDescriptionLine1": "The Israelis, 04.03.26",
-          "ShortDescriptionLine2": "2026-03-05T14:52:53Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2aea535b-52f7-46f0-b33f-bb94c5ce2bd7/10s/master.m3u8?fastly_token=NjljZWFlN2JfYzliNGQxN2I2M2M2OTExNjdhYjMxYTEyYmY3OTA0NTUxMGJmY2UwNDBmZGY4YjQ5MjRlNjAyMDliNTllOGFiNA%3D%3D"
-          ]
-        },
-        {
           "Title": "7 שרון גל, 04.03.26",
           "StreamerId": "6390416247112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/55ba36e3-0369-42ad-bfc3-53553d705c9d/24e56cce-9fad-4cee-8766-b0d13eeaf86f/320x180/match/image.jpg",
@@ -3259,32 +3285,6 @@
           "ShortDescriptionLine2": "2026-03-04T15:26:17Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1a1fafd9-e423-4402-92b8-2bf724de0eb5/10s/master.m3u8?fastly_token=NjljZDY2MzdfMWQwODc1NWI3ZmYwNTU1MjYyZjNlYmVkODY2ZTViNDE1NGQxMjllOTk3YzRhMGEwMjgyMjEzN2Q2MjExYzBjYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 03.03.26",
-          "StreamerId": "6390330085112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/99d27046-f156-4726-9b68-367991498b69/288e4b97-4083-4391-a84a-90dad2e04235/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390330085112",
-          "Date": "2026-03-03T21:27:52Z",
-          "Duration": 7199,
-          "ShortDescriptionLine1": "The main edition, 03.03.26",
-          "ShortDescriptionLine2": "2026-03-03T21:27:52Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/99d27046-f156-4726-9b68-367991498b69/10s/master.m3u8?fastly_token=NjljYzY5MDBfMzYxMmE5YzA1NGI0ZTRhOTYwMjVmMzhkOGFiY2IyMWI5MDZjZjhkOTA3NTlhNGJiYTRiYzhjNzc2MGZlZjY0ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים במשדר מיוחד, 01.03.26",
-          "StreamerId": "6390258004112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1465d162-ab22-4595-b432-eaead616ffa9/6c014324-ff11-4945-a3b4-0915f1bc9004/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390258004112",
-          "Date": "2026-03-02T07:24:00Z",
-          "Duration": 3433,
-          "ShortDescriptionLine1": "The Arabists on a special transmitter, 01.03.26",
-          "ShortDescriptionLine2": "2026-03-02T07:24:00Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1465d162-ab22-4595-b432-eaead616ffa9/10s/master.m3u8?fastly_token=NjljYTNmMThfYmQ1ZTdkZTRhMmNlNmVhOWIyNWMxZDU3ZGFjNTA2YTdlZWE5NjAzNjRjMTUwNzM3NDgyZWZlMGI4NzlkZDRlMg%3D%3D"
           ]
         },
         {
