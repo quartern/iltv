@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 11.03.26",
+          "ShortDescriptionLine1": "Tonight's news 11.03.26",
+          "ShortDescriptionLine2": "2026-03-11 23:02:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1010821/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176874/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1010821",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1010821",
+          "Date": "2026-03-11 23:02:23",
+          "Duration": "10157"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 11.03.26",
           "ShortDescriptionLine1": "Evening News | 11.03.26",
           "ShortDescriptionLine2": "2026-03-11 20:50:57",
@@ -489,19 +502,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1010540",
           "Date": "2026-03-11 13:48:55",
           "Duration": "600"
-        },
-        {
-          "Title": "חדשות הלילה | 10.03.26",
-          "ShortDescriptionLine1": "Tonight's news 10.03.26",
-          "ShortDescriptionLine2": "2026-03-10 22:46:39",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1010162/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176393/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1010162",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1010162",
-          "Date": "2026-03-10 22:46:39",
-          "Duration": "6166"
         },
         {
           "Title": "חדשות השבת | 07.03.26",
@@ -2566,15 +2566,15 @@
           "Title": "ארץ נהדרת: תוכנית לא קונבנציונלית",
           "Poster": "https://img.mako.co.il/2026/03/11/Eretz_Nehederet23_17_040326_AsherHani_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/A186561/A186561_noAdds/A186561_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/A186561/A186561_noAdds/A186561_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_18_110326_VOD_ujsk39i4/Eretz_Nehederet23_18_110326_VOD_ujsk39i4_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_18_110326_VOD_ujsk39i4/Eretz_Nehederet23_18_110326_VOD_ujsk39i4_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ece74c28309ac910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-ece74c28309ac91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-ece74c28309ac91026.htm",
           "ShortDescriptionLine2": "A wonderful country steps up the war",
           "Date": "2026-03-11T21:36:08+02:00",
           "Live": false,
-          "Duration": 3709,
+          "Duration": 3742,
           "ShortDescriptionLine1": "Eretz Nehederet: An Unconventional Plan"
         },
         {
