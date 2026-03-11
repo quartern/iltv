@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 11.03.26",
+          "ShortDescriptionLine1": "Evening News | 11.03.26",
+          "ShortDescriptionLine2": "2026-03-11 20:50:57",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1010690/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176864/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1010690",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1010690",
+          "Date": "2026-03-11 20:50:57",
+          "Duration": "6900"
+        },
+        {
           "Title": "משדר מיוחד עם איילה חסון | 11.03.26 - 18:00",
           "ShortDescriptionLine1": "Special broadcast with Ayala Hasson 11.03.26 - 18:00",
           "ShortDescriptionLine2": "2026-03-11 18:07:50",
@@ -489,19 +502,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1010162",
           "Date": "2026-03-10 22:46:39",
           "Duration": "6166"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 10.03.26",
-          "ShortDescriptionLine1": "Evening News | 10.03.26",
-          "ShortDescriptionLine2": "2026-03-10 20:01:14",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1010032/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176385/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1010032",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1010032",
-          "Date": "2026-03-10 20:01:14",
-          "Duration": "7575"
         },
         {
           "Title": "חדשות השבת | 07.03.26",
@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: תוכנית לא קונבנציונלית [live]",
+          "Title": "ארץ נהדרת: תוכנית לא קונבנציונלית",
           "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/A186561/A186561_noAdds/A186561_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/A186561/A186561_noAdds/A186561_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ece74c28309ac910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-ece74c28309ac91026.htm",
           "ShortDescriptionLine2": "A wonderful country steps up the war",
           "Date": "2026-03-11T21:36:08+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: An Unconventional Plan [live]"
+          "Live": false,
+          "Duration": 3709,
+          "ShortDescriptionLine1": "Eretz Nehederet: An Unconventional Plan"
         },
         {
           "Title": "נסלי ויואב: היום ה-12 למבצע שאגת הארי",
@@ -3093,6 +3093,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית,11.03.26",
+          "StreamerId": "6390752381112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ca721ca6-0b9f-48cf-affc-3494affb3104/ce4b9890-ca17-4645-aea4-2fab2dae7bad/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390752381112",
+          "Date": "2026-03-11T20:05:24Z",
+          "Duration": 7199,
+          "ShortDescriptionLine1": "The main edition, 11.03.26",
+          "ShortDescriptionLine2": "2026-03-11T20:05:24Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ca721ca6-0b9f-48cf-affc-3494affb3104/10s/master.m3u8?fastly_token=NjlkNmU0NWVfYjQ2MTQyYmNjMThhZTQxY2VkYTRlZTQwY2M2YWY4ZjA0NmFlN2MwYTQ3MGQ0NTE1MjZiYmRmODA4OTE4MGY1NQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע, ",
           "StreamerId": "6390744055112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c69282d7-a44e-48a0-962d-12f65fe71882/a39ad1ba-a80c-4513-8c1e-4dd53507d456/320x180/match/image.jpg",
@@ -3181,19 +3194,6 @@
           "ShortDescriptionLine2": "2026-03-10T21:05:59Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f197e232-e8a5-47c3-b1a8-a5630ffb95f9/10s/master.m3u8?fastly_token=NjlkNThiNDdfYTI0OTRlZDllMDI0ODVmZDcyZGM1OGU2ZTZlMjg3YmFhZmQ3NmIxOTJmMTU1MzgyNDY0NTU4NjNjZTgwZTUyNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית - חלק שני, 09.03.26",
-          "StreamerId": "6390682531112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/44f9ed66-1f64-49b4-8faa-e3a40aa181e8/36a6ceda-ed06-4a8c-aaa5-ca3e76883dc5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390682531112",
-          "Date": "2026-03-10T14:46:28Z",
-          "Duration": 3455,
-          "ShortDescriptionLine1": "The main edition - part two, 09.03.26",
-          "ShortDescriptionLine2": "2026-03-10T14:46:28Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/44f9ed66-1f64-49b4-8faa-e3a40aa181e8/10s/master.m3u8?fastly_token=NjlkNTMwYjZfNmYxYTg5M2MwNWNlYzNmZTRiMmI0YjRiZWY3NWU2ODVhNjA1MjI3OTMwMzIzNzhkY2UzZjNiM2U5ZDI4MDViZg%3D%3D"
           ]
         },
         {
