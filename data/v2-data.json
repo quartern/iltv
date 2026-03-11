@@ -2563,8 +2563,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0cbced59053bc910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-0cbced59053bc91026.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-03-11T07:00:21+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/03/10/Avry_Sherki_110326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21941496/21941496_noAdds/21941496_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21941496/21941496_noAdds/21941496_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2591,21 +2606,6 @@
           "Live": false,
           "Duration": 6616,
           "ShortDescriptionLine1": "Nesli and Yoav: the 11th day of Operation Hagat Hari"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-11",
-          "Poster": "https://img.mako.co.il/2026/03/10/Hadshot_Haboker_100326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_100326_VOD_hdk647/Hadshot_Haboker_100326_VOD_hdk647_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_100326_VOD_hdk647/Hadshot_Haboker_100326_VOD_hdk647_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "eff63a1315eac910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-eff63a1315eac91026.htm",
-          "ShortDescriptionLine2": "Operation Harry's Roar - Day 11 All reports",
-          "Date": "2026-03-10T07:00:16+02:00",
-          "Live": false,
-          "Duration": 9426,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Harry's Roar - Day 11"
         },
         {
           "Title": "ריסט: גידי נגד קרני",
