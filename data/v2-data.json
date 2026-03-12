@@ -1125,6 +1125,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "מה שתגידו עונה 5 | פרק 2 - 12.03.26",
+          "ShortDescriptionLine1": "Whatever you say season 5 | Chapter 2 - 12.03.26",
+          "ShortDescriptionLine2": "2026-03-12 19:57:11",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011164/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177279/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1011164",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11510/s5/1011164",
+          "Date": "2026-03-12 19:57:11",
+          "Duration": "1730"
+        },
+        {
           "Title": "פגישה עם רוני קובן | אורן נהרי - הצצה",
           "ShortDescriptionLine1": "A meeting with Ronnie Cuban Oren Nahari - a glimpse",
           "ShortDescriptionLine2": "2026-03-12 11:27:41",
@@ -1370,19 +1383,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1006421/s1/1007199",
           "Date": "2026-03-05 19:46:20",
           "Duration": "309"
-        },
-        {
-          "Title": "האחוזון העליון עונה 3 | פרק 8 - פורים",
-          "ShortDescriptionLine1": "The top percentile season 3 | Chapter 8 - Purim",
-          "ShortDescriptionLine2": "2026-03-04 19:30:47",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan984404/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007674/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan984404",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11963/s3/984404",
-          "Date": "2026-03-04 19:30:47",
-          "Duration": "3197"
         }
       ]
     },
@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.03.26 [live]",
+          "Title": "המהדורה המרכזית: 12.03.26",
           "Poster": "https://img.mako.co.il/2026/03/12/Mahadura_Merkazit_120326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941540/21941540_noAdds/21941540_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941540/21941540_noAdds/21941540_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a11815672e0ec910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-a11815672e0ec91027.htm",
           "ShortDescriptionLine2": "Prime Minister's first press conference since the beginning of the war",
           "Date": "2026-03-12T19:50:11+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 12.03.26 [live]"
+          "Live": false,
+          "Duration": 5850,
+          "ShortDescriptionLine1": "The main edition: 12.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 12.03.26",
