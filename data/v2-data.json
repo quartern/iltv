@@ -2578,19 +2578,19 @@
           "ShortDescriptionLine1": "Nesli and Yoav: the 13th day of Operation Hagat Hari"
         },
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-13 [live]",
+          "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-13",
           "Poster": "https://img.mako.co.il/2026/03/12/Hadsot_Haboker_120326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_120326_VOD_cbx471/Hadshot_Haboker_120326_VOD_cbx471_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_120326_VOD_cbx471/Hadshot_Haboker_120326_VOD_cbx471_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "520ab7e5fddbc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-520ab7e5fddbc91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-520ab7e5fddbc91026.htm",
           "ShortDescriptionLine2": "Operation Harry's Roar - Day 13 - All Reports",
           "Date": "2026-03-12T07:02:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Harry's Roar - Day 13 [live]"
+          "Live": false,
+          "Duration": 10043,
+          "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Harry's Roar - Day 13"
         },
         {
           "Title": "ארץ נהדרת: תוכנית לא קונבנציונלית",
@@ -3093,6 +3093,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל, 11.03.26",
+          "StreamerId": "6390781817112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/66c2a896-3c4b-44c2-8d24-9efb27ec7cc1/9b563730-c732-41ed-82c3-0682e797b789/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390781817112",
+          "Date": "2026-03-12T11:45:12Z",
+          "Duration": 3128,
+          "ShortDescriptionLine1": "7 Sharon Gal, 11.03.26",
+          "ShortDescriptionLine2": "2026-03-12T11:45:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/66c2a896-3c4b-44c2-8d24-9efb27ec7cc1/10s/master.m3u8?fastly_token=NjlkN2E2MGVfMmVlYjY1NjNiMjkwN2IzODJjNTRkZWY1ZjlmMGQ1ZmE5ZjYwNDBlYmI3ZjZkZDEzNTZiNGYzZWViOWUzN2NhMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 11.03.26",
           "StreamerId": "6390756008112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7d64a610-7253-41f2-9a44-fd3148f6fb31/1b1ff4e4-0d00-4525-8621-108827bbb9e9/320x180/match/image.jpg",
@@ -3207,19 +3220,6 @@
           "ShortDescriptionLine2": "2026-03-10T21:05:59Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f197e232-e8a5-47c3-b1a8-a5630ffb95f9/10s/master.m3u8?fastly_token=NjlkNThiNDdfYTI0OTRlZDllMDI0ODVmZDcyZGM1OGU2ZTZlMjg3YmFhZmQ3NmIxOTJmMTU1MzgyNDY0NTU4NjNjZTgwZTUyNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל, 09.03.26",
-          "StreamerId": "6390680179112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/142cc921-050f-4d3a-922c-9b5ceef1b696/82815820-b3a5-4501-bebd-8dc3c9b3b7b5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390680179112",
-          "Date": "2026-03-10T13:16:24Z",
-          "Duration": 3187,
-          "ShortDescriptionLine1": "7 Sharon Gal, 09.03.26",
-          "ShortDescriptionLine2": "2026-03-10T13:16:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/142cc921-050f-4d3a-922c-9b5ceef1b696/10s/master.m3u8?fastly_token=NjlkNTFkN2RfMDZiMDhmZDcxYmQ5Mjc1YmRkZmY2ZjI0YTI4ZTdjYWEzZDEzNjQzNTA0ZDJlZjRlOTVkYTMwNTg1OTgzN2EyMQ%3D%3D"
           ]
         },
         {
