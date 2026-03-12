@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 13.03.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_gm29jfio",
+          "Date": "2026-03-12 23:12:38",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/l35ms-905020885/",
+          "Duration": 6825,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-03-12 23:12:38",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gm29jfio/flavorIds/1_xn31palm,1_4f0zgoq4,1_i7szo4e3,1_44t03ndv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 13.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_gnkyk8fe",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-03-11 23:59:21",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_js7gpsru/flavorIds/1_s07rrge0,1_hbe4l6nm,1_zsx7rmsa,1_s17suoyi,1_pymv99mz,1_3ll1nbjg/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 11.03.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_nro6fhw0",
-          "Date": "2026-03-11 23:29:29",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4318075/",
-          "Duration": 4515,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-11 23:29:29",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nro6fhw0/flavorIds/1_cbsbv4ib,1_ey6gpjob/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2563,6 +2563,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: דוח מצב [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0d1013c4729ac910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-0d1013c4729ac91026.htm",
+          "ShortDescriptionLine2": "Einav Galili and Yaron Avraham summarize the week",
+          "Date": "2026-03-12T22:56:57+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report [live]"
+        },
+        {
           "Title": "נסלי ויואב: היום ה-13 למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2026/03/12/Nesli_Yoav_120326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2651,21 +2666,6 @@
           "Live": false,
           "Duration": 5101,
           "ShortDescriptionLine1": "Ofira Ohana Sri: How long will the war really last?"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: מבצע \"שאגת הארי\"",
-          "Poster": "https://img.mako.co.il/2026/03/05/Doh_Matzav_050326_VOD_re_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/March/Doh_Matzav_050326_VOD_aft638/Doh_Matzav_050326_VOD_aft638_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/March/Doh_Matzav_050326_VOD_aft638/Doh_Matzav_050326_VOD_aft638_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "9520bf6b3b48c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-9520bf6b3b48c91026.htm",
-          "ShortDescriptionLine2": "Operation \"Harry's Roar\" - all reports and updates",
-          "Date": "2026-03-05T23:23:55+02:00",
-          "Live": false,
-          "Duration": 6500,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Operation \"Roar of Harry\""
         },
         {
           "Title": "ריסט: הקואצ'ר",
