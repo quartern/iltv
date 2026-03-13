@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-13 16:49
+# Last updated: 2026-03-13 17:19
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:9300 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011660/poster" group-title="11 News - Latest shows",חדשות שישי | 13.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177843/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:8636 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011609/poster" group-title="11 News - Latest shows",גליק ותמר בשישי | 13.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177816/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -135,9 +138,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2175084/LIBCODER
 
 #EXTINF:9824 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1008257/poster" group-title="11 News - Latest shows",שרון ואורי | 07.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2175079/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:8275 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007869/poster" group-title="11 News - Latest shows",חדשות שישי | 06.03.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174513/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3604 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003439/poster" group-title="11 News - Latest shows",חן ליברמן וישי שנרב | 26.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171317/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -268,6 +268,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:299 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011584/poster" group-title="Kan 11 Featured",מטרות המלחמה באיראן עם מנדי ביתאן
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177810/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:333 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011589/poster" group-title="Kan 11 Featured",שאלון עם דורי בן זאב
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177809/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3265 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011579/poster" group-title="Kan 11 Featured",ערב עם שי שטרן עונה 6 - פרק 10
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177813/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -321,12 +327,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174178/LIBCODER
 
 #EXTINF:224 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007426/poster" group-title="Kan 11 Featured",נציגי ישראל לאירוויזיון - "השקט שנשאר"
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:150 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1006639/poster" group-title="Kan 11 Featured",חברי "קופה ראשית" מתכוננים לאירוויזיון
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2173543/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:81 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007416/poster" group-title="Kan 11 Featured","היום" - נועם בתן
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174180/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
