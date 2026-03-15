@@ -530,19 +530,6 @@
           "Duration": "8636"
         },
         {
-          "Title": "חדשות הלילה | 12.03.26",
-          "ShortDescriptionLine1": "Tonight's news 12.03.26",
-          "ShortDescriptionLine2": "2026-03-12 22:39:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1011354/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2177322/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1011354",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1011354",
-          "Date": "2026-03-12 22:39:59",
-          "Duration": "5447"
-        },
-        {
           "Title": "מהדורת כאן חדשות | 12.03.26",
           "ShortDescriptionLine1": "Evening News | 12.03.26",
           "ShortDescriptionLine2": "2026-03-12 20:48:24",
@@ -580,6 +567,19 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1011048",
           "Date": "2026-03-12 13:46:10",
           "Duration": "892"
+        },
+        {
+          "Title": "חדשות הלילה | 11.03.26",
+          "ShortDescriptionLine1": "Tonight's news 11.03.26",
+          "ShortDescriptionLine2": "2026-03-11 23:02:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1010821/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176874/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1010821",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1010821",
+          "Date": "2026-03-11 23:02:23",
+          "Duration": "10157"
         },
         {
           "Title": "חן ליברמן וישי שנרב | 26.02.26",
@@ -2563,6 +2563,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "נסלי ויואב: נסלי ויואב [live]",
+          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "0b51b7e5fddbc910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-0b51b7e5fddbc91026.htm",
+          "ShortDescriptionLine2": "A special broadcast with Nesli Barda and Yoav Limor",
+          "Date": "2026-03-15T09:30:50+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav [live]"
+        },
+        {
           "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
           "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2621,21 +2636,6 @@
           "Live": false,
           "Duration": 5798,
           "ShortDescriptionLine1": "Situation report with Einav and Yaron: Operation \"Roar of Harry\" the 13th day"
-        },
-        {
-          "Title": "נסלי ויואב: היום ה-13 למבצע שאגת הארי",
-          "Poster": "https://img.mako.co.il/2026/03/12/Nesli_Yoav_120326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_120326_VOD_boo351/Nesli_Yoav_120326_VOD_boo351_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_120326_VOD_boo351/Nesli_Yoav_120326_VOD_boo351_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "546fb7e5fddbc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-546fb7e5fddbc91026.htm",
-          "ShortDescriptionLine2": "Operation Harry's Roar - Day 13 - All Reports",
-          "Date": "2026-03-12T09:45:55+02:00",
-          "Live": false,
-          "Duration": 6764,
-          "ShortDescriptionLine1": "Nesli and Yoav: the 13th day of Operation Hagat Hari"
         },
         {
           "Title": "ארץ נהדרת: תוכנית לא קונבנציונלית",
