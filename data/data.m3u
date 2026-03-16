@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-16 15:39
+# Last updated: 2026-03-16 15:51
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -268,6 +268,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:2700 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989308/poster" group-title="Kan 11 Featured",בהסתורה | פרק 2 - שרה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011277/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2516 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989302/poster" group-title="Kan 11 Featured",בהסתורה | פרק 1 - רוחל'ה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067094/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -324,9 +327,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2175077/LIBCODER
 
 #EXTINF:324 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007824/poster" group-title="Kan 11 Featured",יום האישה 2026. שי שטרן פוגש את כוכבות המופע 'חיות במה'
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174475/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3265 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1007835/poster" group-title="Kan 11 Featured",ערב עם שי שטרן 6 - פרק 9
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2174479/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -568,9 +568,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2722 tvg-logo="https://img.mako.co.il/2026/03/16/Hamesh_160326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 16.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/17rafi_vtr2_n20260316_v1/17rafi_vtr2_n20260316_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:7891 tvg-logo="https://img.mako.co.il/2026/03/15/Mahadurat_Hayom_150326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 15.03.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260315_v1/15hayom_vtr2_n20260315_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:4795 tvg-logo="https://img.mako.co.il/2026/03/14/Hadshot_Sof_Hashavua_140326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 14.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/20sofash_vtr2_n20260314_v1/20sofash_vtr2_n20260314_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -588,6 +585,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2615 tvg-logo="https://img.mako.co.il/2026/02/21/Shabat_Behamesh_210226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 21.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/17gidon_full_vtr2_n20260221_v1/17gidon_full_vtr2_n20260221_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:8221 tvg-logo="https://img.mako.co.il/2026/03/16/Mahadurat_Hayom_160326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 16.03.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260316_v1/15hayom_vtr2_n20260316_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:7223 tvg-logo="https://img.mako.co.il/2026/03/16/Nesli_Yoav_160326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: מבצע שאגת הארי - היום ה-17
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_160326_VOD_jhbguu/Nesli_Yoav_160326_VOD_jhbguu_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
