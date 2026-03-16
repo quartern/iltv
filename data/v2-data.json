@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ריסט: האקסית המיתולוגית [live]",
+          "Title": "ריסט: האקסית המיתולוגית",
           "Poster": "https://img.mako.co.il/2026/02/04/Reset_1_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Reset_s1/A189600/A189600_noAdds/A189600_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Reset_s1/A189600/A189600_noAdds/A189600_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "4662cbf5d0dcc910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/reset-s1/VOD-4662cbf5d0dcc91026.htm",
           "ShortDescriptionLine2": "Gidi is ready for a new-old love",
           "Date": "2026-03-16T21:55:59+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Reset: the mythological ex [live]"
+          "Live": false,
+          "Duration": 2913,
+          "ShortDescriptionLine1": "Reset: the mythological ex"
         },
         {
           "Title": "נסלי ויואב: מבצע שאגת הארי - היום ה-17",
@@ -3093,6 +3093,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית ,16.03.26 ",
+          "StreamerId": "6391032090112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a9788c0c-0f34-4856-a847-c005fc37a3f7/5185397c-9111-4b80-9a47-ab19a4462184/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391032090112",
+          "Date": "2026-03-16T20:34:28Z",
+          "Duration": 7158,
+          "ShortDescriptionLine1": "The main edition, 16.03.26",
+          "ShortDescriptionLine2": "2026-03-16T20:34:28Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a9788c0c-0f34-4856-a847-c005fc37a3f7/10s/master.m3u8?fastly_token=NjlkZDgxNDBfNDgwODgzZmY2NzdlZWYwZjM3ODAwZmEwNWFlYzdiYzJiYmMzMjNjNDljYzBhYWViMzVkNzA3NjM5YjFlMDQ4YQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מדד גלבוע, 16.03.26",
           "StreamerId": "6391025301112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/41ac4008-0e2e-438c-9723-95d4a3b70904/b777763c-2601-4aaf-b2ae-23fc4775ba6b/320x180/match/image.jpg",
@@ -3272,19 +3285,6 @@
           "ShortDescriptionLine2": "2026-03-12T21:17:14Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b72ad8d-b6dc-4c3c-a77c-ae29c228d7a1/10s/master.m3u8?fastly_token=NjlkODJmNzJfZWM4MTBmZGMzZWY1OTY1YWQwNTcyMjUyOTZhZDI0MDlkZTcxNjZlYjczYmU1NjRlNjBjOGE0NWI5MDY0NGYxYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 12.03.26 חלק ראשון",
-          "StreamerId": "6390807820112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0eb09f54-4803-4819-8530-5bb7df523172/b7f71952-4d22-43c8-b600-7d592dcef0a7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390807820112",
-          "Date": "2026-03-12T20:40:42Z",
-          "Duration": 7129,
-          "ShortDescriptionLine1": "The main edition, 12.03.26, first part",
-          "ShortDescriptionLine2": "2026-03-12T20:40:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0eb09f54-4803-4819-8530-5bb7df523172/10s/master.m3u8?fastly_token=NjlkODNhZThfYmU2OTkwNjI4OGZiMzEzZGEwN2MxZmI1MDFlYTkyZGVhNjAyNTRmOGEyMjZiNDcxNTAzZTQyZDZhMDhlMTU0OA%3D%3D"
           ]
         },
         {
