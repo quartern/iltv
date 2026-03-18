@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 18.03.26",
+          "ShortDescriptionLine1": "Tonight's news 18.03.26",
+          "ShortDescriptionLine2": "2026-03-18 22:25:21",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1015138/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179632/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1015138",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1015138",
+          "Date": "2026-03-18 22:25:21",
+          "Duration": "8263"
+        },
+        {
           "Title": "תחת אש, למרות המלחמה: משפחת נדיב חזרה למטולה אחרי שנתיים וחצי",
           "ShortDescriptionLine1": "Under fire, despite the war: the Nadiv family returned to Metula after two and a half years",
           "ShortDescriptionLine2": "2026-03-18 20:27:36",
@@ -502,19 +515,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1014844",
           "Date": "2026-03-18 17:29:49",
           "Duration": "879"
-        },
-        {
-          "Title": "חדשות הלילה | 17.03.26",
-          "ShortDescriptionLine1": "Tonight's news 17.03.26",
-          "ShortDescriptionLine2": "2026-03-17 22:39:01",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1014421/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179315/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1014421",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1014421",
-          "Date": "2026-03-17 22:39:01",
-          "Duration": "5242"
         },
         {
           "Title": "שבע עם איילה חסון | 15.03.26",
@@ -2566,15 +2566,15 @@
           "Title": "ארץ נהדרת: כוכבי המלחמה החמים מגיעים",
           "Poster": "https://img.mako.co.il/2026/03/18/Erez_180326_Sidra_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/A186562/A186562_noAdds/A186562_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/A186562/A186562_noAdds/A186562_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_19_180326_VOD_fix123/Eretz_Nehederet_19_180326_VOD_fix123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_19_180326_VOD_fix123/Eretz_Nehederet_19_180326_VOD_fix123_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1cd4cbf5d0dcc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-1cd4cbf5d0dcc91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-1cd4cbf5d0dcc91026.htm",
           "ShortDescriptionLine2": "A great land in an extremely powerful war edition",
           "Date": "2026-03-18T21:36:56+02:00",
           "Live": false,
-          "Duration": 3519,
+          "Duration": 3520,
           "ShortDescriptionLine1": "Eretz Nehederet: The hot war stars are coming"
         },
         {
