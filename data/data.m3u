@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-18 15:27
+# Last updated: 2026-03-18 15:33
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -268,6 +268,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:3084 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan984375/poster" group-title="Kan 11 Featured",האחוזון העליון עונה 3 | פרק 10 - ספיישל עמים
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2007575/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1013891/poster" group-title="Kan 11 Featured",זהו זה! השירים | עונה 8 - תגידי שטוב
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2179250/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -324,9 +327,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176326/LIBCODER
 
 #EXTINF:2337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1009902/poster" group-title="Kan 11 Featured",זהו זה עונה 8 | פרק 17 - 10.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2176319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2012 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002688/poster" group-title="Kan 11 Featured",כל האימהות משקרות | פרק 9 - החוליה החלשה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -622,14 +622,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:4531 tvg-logo="https://img.mako.co.il/2026/02/26/Uvda2026_09_260226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: מתן אנגרסט מדבר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_09_260226_VOD_ujk987/Uvda2026_09_260226_VOD_ujk987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:2851 tvg-logo="https://img.mako.co.il/2026/02/25/Bizman_Sheavadetem_250226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המהפכה של וולמארט
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/February/Bizman_Sheavadetem_250226_VOD_sda461/Bizman_Sheavadetem_250226_VOD_sda461_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:4211 tvg-logo="https://img.mako.co.il/2026/02/19/Uvda2026_08_190226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: המבוקשת מאיראן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3748 tvg-logo="https://img.mako.co.il/2026/02/18/Bizman_Sheavadetem_180226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: תעשיית ה-SaaS
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/February/Bizman_Sheavadetem_180226_VOD_FUR743/Bizman_Sheavadetem_180226_VOD_FUR743_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3382 tvg-logo="https://img.mako.co.il/2026/02/16/Hassifa6_03_160226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: מלכודת למטפל
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hassifa6_03_160226_VOD_oksi987/Hassifa6_03_160226_VOD_oksi987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -690,9 +684,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:349 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_1_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: תנו לזה לשקוע 
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_01_250126_VOD_sdx123/Torki_Vehemshachnu_01_250126_VOD_sdx123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3376 tvg-logo="https://img.mako.co.il/2026/03/11/Bizman_Sheavadetem_260_110326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: מלחמת הבינה הראשונה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_260_110326_VOD_dfg276/Bizman_Sheavadetem_260_110326_VOD_dfg276_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3017 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e1205ad7-39e8-4490-854d-9dd04b7814d0/f00f4d7b-2fb6-4d59-9ebd-79efc3cb2ec7/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל, 18.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e1205ad7-39e8-4490-854d-9dd04b7814d0/10s/master.m3u8?fastly_token=NjlkZmU4OWZfZTQ5MDQ0NDI3NDM0ZWFhZWZkYjYxZWZmMGM5YjY4MDI3OTY2N2UyOTk5ZWMzNjI1NGY0OTcyZDZkMjllZTcxYw%3D%3D
