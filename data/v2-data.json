@@ -2563,19 +2563,34 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: כוכבי המלחמה החמים מגיעים [live]",
+          "Title": "ארץ נהדרת: כוכבי המלחמה החמים מגיעים",
           "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/A186562/A186562_noAdds/A186562_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/A186562/A186562_noAdds/A186562_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1cd4cbf5d0dcc910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-1cd4cbf5d0dcc91026.htm",
           "ShortDescriptionLine2": "A great land in an extremely powerful war edition",
           "Date": "2026-03-18T21:36:56+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: The hot war stars are coming [live]"
+          "Live": false,
+          "Duration": 3519,
+          "ShortDescriptionLine1": "Eretz Nehederet: The hot war stars are coming"
+        },
+        {
+          "Title": "נסלי ויואב: היום ה-19 למבצע שאגת הארי",
+          "Poster": "https://img.mako.co.il/2026/03/18/Nesli_Yoav_180326_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_180326_VOD_afh735/Nesli_Yoav_180326_VOD_afh735_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_180326_VOD_afh735/Nesli_Yoav_180326_VOD_afh735_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "beadd830107dc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-beadd830107dc91027.htm",
+          "ShortDescriptionLine2": "Operation Harry's Roar - Day 19 - All Reports",
+          "Date": "2026-03-18T09:31:06+02:00",
+          "Live": false,
+          "Duration": 6778,
+          "ShortDescriptionLine1": "Nesli and Yoav: the 19th day of Operation Hagat Hari"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-19",
