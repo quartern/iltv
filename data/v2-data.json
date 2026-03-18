@@ -2408,19 +2408,19 @@
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 18.03.26 [live]"
         },
         {
-          "Title": "חמש עם רפי רשף: 18.03.26 [live]",
+          "Title": "חמש עם רפי רשף: 18.03.26",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21941733/21941733_noAdds/21941733_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_2026/21941733/21941733_noAdds/21941733_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "66fa1132a9ffc910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/e937dca35d89c910/VOD-66fa1132a9ffc91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-18T16:55:20+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.03.26 [live]"
+          "Live": false,
+          "Duration": 2545,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 18.03.26"
         },
         {
           "Title": "מהדורת היום: 18.03.26",
@@ -3093,6 +3093,32 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש, 18.03.26 חלק ראשון",
+          "StreamerId": "6391131474112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a4061692-ce33-4eaa-93eb-d8d0cc4c54b7/78eb4835-ec0c-40c9-8485-b9265f0a184f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391131474112",
+          "Date": "2026-03-18T15:55:25Z",
+          "Duration": 7199,
+          "ShortDescriptionLine1": "Five edition, 18.03.26 first part",
+          "ShortDescriptionLine2": "2026-03-18T15:55:25Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a4061692-ce33-4eaa-93eb-d8d0cc4c54b7/10s/master.m3u8?fastly_token=NjlkZmRmZTFfMzNkZWU0N2I4OTU0OWZhMGFhYzM5MDQ4ZmVkMGNkNDc1NDVmNjg2YjBjN2EzYzJkMjU2NjE4Yjg4ZTM5MWY5Yg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש,18.03.26 חלק שני",
+          "StreamerId": "6391130911112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bf1aa496-b063-4153-893a-9400852419c3/e43ffa8d-5783-4b2d-bf01-eb01c666c06f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391130911112",
+          "Date": "2026-03-18T15:52:53Z",
+          "Duration": 2376,
+          "ShortDescriptionLine1": "Edition five, 18.03.26, part two",
+          "ShortDescriptionLine2": "2026-03-18T15:52:53Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bf1aa496-b063-4153-893a-9400852419c3/10s/master.m3u8?fastly_token=NjlkZmM5ZWJfY2NmZDA4NTEzOGQ2YWVmMTg2ZDQyZDRjNGYwNDU1M2IxN2M3MDA3NWI1MmZhMzFjMzlkYzZkMzY1YTQyZWJkYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 17.03.26",
           "StreamerId": "6391125943112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b0820502-8feb-430b-a4e8-0801296103c0/5c359cb0-866d-47d5-811b-602dede373cc/320x180/match/image.jpg",
@@ -3155,32 +3181,6 @@
           "ShortDescriptionLine2": "2026-03-17T17:18:14Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3d437ad7-45eb-4186-8f70-59e698b59804/10s/master.m3u8?fastly_token=NjlkZTkwZmFfYTk4NzUyYWRjZmZkYzEyZWI1MWE5MjUzZjgwNWQ5NzM1YWU3ZGJkOTYyMjIxN2NmOWQ1MzQ4N2FlMjYzZjRjYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 17.26.26 חלק שני",
-          "StreamerId": "6391076965112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/bf01bb7a-12fe-49d9-8557-5989a19dba3e/b146e6cd-9373-4a3f-b183-bfddcf3c5336/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391076965112",
-          "Date": "2026-03-17T16:27:51Z",
-          "Duration": 3357,
-          "ShortDescriptionLine1": "Edition 15, 17.26.26 Part Two",
-          "ShortDescriptionLine2": "2026-03-17T16:27:51Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bf01bb7a-12fe-49d9-8557-5989a19dba3e/10s/master.m3u8?fastly_token=NjlkZTg0MjNfZjkxMTI3MmZlMzUwMDg3NGM2M2Y3MTc1OTQ1MDk3ZWM0OTE2MzZkMjJjMmQ4ODZhZjIzYTU3YWJkODY0MmY3ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 17.03.26 חלק ראשון",
-          "StreamerId": "6391076860112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1b120a68-7a38-42b6-8d7f-9287ce809b9f/9a14717c-9996-4c57-a950-44ad6acd8781/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391076860112",
-          "Date": "2026-03-17T16:26:19Z",
-          "Duration": 7146,
-          "ShortDescriptionLine1": "Edition 15, 17.03.26, first part",
-          "ShortDescriptionLine2": "2026-03-17T16:26:19Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1b120a68-7a38-42b6-8d7f-9287ce809b9f/10s/master.m3u8?fastly_token=NjlkZTk1NmJfNjNhNjZmNDQzMzYyODAxMjFmODcyZDcxZDU0MDE0ZTBhOWY0MjMzMWYwZDdjOWViZGZmMTU3MmZjZTg2NDUzMA%3D%3D"
           ]
         },
         {
