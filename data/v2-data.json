@@ -2393,19 +2393,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 19.03.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 19.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ce2173f08b40d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-ce2173f08b40d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-19T19:51:31+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 19.03.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 19.03.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/21960638/21960638_noAdds/21960638_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Seven_With_Keren/21960638/21960638_noAdds/21960638_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "256073f08b40d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/b3923ce4fd89c910/VOD-256073f08b40d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-19T18:59:00+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.03.26 [live]"
+          "Live": false,
+          "Duration": 2415,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.03.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 19.03.26",
@@ -2439,33 +2454,18 @@
         },
         {
           "Title": "מהדורת היום: 19.03.26",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/03/19/Mahadurat_Hayom_190326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/21941743/21941743_noAdds/21941743_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/21941743/21941743_noAdds/21941743_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260319_v1/15hayom_vtr2_n20260319_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260319_v1/15hayom_vtr2_n20260319_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "98bb73f08b40d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/9404dca35d89c910/VOD-98bb73f08b40d91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The attack on the gas facilities: did the US know or not?",
           "Date": "2026-03-19T14:00:14+02:00",
           "Live": false,
-          "Duration": 10107,
+          "Duration": 8763,
           "ShortDescriptionLine1": "Today's edition: 19.03.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 18.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/18/Mahadura_Merkazit_180326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/20mahadurafull_vtr2_n20260318_v1/20mahadurafull_vtr2_n20260318_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/20mahadurafull_vtr2_n20260318_v1/20mahadurafull_vtr2_n20260318_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "017f1132a9ffc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-017f1132a9ffc91026.htm",
-          "ShortDescriptionLine2": "The fissile missile dispersed a record number of munitions",
-          "Date": "2026-03-18T19:50:53+02:00",
-          "Live": false,
-          "Duration": 4830,
-          "ShortDescriptionLine1": "The main edition: 18.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 14.03.26",
