@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 19.03.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_cj9ih4lg",
+          "Date": "2026-03-19 23:59:58",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/osd8t-905036308/",
+          "Duration": 6364,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-03-19 23:59:58",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cj9ih4lg/flavorIds/1_780yx5ln,1_acpd0726/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 19.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_40bkm86y",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-03-18 23:59:50",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x2gxnmoi/flavorIds/1_366mws1q,1_3u6ffaiq,1_h756c096,1_5w21grlo,1_xtxoptxx,1_6o1d3n0a/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 18.03.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_4exq5xi8",
-          "Date": "2026-03-18 23:27:25",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4326658/",
-          "Duration": 4330,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-18 23:27:25",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4exq5xi8/flavorIds/1_buce5oz1,1_hxugnxp9,1_1qec38i6,1_8pm26pgp,1_23va1ruw,1_ivwqxn8v/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: מבצע \"שאגת הארי\" היום ה-20 [live]",
+          "Title": "דוח מצב עם עינב וירון: מבצע \"שאגת הארי\" היום ה-20",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21941747/21941747_noAdds/21941747_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/21941747/21941747_noAdds/21941747_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "edcd364909dcc910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-edcd364909dcc91026.htm",
           "ShortDescriptionLine2": "The updates from the field and the assessment in Israel of the duration of the war",
           "Date": "2026-03-19T23:01:55+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Operation \"Roar of Harry\" the 20th day [live]"
+          "Live": false,
+          "Duration": 6641,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Operation \"Roar of Harry\" the 20th day"
         },
         {
           "Title": "עובדה: משדר מלחמה מיוחד",
