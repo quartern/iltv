@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: משדר מלחמה מיוחד [live]",
+          "Title": "עובדה: משדר מלחמה מיוחד",
           "Poster": "https://img.mako.co.il/2026/03/19/Uvda_190326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/21941750/21941750_noAdds/21941750_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2026/21941750/21941750_noAdds/21941750_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "588bbf6b3b48c910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-588bbf6b3b48c91026.htm",
           "ShortDescriptionLine2": "The people running the war are speaking for the first time",
           "Date": "2026-03-19T21:42:04+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Uvda: special war transmitter [live]"
+          "Live": false,
+          "Duration": 3845,
+          "ShortDescriptionLine1": "Uvda: special war transmitter"
         },
         {
           "Title": "נסלי ויואב: היום ה-20 למבצע שאגת הארי",
@@ -3093,6 +3093,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים, 19.03.26",
+          "StreamerId": "6391202687112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d3b22f4f-dc88-4dc7-9cd0-9afc944dbb58/d627faef-d521-4eb4-8a5a-eef0aef43ccb/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391202687112",
+          "Date": "2026-03-19T20:39:41Z",
+          "Duration": 3622,
+          "ShortDescriptionLine1": "The Arabists, 19.03.26",
+          "ShortDescriptionLine2": "2026-03-19T20:39:41Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d3b22f4f-dc88-4dc7-9cd0-9afc944dbb58/10s/master.m3u8?fastly_token=NjllMTYyMTZfN2FlZTVkNjE5YWRkMWNkY2RiOTUyNWM0YzVjYmIyYjU4NWUxMmNkNjA3OTk4NTYyMmFkNjFiZGYyY2MzM2E2Zg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית ,19.03.26 ",
           "StreamerId": "6391199346112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/20c024e0-fa90-442a-a426-d02c2217e32a/fab952b2-848d-48f4-8ad7-9c0707f00567/320x180/match/image.jpg",
@@ -3337,19 +3350,6 @@
           "ShortDescriptionLine2": "2026-03-13T18:18:27Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d20bf3c2-9826-4235-b93d-4d689f055eb0/10s/master.m3u8?fastly_token=NjlkOTY2ZThfOWYxMjExZjZkZWZjMmNlNjA4ZTMyNWZkYmFhNzYwNTFlYzRlMDY2OGQ1NzUzOWRmZmIwZDQ0YTQxYzk0ODdkZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הערביסטים, 12.03.26",
-          "StreamerId": "6390811694112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0b72ad8d-b6dc-4c3c-a77c-ae29c228d7a1/b9109d08-21f2-4205-9f3b-b1818948f810/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390811694112",
-          "Date": "2026-03-12T21:17:14Z",
-          "Duration": 3533,
-          "ShortDescriptionLine1": "The Arabists, 12.03.26",
-          "ShortDescriptionLine2": "2026-03-12T21:17:14Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0b72ad8d-b6dc-4c3c-a77c-ae29c228d7a1/10s/master.m3u8?fastly_token=NjlkODJmNzJfZWM4MTBmZGMzZWY1OTY1YWQwNTcyMjUyOTZhZDI0MDlkZTcxNjZlYjczYmU1NjRlNjBjOGE0NWI5MDY0NGYxYg%3D%3D"
           ]
         },
         {
