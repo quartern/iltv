@@ -2393,19 +2393,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 19.03.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 19.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "cc8f73f08b40d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/7dae3ce4fd89c910/VOD-cc8f73f08b40d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-19T17:55:07+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 19.03.26 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 19.03.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21941764/21941764_noAdds/21941764_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_2026/21941764/21941764_noAdds/21941764_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "57fd73f08b40d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/e937dca35d89c910/VOD-57fd73f08b40d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-19T17:25:29+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 19.03.26 [live]"
+          "Live": false,
+          "Duration": 720,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 19.03.26"
         },
         {
           "Title": "מהדורת היום: 19.03.26",
@@ -2451,21 +2466,6 @@
           "Live": false,
           "Duration": 2058,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 18.03.26"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 18.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/18/Shesh_180326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/18shesh_vtr2_n20260318_v1/18shesh_vtr2_n20260318_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/18shesh_vtr2_n20260318_v1/18shesh_vtr2_n20260318_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "8d4b1132a9ffc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/7dae3ce4fd89c910/VOD-8d4b1132a9ffc91026.htm",
-          "ShortDescriptionLine2": "The barrage planned by Hezbollah - and the thwarting",
-          "Date": "2026-03-18T17:55:43+02:00",
-          "Live": false,
-          "Duration": 2794,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 18.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 14.03.26",
