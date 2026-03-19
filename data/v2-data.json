@@ -452,17 +452,17 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
-          "Title": "משדר מיוחד עם יפעת גליק | 19.03.26 - 07:00",
-          "ShortDescriptionLine1": "Special broadcast with Yifat Glick 19.03.26 - 07:00",
-          "ShortDescriptionLine2": "2026-03-19 10:22:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1015250/poster",
+          "Title": "משדר מיוחד עם יונתן אוחיון | 19.03.26 - 10:00",
+          "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 19.03.26 - 10:00",
+          "ShortDescriptionLine2": "2026-03-19 12:01:50",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1015300/poster",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180070/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180086/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1015250",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1015250",
-          "Date": "2026-03-19 10:22:43",
-          "Duration": "10923"
+          "StreamerId": "kan1015300",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1015300",
+          "Date": "2026-03-19 12:01:50",
+          "Duration": "10703"
         },
         {
           "Title": "חדשות הלילה | 18.03.26",
@@ -2393,6 +2393,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 19.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "98bb73f08b40d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/9404dca35d89c910/VOD-98bb73f08b40d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-19T14:00:14+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Today's edition: 19.03.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 18.03.26",
           "Poster": "https://img.mako.co.il/2026/03/18/Mahadura_Merkazit_180326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2451,21 +2466,6 @@
           "Live": false,
           "Duration": 2514,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 18.03.26"
-        },
-        {
-          "Title": "מהדורת היום: 18.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/18/Mahadurat_Hayom_180326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260318_v1/15hayom_vtr2_n20260318_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_n20260318_v1/15hayom_vtr2_n20260318_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b10a1132a9ffc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/9404dca35d89c910/VOD-b10a1132a9ffc91026.htm",
-          "ShortDescriptionLine2": "The fatal attack in Ramat Gan",
-          "Date": "2026-03-18T14:00:06+02:00",
-          "Live": false,
-          "Duration": 7879,
-          "ShortDescriptionLine1": "Today's edition: 18.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 14.03.26",
