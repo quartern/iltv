@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 18.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_x2gxnmoi",
+          "Date": "2026-03-18 23:59:50",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4326832/",
+          "Duration": 4053,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-18 23:59:50",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x2gxnmoi/flavorIds/1_366mws1q,1_3u6ffaiq,1_h756c096,1_5w21grlo,1_xtxoptxx,1_6o1d3n0a/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 18.03.26 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_4exq5xi8",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-03-18 20:20:17",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_r46oigeh/flavorIds/1_22nbo9ym,1_t0862qsa,1_rzjoje37,1_jyxxs5em,1_hvtrs984,1_imrdr504/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 17.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_pemiiw2h",
-          "Date": "2026-03-17 23:59:26",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4326629/",
-          "Duration": 6490,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-17 23:59:26",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pemiiw2h/flavorIds/1_2qt794zp,1_13c3kmi0,1_lmsl0jjb,1_hzqsd671,1_z84te3y4,1_7wiy7ir9/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2563,19 +2563,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: היום ה-20 למבצע שאגת הארי [live]",
+          "Title": "נסלי ויואב: היום ה-20 למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/21941763/21941763_noAdds/21941763_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_yoav_2026/21941763/21941763_noAdds/21941763_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "be075ebaeebdc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-be075ebaeebdc91027.htm",
           "ShortDescriptionLine2": "Operation Harry's Roar - Day 20 - All reports",
           "Date": "2026-03-19T09:30:25+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Nesli and Yoav: the 20th day of Operation Hagat Hari [live]"
+          "Live": false,
+          "Duration": 6041,
+          "ShortDescriptionLine1": "Nesli and Yoav: the 20th day of Operation Hagat Hari"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-20",
@@ -2713,21 +2713,6 @@
           "ShortDescriptionLine1": "Night club: special program"
         },
         {
-          "Title": "עובדה: מתן אנגרסט מדבר",
-          "Poster": "https://img.mako.co.il/2026/02/26/Uvda2026_09_260226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_09_260226_VOD_ujk987/Uvda2026_09_260226_VOD_ujk987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/February/Uvda2026_09_260226_VOD_ujk987/Uvda2026_09_260226_VOD_ujk987_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "d3627e49f706c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-d3627e49f706c91027.htm",
-          "ShortDescriptionLine2": "Matan Angrest, the warrior who returned from captivity, talks about everything",
-          "Date": "2026-02-26T21:33:00+02:00",
-          "Live": false,
-          "Duration": 4531,
-          "ShortDescriptionLine1": "Uvda: Matan Engrest speaks"
-        },
-        {
           "Title": "בזמן שעבדתם: המהפכה של וולמארט",
           "Poster": "https://img.mako.co.il/2026/02/25/Bizman_Sheavadetem_250226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2743,21 +2728,6 @@
           "ShortDescriptionLine1": "While You Worked: The Walmart Revolution"
         },
         {
-          "Title": "עובדה: המבוקשת מאיראן",
-          "Poster": "https://img.mako.co.il/2026/02/19/Uvda2026_08_190226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a2df5e9ba2d4c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-a2df5e9ba2d4c91026.htm",
-          "ShortDescriptionLine2": "Itai Engel meets the number 1 wanted girl in Tehran",
-          "Date": "2026-02-19T21:26:55+02:00",
-          "Live": false,
-          "Duration": 4211,
-          "ShortDescriptionLine1": "Uvda: wanted from Iran"
-        },
-        {
           "Title": "חשיפה: מלכודת למטפל",
           "Poster": "https://img.mako.co.il/2026/02/16/Hassifa6_03_160226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2771,51 +2741,6 @@
           "Live": false,
           "Duration": 3382,
           "ShortDescriptionLine1": "Chasifa (Exposure): A trap for the handler"
-        },
-        {
-          "Title": "עובדה: השוטר מספר 1",
-          "Poster": "https://img.mako.co.il/2026/02/12/POSTER_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_07_120226_VOD_fty654/Uvda2026_07_120226_VOD_fty654_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/February/Uvda2026_07_120226_VOD_fty654/Uvda2026_07_120226_VOD_fty654_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "5e4866eb32e2c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-5e4866eb32e2c91027.htm",
-          "ShortDescriptionLine2": "Kobi Shabtai opens everything for the first time about everything that happened",
-          "Date": "2026-02-12T21:38:36+02:00",
-          "Live": false,
-          "Duration": 4153,
-          "ShortDescriptionLine1": "Uvda: The number 1 cop"
-        },
-        {
-          "Title": "עובדה: סוכן בלב איראן ",
-          "Poster": "https://img.mako.co.il/2026/01/29/POSTER_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/Jan/Uvda2026_06_300126_VOD_ikd837/Uvda2026_06_300126_VOD_ikd837_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/Jan/Uvda2026_06_300126_VOD_ikd837/Uvda2026_06_300126_VOD_ikd837_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "09fe4bd2ff30c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-09fe4bd2ff30c91026.htm",
-          "ShortDescriptionLine2": "A Mossad agent who was operating in Iran on the night of the surprise attack is speaking",
-          "Date": "2026-01-29T21:47:39+02:00",
-          "Live": false,
-          "Duration": 4238,
-          "ShortDescriptionLine1": "Uvda: an agent in the heart of Iran"
-        },
-        {
-          "Title": "עובדה: איש הסוד",
-          "Poster": "https://img.mako.co.il/2026/01/08/Uvda2026_05_080126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/Jan/Uvda2026_05_080126_VOD_rey679/Uvda2026_05_080126_VOD_rey679_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/Jan/Uvda2026_05_080126_VOD_rey679/Uvda2026_05_080126_VOD_rey679_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a732b6c2e7c9b910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-a732b6c2e7c9b91026.htm",
-          "ShortDescriptionLine2": "The one who was Yitzhak Herzog's confidant opens everything",
-          "Date": "2026-01-08T21:32:16+02:00",
-          "Live": false,
-          "Duration": 3607,
-          "ShortDescriptionLine1": "Uvda: The Secret Man"
         },
         {
           "Title": "נוטוק: הסוף שאף אחד לא דמיין",
