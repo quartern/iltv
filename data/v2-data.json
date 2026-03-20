@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 20.03.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "Title": "אולפן שישי: 20.03.26",
+          "Poster": "https://img.mako.co.il/2026/03/20/Ulpan_Shishi_200326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/21941793/21941793_noAdds/21941793_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/21941793/21941793_noAdds/21941793_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "41231efbb050d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/1302350a3e89c910/VOD-41231efbb050d91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The IDF's explanation for the increase in launches from Iran",
           "Date": "2026-03-20T19:54:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 20.03.26 [live]"
+          "Live": false,
+          "Duration": 6101,
+          "ShortDescriptionLine1": "Studio Friday: 20.03.26"
         },
         {
           "Title": "המהדורה המרכזית: 19.03.26",
@@ -3093,6 +3093,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "קבינט שישי,20.03.26  ",
+          "StreamerId": "6391280626112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9f669e9f-2209-4eb3-823c-32a00a883054/4c74467e-3004-4c40-8933-67ff3d56483f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6391280626112",
+          "Date": "2026-03-20T20:16:36Z",
+          "Duration": 1288,
+          "ShortDescriptionLine1": "Cabinet Friday, 20.03.26",
+          "ShortDescriptionLine2": "2026-03-20T20:16:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9f669e9f-2209-4eb3-823c-32a00a883054/10s/master.m3u8?fastly_token=NjllMmExMWRfYzg3Y2I1NmVjNzQ3MjU4MDk0MmYzMDljOWUyNmM2NTE5M2ExMDI3ODU5NjhiNjM3N2MwNTY0YzI3OGU3YTEyNA%3D%3D"
+          ]
+        },
+        {
           "Title": "הערביסטים, 19.03.26",
           "StreamerId": "6391202687112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d3b22f4f-dc88-4dc7-9cd0-9afc944dbb58/d627faef-d521-4eb4-8a5a-eef0aef43ccb/320x180/match/image.jpg",
@@ -3363,19 +3376,6 @@
           "ShortDescriptionLine2": "2026-03-07T22:38:03Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e977d91a-0121-46fd-9ec1-56427abc3f86/10s/master.m3u8?fastly_token=NjlkMWM5OThfZmUzNzI5OWQ5N2U2YmE1MzU2YzM5Y2Y2ZTdlYzdmMjRlOTE1NTE3OGZhZmVkNTY5ODczMGNlNTVjMmJkNDA4NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי חלק 1 6.3.26",
-          "StreamerId": "6390508868112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9bd87348-2e71-487f-b75f-fe75452d8c7e/1bfa5718-a62c-49f5-a9f3-b610fec518bd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6390508868112",
-          "Date": "2026-03-06T20:52:08Z",
-          "Duration": 7199,
-          "ShortDescriptionLine1": "Sixth cabinet part 1 6.3.26",
-          "ShortDescriptionLine2": "2026-03-06T20:52:08Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9bd87348-2e71-487f-b75f-fe75452d8c7e/10s/master.m3u8?fastly_token=NjlkMDUzZmFfZWJhN2I2OTNiY2U4OTZiMGQ2Nzk4ODZiYmE2MzA1NzNlMTI1ZTgwYWE4YjI2MjNiYzU1YzQ5ZjZjMDJkZTcyOA%3D%3D"
           ]
         },
         {
