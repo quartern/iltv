@@ -2550,8 +2550,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/03/21/Avri_Sherki_210326_VOD_autoOrient_I_reduced.jpg",
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "cf97c580a01fc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-cf97c580a01fc91027.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-03-22T07:00:58+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
+          "Title": "אברי ושרקי: מבצע שאגת הארי-היום ה-22",
+          "Poster": "https://img.mako.co.il/2026/03/21/Avri_Sherki_210326_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21941818/21941818_noAdds/21941818_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21941818/21941818_noAdds/21941818_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2562,7 +2577,7 @@
           "Date": "2026-03-21T22:53:22+02:00",
           "Live": false,
           "Duration": 8018,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
+          "ShortDescriptionLine1": "Avery and Sharky: Operation Roar Harry - the 22nd day"
         },
         {
           "Title": "אופירה אוחנה סרי: המלחמה עולה שלב",
@@ -2623,21 +2638,6 @@
           "Live": false,
           "Duration": 7392,
           "ShortDescriptionLine1": "Nesli and Yoav: the 20th day of Operation Hagat Hari"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-20",
-          "Poster": "https://img.mako.co.il/2026/03/19/Hadsot_Haboker_190326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_190326_VOD_hgj951/Hadshot_Haboker_190326_VOD_hgj951_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_190326_VOD_hgj951/Hadshot_Haboker_190326_VOD_hgj951_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7f755ebaeebdc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-7f755ebaeebdc91027.htm",
-          "ShortDescriptionLine2": "Operation Harry's Roar - Day 20 - All reports",
-          "Date": "2026-03-19T07:00:00+02:00",
-          "Live": false,
-          "Duration": 9887,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Roar Harry - Day 20"
         },
         {
           "Title": "ארץ נהדרת: כוכבי המלחמה החמים מגיעים",
