@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם מאיה ראכלין | 22.03.26 - 16:00",
+          "ShortDescriptionLine1": "special broadcast with Maya Rachlin 22.03.26 - 4:00 p.m",
+          "ShortDescriptionLine2": "2026-03-22 16:30:16",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1016738/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180510/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1016738",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1016738",
+          "Date": "2026-03-22 16:30:16",
+          "Duration": "6934"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 22.03.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 22.03.26",
           "ShortDescriptionLine2": "2026-03-22 16:04:32",
@@ -463,19 +476,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1016732",
           "Date": "2026-03-22 16:04:32",
           "Duration": "920"
-        },
-        {
-          "Title": "משדר מיוחד עם יונתן אוחיון | 22.03.26 - 14:00",
-          "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 22.03.26 - 14:00",
-          "ShortDescriptionLine2": "2026-03-22 14:48:56",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1016694/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180493/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1016694",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1016694",
-          "Date": "2026-03-22 14:48:56",
-          "Duration": "7238"
         },
         {
           "Title": "חדשות השבת | 21.03.26",
@@ -2379,6 +2379,21 @@
     {
       "Name": "N12 (News) - Latest shows",
       "Items": [
+        {
+          "Title": "שש עם עודד בן עמי: 22.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b5ce4c40a341d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/7dae3ce4fd89c910/VOD-b5ce4c40a341d91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-22T17:55:27+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 22.03.26 [live]"
+        },
         {
           "Title": "חמש עם רפי רשף: 22.03.26",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
