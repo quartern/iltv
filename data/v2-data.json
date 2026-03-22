@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "אזור בחירה 22.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
+          "StreamerId": "1_uirqnerr",
+          "Date": "2026-03-22 21:48:19",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4330268/",
+          "Duration": 2348,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-22 21:48:19",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_uirqnerr/flavorIds/1_00tc9i1l,1_7xgnaqai,1_u1l3wc3l,1_jp5fd49a,1_lhd0jd8w,1_9nkpudaj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מוריה וברקו 22.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_z1h2qmk8",
@@ -740,19 +753,6 @@
           "ShortDescriptionLine2": "2026-03-19 23:58:58",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cj9ih4lg/flavorIds/1_780yx5ln,1_acpd0726/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור בחירה 19.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
-          "StreamerId": "1_40bkm86y",
-          "Date": "2026-03-19 22:19:18",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4327861/",
-          "Duration": 2057,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-19 22:19:18",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_40bkm86y/flavorIds/1_6yxnouyl,1_9xgv5ba0,1_g1631cte,1_0pq5re2c,1_s0vgxiwl,1_kmdt2sdd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2380,19 +2380,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 22.03.26 [live]",
+          "Title": "המהדורה המרכזית: 22.03.26",
           "Poster": "https://img.mako.co.il/2026/03/22/Mahadura_Merkazit_220326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941830/21941830_noAdds/21941830_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941830/21941830_noAdds/21941830_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a3f54c40a341d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-a3f54c40a341d91027.htm",
           "ShortDescriptionLine2": "Exclusive documentation: the seconds after the impact on Arad",
           "Date": "2026-03-22T19:50:22+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 22.03.26 [live]"
+          "Live": false,
+          "Duration": 6287,
+          "ShortDescriptionLine1": "The main edition: 22.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 22.03.26",
