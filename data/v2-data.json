@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 23.03.26",
+          "ShortDescriptionLine1": "Tonight's news 23.03.26",
+          "ShortDescriptionLine2": "2026-03-23 22:31:04",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1017534/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180725/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1017534",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1017534",
+          "Date": "2026-03-23 22:31:04",
+          "Duration": "6532"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 23.03.26",
           "ShortDescriptionLine1": "Evening News | 23.03.26",
           "ShortDescriptionLine2": "2026-03-23 21:02:19",
@@ -489,19 +502,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1017312",
           "Date": "2026-03-23 16:43:31",
           "Duration": "837"
-        },
-        {
-          "Title": "חדשות הלילה | 22.03.26",
-          "ShortDescriptionLine1": "Tonight's news 22.03.26",
-          "ShortDescriptionLine2": "2026-03-22 23:39:27",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1017005/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180589/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1017005",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1017005",
-          "Date": "2026-03-22 23:39:27",
-          "Duration": "5951"
         },
         {
           "Title": "חדשות השבת | 21.03.26",
@@ -2578,6 +2578,21 @@
           "Live": false,
           "Duration": 2805,
           "ShortDescriptionLine1": "Reset: Gidi's dream job"
+        },
+        {
+          "Title": "נסלי ויואב: היום ה-24 למבצע שאגת הארי",
+          "Poster": "https://img.mako.co.il/2026/03/23/Nesli_Yoav_230326_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_230326_VOD_adf745/Nesli_Yoav_230326_VOD_adf745_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_230326_VOD_adf745/Nesli_Yoav_230326_VOD_adf745_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "65fb535c711fc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-65fb535c711fc91027.htm",
+          "ShortDescriptionLine2": "Operation Harry's Roar - Day 24 - All Reports",
+          "Date": "2026-03-23T09:29:17+02:00",
+          "Live": false,
+          "Duration": 7299,
+          "ShortDescriptionLine1": "Nesli and Yoav: the 24th day of Operation Hagat Hari"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-24",
