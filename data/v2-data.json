@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 23.03.26",
+          "ShortDescriptionLine1": "Evening News | 23.03.26",
+          "ShortDescriptionLine2": "2026-03-23 21:02:19",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1017427/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180716/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1017427",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1017427",
+          "Date": "2026-03-23 21:02:19",
+          "Duration": "6756"
+        },
+        {
           "Title": "משדר מיוחד עם איילה חסון | 23.03.26 - 18:00",
           "ShortDescriptionLine1": "Special broadcast with Ayala Hasson 23.03.26 - 18:00",
           "ShortDescriptionLine2": "2026-03-23 18:55:46",
@@ -489,19 +502,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1017005",
           "Date": "2026-03-22 23:39:27",
           "Duration": "5951"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 22.03.26",
-          "ShortDescriptionLine1": "Evening News | 22.03.26",
-          "ShortDescriptionLine2": "2026-03-22 20:30:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1016828/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180563/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1016828",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1016828",
-          "Date": "2026-03-22 20:30:40",
-          "Duration": "6619"
         },
         {
           "Title": "חדשות השבת | 21.03.26",
@@ -2550,19 +2550,34 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ריסט: עבודת החלומות של גידי [live]",
-          "Poster": "https://img.mako.co.il/2026/02/04/Reset_1_x5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "424f535c711fc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-424f535c711fc91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-03-23T22:49:11+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
+          "Title": "ריסט: עבודת החלומות של גידי",
+          "Poster": "https://img.mako.co.il/2026/02/04/Reset_1_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Reset_s1/A189601/A189601_noAdds/A189601_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Reset_s1/A189601/A189601_noAdds/A189601_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "5168fb07c12dc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/reset-s1/VOD-5168fb07c12dc91027.htm",
           "ShortDescriptionLine2": "His ex-wife's new lover arranged a dream job for Gidi",
           "Date": "2026-03-23T21:53:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Reset: Gidi's dream job [live]"
+          "Live": false,
+          "Duration": 2805,
+          "ShortDescriptionLine1": "Reset: Gidi's dream job"
         },
         {
           "Title": "נסלי ויואב: היום ה-24 למבצע שאגת הארי",
@@ -2593,21 +2608,6 @@
           "Live": false,
           "Duration": 10638,
           "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Roar Harry-Day 24"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/03/22/Avri_Sherki_220326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_220326_VOD_dhj384/Avri_Sherki_220326_VOD_dhj384_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_220326_VOD_dhj384/Avri_Sherki_220326_VOD_dhj384_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "39be535c711fc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-39be535c711fc91027.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-03-22T23:04:13+02:00",
-          "Live": false,
-          "Duration": 5729,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "אופירה אוחנה סרי: המלחמה עולה שלב",
