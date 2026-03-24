@@ -669,9 +669,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_032k4bnl",
           "Date": "2026-03-24 20:20:30",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/bak8f-905047569/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4334824/",
           "Duration": 5852,
-          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-03-24 20:20:30",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_032k4bnl/flavorIds/1_aysni8ue,1_3xx5ipdz,1_38kkfom1,1_sbutczwp,1_rcyvris6,1_00ntypem/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2380,6 +2380,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 24.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "75a8a6453be1d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-75a8a6453be1d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-24T19:51:09+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 24.03.26 [live]"
+        },
+        {
           "Title": "שבע עם קרן מרציאנו: 24.03.26",
           "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2408,6 +2423,21 @@
           "Live": false,
           "Duration": 3185,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 24.03.26"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 24.03.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21941910/21941910_noAdds/21941910_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/hamesh_rafi_2026/21941910/21941910_noAdds/21941910_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "b37ee73a6ae1d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/e937dca35d89c910/VOD-b37ee73a6ae1d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-24T16:54:36+02:00",
+          "Live": false,
+          "Duration": 2633,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 24.03.26"
         },
         {
           "Title": "מהדורת היום: 24.03.26",
@@ -2698,6 +2728,21 @@
           "Live": false,
           "Duration": 4531,
           "ShortDescriptionLine1": "Uvda: Matan Engrest speaks"
+        },
+        {
+          "Title": "בזמן שעבדתם: המהפכה של וולמארט",
+          "Poster": "https://img.mako.co.il/2026/02/25/Bizman_Sheavadetem_250226_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/February/Bizman_Sheavadetem_250226_VOD_sda461/Bizman_Sheavadetem_250226_VOD_sda461_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/February/Bizman_Sheavadetem_250226_VOD_sda461/Bizman_Sheavadetem_250226_VOD_sda461_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "08daa4a20fb4c910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-08daa4a20fb4c91026.htm",
+          "ShortDescriptionLine2": "About Walmart - from a small company to global expansion",
+          "Date": "2026-02-26T01:08:28+02:00",
+          "Live": false,
+          "Duration": 2851,
+          "ShortDescriptionLine1": "While You Worked: The Walmart Revolution"
         },
         {
           "Title": "עובדה: המבוקשת מאיראן",
@@ -2998,6 +3043,36 @@
           "Live": false,
           "Duration": 349,
           "ShortDescriptionLine1": "Turkish and continued: Let it sink in"
+        },
+        {
+          "Title": "בזמן שעבדתם: מלחמת הבינה הראשונה",
+          "Poster": "https://img.mako.co.il/2026/03/11/Bizman_Sheavadetem_260_110326_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_260_190326_VOD_jug789/Bizman_Sheavadetem_260_190326_VOD_jug789_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_260_190326_VOD_jug789/Bizman_Sheavadetem_260_190326_VOD_jug789_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "7e0f0f19719ac910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-7e0f0f19719ac91026.htm",
+          "ShortDescriptionLine2": "The new frontier of the technological battlefield",
+          "Date": "",
+          "Live": false,
+          "Duration": 3376,
+          "ShortDescriptionLine1": "While You Worked: The First Intelligence War"
+        },
+        {
+          "Title": "בזמן שעבדתם: אמא הודו מעדכנת גרסה",
+          "Poster": "https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_261_190326_VOD_mnb908/Bizman_Sheavadetem_261_190326_VOD_mnb908_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_261_190326_VOD_mnb908/Bizman_Sheavadetem_261_190326_VOD_mnb908_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "a1f3cc888c06c910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-a1f3cc888c06c91027.htm",
+          "ShortDescriptionLine2": "The technological revolution that Modi ushered in India",
+          "Date": "",
+          "Live": false,
+          "Duration": 3313,
+          "ShortDescriptionLine1": "While you were working: Mother India is updating version"
         }
       ]
     },
