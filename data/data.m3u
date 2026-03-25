@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-25 18:53
+# Last updated: 2026-03-25 19:10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -586,6 +586,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:8362 tvg-logo="https://img.mako.co.il/2026/03/25/Mahadurat_Hayom_250326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 25.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/15hayom_vtr2_20260325_v1/15hayom_vtr2_20260325_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/03/25/Bizman_Sheavadetem_262_250326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: שובו של המהמר צוקרברג [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
 #EXTINF:3504 tvg-logo="https://img.mako.co.il/2026/03/25/Eretz_Nehederet_20_250326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: כולם מגיעים לסדר פסח במקלט
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_20_250326_VOD_jhg987/Eretz_Nehederet_20_250326_VOD_jhg987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -621,9 +624,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:4531 tvg-logo="https://img.mako.co.il/2026/02/26/Uvda2026_09_260226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: מתן אנגרסט מדבר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_09_260226_VOD_ujk987/Uvda2026_09_260226_VOD_ujk987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2851 tvg-logo="https://img.mako.co.il/2026/02/25/Bizman_Sheavadetem_250226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המהפכה של וולמארט
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/February/Bizman_Sheavadetem_250226_VOD_sda461/Bizman_Sheavadetem_250226_VOD_sda461_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4211 tvg-logo="https://img.mako.co.il/2026/02/19/Uvda2026_08_190226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: המבוקשת מאיראן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -669,6 +669,21 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2367 tvg-logo="https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם ניר דבורי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:605 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_5_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: יש לנו שיר?
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:200 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_4_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: קצת אוויר
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_04_250126_VOD_SIE932/Torki_Vehemshachnu_04_250126_VOD_SIE932_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:540 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_3_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: מרקורי במסיבה
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_03_250126_VOD_mnb090/Torki_Vehemshachnu_03_250126_VOD_mnb090_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:378 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_2_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: טייק הזהב 
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_02_250126_VOD_ygb878/Torki_Vehemshachnu_02_250126_VOD_ygb878_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:349 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_1_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: תנו לזה לשקוע 
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_01_250126_VOD_sdx123/Torki_Vehemshachnu_01_250126_VOD_sdx123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3376 tvg-logo="https://img.mako.co.il/2026/03/11/Bizman_Sheavadetem_260_110326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: מלחמת הבינה הראשונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_260_190326_VOD_jug789/Bizman_Sheavadetem_260_190326_VOD_jug789_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
