@@ -2550,8 +2550,23 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "07d7510625cfc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-07d7510625cfc91027.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-03-25T07:00:19+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/03/24/Avri_Sherki_240326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21941911/21941911_noAdds/21941911_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/21941911/21941911_noAdds/21941911_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -2563,36 +2578,6 @@
           "Live": false,
           "Duration": 5520,
           "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
-        },
-        {
-          "Title": "נסלי ויואב: היום ה-25 למבצע שאגת הארי",
-          "Poster": "https://img.mako.co.il/2026/03/24/Nesli_Yoav_240326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_240326_VOD_ofu649/Nesli_Yoav_240326_VOD_ofu649_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_240326_VOD_ofu649/Nesli_Yoav_240326_VOD_ofu649_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "3db021fca95fc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-3db021fca95fc91027.htm",
-          "ShortDescriptionLine2": "Operation Harry's Roar - Day 25 - All Reports",
-          "Date": "2026-03-24T09:30:06+02:00",
-          "Live": false,
-          "Duration": 7952,
-          "ShortDescriptionLine1": "Nesli and Yoav: the 25th day of Operation Hagat Hari"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-25",
-          "Poster": "https://img.mako.co.il/2026/03/24/Hadshot_Haboker_240326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_240326_VOD_los245/Hadshot_Haboker_240326_VOD_los245_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_240326_VOD_los245/Hadshot_Haboker_240326_VOD_los245_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a2ad21fca95fc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-a2ad21fca95fc91027.htm",
-          "ShortDescriptionLine2": "Operation Harry's Roar-Day 25 All reports",
-          "Date": "2026-03-24T07:00:46+02:00",
-          "Live": false,
-          "Duration": 10812,
-          "ShortDescriptionLine1": "Morning News with Niv Raskin: Operation Harry's Roar - Day 25"
         },
         {
           "Title": "ריסט: עבודת החלומות של גידי",
