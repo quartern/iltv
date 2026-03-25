@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 25.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_32txy83g",
+          "Date": "2026-03-25 21:37:59",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4335924/",
+          "Duration": 3480,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-25 21:37:59",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_32txy83g/flavorIds/1_lhqh556z,1_b0w0lpsi,1_n2615h8v,1_82lx8t22,1_l9buqers,1_clvfa4ea/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 25.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_u2up6gbz",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-03-24 22:05:26",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hn9k66he/flavorIds/1_7vxith0e,1_3hpc733w,1_m8g452z1,1_rvlyjo6t,1_d14wg5rp,1_14pjsiuw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 24.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_651sjquo",
-          "Date": "2026-03-24 21:39:37",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4334856/",
-          "Duration": 3498,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-24 21:39:37",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_651sjquo/flavorIds/1_4da0p328,1_ucmtb1pg,1_pfxhlsg6,1_7y4bdvlj,1_skyf52n4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2380,19 +2380,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 25.03.26 [live]",
+          "Title": "המהדורה המרכזית: 25.03.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941924/21941924_noAdds/21941924_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21941924/21941924_noAdds/21941924_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "577ff046ca32d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-577ff046ca32d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-25T19:51:03+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 25.03.26 [live]"
+          "Live": false,
+          "Duration": 4850,
+          "ShortDescriptionLine1": "The main edition: 25.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 25.03.26",
@@ -2550,6 +2550,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: כולם מגיעים לסדר פסח במקלט [live]",
+          "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f5d3268c2ebdc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-f5d3268c2ebdc91027.htm",
+          "ShortDescriptionLine2": "A wonderful land invites you to Seder Pesach before everyone else",
+          "Date": "2026-03-25T21:35:35+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Eretz Nehederet: Everyone comes to the Passover seder in the shelter [live]"
+        },
+        {
           "Title": "נסלי ויואב: היום ה-26 למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2026/03/25/Nesli_Yoav_250326_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2653,21 +2668,6 @@
           "Live": false,
           "Duration": 3099,
           "ShortDescriptionLine1": "Uvda: special war transmitter"
-        },
-        {
-          "Title": "ארץ נהדרת: כוכבי המלחמה החמים מגיעים",
-          "Poster": "https://img.mako.co.il/2026/03/18/Erez_180326_Sidra_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_19_180326_VOD_SFG567/Eretz_Nehederet_19_180326_VOD_SFG567_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_19_180326_VOD_SFG567/Eretz_Nehederet_19_180326_VOD_SFG567_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1cd4cbf5d0dcc910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-1cd4cbf5d0dcc91026.htm",
-          "ShortDescriptionLine2": "A great land in an extremely powerful war edition",
-          "Date": "2026-03-18T21:36:56+02:00",
-          "Live": false,
-          "Duration": 3493,
-          "ShortDescriptionLine1": "Eretz Nehederet: The hot war stars are coming"
         },
         {
           "Title": "ריסט: האקסית המיתולוגית",
