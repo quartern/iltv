@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד עם שרון ואורי | 25.03.26 - 12:00",
+          "ShortDescriptionLine1": "Special broadcast with Sharon and Uri 25.03.26 - 12:00",
+          "ShortDescriptionLine2": "2026-03-25 12:53:11",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018405/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180925/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1018405",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1018405",
+          "Date": "2026-03-25 12:53:11",
+          "Duration": "7201"
+        },
+        {
           "Title": "חדשות הלילה | 24.03.26",
           "ShortDescriptionLine1": "Tonight's news 24.03.26",
           "ShortDescriptionLine2": "2026-03-24 22:41:50",
@@ -476,19 +489,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1018084",
           "Date": "2026-03-24 21:02:20",
           "Duration": "6705"
-        },
-        {
-          "Title": "משדר מיוחד עם איילה חסון | 24.03.26 - 18:00",
-          "ShortDescriptionLine1": "Special broadcast with Ayala Hasson 24.03.26 - 18:00",
-          "ShortDescriptionLine2": "2026-03-24 18:41:24",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018025/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180833/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1018025",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1018025",
-          "Date": "2026-03-24 18:41:24",
-          "Duration": "8207"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 24.03.26",
@@ -2553,15 +2553,15 @@
           "Title": "נסלי ויואב: היום ה-26 למבצע שאגת הארי",
           "Poster": "https://img.mako.co.il/2026/03/25/Nesli_Yoav_250326_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/21941941/21941941_noAdds/21941941_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_yoav_2026/21941941/21941941_noAdds/21941941_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_250326_VOD_iki999/Nesli_Yoav_250326_VOD_iki999_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_250326_VOD_iki999/Nesli_Yoav_250326_VOD_iki999_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2b3a07de66cfc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-2b3a07de66cfc91027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-2b3a07de66cfc91027.htm",
           "ShortDescriptionLine2": "Operation Harry's Roar - the 26th day - all reports",
           "Date": "2026-03-25T09:30:27+02:00",
           "Live": false,
-          "Duration": 7519,
+          "Duration": 7507,
           "ShortDescriptionLine1": "Nesli and Yoav: the 26th day of Operation Hagat Hari"
         },
         {
@@ -2968,6 +2968,81 @@
           "Live": false,
           "Duration": 2367,
           "ShortDescriptionLine1": "What really happened there?: Erez Tal with Nir Davori"
+        },
+        {
+          "Title": "טורקי והמשכנו: יש לנו שיר?",
+          "Poster": "https://img.mako.co.il/2026/01/22/TURKI_i_5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "61c465959a0eb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-more_on_12_plus/elite_turkish_coffee-s1/VOD-61c465959a0eb91026.htm",
+          "ShortDescriptionLine2": "Tuna reveals the lyrics of the song for the first time",
+          "Date": "",
+          "Live": false,
+          "Duration": 605,
+          "ShortDescriptionLine1": "Turki and we continued: do we have a song?"
+        },
+        {
+          "Title": "טורקי והמשכנו: קצת אוויר",
+          "Poster": "https://img.mako.co.il/2026/01/22/TURKI_i_4_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_04_250126_VOD_SIE932/Torki_Vehemshachnu_04_250126_VOD_SIE932_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_04_250126_VOD_SIE932/Torki_Vehemshachnu_04_250126_VOD_SIE932_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "b46465959a0eb910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-more_on_12_plus/elite_turkish_coffee-s1/VOD-b46465959a0eb91026.htm",
+          "ShortDescriptionLine2": "A peek behind the scenes",
+          "Date": "",
+          "Live": false,
+          "Duration": 200,
+          "ShortDescriptionLine1": "Turkish and we continued: some air"
+        },
+        {
+          "Title": "טורקי והמשכנו: מרקורי במסיבה",
+          "Poster": "https://img.mako.co.il/2026/01/22/TURKI_i_3_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_03_250126_VOD_mnb090/Torki_Vehemshachnu_03_250126_VOD_mnb090_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_03_250126_VOD_mnb090/Torki_Vehemshachnu_03_250126_VOD_mnb090_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "fa60a071551db910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-more_on_12_plus/elite_turkish_coffee-s1/VOD-fa60a071551db91026.htm",
+          "ShortDescriptionLine2": "Going to an unforgettable performance at Hichal Menorah",
+          "Date": "",
+          "Live": false,
+          "Duration": 540,
+          "ShortDescriptionLine1": "Turkish and our continuation: Mercury at the party"
+        },
+        {
+          "Title": "טורקי והמשכנו: טייק הזהב ",
+          "Poster": "https://img.mako.co.il/2026/01/22/TURKI_i_2_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_02_250126_VOD_ygb878/Torki_Vehemshachnu_02_250126_VOD_ygb878_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_02_250126_VOD_ygb878/Torki_Vehemshachnu_02_250126_VOD_ygb878_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "9bcfa071551db910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-more_on_12_plus/elite_turkish_coffee-s1/VOD-9bcfa071551db91026.htm",
+          "ShortDescriptionLine2": "The song is starting to take shape",
+          "Date": "",
+          "Live": false,
+          "Duration": 378,
+          "ShortDescriptionLine1": "Turkish and our continuation: the golden take"
+        },
+        {
+          "Title": "טורקי והמשכנו: תנו לזה לשקוע ",
+          "Poster": "https://img.mako.co.il/2026/01/22/TURKI_i_1_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_01_250126_VOD_sdx123/Torki_Vehemshachnu_01_250126_VOD_sdx123_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_01_250126_VOD_sdx123/Torki_Vehemshachnu_01_250126_VOD_sdx123_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "37cea071551db910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-more_on_12_plus/elite_turkish_coffee-s1/VOD-37cea071551db91026.htm",
+          "ShortDescriptionLine2": "Tona Nero and Kikir settle in the studio",
+          "Date": "",
+          "Live": false,
+          "Duration": 349,
+          "ShortDescriptionLine1": "Turkish and continued: Let it sink in"
         },
         {
           "Title": "בזמן שעבדתם: מלחמת הבינה הראשונה",
