@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 26.03.26 [live]",
+          "Title": "שש עם עודד בן עמי: 26.03.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/21941954/21941954_noAdds/21941954_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/21941954/21941954_noAdds/21941954_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "1afcaf188192d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/7dae3ce4fd89c910/VOD-1afcaf188192d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-26T18:08:27+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 26.03.26 [live]"
+          "Live": false,
+          "Duration": 2265,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 26.03.26"
         },
         {
           "Title": "חמש עם רפי רשף: 26.03.26",
@@ -2436,21 +2436,6 @@
           "Live": false,
           "Duration": 4820,
           "ShortDescriptionLine1": "The main edition: 25.03.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 25.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/25/Sheva_250326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/19sheba_vtr2_20260325_v1/19sheba_vtr2_20260325_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/19sheba_vtr2_20260325_v1/19sheba_vtr2_20260325_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "b7cef046ca32d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/b3923ce4fd89c910/VOD-b7cef046ca32d91026.htm",
-          "ShortDescriptionLine2": "The talks between Washington and Tehran",
-          "Date": "2026-03-25T18:58:38+02:00",
-          "Live": false,
-          "Duration": 2365,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 25.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 21.03.26",
