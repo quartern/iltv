@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-26 13:38
+# Last updated: 2026-03-26 13:53
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,11 +109,11 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:8149 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019044/poster" group-title="11 News - Latest shows",משדר מיוחד עם מאיה ראכלין | 26.03.26 - 16:00
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181098/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:741 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019016/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 26.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181090/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:6979 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018982/poster" group-title="11 News - Latest shows",משדר מיוחד עם יונתן אוחיון | 26.03.26 - 14:00
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181080/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6908 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018738/poster" group-title="11 News - Latest shows",חדשות הלילה | 25.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181027/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -586,6 +586,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:2615 tvg-logo="https://img.mako.co.il/2026/02/21/Shabat_Behamesh_210226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 21.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/17gidon_full_vtr2_n20260221_v1/17gidon_full_vtr2_n20260221_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:7102 tvg-logo="https://img.mako.co.il/2026/03/26/Nesli_Yoav_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-27 למבצע שאגת הארי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_260326_VOD_pol987/Nesli_Yoav_260326_VOD_pol987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -691,6 +694,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3313 tvg-logo="https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: אמא הודו מעדכנת גרסה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_261_190326_VOD_mnb908/Bizman_Sheavadetem_261_190326_VOD_mnb908_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:4179 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5c4fe7e4-db54-4c51-a210-fe79af1bf084/e84d9421-4e8a-406b-8773-a5b3975a5fee/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע,26.03.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5c4fe7e4-db54-4c51-a210-fe79af1bf084/10s/master.m3u8?fastly_token=NjllYTcyZTBfMmMzYTU4OGFmYTI2NGY2MzAxMTgzMGNkY2Y5OTAzNzhlYjRhYTRmMDA2Nzg0YTVlMzQ5NDE5ZDdmN2MxNzlkYg%3D%3D
+
 #EXTINF:2989 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a4d2b502-0cc4-48b9-b37e-81eedd9675f3/893a5dd7-901b-4fef-bd6d-9b5eff854644/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש, 26.03.26 חלק שני
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a4d2b502-0cc4-48b9-b37e-81eedd9675f3/10s/master.m3u8?fastly_token=NjllYTVlZmVfZWQ5YWJkZmNlYTdmNjZlODViODE2OTA0YzI2YmQzNGQzMWUyYWE5ZjQ2OTI1NzgyN2M5Y2UwZDI3ZWJhMDZlMw%3D%3D
 
@@ -720,9 +726,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/abe1de
 
 #EXTINF:3063 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a4e5b629-9952-4277-8ac7-43c1f7a22d3d/65671475-2fce-4401-8989-128981dd1597/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל, 24.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a4e5b629-9952-4277-8ac7-43c1f7a22d3d/10s/master.m3u8?fastly_token=NjllN2QyMWJfMTRlOTFhYzY5ZTU3MWI3ZWE3ZGMxMmE3ZDQzYzUzMGY0ZjNkYmYwNjk4YzU3NjdlMmMwODU1MjI0YmY0ZGJmNQ%3D%3D
-
-#EXTINF:3979 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3a540346-4b15-48c0-ac59-63cad28298cb/7922e3ac-ec7e-454a-898e-ba731d254635/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע, 24.03.26
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3a540346-4b15-48c0-ac59-63cad28298cb/10s/master.m3u8?fastly_token=NjllN2M3MzVfYmM5NWUwYjcwOTY1OGZlYjEzODdmYTdiMGFiNjJkZTMxNmY1ZWQyMzZhOGI0MWI3YjEwYzM2YzBjZDVhMDYxYg%3D%3D
 
 #EXTINF:7199 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c3366881-c8b9-4b66-b58e-cec235efc32f/7252697e-0207-45a8-a5cc-a3a4185f0a96/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם נדב אלימלך -  24.03.26 
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c3366881-c8b9-4b66-b58e-cec235efc32f/10s/master.m3u8?fastly_token=NjllN2M4NzdfNWQwY2JiNzJkZjcxMzk5NDgwYWVkY2U4MzE2NWQzMWY4MGZiMWI3OGM0YzViNmUzNmJiZTdlYWZmMWUzOTNiZg%3D%3D
