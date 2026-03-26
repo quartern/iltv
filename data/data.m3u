@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-26 19:08
+# Last updated: 2026-03-26 19:20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4779 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019286/poster" group-title="11 News - Latest shows",חדשות הלילה | 26.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181380/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:488 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019108/poster" group-title="11 News - Latest shows",מפוני עם כלביא: מי שביתם נהרס במלחמה הקודמת עדיין לא השתקמו
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181124/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -120,9 +123,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181104/LIBCODER
 
 #EXTINF:741 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019016/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 26.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181090/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:6908 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018738/poster" group-title="11 News - Latest shows",חדשות הלילה | 25.03.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181027/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6653 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1016359/poster" group-title="11 News - Latest shows",חדשות השבת | 21.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180393/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -589,8 +589,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/03/26/Doh_Mazav_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: מבצע "שאגת הארי" היום ה-27 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+#EXTINF:4998 tvg-logo="https://img.mako.co.il/2026/03/26/Doh_Mazav_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: מבצע "שאגת הארי" היום ה-27
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/21941956/21941956_noAdds/21941956_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3785 tvg-logo="https://img.mako.co.il/2026/03/26/Uvda2026_11_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אבא בבית - עמרי ולישי מירן מדברים אחרי השבי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/21941959/21941959_noAdds/21941959_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
