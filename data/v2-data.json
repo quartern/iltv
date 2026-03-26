@@ -2393,19 +2393,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 26.03.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 26.03.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "feceaf188192d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-feceaf188192d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-03-26T19:50:58+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 26.03.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 26.03.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/21960641/21960641_noAdds/21960641_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Seven_With_Keren/21960641/21960641_noAdds/21960641_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "63edaf188192d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/b3923ce4fd89c910/VOD-63edaf188192d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-26T18:58:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 26.03.26 [live]"
+          "Live": false,
+          "Duration": 2373,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 26.03.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 26.03.26",
@@ -2436,21 +2451,6 @@
           "Live": false,
           "Duration": 3050,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 26.03.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 25.03.26",
-          "Poster": "https://img.mako.co.il/2026/03/25/Mahadura_Merkazit_250326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/20mahaduradfull_vtr2_20260325_v1/20mahaduradfull_vtr2_20260325_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/03/20mahaduradfull_vtr2_20260325_v1/20mahaduradfull_vtr2_20260325_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "577ff046ca32d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-577ff046ca32d91026.htm",
-          "ShortDescriptionLine2": "The concern in Israel: Trump may announce a ceasefire",
-          "Date": "2026-03-25T19:51:03+02:00",
-          "Live": false,
-          "Duration": 4820,
-          "ShortDescriptionLine1": "The main edition: 25.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 21.03.26",
