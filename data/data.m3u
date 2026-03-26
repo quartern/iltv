@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-26 15:34
+# Last updated: 2026-03-26 15:50
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -268,6 +268,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1889 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019038/poster" group-title="Kan 11 Featured",מה שתגידו עונה 5 | פרק 4 - 26.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181095/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2349 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan798752/poster" group-title="Kan 11 Featured",הורים בטיפול | פרק 5
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_yy0z5iha/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -324,9 +327,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011277/LIBCODER
 
 #EXTINF:2516 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989302/poster" group-title="Kan 11 Featured",בהסתורה | פרק 1 - רוחל'ה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067094/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2474 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan931025/poster" group-title="Kan 11 Featured",גיים צ'יינג'ר | פרק 3 - להמשיך במשחק
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ov7wonhj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -556,8 +556,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dqv1pz
 #EXTINF:4075 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763066780/uploads/2025/904848925.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 14: להחזיר את האור
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mrmlakre/flavorIds/1_bvjzbvr6,1_e3q6kllr,1_x5bt3w8y,1_vvvso4kx,1_8pqrrrfd,1_mlrjey4a/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadura_Merkazit_260326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 26.03.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+#EXTINF:4674 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadura_Merkazit_260326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 26.03.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21941955/21941955_noAdds/21941955_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2284 tvg-logo="https://img.mako.co.il/2026/03/26/Sheva_260326_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/19sheva_vtr2_20260325_v1/19sheva_vtr2_20260325_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
@@ -588,6 +588,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/03/26/Uvda2026_11_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אבא בבית - עמרי ולישי מירן מדברים אחרי השבי [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
 
 #EXTINF:7102 tvg-logo="https://img.mako.co.il/2026/03/26/Nesli_Yoav_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-27 למבצע שאגת הארי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_260326_VOD_pol987/Nesli_Yoav_260326_VOD_pol987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -636,9 +639,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:4153 tvg-logo="https://img.mako.co.il/2026/02/12/POSTER_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: השוטר מספר 1
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_07_120226_VOD_fty654/Uvda2026_07_120226_VOD_fty654_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:4238 tvg-logo="https://img.mako.co.il/2026/01/29/POSTER_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: סוכן בלב איראן 
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/Jan/Uvda2026_06_300126_VOD_ikd837/Uvda2026_06_300126_VOD_ikd837_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2692 tvg-logo="https://img.mako.co.il/2025/12/15/Nutuk_08_151225_8_autoOrient_I_reduced.jpg" group-title="+12 Specials",נוטוק: הסוף שאף אחד לא דמיין
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nutuk_Clean/S01/EP/Nutuk_08_151225_VOD_pto421/Nutuk_08_151225_VOD_pto421_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
