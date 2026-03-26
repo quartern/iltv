@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-26 17:09
+# Last updated: 2026-03-26 17:23
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -589,6 +589,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: מבצע "שאגת הארי" היום ה-27 [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
 #EXTINF:3785 tvg-logo="https://img.mako.co.il/2026/03/26/Uvda2026_11_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אבא בבית - עמרי ולישי מירן מדברים אחרי השבי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/21941959/21941959_noAdds/21941959_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -612,9 +615,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:5819 tvg-logo="https://img.mako.co.il/2026/03/20/Ofira_Ohana_Seri_200326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: המלחמה עולה שלב
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/March/Ofira_Ohana_Seri_200326_VOD_asp214/Ofira_Ohana_Seri_200326_VOD_asp214_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:6468 tvg-logo="https://img.mako.co.il/2026/03/19/Doh_Mazav_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: מבצע "שאגת הארי" היום ה-20
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/March/Doh_Mazav_190326_VOD_icy859/Doh_Mazav_190326_VOD_icy859_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3099 tvg-logo="https://img.mako.co.il/2026/03/22/Uvda_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: משדר מלחמה מיוחד
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/March/Uvda2026_10_190326_VOD_gtft5/Uvda2026_10_190326_VOD_gtft5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
