@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-28 15:54
+# Last updated: 2026-03-28 16:33
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -589,6 +589,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
 #EXTINF:5499 tvg-logo="https://img.mako.co.il/2026/03/27/Ofira_Ohana_Seri_270326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: הפסקת אש או כניסה קרקעית?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/March/Ofira_Ohana_Sery_270326_VOD_XMO492/Ofira_Ohana_Sery_270326_VOD_XMO492_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -609,9 +612,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3480 tvg-logo="https://img.mako.co.il/2026/03/25/Eretz_Nehederet_20_250326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: כולם מגיעים לסדר פסח במקלט
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_20_250326_VOD_sold999/Eretz_Nehederet_20_250326_VOD_sold999_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:5513 tvg-logo="https://img.mako.co.il/2026/03/24/Avri_Sherki_240326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: מבצע שאגת הארי-היום ה-25
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_240326_VOD_ytr132/Avri_Sherki_240326_VOD_ytr132_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2809 tvg-logo="https://img.mako.co.il/2026/03/23/Reset_07_230326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: עבודת החלומות של גידי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_07_230326_VOD_ifl794/Reset_07_230326_VOD_ifl794_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
