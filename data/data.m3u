@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-28 23:40
+# Last updated: 2026-03-29 00:25
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -589,7 +589,10 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:8314 tvg-logo="https://img.mako.co.il/2026/03/26/Mahadurat_Hayom_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 26.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/03/12hayom_vtr2_20260326_v1/12hayom_vtr2_20260326_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:5112 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
+#EXTINF:5112 tvg-logo="https://img.mako.co.il/2026/03/28/Avri_Sherki_280326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/21942026/21942026_noAdds/21942026_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5499 tvg-logo="https://img.mako.co.il/2026/03/27/Ofira_Ohana_Seri_270326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: הפסקת אש או כניסה קרקעית?
@@ -603,9 +606,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:7102 tvg-logo="https://img.mako.co.il/2026/03/26/Nesli_Yoav_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-27 למבצע שאגת הארי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_260326_VOD_pol987/Nesli_Yoav_260326_VOD_pol987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:10639 tvg-logo="https://img.mako.co.il/2026/03/26/Hadshot_Haboker_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-27
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_260326_VOD_xzc324/Hadshot_Haboker_260326_VOD_xzc324_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3617 tvg-logo="https://img.mako.co.il/2026/03/25/Bizman_Sheavadetem_262_250326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: שובו של המהמר צוקרברג
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_262_250326_VOD_adf963/Bizman_Sheavadetem_262_250326_VOD_adf963_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
