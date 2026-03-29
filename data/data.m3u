@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-29 11:06
+# Last updated: 2026-03-29 11:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:886 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020525/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 29.03.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183431/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:7241 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020449/poster" group-title="11 News - Latest shows",משדר מיוחד עם יונתן אוחיון | 29.03.26 - 14:00
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183410/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -135,9 +138,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2182709/LIBCODER
 
 #EXTINF:7448 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019136/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 26.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181141/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:741 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1019016/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 26.03.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2181090/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3604 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003439/poster" group-title="11 News - Latest shows",חן ליברמן וישי שנרב | 26.02.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171317/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -592,8 +592,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:7698 tvg-logo="https://img.mako.co.il/2026/03/29/Nesli_Yoav_290326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-30 למבצע שאגת הארי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/March/Nesli_Yoav_290326_VOD_sao862/Nesli_Yoav_290326_VOD_sao862_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:6975 tvg-logo="https://img.mako.co.il/2026/03/29/Hadshot_Haboker_290326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-30
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/21942029/21942029_noAdds/21942029_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:10389 tvg-logo="https://img.mako.co.il/2026/03/29/Hadshot_Haboker_290326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: מבצע שאגת הארי-היום ה-30
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/March/Hadshot_Haboker_290326_VOD_xdu752/Hadshot_Haboker_290326_VOD_xdu752_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5094 tvg-logo="https://img.mako.co.il/2026/03/28/Avri_Sherki_280326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/March/Avri_Sherki_290326_VOD_you888/Avri_Sherki_290326_VOD_you888_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
