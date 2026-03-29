@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-03-29 11:32
+# Last updated: 2026-03-29 11:56
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,11 +109,11 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:6937 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020517/poster" group-title="11 News - Latest shows",משדר מיוחד עם מאיה ראכלין | 29.03.26 - 16:00
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183423/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:886 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020525/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 29.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183431/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:7241 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020449/poster" group-title="11 News - Latest shows",משדר מיוחד עם יונתן אוחיון | 29.03.26 - 14:00
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183410/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6393 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020101/poster" group-title="11 News - Latest shows",חדשות הלילה | 28.03.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183353/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -555,9 +555,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x34las
 
 #EXTINF:3616 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763673764/uploads/2025/904858592.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 15: מציתי הפחים מדברים
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dqv1pza0/flavorIds/1_bccx9rgp,1_fd1jnfaw,1_3u146k23,1_6kd844ca,1_jasz01h6,1_x5lrnjc0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 29.03.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
 
 #EXTINF:2669 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 29.03.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/21942054/21942054_noAdds/21942054_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
