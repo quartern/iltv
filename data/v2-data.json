@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 29.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_99kqj5lk",
+          "Date": "2026-03-29 21:20:18",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4342346/",
+          "Duration": 2601,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-29 21:20:18",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_99kqj5lk/flavorIds/1_qj2ritm6,1_0396317b,1_ristk83z,1_avni9rtq,1_9s89czi7,1_e4n1yb28/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 29.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_cqv5t1gw",
@@ -688,19 +701,6 @@
           "ShortDescriptionLine2": "2026-03-28 23:27:40",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pjkjp1bi/flavorIds/1_1s9bwduo,1_9lwxt33j,1_f6hegj4r,1_g1qzb19a,1_7k36l1e3,1_rl5eujty/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 28.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_gxczy3gv",
-          "Date": "2026-03-28 22:08:04",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4341145/",
-          "Duration": 5720,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-28 22:08:04",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gxczy3gv/flavorIds/1_ii50xbfk,1_ji3e6mod,1_rr4ubvpr,1_tiht7q8s,1_2mc6mxea,1_vag823z7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 29.03.26 [live]",
+          "Title": "המהדורה המרכזית: 29.03.26",
           "Poster": "https://img.mako.co.il/2026/03/29/Mahadura_Merkazit_290326_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21942038/21942038_noAdds/21942038_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21942038/21942038_noAdds/21942038_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "506be94e9083d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-506be94e9083d91027.htm",
           "ShortDescriptionLine2": "The additional targets that Israel and the US have approved in Iran",
           "Date": "2026-03-29T19:50:05+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 29.03.26 [live]"
+          "Live": false,
+          "Duration": 4704,
+          "ShortDescriptionLine1": "The main edition: 29.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 29.03.26",
