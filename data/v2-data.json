@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 30.03.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_ryvvgeia",
+          "Date": "2026-03-30 21:29:16",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4344465/",
+          "Duration": 3601,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-03-30 21:29:16",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ryvvgeia/flavorIds/1_ck27vplm,1_q4oowmcz,1_b12lpyu3,1_3clg1uyy,1_m7kildv1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 30.03.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_xalkhv7y",
@@ -714,19 +727,6 @@
           "ShortDescriptionLine2": "2026-03-29 22:44:37",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mhifhw8y/flavorIds/1_0xj1cfaj,1_7qob0dly,1_bk9zyose,1_xpikqbyd,1_mioyurm5,1_8kiwgsp6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 29.03.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_99kqj5lk",
-          "Date": "2026-03-29 21:20:18",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4342346/",
-          "Duration": 2601,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-03-29 21:20:18",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_99kqj5lk/flavorIds/1_qj2ritm6,1_0396317b,1_ristk83z,1_avni9rtq,1_9s89czi7,1_e4n1yb28/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1125,6 +1125,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בהסתורה | פרק 4 - משה אזולאי",
+          "ShortDescriptionLine1": "in secret | Chapter 4 - Moshe Azoulai",
+          "ShortDescriptionLine2": "2026-03-30 18:45:20",
+          "Poster": "https://www.kan.org.il/media/zeua5ir5/%d7%90%d7%aa%d7%a8-2.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2011428/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan989316",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989316",
+          "Date": "2026-03-30 18:45:20",
+          "Duration": "3098"
+        },
+        {
           "Title": "יהיה טוב עונה 3 | פרק 8 - מחיר האמת",
           "ShortDescriptionLine1": "Will be good season 3 | Chapter 8 - The price of truth",
           "ShortDescriptionLine2": "2026-03-29 21:38:29",
@@ -1370,19 +1383,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-983439/s1/989309",
           "Date": "2026-03-23 19:43:01",
           "Duration": "2820"
-        },
-        {
-          "Title": "יהיה טוב עונה 3 | פרק 7 - שיטת בן גביר",
-          "ShortDescriptionLine1": "Will be good season 3 | Chapter 7 - The Ben Gabir method",
-          "ShortDescriptionLine2": "2026-03-22 21:32:54",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1016965/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180578/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1016965",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-578726/s3/1016965",
-          "Date": "2026-03-22 21:32:54",
-          "Duration": "3432"
         }
       ]
     },
@@ -2393,19 +2393,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 30.03.26 [live]",
+          "Title": "המהדורה המרכזית: 30.03.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/21942068/21942068_noAdds/21942068_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/21942068/21942068_noAdds/21942068_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "487c6cecb3d3d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/47d73ce4fd89c910/VOD-487c6cecb3d3d91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-03-30T19:51:10+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 30.03.26 [live]"
+          "Live": false,
+          "Duration": 4182,
+          "ShortDescriptionLine1": "The main edition: 30.03.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 30.03.26",
