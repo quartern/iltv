@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אתה חייב לקרוא את זה עונה 2 | פרק 3 - חן ויודי",
+          "ShortDescriptionLine1": "You must read it season 2 | Chapter 3 - Chen and Yodi",
+          "ShortDescriptionLine2": "2026-04-02 19:31:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan999843/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2167650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan999843",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-895076/s2/999843",
+          "Date": "2026-04-02 19:31:53",
+          "Duration": "1959"
+        },
+        {
           "Title": "האחוזון העליון עונה 3 | פרק 11",
           "ShortDescriptionLine1": "The top percentile season 3 | Chapter 11",
           "ShortDescriptionLine2": "2026-04-02 18:37:07",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-798231/s1/798752",
           "Date": "2026-03-24 20:31:57",
           "Duration": "2349"
-        },
-        {
-          "Title": "זהו זה! השירים | עונה 8 - חדר משלי",
-          "ShortDescriptionLine1": "ZehuZe! The songs Season 8 - A Room of My Own",
-          "ShortDescriptionLine2": "2026-03-24 20:24:15",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1017754/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180814/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1017754",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-13401/s8/1017754",
-          "Date": "2026-03-24 20:24:15",
-          "Duration": "0"
         }
       ]
     },
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 02.04.26 [live]",
+          "Title": "המהדורה המרכזית: 02.04.26",
           "Poster": "https://img.mako.co.il/2026/04/02/Mahadura_Merkazit_020426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22056190/22056190_noAdds/22056190_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22056190/22056190_noAdds/22056190_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9ce599fc37e4d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9ac9e2612942d910/VOD-9ce599fc37e4d91027.htm",
           "ShortDescriptionLine2": "Shooting on an unusual scale during the holiday",
           "Date": "2026-04-02T19:55:05+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Main edition: 02.04.26 [live]"
+          "Live": false,
+          "Duration": 5678,
+          "ShortDescriptionLine1": "Main edition: 02.04.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 31.03.26",
