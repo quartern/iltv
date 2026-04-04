@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-04 14:47
+# Last updated: 2026-04-04 15:10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -157,6 +157,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2065070/LIBCODER
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:5744 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 04.04.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_czmqy4i1/flavorIds/1_l2iohlus,1_bfh8dgfi,1_xsx1ean4,1_em918uwh,1_1veltlxv,1_lpk0p0d8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:7142 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763642776/uploads/2025/904857870.webp" group-title="13 News - Latest shows",שישי 03.04.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_lnxndfh2/flavorIds/1_xam2y4cd,1_fgyv6jk8,1_ce7ror2n,1_vvz1xvlh,1_yauymmke,1_ghef70cd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -174,9 +177,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5ij4o4
 
 #EXTINF:2437 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 31.03.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ymo1vvcx/flavorIds/1_dqii9c6w,1_225rwmq8,1_j2b02upf,1_lzvpm7z3,1_p0oirlpm,1_gzgsu6wz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:3472 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 31.03.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2jm0huj9/flavorIds/1_am9n8q4z,1_dp67z7pa,1_p1itr6kb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:4520 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 28.03.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pjkjp1bi/flavorIds/1_1s9bwduo,1_9lwxt33j,1_f6hegj4r,1_g1qzb19a,1_7k36l1e3,1_rl5eujty/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -700,11 +700,17 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3313 tvg-logo="https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: אמא הודו מעדכנת גרסה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_261_190326_VOD_mnb908/Bizman_Sheavadetem_261_190326_VOD_mnb908_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:4012 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/184c43c6-1be6-49ea-8eec-16cc0665487f/d50ec9a4-4162-4b0e-b004-307df145d62e/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם שרון ניסים -  04.04.26 חלק שני 
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/184c43c6-1be6-49ea-8eec-16cc0665487f/10s/master.m3u8?fastly_token=NjlmNjU5ZGJfMjIwZjI3MDRiNGUwOTM4NzQ3NzBiMTNkMTMwMjlhNTU3ZDgwNzIzNjgwOGE0NGJjZWU3ZDRhYjk3ZTQ0MDVmOA%3D%3D
+#EXTINF:6150 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5942d1e7-938d-40df-931c-e808d03e6659/94248dc6-9fe0-4b1f-89c0-ab8bc1e77bf9/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מגזין השבת 04.04.26   
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5942d1e7-938d-40df-931c-e808d03e6659/10s/master.m3u8?fastly_token=NjlmNjZiNzNfNzI3NDk0MmJkMmI2Y2ZmNDNiMGFmMDllMjBlZWQ4M2RhYjg4Njc2ZTFjNzQ5ZDg3NzY1M2ZkMTY1M2RhNDFjOQ%3D%3D
 
-#EXTINF:3552 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f27d4e81-d65d-4266-b183-3f3cefa1f56c/97531681-6078-4096-b642-4a31762a5777/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם אלי הוכנברג - 03.04.26  חלק שני
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f27d4e81-d65d-4266-b183-3f3cefa1f56c/10s/master.m3u8?fastly_token=NjlmNTI3NTBfZDIzOGE4NjRiMTYzN2VjYjczZGEwMjllNjlhYWZkNmI5YjA4NTQ4Y2UwODI5NzQ4NzMxNGRlNzY5NmYwNmI0Yg%3D%3D
+#EXTINF:7100 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/95a1fc5b-1fe2-4d5a-b4a9-0e78923da9bb/0838a34e-6787-45b8-87db-7652a566836f/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המוקדמת, 04.04.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/95a1fc5b-1fe2-4d5a-b4a9-0e78923da9bb/10s/master.m3u8?fastly_token=NjlmNjZmZjZfODViM2Y4NGJmYzI1OGI4MzBhY2Y4MTY1YmIxZGI2ZjI4YmYxYzNjMTBmYzFiYmY4Y2JjZTFhNGQ5ZTNiOTEzMQ%3D%3D
+
+#EXTINF:3064 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/11fea912-cd97-4581-a4f1-3b7826619985/5eb5106c-3058-44fb-9516-aefd970bc6cd/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם אלי הוכנברג - 04.04.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/11fea912-cd97-4581-a4f1-3b7826619985/10s/master.m3u8?fastly_token=NjlmNjVjMGJfNWQ0OWM0NWQzNjZkY2FjYzIzMmQ1YjRlN2I5NzVjZDI4ZDRjMmY2NmM4NTBjNDIwOGQ5ZTRkZjYzOTNiYzYxMg%3D%3D
+
+#EXTINF:6771 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1f8181f2-fe66-4021-879a-f542aa4d4e99/2435b1cf-832b-4d74-8b23-58f593ff1425/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם אלי הוכנברג  -  04.04.26 חלק ראשון
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1f8181f2-fe66-4021-879a-f542aa4d4e99/10s/master.m3u8?fastly_token=NjlmNjZlMzBfNzYyMmVkODg1ODQyMzcyZWRhZWYyNmI4MDZlN2EzZWM5ZGZhNjQ1OWJhN2Y2ZDdmNTdkNGRiZGRmNWE3MTQ3Mg%3D%3D
 
 #EXTINF:1113 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ab187175-a1ff-4ee4-9e29-7ba5ea5692b7/ea3992fd-ff79-4232-8df8-3b79d465fd80/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",זמן ריפוי, 03.04.26 | תוכן ממומן
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ab187175-a1ff-4ee4-9e29-7ba5ea5692b7/10s/master.m3u8?fastly_token=NjlmNTE4MWZfZjkzNmM1OWZjMjYzMmEwNDc1M2U3YzRhZmNiMjE4NmRmNDg4YTk5ZDZmZjhhYTNkNjNjNmY5OWMzMGFiNTk5Nw%3D%3D
@@ -757,9 +763,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2535cf
 #EXTINF:4067 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ee5793c1-0f27-4968-aff4-0bd67fdb6cb2/389ffe33-5df6-4f2c-be93-f0d3640ad776/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע, 29.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ee5793c1-0f27-4968-aff4-0bd67fdb6cb2/10s/master.m3u8?fastly_token=NjllZTk2ZTRfMzdiNjc5ODhlMGI5NmFjNDY1Mzc1NGNmZWJjZDgyNjgwN2ZjZjMzNjQ3ZWIwYTM3N2Q0OWMxYTYxYzRiNWVjOQ%3D%3D
 
-#EXTINF:6895 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f95cd0c2-ff08-4e17-947a-73c7258cf82d/15e25753-f48e-4498-9942-8d80a9da9cae/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המוקדמת, 28.03.26
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f95cd0c2-ff08-4e17-947a-73c7258cf82d/10s/master.m3u8?fastly_token=NjllZGY5NDlfZTYyMTEzZjQxNmEzYmFmY2EyNGM1YmIyYWE2NTk3ZmQ1YjE5ZTA5N2U4MGRiOTY4ODRhYzQyMThhM2FjMDM3NQ%3D%3D
-
 #EXTINF:6420 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f63f5ad5-8f9f-40b2-9bbf-360d9c5dc2e4/873e5e2a-5223-40ed-bf5a-fa26bedb282c/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מגזין השבת, 28.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f63f5ad5-8f9f-40b2-9bbf-360d9c5dc2e4/10s/master.m3u8?fastly_token=NjllZGYwNzRfOTlmMDRiNWNhM2ZhMjRjMDljNzM5OTlkNzk4YjBmOWViMGNkNzFkNmY3ZDVjZDQ4MmUwNDYxMDZlNWI1YTcwOA%3D%3D
 
@@ -774,9 +777,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/50c8f2
 
 #EXTINF:3765 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8b829c9e-5097-4278-b3c6-f1ef19d88e17/425fa0d4-73eb-4bdf-9a6f-6f9729241386/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",הערביסטים, 22.03.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8b829c9e-5097-4278-b3c6-f1ef19d88e17/10s/master.m3u8?fastly_token=NjllZTFiZDhfYTY4YWE2MjBjYTA3ZDUyYWViNDNkMDZkM2YyODQxMjlhNjJjOGY0NzRmN2MxNDA2NDczYjMxZmNlMjM2ODc5Nw%3D%3D
-
-#EXTINF:6289 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a46d9b0f-747e-45f7-b247-4533ced06fc4/5bff5982-beba-4805-b799-5aa8e16f29f2/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מגזין השבת, 21.03.26
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a46d9b0f-747e-45f7-b247-4533ced06fc4/10s/master.m3u8?fastly_token=NjllNDA0MjNfMzUwZjVkNDc3NmVlYmJkYjZhZDg5ZjMzNGUxYTczZjhjZDZkYjZiYzM4NDlhYjQ2NmEwODZmMmYzZjliNzM0Zg%3D%3D
 
 #EXTINF:6492 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/efd35d05-98c3-4dfe-94cb-870183161a3a/53af1a08-7d14-4acc-9068-2fb434ca9155/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15, 25.02.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/efd35d05-98c3-4dfe-94cb-870183161a3a/10s/master.m3u8?fastly_token=NjlkZmI5NzlfNzQxYjRhMzczYzg2Y2ZjZTRkNTg3YzdmM2E4M2Y5NTkwOWY4ZmE0ZTJhZDdmYzM3ZmM0MWMzMWY4Nzk1ZmUwNw%3D%3D
