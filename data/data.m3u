@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-04 14:10
+# Last updated: 2026-04-04 14:37
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:2479 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1022105/poster" group-title="Kan 11 Featured",פגישה עם רוני קובן עונה 10 | פרק 18 - לוסי אהריש
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184430/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:112 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1020228/poster" group-title="Kan 11 Featured",אלונה סער | סיפור פשוט
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2183372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170832/LIBCODER
 
 #EXTINF:126 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002913/poster" group-title="Kan 11 Featured",אמה אלפי | ימי שלישי עם מורי
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:128 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003091/poster" group-title="Kan 11 Featured",יובל מנדלסון | "קארי"
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170829/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -700,11 +700,11 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3313 tvg-logo="https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: אמא הודו מעדכנת גרסה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_261_190326_VOD_mnb908/Bizman_Sheavadetem_261_190326_VOD_mnb908_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:4012 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/184c43c6-1be6-49ea-8eec-16cc0665487f/d50ec9a4-4162-4b0e-b004-307df145d62e/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם שרון ניסים -  04.04.26 חלק שני 
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/184c43c6-1be6-49ea-8eec-16cc0665487f/10s/master.m3u8?fastly_token=NjlmNjU5ZGJfMjIwZjI3MDRiNGUwOTM4NzQ3NzBiMTNkMTMwMjlhNTU3ZDgwNzIzNjgwOGE0NGJjZWU3ZDRhYjk3ZTQ0MDVmOA%3D%3D
+
 #EXTINF:3552 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f27d4e81-d65d-4266-b183-3f3cefa1f56c/97531681-6078-4096-b642-4a31762a5777/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם אלי הוכנברג - 03.04.26  חלק שני
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f27d4e81-d65d-4266-b183-3f3cefa1f56c/10s/master.m3u8?fastly_token=NjlmNTI3NTBfZDIzOGE4NjRiMTYzN2VjYjczZGEwMjllNjlhYWZkNmI5YjA4NTQ4Y2UwODI5NzQ4NzMxNGRlNzY5NmYwNmI0Yg%3D%3D
-
-#EXTINF:7199 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9225d637-1288-438e-aad4-42d41ba5e9c2/30e87ba0-da5c-4d0e-9cd9-3b16b7c6f3b8/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",משדר מיוחד עם אלי הוכנברג  -  03.04.26 חלק ראשון
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9225d637-1288-438e-aad4-42d41ba5e9c2/10s/master.m3u8?fastly_token=NjlmNTM5MWNfODE0YzMxNDhjYTg5MDNiMjNmMzk2MmE4Njc3MTg3Mzc4NWIwNzIxZTE1NzI2ZjE4NjM3NWJhZjA0Y2IxNjMwYw%3D%3D
 
 #EXTINF:1113 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ab187175-a1ff-4ee4-9e29-7ba5ea5692b7/ea3992fd-ff79-4232-8df8-3b79d465fd80/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",זמן ריפוי, 03.04.26 | תוכן ממומן
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/ab187175-a1ff-4ee4-9e29-7ba5ea5692b7/10s/master.m3u8?fastly_token=NjlmNTE4MWZfZjkzNmM1OWZjMjYzMmEwNDc1M2U3YzRhZmNiMjE4NmRmNDg4YTk5ZDZmZjhhYTNkNjNjNmY5OWMzMGFiNTk5Nw%3D%3D
