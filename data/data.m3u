@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-05 09:26
+# Last updated: 2026-04-05 09:49
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:45 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1023506/poster" group-title="Kan 11 Featured",בואו לאכול איתי - ספיישל פסח | טריילר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2479 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1022105/poster" group-title="Kan 11 Featured",פגישה עם רוני קובן עונה 10 | פרק 18 - לוסי אהריש
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184430/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2182694/LIBCODER
 
 #EXTINF:160 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1003093/poster" group-title="Kan 11 Featured",רבקה מיכאלי  | "באין משפחה"
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170832/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:126 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1002913/poster" group-title="Kan 11 Featured",אמה אלפי | ימי שלישי עם מורי
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2170780/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -595,8 +595,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:2615 tvg-logo="https://img.mako.co.il/2026/02/21/Shabat_Behamesh_210226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 21.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/02/17gidon_full_vtr2_n20260221_v1/17gidon_full_vtr2_n20260221_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:7207 tvg-logo="https://img.mako.co.il/2026/04/05/Nesli_Yoav_050426_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-37 למלחמת שאגת הארי
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22056272/22056272_noAdds/22056272_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:7163 tvg-logo="https://img.mako.co.il/2026/04/05/Nesli_Yoav_050426_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: היום ה-37 למלחמת שאגת הארי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/April/Nesli_Yoav_050426_VOD_skh453/Nesli_Yoav_050426_VOD_skh453_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:9848 tvg-logo="https://img.mako.co.il/2026/04/05/Hadsot_Haboker_050426_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: מלחמת שאגת הארי-היום ה-37
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/April/Hadshot_Haboker_050426_VOD_zfh951/Hadshot_Haboker_050426_VOD_zfh951_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
