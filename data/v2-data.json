@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 06.04.26",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 06.04.26",
+          "ShortDescriptionLine2": "2026-04-06 15:21:19",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024011/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186235/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1024011",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1024011",
+          "Date": "2026-04-06 15:21:19",
+          "Duration": "674"
+        },
+        {
           "Title": "משדר מיוחד עם יונתן אוחיון | 06.04.26 - 14:00",
           "ShortDescriptionLine1": "Special broadcast with Yonatan Ohion 06.04.26 - 14:00",
           "ShortDescriptionLine2": "2026-04-06 14:09:30",
@@ -502,19 +515,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan-news/newstv/p-11894/s1/1023642",
           "Date": "2026-04-05 18:48:41",
           "Duration": "548"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 05.04.26",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 05.04.26",
-          "ShortDescriptionLine2": "2026-04-05 13:10:24",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1023484/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185722/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1023484",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s3/1023484",
-          "Date": "2026-04-05 13:10:24",
-          "Duration": "653"
         },
         {
           "Title": "חדשות השבת | 04.04.26",
@@ -3158,16 +3158,29 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
-          "Title": "משדר מיוחד עם סיריל עמר  -  06.04.26 חלק שני ",
-          "StreamerId": "6392641137112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0d82889e-65ea-4949-85c5-199d6b03e764/370aa727-df47-40f4-8713-78b8a4d060c0/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392641137112",
-          "Date": "2026-04-06T14:52:01Z",
-          "Duration": 3613,
-          "ShortDescriptionLine1": "Special transmitter with Cyril Amr - 06.04.26 part two",
-          "ShortDescriptionLine2": "2026-04-06T14:52:01Z",
+          "Title": "משדר מיוחד עם נדב אלימלך  - 06.04.24 חלק שני",
+          "StreamerId": "6392641258112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/343bd143-2730-4ef4-8218-43493cd8b639/1fe62f07-d6ac-4a0b-be24-657bff6b0a50/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392641258112",
+          "Date": "2026-04-06T14:58:44Z",
+          "Duration": 6551,
+          "ShortDescriptionLine1": "Special broadcaster with Nadav Elimelech - 04.06.24 part two",
+          "ShortDescriptionLine2": "2026-04-06T14:58:44Z",
           "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0d82889e-65ea-4949-85c5-199d6b03e764/10s/master.m3u8?fastly_token=NjlmOGNhMGZfNGEyZjdlYjMwNjExZWM0NjIzYWJmMzQyYjc4ODlhN2RjNzE4NmFjZWVhNTQ5MzMxMDQyNmM2YzEyYTU0MGM2ZQ%3D%3D"
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/343bd143-2730-4ef4-8218-43493cd8b639/10s/master.m3u8?fastly_token=NjlmOGRmMmRfNTE0OWNlZjg2MDAzNWI4NDI1MDk3Y2FkYTVjNWVjM2E1YzhmM2IwNmE0MzMxYWQ0NjZhYTE1YjcyZTQzZDdiMw%3D%3D"
+          ]
+        },
+        {
+          "Title": "משדר מיוחד עם נדב אלימלך  - 06.04.26 חלק ראשון ",
+          "StreamerId": "6392642739112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b95d3043-fd0c-4105-8be2-930d64c5cc1a/85e03c45-a563-4a3a-ae62-ef86a6ba24cd/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392642739112",
+          "Date": "2026-04-06T14:55:48Z",
+          "Duration": 3641,
+          "ShortDescriptionLine1": "Special broadcast with Nadav Elimelech - 04.06.26, first part",
+          "ShortDescriptionLine2": "2026-04-06T14:55:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b95d3043-fd0c-4105-8be2-930d64c5cc1a/10s/master.m3u8?fastly_token=NjlmOGQxZWVfNGM1N2Q3MDBhNDAzYzA0YzViNjM3N2QwMTdiODhmMGI2OGYzMWQ4MmQzOWVjNDM5ODE1YzI4ZTM4ZTQ0NzY1OQ%3D%3D"
           ]
         },
         {
@@ -3285,19 +3298,6 @@
           "ShortDescriptionLine2": "2026-04-04T18:43:37Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/95a1fc5b-1fe2-4d5a-b4a9-0e78923da9bb/10s/master.m3u8?fastly_token=NjlmNjZmZjZfODViM2Y4NGJmYzI1OGI4MzBhY2Y4MTY1YmIxZGI2ZjI4YmYxYzNjMTBmYzFiYmY4Y2JjZTFhNGQ5ZTNiOTEzMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "משדר מיוחד עם אלי הוכנברג - 04.04.26",
-          "StreamerId": "6392572945112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/11fea912-cd97-4581-a4f1-3b7826619985/5eb5106c-3058-44fb-9516-aefd970bc6cd/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392572945112",
-          "Date": "2026-04-04T18:33:33Z",
-          "Duration": 3064,
-          "ShortDescriptionLine1": "Special broadcast with Eli Hochenberg - 04.04.26",
-          "ShortDescriptionLine2": "2026-04-04T18:33:33Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/11fea912-cd97-4581-a4f1-3b7826619985/10s/master.m3u8?fastly_token=NjlmNjVjMGJfNWQ0OWM0NWQzNjZkY2FjYzIzMmQ1YjRlN2I5NzVjZDI4ZDRjMmY2NmM4NTBjNDIwOGQ5ZTRkZjYzOTNiYzYxMg%3D%3D"
           ]
         },
         {
