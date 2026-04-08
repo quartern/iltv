@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-08 15:07
+# Last updated: 2026-04-08 15:17
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,11 +109,11 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:7031 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024760/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 08.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186915/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:7981 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024708/poster" group-title="11 News - Latest shows",משדר מיוחד עם איילה חסון | 08.04.26 - 18:00
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186890/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:7457 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024412/poster" group-title="11 News - Latest shows",חדשות החג | 07.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186474/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:5510 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024108/poster" group-title="11 News - Latest shows",חדשות הלילה | 06.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186274/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1216 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1000408/poster" group-title="Kan 11 Featured",מי זאת? עונה 2 | פרק 9 - אמא יודעת הכי טוב
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2168319/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1720 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1021533/poster" group-title="Kan 11 Featured",בואו לאכול איתי - ספיישל פסח | חלק ד' - יוסי שטרית
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184216/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184202/LIBCODER
 
 #EXTINF:45 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1023506/poster" group-title="Kan 11 Featured",בואו לאכול איתי - ספיישל פסח | טריילר
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185729/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2479 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1022105/poster" group-title="Kan 11 Featured",פגישה עם רוני קובן עונה 10 | פרק 18 - לוסי אהריש
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2184430/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -678,6 +678,15 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:4680 tvg-logo="https://img.mako.co.il/2025/05/20/rokdim_im_kochavim4_01_180525_VOD__autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ריקוד הבכורה: חלק 1
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S04/EP/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2423 tvg-logo="https://img.mako.co.il/2025/05/09/Ma_Beemet_Kara_Sham_090525_Ben_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם בן כספית
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2905 tvg-logo="https://img.mako.co.il/2025/05/02/Ma_Beemet_Kara_Sham_020525_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם אברי גלעד
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2367 tvg-logo="https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם ניר דבורי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:605 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_5_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: יש לנו שיר?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
