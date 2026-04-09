@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 09.04.26",
+          "ShortDescriptionLine1": "Tonight's news 09.04.26",
+          "ShortDescriptionLine2": "2026-04-09 21:34:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1025374/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187209/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1025374",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1025374",
+          "Date": "2026-04-09 21:34:29",
+          "Duration": "5454"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 09.04.26",
           "ShortDescriptionLine1": "Evening News | 09.04.26",
           "ShortDescriptionLine2": "2026-04-09 19:53:29",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1025154",
           "Date": "2026-04-09 12:45:33",
           "Duration": "7247"
-        },
-        {
-          "Title": "חדשות הלילה | 08.04.26",
-          "ShortDescriptionLine1": "Tonight's news 08.04.26",
-          "ShortDescriptionLine2": "2026-04-08 22:15:19",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024844/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186924/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1024844",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1024844",
-          "Date": "2026-04-08 22:15:19",
-          "Duration": "6331"
         },
         {
           "Title": "מיליוני צפיות לסרטון המקלט: תושבי הבניין שלא דמיינו שיהפכו למפורסמים",
@@ -669,9 +669,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_g2pcurkh",
           "Date": "2026-04-09 23:56:07",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/kf112-905081665/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4356898/",
           "Duration": 5658,
-          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-04-09 23:56:07",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_g2pcurkh/flavorIds/1_pbdjh92b,1_ccb9czwk,1_47400dwz,1_248hem9y,1_kn8bgj24,1_pwkuvhwi/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב [live]",
-          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב",
+          "Poster": "https://img.mako.co.il/2026/04/09/Doh_Matzav_090426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/22056387/22056387_noAdds/22056387_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/doh_matzav_2026/22056387/22056387_noAdds/22056387_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "9351edb5cf82d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-9351edb5cf82d91027.htm",
           "ShortDescriptionLine2": "Einav Galili and Yaron Avraham summarize the week",
           "Date": "2026-04-09T22:52:47+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report [live]"
+          "Live": false,
+          "Duration": 4010,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report"
         },
         {
           "Title": "נסלי ויואב: הפסקת האש",
