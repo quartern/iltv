@@ -2413,19 +2413,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 09.04.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "שבע עם קרן מרציאנו: 09.04.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "49b806b82c07d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6648e2612942d910/VOD-49b806b82c07d91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-04-09T18:59:49+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.09.26 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 09.04.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22056386/22056386_noAdds/22056386_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/22056386/22056386_noAdds/22056386_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e5b7d9f92b07d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/10b4aa4a0842d910/VOD-e5b7d9f92b07d91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-04-09T17:55:34+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 04.09.26 [live]"
+          "Live": false,
+          "Duration": 3263,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 04.09.26"
         },
         {
           "Title": "חמש עם רפי רשף: 09.04.26",
@@ -2471,21 +2486,6 @@
           "Live": false,
           "Duration": 4494,
           "ShortDescriptionLine1": "The main edition: 08.04.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 06.04.26",
-          "Poster": "https://img.mako.co.il/2026/04/06/Sheva_060426_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/19sheva_vtr2_n20260406_v1/19sheva_vtr2_n20260406_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/04/19sheva_vtr2_n20260406_v1/19sheva_vtr2_n20260406_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "7618a5b2d316d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6648e2612942d910/VOD-7618a5b2d316d91026.htm",
-          "ShortDescriptionLine2": "Vigilance in Israel ahead of Trump's decision",
-          "Date": "2026-04-06T18:57:53+03:00",
-          "Live": false,
-          "Duration": 2173,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.06.26"
         },
         {
           "Title": "חדשות סוף השבוע: 04.04.26",
@@ -3340,19 +3340,6 @@
           ]
         },
         {
-          "Title": "מגזין השבת 04.04.26   ",
-          "StreamerId": "6392571884112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/5942d1e7-938d-40df-931c-e808d03e6659/94248dc6-9fe0-4b1f-89c0-ab8bc1e77bf9/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392571884112",
-          "Date": "2026-04-04T18:45:26Z",
-          "Duration": 6150,
-          "ShortDescriptionLine1": "Shabbat magazine 04.04.26",
-          "ShortDescriptionLine2": "2026-04-04T18:45:26Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/5942d1e7-938d-40df-931c-e808d03e6659/10s/master.m3u8?fastly_token=NjlmNjZiNzNfNzI3NDk0MmJkMmI2Y2ZmNDNiMGFmMDllMjBlZWQ4M2RhYjg4Njc2ZTFjNzQ5ZDg3NzY1M2ZkMTY1M2RhNDFjOQ%3D%3D"
-          ]
-        },
-        {
           "Title": "זמן ריפוי, 03.04.26 | תוכן ממומן",
           "StreamerId": "6392528943112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/ab187175-a1ff-4ee4-9e29-7ba5ea5692b7/ea3992fd-ff79-4232-8df8-3b79d465fd80/320x180/match/image.jpg",
@@ -3441,19 +3428,6 @@
           "ShortDescriptionLine2": "2026-03-29T21:20:42Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2535cf03-7198-40f7-9582-1bc303d112c9/10s/master.m3u8?fastly_token=NjllZWExZTZfNjdmZmI5OTA5YTk1MTk3OWE4NWUxZjdjNWYzODkwZjQwNGQzYWVkYWI2Y2M4YmYzYmZhMTU3YWMzY2ExMmQ2Nw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מגזין השבת, 28.03.26",
-          "StreamerId": "6392030116112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f63f5ad5-8f9f-40b2-9bbf-360d9c5dc2e4/873e5e2a-5223-40ed-bf5a-fa26bedb282c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392030116112",
-          "Date": "2026-03-29T08:03:37Z",
-          "Duration": 6420,
-          "ShortDescriptionLine1": "The Sabbath magazine, 28.03.26",
-          "ShortDescriptionLine2": "2026-03-29T08:03:37Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f63f5ad5-8f9f-40b2-9bbf-360d9c5dc2e4/10s/master.m3u8?fastly_token=NjllZGYwNzRfOTlmMDRiNWNhM2ZhMjRjMDljNzM5OTlkNzk4YjBmOWViMGNkNzFkNmY3ZDVjZDQ4MmUwNDYxMDZlNWI1YTcwOA%3D%3D"
           ]
         },
         {
