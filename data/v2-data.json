@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 09.04.26",
+          "ShortDescriptionLine1": "Evening News | 09.04.26",
+          "ShortDescriptionLine2": "2026-04-09 19:53:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1025310/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187201/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1025310",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1025310",
+          "Date": "2026-04-09 19:53:29",
+          "Duration": "6452"
+        },
+        {
           "Title": "שבע עם איילה חסון | 09.04.26",
           "ShortDescriptionLine1": "Seven with Ayala Hasson | 09.04.26",
           "ShortDescriptionLine2": "2026-04-09 18:01:50",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1024844",
           "Date": "2026-04-08 22:15:19",
           "Duration": "6331"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 08.04.26",
-          "ShortDescriptionLine1": "Evening News | 08.04.26",
-          "ShortDescriptionLine2": "2026-04-08 19:11:12",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024760/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186915/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1024760",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1024760",
-          "Date": "2026-04-08 19:11:12",
-          "Duration": "7031"
         },
         {
           "Title": "מיליוני צפיות לסרטון המקלט: תושבי הבניין שלא דמיינו שיהפכו למפורסמים",
@@ -2583,6 +2583,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "דוח מצב עם עינב וירון: דוח מצב [live]",
+          "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "9351edb5cf82d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-9351edb5cf82d91027.htm",
+          "ShortDescriptionLine2": "Einav Galili and Yaron Avraham summarize the week",
+          "Date": "2026-04-09T22:52:47+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report [live]"
+        },
+        {
           "Title": "נסלי ויואב: הפסקת האש",
           "Poster": "https://img.mako.co.il/2026/04/09/Nesli_Yoav_090426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2671,21 +2686,6 @@
           "Live": false,
           "Duration": 5499,
           "ShortDescriptionLine1": "Ofira Ohana Seri: Cease fire or ground entry?"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: מבצע \"שאגת הארי\" היום ה-27",
-          "Poster": "https://img.mako.co.il/2026/03/26/Doh_Mazav_260326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/March/Doh_Matzav_260326_VOD_kjt537/Doh_Matzav_260326_VOD_kjt537_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Doh_Matzav/2026/March/Doh_Matzav_260326_VOD_kjt537/Doh_Matzav_260326_VOD_kjt537_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "1a04e7e4dc41d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-1a04e7e4dc41d91026.htm",
-          "ShortDescriptionLine2": "The former senior member of the Northern Command breaks his silence",
-          "Date": "2026-03-26T23:15:42+02:00",
-          "Live": false,
-          "Duration": 4986,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Operation \"Roar of Harry\" the 27th day"
         },
         {
           "Title": "עובדה: אבא בבית - עמרי ולישי מירן מדברים אחרי השבי",
