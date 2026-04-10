@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 10.04.26 [live]",
+          "Title": "אולפן שישי: 10.04.26",
           "Poster": "https://img.mako.co.il/2026/04/10/Ulpan_Shishi_100426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/22056398/22056398_noAdds/22056398_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Olpan_shishi/22056398/22056398_noAdds/22056398_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "55a651369d07d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/1cbce2612942d910/VOD-55a651369d07d91026.htm",
           "ShortDescriptionLine2": "Trump presses: a cease-fire in Lebanon - starting on Tuesday",
           "Date": "2026-04-10T19:53:15+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 10.04.26 [live]"
+          "Live": false,
+          "Duration": 7535,
+          "ShortDescriptionLine1": "Studio Friday: 10.04.26"
         },
         {
           "Title": "המהדורה המרכזית: 09.04.26",
