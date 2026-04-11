@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 11.04.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 11.04.26",
+          "Poster": "https://img.mako.co.il/2026/04/11/Hadshot_Sof_Hashavua_110426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/22056426/22056426_noAdds/22056426_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/22056426/22056426_noAdds/22056426_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "2d7294cf1f07d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/9cb1e2612942d910/VOD-2d7294cf1f07d91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The historic talks between the US and Iran",
           "Date": "2026-04-11T19:54:27+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Weekend news: 11.04.26 [live]"
+          "Live": false,
+          "Duration": 5034,
+          "ShortDescriptionLine1": "Weekend news: 11.04.26"
         },
         {
           "Title": "פגוש את העיתונות: 11.04.26",
@@ -3158,6 +3158,45 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המוקדמת, 11.04.26 ",
+          "StreamerId": "6392935514112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3297328f-6739-4699-abfc-29b499992f1d/f3d2a4a3-8aa2-430d-8582-35b919451857/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392935514112",
+          "Date": "2026-04-11T18:20:55Z",
+          "Duration": 7165,
+          "ShortDescriptionLine1": "The early edition, 11.04.26",
+          "ShortDescriptionLine2": "2026-04-11T18:20:55Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3297328f-6739-4699-abfc-29b499992f1d/10s/master.m3u8?fastly_token=NjlmZmE1NDFfOWM3ZDY2YzExZjY5M2NlY2ZmYzY2YTczYjgxNDQ5YmViMTE0MTk0MmU0ZWZjOGMxYjEwYTJmMzFlZDAwYjQxYQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדברים חדשות,11.04.26 חלק ראשון ",
+          "StreamerId": "6392934011112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c8c71960-e046-4480-a844-0808b4a0f56f/ff1d33e8-ba45-4a87-98f5-e34f76c39e32/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392934011112",
+          "Date": "2026-04-11T18:14:52Z",
+          "Duration": 7166,
+          "ShortDescriptionLine1": "Talking news, 11.04.26 first part",
+          "ShortDescriptionLine2": "2026-04-11T18:14:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c8c71960-e046-4480-a844-0808b4a0f56f/10s/master.m3u8?fastly_token=NjlmZmE2NTlfODNlNzI2NDExODRjNmMzMWUxMTczNDdlMmRmNDE0MDY2NDU3ZWRlMmYwNWM1NjIyMzdkZmNhY2UxMGMzNmZkMA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדברים חדשות, 11.04.26 חלק שני ",
+          "StreamerId": "6392935594112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c611b45e-162a-4a47-8798-b0d8cd98c455/098dff94-d152-40b5-9a8a-cd7380215f4d/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392935594112",
+          "Date": "2026-04-11T18:14:11Z",
+          "Duration": 3045,
+          "ShortDescriptionLine1": "Talking news, 11.04.26 part two",
+          "ShortDescriptionLine2": "2026-04-11T18:14:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c611b45e-162a-4a47-8798-b0d8cd98c455/10s/master.m3u8?fastly_token=NjlmZjkzOTVfNTA3ZWY1NmM4ODk1YjEwNGU4YzJmZDVjZWI1NTA1ZWI0NTRiMmFlZDQ1NzEyMmEyOWZjMDZjMDM0NDA2MzFlNg%3D%3D"
+          ]
+        },
+        {
           "Title": "מרקו מורנו על סקר קבינט שישי",
           "StreamerId": "6392917387112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8865203f-3248-4e52-bc75-5400bf3a6a26/43a11f4c-7cfc-44b7-a17d-b213a1a01c40/320x180/match/image.jpg",
@@ -3194,32 +3233,6 @@
           "ShortDescriptionLine2": "2026-04-10T17:11:23Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cd9c8b8e-9c8c-408c-bd88-5cb6412cb642/10s/master.m3u8?fastly_token=NjlmZTQzMDNfNGI3ZTI2NWYwOGY3Mzc5ZDA5MjU1NTZhNGUxOWY5YzhhYmMyODg3Yjg1YjhlMDEyZmVkMmIwNzY4NWJhYjBiZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות 10.04.26 חלק שני",
-          "StreamerId": "6392877185112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/78695aef-2964-4cfb-848c-c9131a1e7d92/7c5278a9-2252-41ea-a845-f56084b40546/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392877185112",
-          "Date": "2026-04-10T17:08:04Z",
-          "Duration": 3037,
-          "ShortDescriptionLine1": "Talking news 10.04.26 part two",
-          "ShortDescriptionLine2": "2026-04-10T17:08:04Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/78695aef-2964-4cfb-848c-c9131a1e7d92/10s/master.m3u8?fastly_token=NjlmZTJmZmZfMDlmYzY2YmVhYTM2ZGQ5M2ZlNTdlZjFiZjkzOWE2MjZlZmRmNjY4ZmQ3MjkwODIxM2Y2ZWM0YjExNDRlYmM2ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות, 10.04.26",
-          "StreamerId": "6392875091112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c85db4f6-e387-4c09-98fb-ff8be4e57b0c/3b90b097-d4d5-414d-bc8a-1abdbb13b3d4/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392875091112",
-          "Date": "2026-04-10T17:04:06Z",
-          "Duration": 7194,
-          "ShortDescriptionLine1": "Talking news, 10.04.26",
-          "ShortDescriptionLine2": "2026-04-10T17:04:06Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c85db4f6-e387-4c09-98fb-ff8be4e57b0c/10s/master.m3u8?fastly_token=NjlmZTQyZjZfNzEwMGM3N2M5ZDZjYjU3MWZlNWUyYjgxNGM5MThiNTFjZGY4YmJmNTkzYjc1ZjhlNzc2YTE4NDI3ZDM3MzBkNA%3D%3D"
           ]
         },
         {
@@ -3324,19 +3337,6 @@
           "ShortDescriptionLine2": "2026-04-08T20:09:11Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/bb87609c-e666-406e-b5d8-8b2304f9d2fe/10s/master.m3u8?fastly_token=NjlmYmM4NDJfNDY1Zjc4NWI1YjE3Y2ZiZjc1MTc0MWE4NjQxNGZmMWUzMDE1OTM3YTY4MTVlYWUzZjdjMGJhZjg2M2Y0MzZhMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המוקדמת, 08.04.26 חלק שני",
-          "StreamerId": "6392758286112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7bc817a-d150-427a-9b6d-444eea471734/2c3e484e-e9d1-426a-bc2e-f6d9afc68480/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6392758286112",
-          "Date": "2026-04-08T17:00:43Z",
-          "Duration": 3023,
-          "ShortDescriptionLine1": "The early edition, 08.04.26 Part Two",
-          "ShortDescriptionLine2": "2026-04-08T17:00:43Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c7bc817a-d150-427a-9b6d-444eea471734/10s/master.m3u8?fastly_token=NjlmYjhlMzNfZmM2MWQ5YTE2NWVjNjYwMzNjMjc5YWExZmJlZGZjYWRhOWVhZWMxY2VjZjlkMmI4MzcwYTUzNzVhNmNhMjM1YQ%3D%3D"
           ]
         },
         {
