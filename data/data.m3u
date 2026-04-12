@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-12 11:53
+# Last updated: 2026-04-12 12:26
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -157,6 +157,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2065070/LIBCODER
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2889 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 12.04.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_d0361io0/flavorIds/1_eeeyuzgg,1_dwb5fh5b,1_4nktvwhp,1_zj07uit4,1_tjpd83uo,1_r19qdyup/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:6194 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg" group-title="13 News - Latest shows",חדשות היום 12.04.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mhx01fcm/flavorIds/1_oml5dtbh,1_a1ho2goz,1_uad9zh1d,1_5uu1nll2,1_fdz0c2gg,1_5nprqh38/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -180,9 +183,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_li8132
 
 #EXTINF:2355 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 09.04.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ymr1y5r7/flavorIds/1_q6yynxwk,1_prwz96bs,1_50p4v5ov,1_zvx5mj4i,1_g8gmfpgi,1_3euq4a04/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:6309 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 09.04.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mro4fpre/flavorIds/1_cf99r5ew,1_ed6v7o7m,1_mza7dgu8,1_veyw4gau,1_sbbq5142,1_vt4zgfjp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:2399 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 27.02.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6vvy3x94/flavorIds/1_7h8zwhol,1_nryxqywq,1_tye68akq,1_hkkgv56a,1_f17jms07/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -562,8 +562,11 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x34las
 #EXTINF:3616 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763673764/uploads/2025/904858592.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 15: מציתי הפחים מדברים
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dqv1pza0/flavorIds/1_bccx9rgp,1_fd1jnfaw,1_3u146k23,1_6kd844ca,1_jasz01h6,1_x5lrnjc0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 12.04.26 [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 12.04.26 [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
+#EXTINF:3067 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 12.04.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22056450/22056450_noAdds/22056450_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2523 tvg-logo="https://img.mako.co.il/2026/04/12/Hamesh_120426_VOD_re_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 12.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22056459/22056459_noAdds/22056459_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -585,9 +588,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:5071 tvg-logo="https://img.mako.co.il/2026/04/09/Mahdura_Merkazit_090426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 09.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/20dani_vtr2_n20260409_v1/20dani_vtr2_n20260409_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2352 tvg-logo="https://img.mako.co.il/2026/04/09/sheva_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 09.04.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/19keren_vtr2_n20260409_v1/19keren_vtr2_n20260409_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5374 tvg-logo="https://img.mako.co.il/2026/04/04/Pgosh_Et_Haitonut_040426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 04.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/18pgosh_vtr2_n20260404_v1/18pgosh_vtr2_n20260404_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
