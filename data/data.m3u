@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-14 13:11
+# Last updated: 2026-04-14 13:21
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:3906 tvg-logo="https://www.kan.org.il/media/zo2hbq51/%d7%9c%d7%99%d7%90%d7%9c%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שבע עם ליאל קייזר ועקיבא נוביק | 14.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3623 tvg-logo="https://www.kan.org.il/media/1kjp2ghe/%d7%a9%d7%a9.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",כאן בשש | 14.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189779/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -126,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189330/LIBCODER
 
 #EXTINF:4463 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1026538/poster" group-title="11 News - Latest shows",חדשות הלילה | 12.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3968 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1026437/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר ושאול אמסטרדמסקי | 12.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188530/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:869 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1026402/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 12.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188483/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -568,7 +568,7 @@ https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls
 #EXTINF:3047 tvg-logo="https://img.mako.co.il/2026/04/14/Sheva_140426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 14.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22056504/22056504_noAdds/22056504_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:3667 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 14.04.26
+#EXTINF:3667 tvg-logo="https://img.mako.co.il/2026/04/14/Shesh_140426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 14.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22056503/22056503_noAdds/22056503_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3617 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 14.04.26
