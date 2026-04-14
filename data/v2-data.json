@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "טקס הנחת הזרים ביד ושם התשפ\"ו - 2026",
+          "ShortDescriptionLine1": "The wreath-laying ceremony at Yad Vashem 2026",
+          "ShortDescriptionLine2": "2026-04-14 08:11:03",
+          "Poster": "https://www.kan.org.il/media/34fl1yq2/1920x1080_4800_hp-2-00_01_01_23still001.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189695/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1028495",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-12385/s1/1028495",
+          "Date": "2026-04-14 08:11:03",
+          "Duration": "805"
+        },
+        {
           "Title": "הטקס הממלכתי מ\"יד ושם\" 2026",
           "ShortDescriptionLine1": "The state ceremony from \"Yad Vashem\" 2026",
           "ShortDescriptionLine2": "2026-04-13 21:09:03",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-783430/s2/1024635",
           "Date": "2026-04-08 19:31:42",
           "Duration": "215"
-        },
-        {
-          "Title": "אחר צהריים של פורענות",
-          "ShortDescriptionLine1": "An afternoon of calamity",
-          "ShortDescriptionLine2": "2026-04-08 19:31:36",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024636/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186853/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1024636",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-783430/s2/1024636",
-          "Date": "2026-04-08 19:31:36",
-          "Duration": "180"
         }
       ]
     },
@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: יום השואה בצל המלחמה [live]",
+          "Title": "נסלי ויואב: יום השואה בצל המלחמה",
           "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22056511/22056511_noAdds/22056511_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/nesli_yoav_2026/22056511/22056511_noAdds/22056511_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "08928ef43227d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-08928ef43227d91026.htm",
           "ShortDescriptionLine2": "Holocaust Remembrance Day and Heroism - the personal stories",
           "Date": "2026-04-14T09:35:23+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Nesli and Yoav: Holocaust Day in the shadow of war [live]"
+          "Live": false,
+          "Duration": 5058,
+          "ShortDescriptionLine1": "Nesli and Yoav: Holocaust Day in the shadow of war"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: יום הזיכרון לשואה ולגבורה",
