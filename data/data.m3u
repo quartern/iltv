@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-15 03:21
+# Last updated: 2026-04-15 03:40
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:40 tvg-logo="https://www.kan.org.il/media/y2bgt22c/hashoptim_promo100_00_05_24.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",השופטים | טריילר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:283 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1028632/poster" group-title="Kan 11 Featured",זהו זה! השירים | עונה 8 - ימי התום
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189761/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187090/LIBCODER
 
 #EXTINF:327 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024906/poster" group-title="Kan 11 Featured",זוג בשחיקה VS האנשים האלה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187089/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:110 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1024903/poster" group-title="Kan 11 Featured",רק בנות – במטבחון
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2187088/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://www.kan.org.il/media/pfkebi30/%d7%90%d7%99%d7%a8%d7%95%d7%95%d7%99%d7%96%d7%99%d7%95%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -595,10 +595,10 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:1798 tvg-logo="https://img.mako.co.il/2026/02/28/Madura_Cheira_280226_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 21.02.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/hamadura_hatzeira/2026/February/Madura_Cheira_280226_VOD_por467/Madura_Cheira_280226_VOD_por467_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: נסלי ויואב [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: השיחות בלבנון [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
 
-#EXTINF:5704 tvg-logo="https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין
+#EXTINF:5704 tvg-logo="https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: היסטוריה בבג"ץ
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22056526/22056526_noAdds/22056526_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2499 tvg-logo="https://img.mako.co.il/2026/04/14/Avri_Sherki_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: איל ציר כהן
