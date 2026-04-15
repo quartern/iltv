@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-15 10:04
+# Last updated: 2026-04-15 10:40
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:2479 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029248/poster" group-title="11 News - Latest shows",העולם היום | 15.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189996/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4475 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029241/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 15.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189991/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -126,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189779/LIBCODER
 
 #EXTINF:4200 tvg-logo="https://www.kan.org.il/media/r3bna2ul/artboard-1.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",בנימיני וגואטה | 14.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189768/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2434 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1028811/poster" group-title="11 News - Latest shows",העולם היום | 14.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189741/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:869 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1026402/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 12.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2188483/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -598,8 +598,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:5010 tvg-logo="https://img.mako.co.il/2026/04/15/Nesli_Yoav_150426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: השיחות בלבנון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22056534/22056534_noAdds/22056534_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:5704 tvg-logo="https://img.mako.co.il/2026/04/15/Hadshot_Haboker_150426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: היסטוריה בבג"ץ
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22056526/22056526_noAdds/22056526_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:7124 tvg-logo="https://img.mako.co.il/2026/04/15/Hadshot_Haboker_150426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: היסטוריה בבג"ץ
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/April/Hadshot_Haboker_150426_VOD_ENR583/Hadshot_Haboker_150426_VOD_ENR583_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2492 tvg-logo="https://img.mako.co.il/2026/04/14/Avri_Sherki_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: איל ציר כהן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_150426_VOD_SNI593/Avri_Sherki_150426_VOD_SNI593_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
