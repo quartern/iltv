@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 16.04.26",
+          "ShortDescriptionLine1": "Seven with Ayala Hasson | 16.04.26",
+          "ShortDescriptionLine2": "2026-04-16 17:14:24",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029749/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190616/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1029749",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11039/1029749",
+          "Date": "2026-04-16 17:14:24",
+          "Duration": "3970"
+        },
+        {
           "Title": "כאן בשש | 16.04.26",
           "ShortDescriptionLine1": "Here at six 16.04.26",
           "ShortDescriptionLine2": "2026-04-16 16:56:09",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11544/1029365",
           "Date": "2026-04-15 19:24:52",
           "Duration": "6470"
-        },
-        {
-          "Title": "שבע עם איילה חסון | 15.04.26",
-          "ShortDescriptionLine1": "Seven with Ayala Hasson | 15.04.26",
-          "ShortDescriptionLine2": "2026-04-15 17:18:49",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029307/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190020/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1029307",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11039/1029307",
-          "Date": "2026-04-15 17:18:49",
-          "Duration": "8003"
         },
         {
           "Title": "העולם היום | 15.04.26",
@@ -665,13 +665,26 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 16.04.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_birj2i1o",
+          "Date": "2026-04-16 19:38:57",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4369238/",
+          "Duration": 2670,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-04-16 19:38:57",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_birj2i1o/flavorIds/1_s79qukfv,1_s04qxmi4,1_4nd5a100,1_girj519j,1_k5jrmb9x,1_08ti5uuw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 16.04.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_em03qw52",
           "Date": "2026-04-16 19:30:02",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/daily-news/episodes/k4btf-905094936/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/610/season/1/4369227/",
           "Duration": 5606,
-          "ShortDescriptionLine1": "Daily News",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-04-16 19:30:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_em03qw52/flavorIds/1_7yhxnjce,1_66n58yus,1_8sjeotw7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -727,19 +740,6 @@
           "ShortDescriptionLine2": "2026-04-15 20:24:33",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_l79q990h/flavorIds/1_250sgty5,1_6zoao8t2,1_6iy7fn5q,1_ugrg8xg9,1_6wcrrijk,1_yk3xv824/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 15.04.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_osy78iuv",
-          "Date": "2026-04-15 19:17:29",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4366922/",
-          "Duration": 2689,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-04-15 19:17:29",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_osy78iuv/flavorIds/1_4o8g8ahn,1_h3avsz5h,1_hxuxhl22,1_a3ukfrqf,1_dqefgdwk,1_5ekr7d95/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2441,6 +2441,21 @@
           "Live": false,
           "Duration": 2123,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 16.04.26"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 16.04.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22056557/22056557_noAdds/22056557_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/six_with/22056557/22056557_noAdds/22056557_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "15aac0466f49d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/10b4aa4a0842d910/VOD-15aac0466f49d91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-04-16T17:55:26+03:00",
+          "Live": false,
+          "Duration": 3009,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 04.16.26"
         },
         {
           "Title": "חמש עם רפי רשף: 16.04.26",
