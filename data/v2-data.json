@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: הצילומים הנעלמים נחשפים [live]",
+          "Title": "עובדה: הצילומים הנעלמים נחשפים",
           "Poster": "https://img.mako.co.il/2026/04/14/Ovda_2026_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/22056564/22056564_noAdds/22056564_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/uvda_2026/22056564/22056564_noAdds/22056564_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b18fedb5cf82d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-b18fedb5cf82d91027.htm",
           "ShortDescriptionLine2": "The lost photographs of the heroes from the oak tree are revealed",
           "Date": "2026-04-16T21:45:36+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Uvda: The Vanishing Footage Revealed [live]"
+          "Live": false,
+          "Duration": 2913,
+          "ShortDescriptionLine1": "Uvda: The Vanishing Footage Revealed"
         },
         {
           "Title": "נסלי ויואב: מבצע אכיפה בכבישים",
@@ -3158,6 +3158,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית, 16.04.26",
+          "StreamerId": "6393245591112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/45bc5dd5-6506-412b-aab9-4eed0ed76f76/86fe7e20-b918-4202-b492-0c4de54df772/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393245591112",
+          "Date": "2026-04-16T19:00:54Z",
+          "Duration": 6347,
+          "ShortDescriptionLine1": "The main edition, 16.04.26",
+          "ShortDescriptionLine2": "2026-04-16T19:00:54Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/45bc5dd5-6506-412b-aab9-4eed0ed76f76/10s/master.m3u8?fastly_token=NmEwNjRhYjJfNTQzNDY3YzQwNjg4MmFmN2FhNjEwZTlkZDE2MjFmY2EyODg5MzM3YzY5MDQ5MmVmN2I1ZjZiYzM4NzUyYWI1ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "מהדורת חמש,16.04.26 ",
           "StreamerId": "6393230350112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7040df05-841f-4a8d-a2a0-1bb27b5d7994/b1efa8e2-5446-4ee8-8a70-b2e4f5110777/320x180/match/image.jpg",
@@ -3285,19 +3298,6 @@
           "ShortDescriptionLine2": "2026-04-14T19:53:24Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/77691037-1423-49a3-8524-3d1bc1a47cc4/10s/master.m3u8?fastly_token=NmEwM2EzYzZfYmYxNjk5ZjEzMDQ4MDhhY2M3N2NiZTI2MjY2ZTM1ODAxYjcwZDI5NDM2ZjI0MzhhZGY2MTFiNTYyNDJlYjdiNw%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 14.04.26",
-          "StreamerId": "6393103391112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/93702f76-3cff-42db-a505-3e08df92be62/55f289a9-200d-47d7-a2be-7df7f702b0a5/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393103391112",
-          "Date": "2026-04-14T18:56:04Z",
-          "Duration": 6036,
-          "ShortDescriptionLine1": "The main edition, 14.04.26",
-          "ShortDescriptionLine2": "2026-04-14T18:56:04Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/93702f76-3cff-42db-a505-3e08df92be62/10s/master.m3u8?fastly_token=NmEwMzlmZjJfOWI5YmVkMDIwNzUxMjc4NWFkNjAxYjgwOTFhNDIxYWY5YzI4M2Y1ZTk4NWQxYWNiNzZkYTM3ZjRmYWI3YzBhYQ%3D%3D"
           ]
         },
         {
