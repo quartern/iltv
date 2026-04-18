@@ -2413,19 +2413,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבת בחמש: 18.04.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "Title": "פגוש את העיתונות: 18.04.26 [live]",
+          "Poster": "https://img.mako.co.il/2022/09/08/PgoshEtHaEitonot_i_re_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "cc7c7fe3f359d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/f021e2612942d910/VOD-cc7c7fe3f359d91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-04-18T17:59:27+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Meet the press: 18.04.26 [live]"
+        },
+        {
+          "Title": "שבת בחמש: 18.04.26",
+          "Poster": "https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/shabat_at_5/22056610/22056610_noAdds/22056610_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/shabat_at_5/22056610/22056610_noAdds/22056610_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "428a7fe3f359d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2026/18efe2612942d910/VOD-428a7fe3f359d91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-04-18T16:59:27+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Saturday at five: 18.04.26 [live]"
+          "Live": false,
+          "Duration": 2439,
+          "ShortDescriptionLine1": "Saturday at five: 18.04.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.04.26",
@@ -2561,21 +2576,6 @@
           "Live": false,
           "Duration": 5606,
           "ShortDescriptionLine1": "Meet the press: 11.04.26"
-        },
-        {
-          "Title": "פגוש את העיתונות: 04.04.26",
-          "Poster": "https://img.mako.co.il/2026/04/04/Pgosh_Et_Haitonut_040426_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/18pgosh_vtr2_n20260404_v1/18pgosh_vtr2_n20260404_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/04/18pgosh_vtr2_n20260404_v1/18pgosh_vtr2_n20260404_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "18561b0098e4d910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/f021e2612942d910/VOD-18561b0098e4d91027.htm",
-          "ShortDescriptionLine2": "The race to find the American navigator",
-          "Date": "2026-04-04T17:59:56+03:00",
-          "Live": false,
-          "Duration": 5374,
-          "ShortDescriptionLine1": "Meet the press: 04.04.26"
         }
       ]
     },
@@ -2586,15 +2586,15 @@
           "Title": "אופירה אוחנה סרי: הפסקת האש בלבנון",
           "Poster": "https://img.mako.co.il/2026/04/17/Ofira_Ohana_Seri_170426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22056588/22056588_noAdds/22056588_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Ofira_Ohana_Seri/22056588/22056588_noAdds/22056588_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/April/Ofira_Ohana_Sery_180426_VOD_sro988/Ofira_Ohana_Sery_180426_VOD_sro988_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Ofira_Ohana_Sery/2026/April/Ofira_Ohana_Sery_180426_VOD_sro988/Ofira_Ohana_Sery_180426_VOD_sro988_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "87e816e8c8c5d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/ofira_ohana_seri-2026/VOD-87e816e8c8c5d91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_ohana_seri-2026/VOD-87e816e8c8c5d91026.htm",
           "ShortDescriptionLine2": "Are we heading for a historic agreement with Lebanon?",
           "Date": "2026-04-17T18:00:20+03:00",
           "Live": false,
-          "Duration": 5272,
+          "Duration": 5120,
           "ShortDescriptionLine1": "Ofira Ohana Seri: The ceasefire in Lebanon"
         },
         {
