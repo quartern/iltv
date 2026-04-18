@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 18.04.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_mnr7gnyq",
+          "Date": "2026-04-18 21:22:13",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4371736/",
+          "Duration": 5018,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-04-18 21:22:13",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mnr7gnyq/flavorIds/1_lozoxm07,1_4nnz4kb0,1_9p401v61,1_0javjvju,1_frmh0hm1,1_dwelnf2m/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שישי 17.04.26 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1763642776/uploads/2025/904857870.webp",
           "StreamerId": "1_4hmrdvw8",
@@ -727,19 +740,6 @@
           "ShortDescriptionLine2": "2026-04-16 21:11:42",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_i9us5vns/flavorIds/1_djzy8mz2,1_mhn3dj0c,1_8aj3jyra,1_84leay4j,1_46wcjtg8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 16.04.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_6yyh2ahy",
-          "Date": "2026-04-16 20:33:44",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4369389/",
-          "Duration": 3172,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-04-16 20:33:44",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6yyh2ahy/flavorIds/1_egrl9rzh,1_utwn2zgk,1_dtj1vt2g,1_mazdwwvb,1_q5c2nv5a,1_bafumk14/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "יהיה טוב - ספיישל | הטנק: הקופסה השחורה נפתחת",
+          "ShortDescriptionLine1": "It will be good - special The tank: The black box opens",
+          "ShortDescriptionLine2": "2026-04-18 18:37:08",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1030363/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191327/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1030363",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-578726/s3/1030363",
+          "Date": "2026-04-18 18:37:08",
+          "Duration": "3285"
+        },
+        {
           "Title": "שאלון קצר עם פבלו רוזנברג",
           "ShortDescriptionLine1": "A short questionnaire with Pablo Rosenberg",
           "ShortDescriptionLine2": "2026-04-17 20:00:50",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-1026304/1026305",
           "Date": "2026-04-13 18:29:12",
           "Duration": "5404"
-        },
-        {
-          "Title": "מה זה היה? עם רועי בר נתן | רבקה מיכאלי",
-          "ShortDescriptionLine1": "what was it With Roi Bar Natan Rebecca Michaeli",
-          "ShortDescriptionLine2": "2026-04-12 19:12:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1025038/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2186228/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1025038",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-897228/s1/1025038",
-          "Date": "2026-04-12 19:12:13",
-          "Duration": "2553"
         }
       ]
     },
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 18.04.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
+          "Title": "חדשות סוף השבוע: 18.04.26",
+          "Poster": "https://img.mako.co.il/2026/04/18/Hadshot_Sof_Hashavua_180426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/22056612/22056612_noAdds/22056612_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Weekend_News/22056612/22056612_noAdds/22056612_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ffdd7fe3f359d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/9cb1e2612942d910/VOD-ffdd7fe3f359d91027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Preparation in Israel and the USA for a return to fighting in Iran",
           "Date": "2026-04-18T19:52:06+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Weekend news: 18.04.26 [live]"
+          "Live": false,
+          "Duration": 4198,
+          "ShortDescriptionLine1": "Weekend news: 18.04.26"
         },
         {
           "Title": "פגוש את העיתונות: 18.04.26",
@@ -3158,6 +3158,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות, 18.04.26 חלק שני",
+          "StreamerId": "6393377586112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/00802f5e-cf4a-48ea-9796-4cbe95de6ef9/cb33db46-7306-4278-ae7a-6ac3643bf377/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393377586112",
+          "Date": "2026-04-18T18:25:39Z",
+          "Duration": 3049,
+          "ShortDescriptionLine1": "Talking news, 18.04.26 part two",
+          "ShortDescriptionLine2": "2026-04-18T18:25:39Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/00802f5e-cf4a-48ea-9796-4cbe95de6ef9/10s/master.m3u8?fastly_token=NmEwOGNiMTBfZjFkYzI1NjRmM2EyOGY3ZTZlZGZmOTNlM2Y5Nzc2NjQxNjJlZDE5M2FlNDgxM2Q0YWVkZTFlNjBhNzMxNWUxZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "קבינט שישי, 17.04.26 חלק שני",
           "StreamerId": "6393316748112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/71000a02-e657-4793-9df6-896f5868a628/12e3eb97-fe38-47f7-8f7e-c8d6e6416935/320x180/match/image.jpg",
@@ -3207,19 +3220,6 @@
           "ShortDescriptionLine2": "2026-04-17T17:34:35Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3a65b45-d919-407f-8666-f3972b6d54bd/10s/master.m3u8?fastly_token=NmEwNzZmOTBfZWY4YTg3MmIxOTQ1ZTE2OTFmODExMjAzZTcwMDQ4NjhhOTA5YzczMjkzNzViOTM4NmU3NDhkNjljNzBkMzE5ZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות, 17.04.26 חלק ראשון",
-          "StreamerId": "6393311761112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4ed58f19-4d6b-416a-9404-9d26500d6e76/6da413cc-b517-4fd3-bf68-eee9c3e41e66/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393311761112",
-          "Date": "2026-04-17T17:34:32Z",
-          "Duration": 7198,
-          "ShortDescriptionLine1": "Talking news, 17.04.26 first part",
-          "ShortDescriptionLine2": "2026-04-17T17:34:32Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4ed58f19-4d6b-416a-9404-9d26500d6e76/10s/master.m3u8?fastly_token=NmEwNzgyYTBfNTkwOTVhNmJlOGRjMTNkYmY1N2FkZWJkYWZhNWI3NmY4MTUxNmM5NGFiNjc3YTUwNDVjMDI3NTdjZjkzMjMxMg%3D%3D"
           ]
         },
         {
