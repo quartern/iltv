@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שלוש עם יונתן אוחיון | 19.04.26",
+          "ShortDescriptionLine1": "Three with Yonatan Ohion 19.04.26",
+          "ShortDescriptionLine2": "2026-04-19 13:58:06",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1030969/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191534/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1030969",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-900232/1030969",
+          "Date": "2026-04-19 13:58:06",
+          "Duration": "4524"
+        },
+        {
           "Title": "חדשות השבת | 18.04.26",
           "ShortDescriptionLine1": "Shabbat news 18.04.26",
           "ShortDescriptionLine2": "2026-04-18 18:50:44",
@@ -593,19 +606,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-12463/s3/1029709",
           "Date": "2026-04-16 15:51:03",
           "Duration": "863"
-        },
-        {
-          "Title": "שלוש עם קרן רפאלי לנץ | 16.04.26",
-          "ShortDescriptionLine1": "Three with the Rafael Lentz Foundation 16.04.26",
-          "ShortDescriptionLine2": "2026-04-16 14:32:54",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029658/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190580/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1029658",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-900232/1029658",
-          "Date": "2026-04-16 14:32:54",
-          "Duration": "5282"
         },
         {
           "Title": "העולם היום | 15.04.26",
@@ -2413,19 +2413,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 19.04.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 19.04.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "83db9e6a644ad910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/1cc3aa4a0842d910/VOD-83db9e6a644ad91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-04-19T16:55:42+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 19.04.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 19.04.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22056625/22056625_noAdds/22056625_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/22056625/22056625_noAdds/22056625_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "042b9e6a644ad910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/1743aa4a0842d910/VOD-042b9e6a644ad91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-04-19T14:59:51+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 19.04.26 [live]"
+          "Live": false,
+          "Duration": 5158,
+          "ShortDescriptionLine1": "Today's edition: 19.04.26"
         },
         {
           "Title": "חדשות סוף השבוע: 18.04.26",
@@ -2546,21 +2561,6 @@
           "Live": false,
           "Duration": 3022,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 04.16.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 16.04.26",
-          "Poster": "https://img.mako.co.il/2026/04/16/Hamesh_160426_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/17yaron_vtr2_n20260416_v1/17yaron_vtr2_n20260416_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/SHORT/CH22_NEWS/2026/04/17yaron_vtr2_n20260416_v1/17yaron_vtr2_n20260416_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ea77f117ce49d910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/1cc3aa4a0842d910/VOD-ea77f117ce49d91027.htm",
-          "ShortDescriptionLine2": "Trump's announcement - and the ceasefire talks in Lebanon",
-          "Date": "2026-04-16T16:55:27+03:00",
-          "Live": false,
-          "Duration": 2288,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 04.16.26"
         },
         {
           "Title": "פגוש את העיתונות: 11.04.26",
