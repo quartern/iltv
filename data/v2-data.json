@@ -2583,34 +2583,49 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
-          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "Title": "נסלי ויואב: השגרה חוזרת לצפון [live]",
+          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "48f98c41c227d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-48f98c41c227d91026.htm",
+          "ShortDescriptionLine2": "After the ceasefire - routine returns to the north",
+          "Date": "2026-04-19T09:34:37+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Nesli and Yoav: The routine returns to the north [live]"
+        },
+        {
+          "Title": "חדשות הבוקר עם ניב רסקין: משבר הורמוז [live]",
+          "Poster": "https://img.mako.co.il/2026/04/19/Hadshot_Haboker_190426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
           ],
           "StreamerId": "af1b8ef43227d910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-af1b8ef43227d91026.htm",
-          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "ShortDescriptionLine2": "Hormuz crisis - is the ceasefire in danger?",
           "Date": "2026-04-19T07:09:52+03:00",
           "Live": true,
           "Duration": 0,
-          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+          "ShortDescriptionLine1": "The morning news with Niv Raskin: Hormuz crisis [live]"
         },
         {
-          "Title": "אברי ושרקי: אברי ושרקי",
+          "Title": "אברי ושרקי: יהונתן אדירי",
           "Poster": "https://img.mako.co.il/2026/04/19/Avri_Sherki_180426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22056613/22056613_noAdds/22056613_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/Avri_Sherki/22056613/22056613_noAdds/22056613_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_180426_VOD_dhk374/Avri_Sherki_180426_VOD_dhk374_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_180426_VOD_dhk374/Avri_Sherki_180426_VOD_dhk374_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "f2a08c41c227d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-f2a08c41c227d91026.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-f2a08c41c227d91026.htm",
+          "ShortDescriptionLine2": "And also-Josh Breiner, Ruh Hashem Gordon, Reuven Zamora",
           "Date": "2026-04-18T23:19:39+03:00",
           "Live": false,
-          "Duration": 2597,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
+          "Duration": 2583,
+          "ShortDescriptionLine1": "Avery and Sharky: Jonathan Adiri"
         },
         {
           "Title": "אופירה אוחנה סרי: הפסקת האש בלבנון",
@@ -2656,21 +2671,6 @@
           "Live": false,
           "Duration": 3468,
           "ShortDescriptionLine1": "Uvda: The Vanishing Footage Revealed"
-        },
-        {
-          "Title": "נסלי ויואב: מבצע אכיפה בכבישים",
-          "Poster": "https://img.mako.co.il/2026/04/16/Nesli_Yoav_160426_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/April/Nesli_Yoav_160426_VOD_kjhn989/Nesli_Yoav_160426_VOD_kjhn989_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Nesli_Yoav/2026/April/Nesli_Yoav_160426_VOD_kjhn989/Nesli_Yoav_160426_VOD_kjhn989_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "44288c41c227d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-44288c41c227d91026.htm",
-          "ShortDescriptionLine2": "The police announced an enforcement operation on the roads",
-          "Date": "2026-04-16T09:35:32+03:00",
-          "Live": false,
-          "Duration": 3306,
-          "ShortDescriptionLine1": "Nesli and Yoav: enforcement operation on the roads"
         },
         {
           "Title": "חשיפה: הסוד של לילי",
