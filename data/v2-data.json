@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: מנגל העצמאות הגדול [live]",
+          "Title": "ארץ נהדרת: מנגל העצמאות הגדול",
           "Poster": "https://img.mako.co.il/2025/12/24/Eretz2026_X5_re_autoOrient_i_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/eretz_s23/22056702/22056702_noAdds/22056702_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/eretz_s23/22056702/22056702_noAdds/22056702_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c8bc22896cffc910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s23/VOD-c8bc22896cffc91027.htm",
           "ShortDescriptionLine2": "A wonderful country ends its season with a festive Independence Day barbecue",
           "Date": "2026-04-22T21:36:29+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: The great independence barbecue [live]"
+          "Live": false,
+          "Duration": 3751,
+          "ShortDescriptionLine1": "Eretz Nehederet: The great independence barbecue"
         },
         {
           "Title": "נסלי ויואב: יום הזיכרון 2026",
@@ -3158,6 +3158,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית,22.04.26 ",
+          "StreamerId": "6393653228112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cad3a5a2-fdaf-4e31-b1c3-5603788f49d5/4648e255-d1f3-439e-a53c-9bd331818392/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393653228112",
+          "Date": "2026-04-22T19:26:19Z",
+          "Duration": 5981,
+          "ShortDescriptionLine1": "The main edition, 22.04.26",
+          "ShortDescriptionLine2": "2026-04-22T19:26:19Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cad3a5a2-fdaf-4e31-b1c3-5603788f49d5/10s/master.m3u8?fastly_token=NmEwZTMwNjBfMmJiMWY0ZDQ5M2E1ODYxMGY1YjJmNWY3YjQwNmNiNDRhN2I4NTM4ZDE2OGUxYWYwM2UwZTgyNWZmYjNhMzEwMQ%3D%3D"
+          ]
+        },
+        {
           "Title": "משדר מיוחד עם אלי הוכנברג  - תאריך 22.04.26   ",
           "StreamerId": "6393639569112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/172efe32-c9cc-44a8-9725-b9624c602e4c/db02a8b7-fa22-43a9-afe6-27351ef9a0ca/320x180/match/image.jpg",
@@ -3220,19 +3233,6 @@
           "ShortDescriptionLine2": "2026-04-22T00:34:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3f5f37e1-7f03-4d9b-9ad4-e3009b284ac0/10s/master.m3u8?fastly_token=NmEwZDE2ZjZfZGE0NTE0MmYwMjU0ZGQ2YTg0ODQ1ODBmNzQ1ZjBjZmNkZGUwNDcyNzI3NzRmMDdiODdkNWVkNmRlY2Y0M2Q4NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית,20.04.26  ",
-          "StreamerId": "6393493666112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8626b47d-c69b-46bc-be71-af8a320308d1/5d36a109-57bf-4ae3-9256-ed9cf34f122b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393493666112",
-          "Date": "2026-04-20T18:01:29Z",
-          "Duration": 3507,
-          "ShortDescriptionLine1": "The main edition, 20.04.26",
-          "ShortDescriptionLine2": "2026-04-20T18:01:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8626b47d-c69b-46bc-be71-af8a320308d1/10s/master.m3u8?fastly_token=NmEwYjZjNGNfYWJhZWQ4ODEwN2E0NjA2MWZkMGVhNTc2NGExM2Y1YTNlMDE4ZmNhZGMyNGI4MDdhMGJlYzZiYTllNzZmOWI2ZA%3D%3D"
           ]
         },
         {
