@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-23 11:19
+# Last updated: 2026-04-23 11:54
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4211 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032589/poster" group-title="11 News - Latest shows",חן ליברמן וישי שנרב | 23.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192975/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4485 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032565/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 23.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192953/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -120,9 +123,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192786/LIBCODER
 
 #EXTINF:4812 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031872/poster" group-title="11 News - Latest shows",כאן בשש | 21.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192283/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:4500 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031867/poster" group-title="11 News - Latest shows",בנימיני ומזל מועלם | 21.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192266/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:862 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031539/poster" group-title="11 News - Latest shows","תדאגו שיהיה לי ילדים": ההורים שנאבקים להביא נכד מהבן שנפל
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192064/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -712,6 +712,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3832 tvg-logo="https://house-fastly-signed-eu-west-1-prod.brightcovecdn.com/image/v1/static/5377161796001/718b52b0-a4f3-4cdb-ae07-6a1dbde873e9/c5f798a5-fc41-4f4f-83ab-96a6d49a0152/320x180/match/image.jpg?fastly_token=NmEwZjM3MGRfNWNlYzcyYTRiNTc3YTJjYWI5ZDc1N2FkZjZlNmJiNzcwNjMzOGY3MjM0ODZhODI4YjVkY2ZkMTRhYmNmNjFkMV9odHRwczovL2hvdXNlLWZhc3RseS1zaWduZWQtZXUtd2VzdC0xLXByb2QuYnJpZ2h0Y292ZWNkbi5jb20vaW1hZ2UvdjEvc3RhdGljLzUzNzcxNjE3OTYwMDEvNzE4YjUyYjAtYTRmMy00Y2RiLWFlMDctNmExZGJkZTg3M2U5L2M1Zjc5OGE1LWZjNDEtNGY0Zi04M2FiLTk2YTZkNDlhMDE1Mi8xMjgweDcyMC9tYXRjaC9pbWFnZS5qcGc%3D" group-title="i24 Hebrew - Latest shows",מהדורת חמש, 23.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/718b52b0-a4f3-4cdb-ae07-6a1dbde873e9/10s/master.m3u8?fastly_token=NmEwZjM3NDFfMDZjNzY4ODI2OWE0NjkxNTEyMmRlZWM1MjA4NWU1NjVhNDNmMTY4N2NhNDY1YThmOWZiMDhmMzcxM2Q2MWRiNw%3D%3D
 
+#EXTINF:6602 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/91d6e891-22e6-4673-a4f8-307fab0125f8/cfb7a08a-e5ba-41b5-9d49-764b29af3f9b/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15, 23.04.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/91d6e891-22e6-4673-a4f8-307fab0125f8/10s/master.m3u8?fastly_token=NmEwZjRjMGNfM2Y2Yjc4MDViZmE4ZDRhNTQ1MzE1NWNlNzA3N2FkZDlhOGMxZjIxNTZjZjgwODIwZjc0NGEyMDI1M2Q0YjU0Zg%3D%3D
+
 #EXTINF:3688 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/0a387a65-bb90-4983-95ee-94dd4402ec51/6ba5182d-0861-407e-9525-e2e016024588/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע, 22.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/0a387a65-bb90-4983-95ee-94dd4402ec51/10s/master.m3u8?fastly_token=NmEwZTJjY2FfMWY1OGZmMTVjM2YyOWE4MWU1ZjRiMTVjNjFlYjAxMTYyMzgyYzg1Zjc5Yzg2NTY4NGU4NmExYWM2YTViYzljZQ%3D%3D
 
@@ -744,9 +747,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/83d04b
 
 #EXTINF:3932 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/842568b8-ce0f-42d8-b009-c794b3ad02e1/48379476-1ae2-45cf-991f-3321ca018893/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע, 19.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/842568b8-ce0f-42d8-b009-c794b3ad02e1/10s/master.m3u8?fastly_token=NmEwYTBjMThfYjc3OWFlMjY1MjM2YzA0ZmQ0MDJlY2JkNGMzOGRhM2MwYjM2ZDE0NzJlMWRlYzliYzg5MTI3MDA3NTNkNzk5Mg%3D%3D
-
-#EXTINF:6585 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9185f8a0-9ccb-474a-9a79-ad24a0781ae3/1ff4247f-b842-4aaf-8b3a-0f5b42140b71/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15, 19.04.26
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9185f8a0-9ccb-474a-9a79-ad24a0781ae3/10s/master.m3u8?fastly_token=NmEwOWZkZmFfMTE3Y2FkMTZmZjg0ODI5MmNjN2RhYTFkZWMzOThiN2M5ZWNmZDQxZTgzZTIxM2VjMTI3NThmOTk5ODk3ZTI0OA%3D%3D
 
 #EXTINF:7 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/90c726af-0c4a-4518-b23c-66696bdbffa2/2340f791-4369-45d6-aeb4-7dfeb157e3ad/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 16.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/90c726af-0c4a-4518-b23c-66696bdbffa2/10s/master.m3u8?fastly_token=NmEwOWExMDJfOTI4N2YxMDkzNjA4ZTM3OGRkMzAxM2UwOGVlOWVlYzNkNDA2ZTdiOTg5Mjc0ZDVmZDgwMWZkNWRjNDBlMjEzZQ%3D%3D
