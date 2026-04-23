@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "משדר מיוחד | סערה בדיון בבג\"ץ על ועדת החקירה לאירועי 7.10.23",
+          "ShortDescriptionLine1": "special broadcast Turmoil at the High Court hearing on the investigation committee for the events of 7.10.23",
+          "ShortDescriptionLine2": "2026-04-23 12:18:38",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032482/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192928/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1032482",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-670610/1032482",
+          "Date": "2026-04-23 12:18:38",
+          "Duration": "7176"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 22.04.26",
           "ShortDescriptionLine1": "Evening News | 22.04.26",
           "ShortDescriptionLine2": "2026-04-22 19:21:34",
@@ -463,19 +476,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11544/1032260",
           "Date": "2026-04-22 19:21:34",
           "Duration": "7923"
-        },
-        {
-          "Title": "משדר מיוחד עם אנה פינס | 22.04.26",
-          "ShortDescriptionLine1": "Special broadcast with Anna Pines 22.04.26",
-          "ShortDescriptionLine2": "2026-04-22 07:42:32",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032070/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192712/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1032070",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-670610/1032070",
-          "Date": "2026-04-22 07:42:32",
-          "Duration": "1817"
         },
         {
           "Title": "כאן בשש | 21.04.26",
@@ -2413,6 +2413,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 23.04.26 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "6d74e677c59bd910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/1743aa4a0842d910/VOD-6d74e677c59bd91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-04-23T14:59:45+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Today's edition: 23.04.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 22.04.26",
           "Poster": "https://img.mako.co.il/2026/04/22/Mahadura_Merkazit_220426_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2456,21 +2471,6 @@
           "Live": false,
           "Duration": 3490,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 21.04.26"
-        },
-        {
-          "Title": "מהדורת היום: 21.04.26",
-          "Poster": "https://img.mako.co.il/2026/04/21/Mahadurat_Hayom_210426_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2026/April/Mahadurat_Hayom_210426_VOD_KSB463/Mahadurat_Hayom_210426_VOD_KSB463_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2026/April/Mahadurat_Hayom_210426_VOD_KSB463/Mahadurat_Hayom_210426_VOD_KSB463_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "8408730e68ead910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/early_edition-2026/1743aa4a0842d910/VOD-8408730e68ead91027.htm",
-          "ShortDescriptionLine2": "Israel unites with the memory of the fallen",
-          "Date": "2026-04-21T15:00:06+03:00",
-          "Live": false,
-          "Duration": 6746,
-          "ShortDescriptionLine1": "Today's edition: 21.04.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 19.04.26",
