@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-24 11:54
+# Last updated: 2026-04-24 12:04
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:2486 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032441/poster" group-title="Kan 11 Featured",שום פלפל ושמן זית 2026 | פרק 4 - איתי לוי 
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192916/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:8272 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032790/poster" group-title="Kan 11 Featured",אגן הים התיכון עם ורד יפתחי גרין - 24.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192206/LIBCODER
 
 #EXTINF:1160 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031326/poster" group-title="Kan 11 Featured",מי שהיו נערים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192001/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3357 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031531/poster" group-title="Kan 11 Featured",טקס יום הזיכרון מרחבת הכותל המערבי | 20.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192052/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -600,6 +600,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3632 tvg-logo="https://img.mako.co.il/2026/04/23/Nesli_Yoav_230426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: הקרב על ועדת חקירה ממלכתית
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/April/Nesli_Yoav_230426_VOD_ruy94/Nesli_Yoav_230426_VOD_ruy94_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:6950 tvg-logo="https://img.mako.co.il/2026/04/23/Hadshot_Haboker_230426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: מכת הפרוטקשן בצפון
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/April/Hadshot_Haboker_230426_VOD_xwq23/Hadshot_Haboker_230426_VOD_xwq23_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2761 tvg-logo="https://img.mako.co.il/2026/04/22/Avri_Sherki_220426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_220426_VOD_nnhd84/Avri_Sherki_220426_VOD_nnhd84_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
