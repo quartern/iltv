@@ -2583,6 +2583,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "ac880bbd7d58d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-ac880bbd7d58d91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-04-25T23:26:49+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "דוח מצב עם עינב וירון: ההפרות מצד איראן",
           "Poster": "https://img.mako.co.il/2026/04/23/Doh_Mazav_230426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2626,21 +2641,6 @@
           "Live": false,
           "Duration": 6950,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the protectionist strike in the north"
-        },
-        {
-          "Title": "אברי ושרקי: הרב אייל ציונוב",
-          "Poster": "https://img.mako.co.il/2026/04/22/Avri_Sherki_220426_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_220426_VOD_nnhd84/Avri_Sherki_220426_VOD_nnhd84_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_220426_VOD_nnhd84/Avri_Sherki_220426_VOD_nnhd84_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "ece16da30d58d910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-ece16da30d58d91027.htm",
-          "ShortDescriptionLine2": "And also: Merav Leshem Gonen, Jacky Levy, Lior Suchard",
-          "Date": "2026-04-22T23:00:09+03:00",
-          "Live": false,
-          "Duration": 2761,
-          "ShortDescriptionLine1": "Avery and Sharky: Rabbi Eyal Tsionov"
         },
         {
           "Title": "ארץ נהדרת: מנגל העצמאות הגדול",
@@ -3158,6 +3158,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 25.04.26",
+          "StreamerId": "6393884592112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b55a049b-f89a-43c5-b127-7f11601ec1e1/7746809c-0602-46b5-9f61-56977fa9f101/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393884592112",
+          "Date": "2026-04-25T20:16:12Z",
+          "Duration": 4502,
+          "ShortDescriptionLine1": "The Israelis, 25.04.26",
+          "ShortDescriptionLine2": "2026-04-25T20:16:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b55a049b-f89a-43c5-b127-7f11601ec1e1/10s/master.m3u8?fastly_token=NmExMjI4ZmRfODgyY2RkYmYxZWZkZGUxZjg5YjgzMzQ0ZjI4ZjdiZDdiODA4MzJkZmU1ZjE4YTdlNGI3M2QxNGEwZGI4ZDIwYQ%3D%3D"
+          ]
+        },
+        {
           "Title": "מגזין השבת, 25.04.26",
           "StreamerId": "6393880415112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/40d1d9e9-64a2-48f7-94d7-73b4140b5e62/951b2c7c-5786-47d5-ad4a-6f0da34058e6/320x180/match/image.jpg",
@@ -3441,19 +3454,6 @@
           "ShortDescriptionLine2": "2026-04-19T20:22:07Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/83d04b86-4c05-4b85-bd9d-42356632fbc0/10s/master.m3u8?fastly_token=NmEwYTM4NDRfZDY2MjM0NTVhYmQxMzRlNjllNzRiMzBmNTk2NThmY2YyM2EwYTZlNzc1YWJlMjM4OTM2MjZhYWU2YmUxMjQ2Mw%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים, 18.04.26",
-          "StreamerId": "6393380693112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6c47f21b-d9da-4e75-92a0-48e221844c3b/9da051e0-60da-42b4-967f-28045717ce63/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393380693112",
-          "Date": "2026-04-18T20:39:11Z",
-          "Duration": 5033,
-          "ShortDescriptionLine1": "The Israelis, 18.04.26",
-          "ShortDescriptionLine2": "2026-04-18T20:39:11Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6c47f21b-d9da-4e75-92a0-48e221844c3b/10s/master.m3u8?fastly_token=NmEwOGY3MDZfZjkzMzVhNWVhM2EyYzQ4YWZhZGU2MTQxYTBhMGQ3ODEzOTMyZmZlMTE3MDc0NDg1M2QxZDc0YzJlMWNiYWY5Nw%3D%3D"
           ]
         },
         {
