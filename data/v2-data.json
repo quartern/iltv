@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 26.04.26",
+          "ShortDescriptionLine1": "The world today 26.04.26",
+          "ShortDescriptionLine2": "2026-04-26 14:06:00",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033524/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194092/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1033524",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11719/1033524",
+          "Date": "2026-04-26 14:06:00",
+          "Duration": "4148"
+        },
+        {
           "Title": "שלוש עם יונתן אוחיון | 26.04.26",
           "ShortDescriptionLine1": "Three with Yonatan Ohion 26.04.26",
           "ShortDescriptionLine2": "2026-04-26 13:19:00",
@@ -619,19 +632,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan-news/newstv/p-11894/s1/1031539",
           "Date": "2026-04-21 05:34:33",
           "Duration": "862"
-        },
-        {
-          "Title": "העולם היום | 19.04.26",
-          "ShortDescriptionLine1": "The world today 19.04.26",
-          "ShortDescriptionLine2": "2026-04-19 14:14:49",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1030981/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191539/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1030981",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11719/1030981",
-          "Date": "2026-04-19 14:14:49",
-          "Duration": "2440"
         },
         {
           "Title": "זמן אמת עונה 9 | פרק 12 - משני תודעה",
@@ -2428,19 +2428,19 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 26.04.26 [live]"
         },
         {
-          "Title": "מהדורת היום: 26.04.26 [live]",
+          "Title": "מהדורת היום: 26.04.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22056789/22056789_noAdds/22056789_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/22056789/22056789_noAdds/22056789_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c959b33d558cd910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/1743aa4a0842d910/VOD-c959b33d558cd91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-04-26T14:59:51+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 26.04.26 [live]"
+          "Live": false,
+          "Duration": 5188,
+          "ShortDescriptionLine1": "Today's edition: 26.04.26"
         },
         {
           "Title": "חדשות סוף השבוע: 25.04.26",
