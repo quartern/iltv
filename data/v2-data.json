@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בהסתורה | פרק 8 - דונלד",
+          "ShortDescriptionLine1": "in secret | Chapter 8 - Donald",
+          "ShortDescriptionLine2": "2026-04-26 18:31:44",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989325/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan989325",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-983439/s1/989325",
+          "Date": "2026-04-26 18:31:44",
+          "Duration": "2771"
+        },
+        {
           "Title": "ועוזריהם | הצצה ",
           "ShortDescriptionLine1": "and their assistants glimpse",
           "ShortDescriptionLine2": "2026-04-26 13:20:53",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-12385/s1/1031949",
           "Date": "2026-04-21 21:06:24",
           "Duration": "9360"
-        },
-        {
-          "Title": "צליל מקומי",
-          "ShortDescriptionLine1": "Local sound",
-          "ShortDescriptionLine2": "2026-04-21 21:00:13",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1017775/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2180784/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1017775",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-1017768/1017775",
-          "Date": "2026-04-21 21:00:13",
-          "Duration": "4371"
         }
       ]
     },
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 26.04.26 [live]",
+          "Title": "המהדורה המרכזית: 26.04.26",
           "Poster": "https://img.mako.co.il/2026/04/26/Mahadura_Merkazit_260426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22056800/22056800_noAdds/22056800_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22056800/22056800_noAdds/22056800_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ce4fb33d558cd910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9ac9e2612942d910/VOD-ce4fb33d558cd91026.htm",
           "ShortDescriptionLine2": "New details about the union between Bennett and Lapid",
           "Date": "2026-04-26T19:51:46+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 26.04.26 [live]"
+          "Live": false,
+          "Duration": 4452,
+          "ShortDescriptionLine1": "The main edition: 26.04.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 26.04.26",
