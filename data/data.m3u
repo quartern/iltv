@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-27 11:41
+# Last updated: 2026-04-27 11:53
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:3607 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034193/poster" group-title="11 News - Latest shows",בנימיני וקרקובסקי | 27.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3000 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034138/poster" group-title="11 News - Latest shows",העולם היום | 27.04.26 
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194330/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -126,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194116/LIBCODER
 
 #EXTINF:3373 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033630/poster" group-title="11 News - Latest shows",כאן בשש | 26.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194106/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:4500 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033612/poster" group-title="11 News - Latest shows",בנימיני וקרקובסקי | 26.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6043 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033100/poster" group-title="11 News - Latest shows",חדשות השבת | 25.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193640/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -606,9 +606,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2899 tvg-logo="https://img.mako.co.il/2026/04/23/Doh_Mazav_230426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: ההפרות מצד איראן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/April/Doh_Matzav_240426_VOD_jsl548/Doh_Matzav_240426_VOD_jsl548_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3708 tvg-logo="https://img.mako.co.il/2026/04/22/Eretz_Nehederet_21_220426_PardesHana_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: מנגל העצמאות הגדול
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_21_230426_VOD_kgf888/Eretz_Nehederet_21_230426_VOD_kgf888_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5120 tvg-logo="https://img.mako.co.il/2026/04/17/Ofira_Ohana_Seri_170426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: הפסקת האש בלבנון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/April/Ofira_Ohana_Sery_180426_VOD_sro988/Ofira_Ohana_Sery_180426_VOD_sro988_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
