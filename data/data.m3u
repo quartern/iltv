@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-28 10:40
+# Last updated: 2026-04-28 11:04
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -562,8 +562,11 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x34las
 #EXTINF:3616 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763673764/uploads/2025/904858592.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 15: מציתי הפחים מדברים
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dqv1pza0/flavorIds/1_bccx9rgp,1_fd1jnfaw,1_3u146k23,1_6kd844ca,1_jasz01h6,1_x5lrnjc0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 28.04.26 [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 28.04.26 [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
+#EXTINF:2439 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 28.04.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22056863/22056863_noAdds/22056863_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5250 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 28.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22056845/22056845_noAdds/22056845_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -573,9 +576,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:2117 tvg-logo="https://img.mako.co.il/2026/04/27/Sheva_270426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 27.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/19keren_vtr2_n20260427_v1/19keren_vtr2_n20260427_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2657 tvg-logo="https://img.mako.co.il/2026/04/27/Shesh_270426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 27.04.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/18six_vtr2_n20260427_v1/18six_vtr2_n20260427_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4612 tvg-logo="https://img.mako.co.il/2026/04/25/Hadshot_Sof_Hashavua_vod_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 25.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/20mahaurafull_vtr2_n20260425_v1/20mahaurafull_vtr2_n20260425_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
@@ -636,9 +636,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3099 tvg-logo="https://img.mako.co.il/2026/03/26/1111_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: משדר מלחמה מיוחד
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/March/Uvda2026_10_190326_VOD_gtft5/Uvda2026_10_190326_VOD_gtft5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3712 tvg-logo="https://img.mako.co.il/2026/03/02/Moadon_Layla9_06_020326_AhavatShem_autoOrient_I_reduced.jpg" group-title="+12 Specials",מועדון לילה: תוכנית מיוחדת
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Moadon_Layla/S09/EP/Moadon_Layla9_06_020326_VOD_fht578/Moadon_Layla9_06_020326_VOD_fht578_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4531 tvg-logo="https://img.mako.co.il/2026/02/26/Uvda2026_09_260226_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: מתן אנגרסט מדבר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_09_260226_VOD_ujk987/Uvda2026_09_260226_VOD_ujk987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
