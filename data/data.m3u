@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-28 10:18
+# Last updated: 2026-04-28 10:40
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:2394 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034641/poster" group-title="11 News - Latest shows",העולם היום | 28.04.26 
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194846/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3911 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034590/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 28.04.26 
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194822/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -129,9 +132,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194352/LIBCODER
 
 #EXTINF:3607 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034193/poster" group-title="11 News - Latest shows",בנימיני וקרקובסקי | 27.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194337/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3000 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034138/poster" group-title="11 News - Latest shows",העולם היום | 27.04.26 
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194330/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6043 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033100/poster" group-title="11 News - Latest shows",חדשות השבת | 25.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193640/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -679,6 +679,15 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:4680 tvg-logo="https://img.mako.co.il/2025/05/20/rokdim_im_kochavim4_01_180525_VOD__autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ריקוד הבכורה: חלק 1
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S04/EP/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:2423 tvg-logo="https://img.mako.co.il/2025/05/09/Ma_Beemet_Kara_Sham_090525_Ben_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם בן כספית
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d/Ma_Beemet_Kara_Sham_03_080525_VOD_c59j4d_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2905 tvg-logo="https://img.mako.co.il/2025/05/02/Ma_Beemet_Kara_Sham_020525_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם אברי גלעד
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as/Ma_Beemet_Kara_Sham_02_020525_VOD_izc7z3as_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2367 tvg-logo="https://img.mako.co.il/2025/04/25/Ma_Beemet_Kara_Sham_250425_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",מה באמת קרה שם?: ארז טל עם ניר דבורי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ma_Beemet_Kara_Sham/S01/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2/Ma_Beemet_Kara_Sham_01_250425_VOD_ok7i7n2_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:605 tvg-logo="https://img.mako.co.il/2026/01/22/TURKI_i_5_autoOrient_I_reduced.jpg" group-title="+12 Specials",טורקי והמשכנו: יש לנו שיר?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Torki_Vehemshachnu/Torki_Vehemshachnu_05_290126_VOD_kgi756/Torki_Vehemshachnu_05_290126_VOD_kgi756_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -700,8 +709,14 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3313 tvg-logo="https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: אמא הודו מעדכנת גרסה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_261_030426_VOD_jfiir455/Bizman_Sheavadetem_261_030426_VOD_jfiir455_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:7182 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/9fb57354-dfe6-43d6-825b-09efa1bf6353/d6d03054-b54d-4b3c-8e2e-e339f76d900c/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 28.04.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9fb57354-dfe6-43d6-825b-09efa1bf6353/10s/master.m3u8?fastly_token=NmExNWQ0ZDhfYzQxMWE1MTBmY2RjZjRmNGJjMzM3ZWM4Yjc0YTc3NTBjMDBiMDNlMzk4ZGVmMTEyZTg0NzBkYzE5MzcxMmMwZQ%3D%3D
+
 #EXTINF:1469 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/db8b2635-80f1-4a9c-889a-6149566e4904/d2713725-7a88-4680-986d-9c72fa26cce4/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",הנדל"ניסטים, 27.04.26 | בשיתוף אלין תקשורת
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/db8b2635-80f1-4a9c-889a-6149566e4904/10s/master.m3u8?fastly_token=NmExNWI1YzFfYmQ3NGU5M2Q1OGMyY2VjMzRjNGIzZGVhNTk2NjhhNDM0YWQ4MDRmM2VmZmE4YjhhOTQyOTUzZmE0ZTc1MDM5ZQ%3D%3D
+
+#EXTINF:7197 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b14a888a-8ff2-41f9-ae6c-dc403db5c527/8ba427c0-b6cf-4c37-abfc-b0b5443e0aa9/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 26.04.26
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b14a888a-8ff2-41f9-ae6c-dc403db5c527/10s/master.m3u8?fastly_token=NmExNWQ0ZWVfZDhkZjdlNjQzN2YwNmQ2ZWI4NjNlNGQ1Y2EyOWI5MmYxYmY1MjlhMDM1OGY1ZjJlMDRhZmRmZWY4MjRkNmM0Ng%3D%3D
 
 #EXTINF:4519 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4b830b34-1b61-4441-9f66-1d6a350f60c7/0158eb10-ae4c-4ed5-b0df-84143f173120/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",הישראלים ,27.04.26 
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4b830b34-1b61-4441-9f66-1d6a350f60c7/10s/master.m3u8?fastly_token=NmExNGM3ZTJfNjBkMzg5OGRkMDJiNGE0ZThmMDhmMTk0YjMzNzVmNDQ2ZmE3MGYzODk4Y2Q4NzU4N2IxNTVjMDllNDhlNDJjOA%3D%3D
@@ -720,9 +735,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d7dfd0
 
 #EXTINF:3827 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/63016210-4ad1-4e57-b9fc-76d0a1f89121/9a939b33-5240-4f46-8488-15edd9d66d6f/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש, 27.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/63016210-4ad1-4e57-b9fc-76d0a1f89121/10s/master.m3u8?fastly_token=NmExNGFmNzBfMTI1MjFmZjRkYmNlYzJkM2JlOGRiMTQxMGI0YTI3NDdlNzliY2U2OWVlZTM4YWI3OWY5MWM5MTQzNWNkMTRmNA%3D%3D
-
-#EXTINF:7187 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/dc33ae2c-4602-428b-904d-5c5fe82acd50/8aa0df16-1c81-42ad-a4f5-d45818cb648e/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 27.04.26
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/dc33ae2c-4602-428b-904d-5c5fe82acd50/10s/master.m3u8?fastly_token=NmExNGJlYjFfMmQ2Nzg1MTA4OGNhMTZmZmU0OWU5NDk0ZTZjZWVhYmViNzRjOWQ3OTMxNWNmMTBkZWE2ZTExMmRhYjg3MTlkZQ%3D%3D
 
 #EXTINF:5116 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/7b72c8b8-af9d-4e8c-b8fa-2aa0986f4716/22f20522-ba4c-46f9-8812-4d5aefe435bd/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",הישראלים, 26.04.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/7b72c8b8-af9d-4e8c-b8fa-2aa0986f4716/10s/master.m3u8?fastly_token=NmExMzg5MDRfZTA3OWY5NjQzMTQ3MWYxOTdkZGI5ODhlYzZjNjk2Y2NjNjdmZGQ4ZDIyMGVmY2UwY2YwNWVkZDg0OTQwOTNhNg%3D%3D
@@ -759,9 +771,6 @@ https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a2c4f9
 
 #EXTINF:7152 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/30b6cdd5-34cf-4149-82a7-f65a0bad80d1/3fa5cbf7-2d26-45f0-a4c2-e5c996391bc9/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המוקדמת,24.04.26 
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/30b6cdd5-34cf-4149-82a7-f65a0bad80d1/10s/master.m3u8?fastly_token=NmExMGQ3YjRfZDhhMzVmNDcxNDY5ZTZkYzQ3ODVkNTE5NjM5NTRmZTJlYWU3ODU4Mzk3YjcxYTMzOWE4MjhiZDFmZWE5NDA3NA%3D%3D
-
-#EXTINF:3096 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c644d19f-876e-4c10-a7fe-1dc855336eb9/c836648a-6cd6-4db1-8642-43c4f3a667be/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 24.04.26 חלק שני
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c644d19f-876e-4c10-a7fe-1dc855336eb9/10s/master.m3u8?fastly_token=NmExMmNlZGRfMWNmOGNlNWU5Y2IzYjkwYTBjOWM4NjZjNjFhZGU1NTk2MzBlZmFiZTY1MGQ5NDdjZmQ1MDE5ODUyMmFhOTI2ZQ%3D%3D
 
 #EXTINF:1480 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4185d9df-dc9c-43e2-a697-9819981c5176/cb524b79-4c39-40a3-8b15-dc3c1840d8eb/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",זמן ריפוי, 24.04.26  | תוכן ממומן
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4185d9df-dc9c-43e2-a697-9819981c5176/10s/master.m3u8?fastly_token=NmExMGZmZGNfYjUwNjhmZDc5ZDNjYTYxOTE0YTc5ODVmNWYxMzg4YjdjMDgxMTIyNzA3MDM1NDk0N2QxNjUzNTFlZTcwZGNhNQ%3D%3D
