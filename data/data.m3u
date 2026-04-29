@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-29 16:25
+# Last updated: 2026-04-29 16:37
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:7250 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1035485/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 29.04.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195339/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2769 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1035498/poster" group-title="11 News - Latest shows",חדשות הלילה | 29.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195346/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -126,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195277/LIBCODER
 
 #EXTINF:4529 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1035346/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 29.04.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195257/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:6671 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034772/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 28.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194909/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:4072 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034242/poster" group-title="11 News - Latest shows",זמן אמת עונה 10 | פרק 1 - קולות צורמים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194364/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -610,11 +610,17 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3708 tvg-logo="https://img.mako.co.il/2026/04/22/Eretz_Nehederet_21_220426_PardesHana_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: מנגל העצמאות הגדול
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_21_230426_VOD_kgf888/Eretz_Nehederet_21_230426_VOD_kgf888_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:5120 tvg-logo="https://img.mako.co.il/2026/04/17/Ofira_Ohana_Seri_170426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: הפסקת האש בלבנון
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/April/Ofira_Ohana_Sery_180426_VOD_sro988/Ofira_Ohana_Sery_180426_VOD_sro988_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:3468 tvg-logo="https://img.mako.co.il/2026/04/16/Uvda2026_12_160426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: הצילומים הנעלמים נחשפים
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/April/Uvda2026_12_160426_VOD_sfg987/Uvda2026_12_160426_VOD_sfg987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3176 tvg-logo="https://img.mako.co.il/2026/04/13/Hassifa6_4_130426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: הסוד של לילי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hassifa6_04_140426_VOD_asd547/Hassifa6_04_140426_VOD_asd547_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:5969 tvg-logo="https://img.mako.co.il/2026/04/10/Ofira_Ohana_Seri_100426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: בדרך להסכם או חידוש המלחמה?
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/April/Ofira_Ohana_Sery_100426_VOD_huy657/Ofira_Ohana_Sery_100426_VOD_huy657_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4082 tvg-logo="https://img.mako.co.il/2026/03/30/Reset_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: פרק הסיום
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_08_300326_VOD_yg766/Reset_08_300326_VOD_yg766_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
