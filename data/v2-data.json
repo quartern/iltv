@@ -669,9 +669,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_sesujty6",
           "Date": "2026-04-29 21:03:26",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/szm8b-905121722/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4389725/",
           "Duration": 2064,
-          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-04-29 21:03:26",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sesujty6/flavorIds/1_ha506nv4,1_trzjnr2a,1_1t4vss4n,1_f65g89pd,1_4s5bkrdd,1_5v9gzdjl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "בהסתורה | פרק 9 - יוסי זוכמיר",
+          "ShortDescriptionLine1": "in secret | Chapter 9 - Yossi Zochmir",
+          "ShortDescriptionLine2": "2026-04-29 18:41:04",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989327/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2067577/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan989327",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-983439/s1/989327",
+          "Date": "2026-04-29 18:41:04",
+          "Duration": "2868"
+        },
+        {
           "Title": "השופטים | פרק 3 - בעין הסערה",
           "ShortDescriptionLine1": "The judges Chapter 3 - In the eye of the storm",
           "ShortDescriptionLine2": "2026-04-28 19:15:23",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-1026927/s1/1031332",
           "Date": "2026-04-23 19:16:31",
           "Duration": "2900"
-        },
-        {
-          "Title": "זהו זה! עונה 8 | פרק 22 - 23.04.26 ",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 22 - 23.04.26",
-          "ShortDescriptionLine2": "2026-04-23 18:37:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032571/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1032571",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-12002/s8/1032571",
-          "Date": "2026-04-23 18:37:43",
-          "Duration": "2185"
         }
       ]
     },
@@ -2414,14 +2414,14 @@
       "Items": [
         {
           "Title": "המהדורה המרכזית: 29.04.26",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/04/29/Mahadura_Merkazit_290426_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22056886/22056886_noAdds/22056886_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22056886/22056886_noAdds/22056886_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22056886/22056886_noAdds/22056886_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22056886/22056886_noAdds/22056886_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "e5de53a63d7dd910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9ac9e2612942d910/VOD-e5de53a63d7dd91026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "First interview with Bennett after the union",
           "Date": "2026-04-29T19:52:41+03:00",
           "Live": false,
           "Duration": 4264,
