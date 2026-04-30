@@ -665,13 +665,26 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מצעד הטרלול: מרדכי דוד, הערוץ הלבנוני - וניר ברקת",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1678902948/uploads/2023/903463848.jpg",
+          "StreamerId": "1_xazd606b",
+          "Date": "2026-04-30 21:24:34",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/cj4rc-905123544/",
+          "Duration": 256,
+          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine2": "2026-04-30 21:24:34",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xazd606b/flavorIds/1_b6abwbu6,1_cxfpt5zs,1_mwc4nyq6,1_xjaxy6hk,1_1lr38zld,1_qmg5v0kh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "מוריה וברקו 30.04.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_5u7x0jb6",
           "Date": "2026-04-30 20:39:35",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/moriah-berko/episodes/utmfv-905123517/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4389895/",
           "Duration": 3085,
-          "ShortDescriptionLine1": "Moriah Berko",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-04-30 20:39:35",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5u7x0jb6/flavorIds/1_uyr8x5ex,1_nwerpdlv,1_4z4zgs1h,1_6xbd35g5,1_s4uoaa1w,1_1o480391/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -727,19 +740,6 @@
           "ShortDescriptionLine2": "2026-04-29 22:51:40",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mzdbeu4h/flavorIds/1_xtuqpi2b,1_hh63rzt3,1_e1mmg17g,1_nnl1qtl0,1_sjucg6pa,1_s2fpyhsv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "אזור בחירה 29.04.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
-          "StreamerId": "1_sesujty6",
-          "Date": "2026-04-29 21:03:26",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4389725/",
-          "Duration": 2064,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-04-29 21:03:26",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sesujty6/flavorIds/1_ha506nv4,1_trzjnr2a,1_1t4vss4n,1_f65g89pd,1_4s5bkrdd,1_5v9gzdjl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 30.04.26 [live]",
+          "Title": "המהדורה המרכזית: 30.04.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22056912/22056912_noAdds/22056912_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22056912/22056912_noAdds/22056912_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "56929b2a85add910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9ac9e2612942d910/VOD-56929b2a85add91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-04-30T19:52:51+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 30.04.26 [live]"
+          "Live": false,
+          "Duration": 3779,
+          "ShortDescriptionLine1": "The main edition: 30.04.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 30.04.26",
@@ -2582,6 +2582,21 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "עובדה: \"האתרוג\" פותח  [live]",
+          "Poster": "https://img.mako.co.il/2026/04/14/Ovda_2026_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "baa60217fc08d910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-baa60217fc08d91026.htm",
+          "ShortDescriptionLine2": "The prisoner of the world who framed the head of the crime family, speaks",
+          "Date": "2026-04-30T21:31:00+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Uvda: \"Hatrog\" is opened [live]"
+        },
         {
           "Title": "נסלי ויואב: איום הרחפנים בצפון",
           "Poster": "https://img.mako.co.il/2026/04/30/Nesli_Yoav_300426_VOD_autoOrient_I_reduced.jpg",
@@ -2836,21 +2851,6 @@
           "Live": false,
           "Duration": 4531,
           "ShortDescriptionLine1": "Uvda: Matan Engrest speaks"
-        },
-        {
-          "Title": "עובדה: המבוקשת מאיראן",
-          "Poster": "https://img.mako.co.il/2026/02/19/Uvda2026_08_190226_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d1a76ia0tcdhdu.cloudfront.net/hls/VOD/KESHET/Uvda/2026/February/Uvda2026_08_190226_VOD_fvs865/Uvda2026_08_190226_VOD_fvs865_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a2df5e9ba2d4c910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/uvda-2026/VOD-a2df5e9ba2d4c91026.htm",
-          "ShortDescriptionLine2": "Itai Engel meets the number 1 wanted girl in Tehran",
-          "Date": "2026-02-19T21:26:55+02:00",
-          "Live": false,
-          "Duration": 4211,
-          "ShortDescriptionLine1": "Uvda: wanted from Iran"
         },
         {
           "Title": "נוטוק: הסוף שאף אחד לא דמיין",
