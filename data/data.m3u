@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-04-30 00:07
+# Last updated: 2026-04-30 00:27
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -595,17 +595,20 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:4982 tvg-logo="https://img.mako.co.il/2026/04/18/Pgosh_Et_Haitonot_180426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 18.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/18pgosh_vtr2_n20260418_v1/18pgosh_vtr2_n20260418_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
 #EXTINF:3567 tvg-logo="https://img.mako.co.il/2026/04/30/Bizman_Sheavadetem_300426_VOD_adf963_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: בדרך אל האושר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/bizman_2026/A189271/A189271_noAdds/A189271_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3498 tvg-logo="https://img.mako.co.il/2026/04/29/Nesli_Yoav_290426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: הלוחמים בדרום לבנון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/April/Nesli_Yoav_290426_VOD_dw32/Nesli_Yoav_290426_VOD_dw32_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:7105 tvg-logo="https://img.mako.co.il/2026/04/29/Hadshot_Haboker_290426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: פיצוץ המנהרות של חיזבאללה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/April/Hadshot_Haboker_290426_VOD_AHU382/Hadshot_Haboker_290426_VOD_AHU382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:2544 tvg-logo="https://img.mako.co.il/2026/04/29/Avri_Sherki_280426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: מור דקל
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/April/Avri_Sherki_280426_VOD_AFN382/Avri_Sherki_280426_VOD_AFN382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2899 tvg-logo="https://img.mako.co.il/2026/04/23/Doh_Mazav_230426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: ההפרות מצד איראן
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/April/Doh_Matzav_240426_VOD_jsl548/Doh_Matzav_240426_VOD_jsl548_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3708 tvg-logo="https://img.mako.co.il/2026/04/22/Eretz_Nehederet_21_220426_PardesHana_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: מנגל העצמאות הגדול
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet_21_230426_VOD_kgf888/Eretz_Nehederet_21_230426_VOD_kgf888_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
