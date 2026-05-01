@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר בשישי | 01.05.26",
+          "ShortDescriptionLine1": "Glick and Tamar on Friday 01.05.26",
+          "ShortDescriptionLine2": "2026-05-01 17:11:06",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036143/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195899/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1036143",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-821792/1036143",
+          "Date": "2026-05-01 17:11:06",
+          "Duration": "7528"
+        },
+        {
           "Title": "חדשות הלילה | 30.04.26",
           "ShortDescriptionLine1": "Tonight's news 30.04.26",
           "ShortDescriptionLine2": "2026-04-30 20:52:57",
@@ -606,19 +619,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11668/1032929",
           "Date": "2026-04-24 19:49:48",
           "Duration": "8256"
-        },
-        {
-          "Title": "גליק ותמר בשישי | 24.04.26 ",
-          "ShortDescriptionLine1": "Glick and Tamar on Friday 24.04.26",
-          "ShortDescriptionLine2": "2026-04-24 16:52:21",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032902/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2193452/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1032902",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-821792/1032902",
-          "Date": "2026-04-24 16:52:21",
-          "Duration": "7514"
         },
         {
           "Title": "משדר מיוחד | סערה בדיון בבג\"ץ על ועדת החקירה לאירועי 7.10.23",
@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה אוחנה סרי: שבוע של אלימות שוברת שיאים [live]",
+          "Title": "אופירה אוחנה סרי: שבוע של אלימות שוברת שיאים",
           "Poster": "https://img.mako.co.il/2026/05/01/Ofira_Ohana_Seri_010526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22184894/22184894_noAdds/22184894_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Ofira_Ohana_Seri/22184894/22184894_noAdds/22184894_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "cbd90152d459d910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_ohana_seri-2026/VOD-cbd90152d459d91027.htm",
           "ShortDescriptionLine2": "The former Minister of Internal Security, Amr Bar-Lev, in the studio",
           "Date": "2026-05-01T18:00:22+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Ofira Ohana Seri: A week of record-breaking violence [live]"
+          "Live": false,
+          "Duration": 5578,
+          "ShortDescriptionLine1": "Ofira Ohana Seri: A week of record-breaking violence"
         },
         {
           "Title": "דוח מצב עם עינב וירון: הסכסוך הראשון של בנט ולפיד",
@@ -2656,21 +2656,6 @@
           "Live": false,
           "Duration": 7148,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: A step up in anti-Semitism"
-        },
-        {
-          "Title": "בזמן שעבדתם: בדרך אל האושר",
-          "Poster": "https://img.mako.co.il/2026/04/30/Bizman_Sheavadetem_300426_VOD_adf963_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_263_290426_VOD_SIT593/Bizman_Sheavadetem_263_290426_VOD_SIT593_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_263_290426_VOD_SIT593/Bizman_Sheavadetem_263_290426_VOD_SIT593_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "39e122896cffc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-39e122896cffc91027.htm",
-          "ShortDescriptionLine2": "The surprising data of the World Happiness Report",
-          "Date": "2026-04-30T00:39:14+03:00",
-          "Live": false,
-          "Duration": 3558,
-          "ShortDescriptionLine1": "While you were working: on the way to happiness"
         },
         {
           "Title": "אברי ושרקי: מור דקל",
@@ -2776,21 +2761,6 @@
           "Live": false,
           "Duration": 4196,
           "ShortDescriptionLine1": "Uvda: Father at home - Omri and Lishi Miran talk after the captivity"
-        },
-        {
-          "Title": "בזמן שעבדתם: שובו של המהמר צוקרברג",
-          "Poster": "https://img.mako.co.il/2026/03/25/Bizman_Sheavadetem_262_250326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_262_250326_VOD_adf963/Bizman_Sheavadetem_262_250326_VOD_adf963_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/March/Bizman_Sheavadetem_262_250326_VOD_adf963/Bizman_Sheavadetem_262_250326_VOD_adf963_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c2af726f38cfc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-c2af726f38cfc91027.htm",
-          "ShortDescriptionLine2": "Welcome to the fight for the future of meta",
-          "Date": "2026-03-26T01:01:37+02:00",
-          "Live": false,
-          "Duration": 3617,
-          "ShortDescriptionLine1": "While you were working: The return of the gambler Zuckerberg"
         },
         {
           "Title": "ריסט: עבודת החלומות של גידי",
@@ -3136,21 +3106,6 @@
           "Live": false,
           "Duration": 349,
           "ShortDescriptionLine1": "Turkish and continued: Let it sink in"
-        },
-        {
-          "Title": "בזמן שעבדתם: אמא הודו מעדכנת גרסה",
-          "Poster": "https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_261_030426_VOD_jfiir455/Bizman_Sheavadetem_261_030426_VOD_jfiir455_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_261_030426_VOD_jfiir455/Bizman_Sheavadetem_261_030426_VOD_jfiir455_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a1f3cc888c06c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-a1f3cc888c06c91027.htm",
-          "ShortDescriptionLine2": "The technological revolution that Modi ushered in India",
-          "Date": "",
-          "Live": false,
-          "Duration": 3313,
-          "ShortDescriptionLine1": "While you were working: Mother India is updating version"
         }
       ]
     },
