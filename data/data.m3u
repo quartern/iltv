@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-01 16:05
+# Last updated: 2026-05-01 16:21
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:324 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036129/poster" group-title="Kan 11 Featured",שאלון עם רוני קובן ועקיבא נוביק
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195893/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:342 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036128/poster" group-title="Kan 11 Featured",שאלון קצר עם בת אל מוסרי
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195892/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3240 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036138/poster" group-title="Kan 11 Featured",ערב עם שי שטרן 6 - פרק 15
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195894/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -327,12 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_sjiln4lq/LIBCO
 
 #EXTINF:2771 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan989325/poster" group-title="Kan 11 Featured",בהסתורה | פרק 8 - דונלד
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2073571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:79 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033429/poster" group-title="Kan 11 Featured",ועוזריהם | הצצה 
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194077/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3059 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1029275/poster" group-title="Kan 11 Featured",ועוזריהם | פרק 1 - והיה מחננו טהור
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190002/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -588,6 +588,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:2567 tvg-logo="https://img.mako.co.il/2026/04/25/Shabat_Behamesh_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 25.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/17shabat_vtr2_n20260425_v1/17shabat_vtr2_n20260425_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:1800 tvg-logo="https://img.mako.co.il/2026/04/25/lekettttt_vtr2_n20260424_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 25.04.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/lekettttt_vtr2_n20260424_v1/lekettttt_vtr2_n20260424_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4982 tvg-logo="https://img.mako.co.il/2026/04/18/Pgosh_Et_Haitonot_180426_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 18.04.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/04/18pgosh_vtr2_n20260418_v1/18pgosh_vtr2_n20260418_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
