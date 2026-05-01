@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 01.05.26 [live]",
+          "Title": "אולפן שישי: 01.05.26",
           "Poster": "https://img.mako.co.il/2026/05/01/Ulpan_Shishi_010526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/22184880/22184880_noAdds/22184880_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Olpan_shishi/22184880/22184880_noAdds/22184880_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "993d78e61ecdd910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/8cad1370de8cd910/VOD-993d78e61ecdd91027.htm",
           "ShortDescriptionLine2": "On war and love: the brave interview of Neta Barzilai",
           "Date": "2026-05-01T19:55:54+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 01.05.26 [live]"
+          "Live": false,
+          "Duration": 6181,
+          "ShortDescriptionLine1": "Studio Friday: 01.05.26"
         },
         {
           "Title": "המהדורה המרכזית: 30.04.26",
@@ -3158,6 +3158,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "קבינט שישי, 01.05.26",
+          "StreamerId": "6394359398112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/1060c50a-01cc-4d51-aacd-b535209b4cdc/1440292b-5a73-4f8f-8c20-1f545702bb0e/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394359398112",
+          "Date": "2026-05-01T19:16:57Z",
+          "Duration": 7199,
+          "ShortDescriptionLine1": "Cabinet Friday, 01.05.26",
+          "ShortDescriptionLine2": "2026-05-01T19:16:57Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/1060c50a-01cc-4d51-aacd-b535209b4cdc/10s/master.m3u8?fastly_token=NmExYTExNWVfNmY0ODgzZWFmMjgyMGQyNWQ5OWQ5ODUzMzE0YjMwMTc1NDQyMWJlYTQwOThkYjUxNjk0YzIyNzdiNjkxMzBmNg%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת, 01.05.26",
           "StreamerId": "6394352779112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b796033b-4492-45cd-9d84-5209cdd8b75f/27267420-2c91-48ca-842f-bc314584c8d8/320x180/match/image.jpg",
@@ -3493,19 +3506,6 @@
           "ShortDescriptionLine2": "2026-04-18T20:38:02Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/575bdbcf-670f-44cc-925b-a16582cc4814/10s/master.m3u8?fastly_token=NmEwOGZiOTVfOWYwYzhhZTZhYjY5ZGFkNDQ2ZDliMjRlMmFkMjE2ODQ4M2ZjOTUzMmMzNmE0ZjhmN2IzYmM2NzIwMzkyOWM3NA%3D%3D"
-          ]
-        },
-        {
-          "Title": "קבינט שישי, 17.04.26 חלק שני",
-          "StreamerId": "6393316748112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/71000a02-e657-4793-9df6-896f5868a628/12e3eb97-fe38-47f7-8f7e-c8d6e6416935/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393316748112",
-          "Date": "2026-04-17T19:30:45Z",
-          "Duration": 3484,
-          "ShortDescriptionLine1": "Cabinet Friday, 17.04.26 part two",
-          "ShortDescriptionLine2": "2026-04-17T19:30:45Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/71000a02-e657-4793-9df6-896f5868a628/10s/master.m3u8?fastly_token=NmExNWEwOGRfNjViYjFmNDliNWEyOGZlYmU4NDIwYjkwN2IxZDA3YTllMTQ0NmIwNzM2MmZkNWRkNDM5M2U3ZDQ1NjEzNGU0Ng%3D%3D"
           ]
         },
         {
