@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 04.05.26",
+          "ShortDescriptionLine1": "Tonight's news 04.05.26",
+          "ShortDescriptionLine2": "2026-05-04 20:50:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037380/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196755/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1037380",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11602/1037380",
+          "Date": "2026-05-04 20:50:23",
+          "Duration": "2901"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 04.05.26",
           "ShortDescriptionLine1": "Evening News | 04.05.26",
           "ShortDescriptionLine2": "2026-05-04 19:19:44",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11719/1037225",
           "Date": "2026-05-04 15:20:43",
           "Duration": "2483"
-        },
-        {
-          "Title": "חדשות הלילה | 03.05.26",
-          "ShortDescriptionLine1": "Tonight's news 03.05.26",
-          "ShortDescriptionLine2": "2026-05-03 21:49:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036938/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196627/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1036938",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11602/1036938",
-          "Date": "2026-05-03 21:49:30",
-          "Duration": "1532"
         },
         {
           "Title": "שלוש עם יונתן אוחיון | 03.05.26",
@@ -2583,6 +2583,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "73b267eb693dd910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-73b267eb693dd91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-05-04T23:33:51+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: מצוקת בעלי העסקים בצפון",
           "Poster": "https://img.mako.co.il/2026/05/04/Nesli_Yoav_040526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2611,21 +2626,6 @@
           "Live": false,
           "Duration": 7275,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the tensions with Iran"
-        },
-        {
-          "Title": "אברי ושרקי: שלומי ואסף",
-          "Poster": "https://img.mako.co.il/2026/05/04/Avri_Sherki_030526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/May/Avri_Sherki_040526_VOD_suj222/Avri_Sherki_040526_VOD_suj222_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Avri_Sherki/2026/May/Avri_Sherki_040526_VOD_suj222/Avri_Sherki_040526_VOD_suj222_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "669d8c41c227d910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-669d8c41c227d91026.htm",
-          "ShortDescriptionLine2": "And also: Jonathan Adiri",
-          "Date": "2026-05-03T23:43:36+03:00",
-          "Live": false,
-          "Duration": 2550,
-          "ShortDescriptionLine1": "Avri and Sharky: Shlomi and Assaf"
         },
         {
           "Title": "אופירה אוחנה סרי: שבוע של אלימות שוברת שיאים",
