@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 05.05.26",
+          "ShortDescriptionLine1": "The world today 05.05.26",
+          "ShortDescriptionLine2": "2026-05-05 14:26:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037630/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196998/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1037630",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11719/1037630",
+          "Date": "2026-05-05 14:26:56",
+          "Duration": "2377"
+        },
+        {
           "Title": "שלוש עם יונתן אוחיון | 05.05.26",
           "ShortDescriptionLine1": "Three with Yonatan Ohion 05.05.26",
           "ShortDescriptionLine2": "2026-05-05 13:48:04",
@@ -554,19 +567,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-900233/1037254",
           "Date": "2026-05-04 15:58:10",
           "Duration": "3507"
-        },
-        {
-          "Title": "העולם היום | 04.05.26",
-          "ShortDescriptionLine1": "The world today 04.05.26",
-          "ShortDescriptionLine2": "2026-05-04 15:20:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037225/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196695/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1037225",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11719/1037225",
-          "Date": "2026-05-04 15:20:43",
-          "Duration": "2483"
         },
         {
           "Title": "חדשות השבת | 02.05.26",
@@ -2428,19 +2428,19 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 05.05.26 [live]"
         },
         {
-          "Title": "מהדורת היום: 05.05.26 [live]",
+          "Title": "מהדורת היום: 05.05.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22184984/22184984_noAdds/22184984_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadurat_hayom_2026/22184984/22184984_noAdds/22184984_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "492356eb5a6fd910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/7ca274b65e8cd910/VOD-492356eb5a6fd91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-05T14:59:57+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 05.05.26 [live]"
+          "Live": false,
+          "Duration": 5650,
+          "ShortDescriptionLine1": "Today's edition: 05.05.26"
         },
         {
           "Title": "המהדורה המרכזית: 04.05.26",
@@ -2601,15 +2601,15 @@
           "Title": "חדשות הבוקר עם ניב רסקין: ההילולה בהר מירון",
           "Poster": "https://img.mako.co.il/2026/05/05/Hadshot_Haboker_050526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22184988/22184988_noAdds/22184988_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/hadshot_haboker_2026/22184988/22184988_noAdds/22184988_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_050526_VOD_fek142/Hadshot_Haboker_050526_VOD_fek142_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_050526_VOD_fek142/Hadshot_Haboker_050526_VOD_fek142_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "eb045a05fd3dd910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-eb045a05fd3dd91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-eb045a05fd3dd91026.htm",
           "ShortDescriptionLine2": "Despite the ban: thousands came to revel in Miron",
           "Date": "2026-05-05T07:11:53+03:00",
           "Live": false,
-          "Duration": 5946,
+          "Duration": 7400,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the revelry on Mount Meron"
         },
         {
