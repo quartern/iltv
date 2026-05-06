@@ -669,9 +669,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_qs0rna3i",
           "Date": "2026-05-06 23:41:19",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/qxxdm-905136998/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4398987/",
           "Duration": 4414,
-          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-05-06 23:41:19",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qs0rna3i/flavorIds/1_il9kd95n/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2583,6 +2583,21 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "בזמן שעבדתם: שחק אותה סם [live]",
+          "Poster": "https://img.mako.co.il/2026/05/06/Bizman_Sheavadetem_264_060526_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "5195f92b824dd910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-podcasts/while_you_work-s1/VOD-5195f92b824dd91026.htm",
+          "ShortDescriptionLine2": "The new storm shaking the industry",
+          "Date": "2026-05-07T00:22:32+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "While you were working: Play it Sam [live]"
+        },
+        {
           "Title": "חשיפה: כל האמת של קטיה",
           "Poster": "https://img.mako.co.il/2026/05/06/Hassifa6_05_060526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -3136,21 +3151,6 @@
           "Live": false,
           "Duration": 349,
           "ShortDescriptionLine1": "Turkish and continued: Let it sink in"
-        },
-        {
-          "Title": "בזמן שעבדתם: אמא הודו מעדכנת גרסה",
-          "Poster": "https://img.mako.co.il/2026/03/18/Bizman_Sheavadetem_261_190326_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_261_030426_VOD_jfiir455/Bizman_Sheavadetem_261_030426_VOD_jfiir455_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Bizman_Sheavadetem/2026/April/Bizman_Sheavadetem_261_030426_VOD_jfiir455/Bizman_Sheavadetem_261_030426_VOD_jfiir455_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a1f3cc888c06c910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-a1f3cc888c06c91027.htm",
-          "ShortDescriptionLine2": "The technological revolution that Modi ushered in India",
-          "Date": "",
-          "Live": false,
-          "Duration": 3313,
-          "ShortDescriptionLine1": "While you were working: Mother India is updating version"
         }
       ]
     },
