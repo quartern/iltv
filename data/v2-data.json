@@ -2473,21 +2473,6 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 05.06.26"
         },
         {
-          "Title": "מהדורת היום: 06.05.26",
-          "Poster": "https://img.mako.co.il/2026/05/06/Madurat_Hayom_060526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/SHORT/CH22_NEWS/2026/05/15offer_vtr2_n20260506_v1/15offer_vtr2_n20260506_v1_,850,.mp4.csmil/index.m3u8?rv=aws",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/15offer_vtr2_n20260506_v1/15offer_vtr2_n20260506_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "16412015a61fd910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/7ca274b65e8cd910/VOD-16412015a61fd91027.htm",
-          "ShortDescriptionLine2": "Rubio: \"Operation 'Epic Rage' is over\"",
-          "Date": "2026-05-06T15:00:00+03:00",
-          "Live": false,
-          "Duration": 5263,
-          "ShortDescriptionLine1": "Today's edition: 06.05.26"
-        },
-        {
           "Title": "חדשות סוף השבוע: 02.05.26",
           "Poster": "https://img.mako.co.il/2026/05/02/Hadshot_Sof_Hashavua_020526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2701,6 +2686,21 @@
           "Live": false,
           "Duration": 3558,
           "ShortDescriptionLine1": "While you were working: on the way to happiness"
+        },
+        {
+          "Title": "ארץ נהדרת: מנגל העצמאות הגדול",
+          "Poster": "https://img.mako.co.il/2026/04/22/Eretz_Nehederet_21_220426_PardesHana_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_21_220426_VOD_zzwu73/Eretz_Nehederet23_21_220426_VOD_zzwu73_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_21_220426_VOD_zzwu73/Eretz_Nehederet23_21_220426_VOD_zzwu73_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "c8bc22896cffc910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-c8bc22896cffc91027.htm",
+          "ShortDescriptionLine2": "A wonderful country ends its season with a festive Independence Day barbecue",
+          "Date": "2026-04-22T21:36:29+03:00",
+          "Live": false,
+          "Duration": 3708,
+          "ShortDescriptionLine1": "Eretz Nehederet: The great independence barbecue"
         },
         {
           "Title": "אופירה אוחנה סרי: הפסקת האש בלבנון",
@@ -3143,6 +3143,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 06.05.26",
+          "StreamerId": "6394802092112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3757f4ed-18f5-44cb-accb-38d8f1d45f35/988d6454-017d-4470-8a43-5beb5caa5c1b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394802092112",
+          "Date": "2026-05-06T19:49:49Z",
+          "Duration": 4459,
+          "ShortDescriptionLine1": "The Israelis, 06.05.26",
+          "ShortDescriptionLine2": "2026-05-06T19:49:49Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/3757f4ed-18f5-44cb-accb-38d8f1d45f35/10s/master.m3u8?fastly_token=NmEyMGEyNTRfYjNkOTc0NjljNGZjNGI0YWViM2VhMzQxZDk0NzEwYTk5OGIyNGVkYmE3YjVhMTE4OGRmYjQzOTAxM2MwY2M4ZA%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית, 06.05.26",
           "StreamerId": "6394796574112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/10c36a71-1957-4b95-b6ae-9f7f006ee5bd/05ce63da-35aa-495a-ae84-0ce1d29d2d28/320x180/match/image.jpg",
@@ -3309,19 +3322,6 @@
           "ShortDescriptionLine2": "2026-05-05T14:52:22Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b477d535-a315-4053-9ac0-6ca852a1c859/10s/master.m3u8?fastly_token=NmExZjFiODZfMDc5NzNlNjZkMjg2NjNlMzQxNzRkMzQ2MmNlNWQxZWI4NTIyZTNmYjMwYWZmNWVlNTBiYWIzMzJiNzI0NzRlZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "הישראלים, 03.05.26",
-          "StreamerId": "6394541080112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/6306248a-aa30-4b48-a96a-b032ac736ff5/1f4fe543-f3c7-4c11-83e8-b0b57202497a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394541080112",
-          "Date": "2026-05-04T09:05:29Z",
-          "Duration": 4661,
-          "ShortDescriptionLine1": "The Israelis, 03.05.26",
-          "ShortDescriptionLine2": "2026-05-04T09:05:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/6306248a-aa30-4b48-a96a-b032ac736ff5/10s/master.m3u8?fastly_token=NmExZDZiNTlfOTFlMWI4ZTlmNmM1MzJiNTZiNzZjYjM2ZTZjZjkzNDZhNzgzZDQ5MjZiZWQwNTRmMTFiMzkwYzVkODgyYWFhMQ%3D%3D"
           ]
         },
         {
