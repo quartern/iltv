@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהצד השני עם גיא זהר | 07.05.26",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 07.05.26",
+          "ShortDescriptionLine2": "2026-05-07 12:44:04",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038477/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197993/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1038477",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-12463/s3/1038477",
+          "Date": "2026-05-07 12:44:04",
+          "Duration": "836"
+        },
+        {
           "Title": "חדשות הלילה | 06.05.26",
           "ShortDescriptionLine1": "Tonight's news 06.05.26",
           "ShortDescriptionLine2": "2026-05-07 06:30:55",
@@ -502,19 +515,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-821794/1038126",
           "Date": "2026-05-06 16:13:37",
           "Duration": "4086"
-        },
-        {
-          "Title": "מהצד השני עם גיא זהר | 06.05.26",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 06.05.26",
-          "ShortDescriptionLine2": "2026-05-06 15:37:08",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038112/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197761/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1038112",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-12463/s3/1038112",
-          "Date": "2026-05-06 15:37:08",
-          "Duration": "914"
         },
         {
           "Title": "בנימיני ומועלם | 06.05.26",
@@ -2601,15 +2601,15 @@
           "Title": "חדשות הבוקר עם ניב רסקין: מכת הפרוטקשן",
           "Poster": "https://img.mako.co.il/2026/05/07/Hadshot_Haboker_070526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22185047/22185047_noAdds/22185047_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/hadshot_haboker_2026/22185047/22185047_noAdds/22185047_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_070526_VOD_kh989/Hadshot_Haboker_070526_VOD_kh989_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_070526_VOD_kh989/Hadshot_Haboker_070526_VOD_kh989_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "3a755a05fd3dd910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-3a755a05fd3dd91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-3a755a05fd3dd91026.htm",
           "ShortDescriptionLine2": "The police operation that brought down a gang in front of the camera",
           "Date": "2026-05-07T07:11:22+03:00",
           "Live": false,
-          "Duration": 5676,
+          "Duration": 6758,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the protectionist strike"
         },
         {
