@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-07 14:03
+# Last updated: 2026-05-07 14:36
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1844 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038510/poster" group-title="Kan 11 Featured",מה שתגידו עונה 5 | פרק 8 - 07.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198003/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2909 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036756/poster" group-title="Kan 11 Featured",הייתי שם | פרק 2 - אסון ורסאי
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196551/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189247/LIBCODER
 
 #EXTINF:131 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1027031/poster" group-title="Kan 11 Featured",רביטל ויטלזון | אשת אחאב
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189248/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:153 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1027024/poster" group-title="Kan 11 Featured",אלעד בר נוי | ההיסטוריה הסודית
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2189249/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7800 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan901676/poster" group-title="Kan 11 Specials",אירוויזיון 2025 - חצי גמר 1 | 13.05.25
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_talzwnba/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -562,8 +562,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x34las
 #EXTINF:3616 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763673764/uploads/2025/904858592.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 15: מציתי הפחים מדברים
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dqv1pza0/flavorIds/1_bccx9rgp,1_fd1jnfaw,1_3u146k23,1_6kd844ca,1_jasz01h6,1_x5lrnjc0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 07.05.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+#EXTINF:3891 tvg-logo="https://img.mako.co.il/2026/05/07/Mahadura_Merkazit_070526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 07.05.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22185054/22185054_noAdds/22185054_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2299 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 07.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22185053/22185053_noAdds/22185053_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
