@@ -2583,19 +2583,19 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "עובדה: כוח נורית [live]",
+          "Title": "עובדה: כוח נורית",
           "Poster": "https://img.mako.co.il/2026/05/07/Uvda2026_14_070526_VOD_NID932_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/uvda_2026/22185067/22185067_noAdds/22185067_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/uvda_2026/22185067/22185067_noAdds/22185067_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "14139008944dd910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/uvda-2026/VOD-14139008944dd91026.htm",
           "ShortDescriptionLine2": "The incredible battle of light bulb power",
           "Date": "2026-05-07T21:32:25+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Uvda: LED power [live]"
+          "Live": false,
+          "Duration": 3831,
+          "ShortDescriptionLine1": "Uvda: LED power"
         },
         {
           "Title": "נסלי ויואב: לקראת הסכם או חידוש המלחמה?",
@@ -3158,6 +3158,32 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש, 07.05.26",
+          "StreamerId": "6394900973112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4a0764af-cb5d-4f3a-9712-05808bc7811a/d000f398-f0da-4c35-9548-b126a239942a/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900973112",
+          "Date": "2026-05-07T19:44:36Z",
+          "Duration": 3816,
+          "ShortDescriptionLine1": "Five edition, 05.07.26",
+          "ShortDescriptionLine2": "2026-05-07T19:44:36Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4a0764af-cb5d-4f3a-9712-05808bc7811a/10s/master.m3u8?fastly_token=NmEyMWVlZmZfNmVhNDRkZjhjYjMyY2I5OWMyNDBjMWQ5Yzc1NjQ1YTNlZWFkMzY2ZTQ1MTI1OWJhM2E4NGFjOWNjNWIxZTA2OQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15, 07.05.26",
+          "StreamerId": "6394900691112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7d1dccc-7d02-40bc-bed9-b04715102574/fe88e46a-bde4-4a7a-8c64-f3f324602310/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900691112",
+          "Date": "2026-05-07T19:43:27Z",
+          "Duration": 6547,
+          "ShortDescriptionLine1": "15th edition, 07.05.26",
+          "ShortDescriptionLine2": "2026-05-07T19:43:27Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c7d1dccc-7d02-40bc-bed9-b04715102574/10s/master.m3u8?fastly_token=NmEyMWZiNjhfYmMxNzBiY2RlMjVkMGUwMDcyOTcyNWJjMWVlZDQ2YTVkMDEzMmExZTJjNjNjMmMyYmEwYWM2YjhlNjBiM2NlYw%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 06.05.26",
           "StreamerId": "6394802092112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/3757f4ed-18f5-44cb-accb-38d8f1d45f35/988d6454-017d-4470-8a43-5beb5caa5c1b/320x180/match/image.jpg",
@@ -3288,19 +3314,6 @@
           ]
         },
         {
-          "Title": "מהדורת חמש, 05.05.26",
-          "StreamerId": "6394698378112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/18239925-edc1-4422-bacf-38169d40dc48/70040e6b-c639-4d15-b831-3cee2a78f953/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394698378112",
-          "Date": "2026-05-05T17:22:59Z",
-          "Duration": 3837,
-          "ShortDescriptionLine1": "Five edition, 05.05.26",
-          "ShortDescriptionLine2": "2026-05-05T17:22:59Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/18239925-edc1-4422-bacf-38169d40dc48/10s/master.m3u8?fastly_token=NmExZjI5N2NfMTJjNzg3MGY0MzdhZTM4YjZjMTM3NmUzODA2MjYzYjYwOWMzYTk0ZjFlNzUxN2VmZTdlZDIyNTI1NWM1YmM5OA%3D%3D"
-          ]
-        },
-        {
           "Title": "מדד גלבוע, 05.05.26",
           "StreamerId": "6394696392112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/cf20ec56-0464-41df-975c-15c07ebfe77d/d146ed07-572c-41aa-a295-183e5bce51cf/320x180/match/image.jpg",
@@ -3311,19 +3324,6 @@
           "ShortDescriptionLine2": "2026-05-05T17:17:27Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/cf20ec56-0464-41df-975c-15c07ebfe77d/10s/master.m3u8?fastly_token=NmExZjhmYzZfMGU4MjYwM2JjNDg4ZDE2NTg0OTA4Mjc5OTU2NjkzOGQ2NjQzOWVmMGQ0MjY4YmVkM2ZiZjMwZjE2ZGZlOTczMQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 05.05.26",
-          "StreamerId": "6394692226112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e5953ddf-3806-4d6c-b0f1-7e697ea3145f/b401ce22-7252-45a5-b6b7-88d4582f1924/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394692226112",
-          "Date": "2026-05-05T15:57:16Z",
-          "Duration": 6647,
-          "ShortDescriptionLine1": "15th edition, 05.05.26",
-          "ShortDescriptionLine2": "2026-05-05T15:57:16Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e5953ddf-3806-4d6c-b0f1-7e697ea3145f/10s/master.m3u8?fastly_token=NmExZjI5MGRfZjYxOWM1ZjJjOTk5NTUxN2Y4M2JmYTkyMGNlMWJkODRlZTBlZjM3NDhkNTFmNzZiM2M5OTlkZDdiZjExNGZlMQ%3D%3D"
           ]
         },
         {
