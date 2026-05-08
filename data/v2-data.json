@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "עושים שישי עם אריק וייס 08.05.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
+          "StreamerId": "1_xkpjgjdh",
+          "Date": "2026-05-08 21:53:53",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/606/season/1/4401917/",
+          "Duration": 5909,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-05-08 21:53:53",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_xkpjgjdh/flavorIds/1_p9g4s6w9,1_dei2l7ic,1_wi4h2l1b,1_i1rf0pdo,1_vz731cak,1_xjowvcfj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המגזין 08.05.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
           "StreamerId": "1_zjtxwmo7",
@@ -779,19 +792,6 @@
           "ShortDescriptionLine2": "2026-05-01 23:36:38",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_idn3t2eq/flavorIds/1_6kwlrt1v,1_quzmhp5y,1_1h96wv9y,1_stwgc2fq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "עושים שישי עם אריק וייס 01.05.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg",
-          "StreamerId": "1_gu5fo1v0",
-          "Date": "2026-05-01 21:49:35",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/606/season/1/4391748/",
-          "Duration": 5915,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-05-01 21:49:35",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gu5fo1v0/flavorIds/1_rjspi2kx,1_xfuwks9q,1_1fkmgfwg,1_33ajbdl1,1_qnz9lhan,1_mmuqrvr0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 08.05.26 [live]",
+          "Title": "אולפן שישי: 08.05.26",
           "Poster": "https://img.mako.co.il/2026/05/08/Ulpan_Shishi_080526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/22185083/22185083_noAdds/22185083_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Olpan_shishi/22185083/22185083_noAdds/22185083_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "ff80ff27b810e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/8cad1370de8cd910/VOD-ff80ff27b810e91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-08T19:51:47+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 08.05.26 [live]"
+          "Live": false,
+          "Duration": 6307,
+          "ShortDescriptionLine1": "Studio Friday: 08.05.26"
         },
         {
           "Title": "המהדורה המרכזית: 07.05.26",
@@ -2584,7 +2584,7 @@
       "Items": [
         {
           "Title": "אופירה אוחנה סרי: בני גנץ באולפן",
-          "Poster": "https://img.mako.co.il/2026/01/29/OfiraOhanaSri_1_x5_re_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/05/08/Ofira_080526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22185082/22185082_noAdds/22185082_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Ofira_Ohana_Seri/22185082/22185082_noAdds/22185082_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
@@ -3158,6 +3158,45 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "זמן ריפוי, 08.05.26 | תוכן ממומן",
+          "StreamerId": "6394995386112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a747f087-a0c8-4620-877b-111fea91ca67/9ce193ce-a949-4780-911e-df18f631eb52/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394995386112",
+          "Date": "2026-05-08T19:08:52Z",
+          "Duration": 1458,
+          "ShortDescriptionLine1": "Healing time, 08.05.26 | sponsored content",
+          "ShortDescriptionLine2": "2026-05-08T19:08:52Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a747f087-a0c8-4620-877b-111fea91ca67/10s/master.m3u8?fastly_token=NmEyMzJmNzhfZGUyZTk2ZDdkZDllY2NhNTg4NTg1MTM4N2MyN2RkZGJjMzBmN2VlNjNkZDEyODVjNmE0YmVmODkzOTc3ODkwNw%3D%3D"
+          ]
+        },
+        {
+          "Title": "קבינט שישי,08.05.26 חלק שני",
+          "StreamerId": "6394991848112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a76824da-19cd-4eb6-bd32-da951b29043c/a0b316bf-99b3-48d8-b6dd-b42aab0a2d7f/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394991848112",
+          "Date": "2026-05-08T19:05:56Z",
+          "Duration": 3871,
+          "ShortDescriptionLine1": "Cabinet Friday, 08.05.26 part two",
+          "ShortDescriptionLine2": "2026-05-08T19:05:56Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a76824da-19cd-4eb6-bd32-da951b29043c/10s/master.m3u8?fastly_token=NmEyMzM5MGRfZGE1NmI4NzUwZDU2NGQ4Nzg0MmEyYWRmOGNhMjhlODNmZmYyNTg1Mjg3ZWEyM2E3OTVhNjI2ZTMwOGNkMTk1ZQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "קבינט שישי, 08.05.26 חלק ראשון",
+          "StreamerId": "6394994284112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/408a53a7-47e4-4304-8141-003043ff607b/980227f9-454c-4eb0-96b7-64e41ebedf79/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394994284112",
+          "Date": "2026-05-08T19:04:37Z",
+          "Duration": 3680,
+          "ShortDescriptionLine1": "Cabinet Friday, 08.05.26 first part",
+          "ShortDescriptionLine2": "2026-05-08T19:04:37Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/408a53a7-47e4-4304-8141-003043ff607b/10s/master.m3u8?fastly_token=NmEyMzM3MmRfMTg0Mzg0Y2Y2YmNkYjMxOTQzM2RhZWE4YmYzYTViNGQyODZjYmQ1ZmIzOGMzNWU4MjkwYjU0MWU1MjFmOWEyOQ%3D%3D"
+          ]
+        },
+        {
           "Title": "המהדורה המוקדמת, 08.05.26",
           "StreamerId": "6394993303112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f251761c-99bb-4909-be05-d55847ca34ea/2d2963e8-cbc2-4944-9214-6015b1847dcc/320x180/match/image.jpg",
@@ -3405,19 +3444,6 @@
           ]
         },
         {
-          "Title": "קבינט שישי, 01.05.26",
-          "StreamerId": "6394438310112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/fffa5ec5-7e9c-4049-ab33-beb9f4bfba51/26dac68f-6cf2-45e1-ad0a-cff80cf9f59b/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394438310112",
-          "Date": "2026-05-02T19:32:29Z",
-          "Duration": 7497,
-          "ShortDescriptionLine1": "Cabinet Friday, 01.05.26",
-          "ShortDescriptionLine2": "2026-05-02T19:32:29Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/fffa5ec5-7e9c-4049-ab33-beb9f4bfba51/10s/master.m3u8?fastly_token=NmExYjY3ZWVfMGEzYjRjM2IzZjUzZWM4YjdlZTg2Yzc2Njk3M2VkNTZmM2Y1OTA4YWYxMjJmYWEzZmUwMTM0MmM3ZDQ2YzQ5Zg%3D%3D"
-          ]
-        },
-        {
           "Title": "הנדל\"ניסטים, 27.04.26 | בשיתוף אלין תקשורת",
           "StreamerId": "6394086079112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/db8b2635-80f1-4a9c-889a-6149566e4904/d2713725-7a88-4680-986d-9c72fa26cce4/320x180/match/image.jpg",
@@ -3470,19 +3496,6 @@
           ]
         },
         {
-          "Title": "קבינט שישי,24.04.26",
-          "StreamerId": "6393809543112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a2c4f910-3e41-4cba-8471-86f5fdc4b628/376df7f6-8640-41d1-a8a1-43e34cab963e/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393809543112",
-          "Date": "2026-04-24T19:27:58Z",
-          "Duration": 7120,
-          "ShortDescriptionLine1": "Cabinet Friday, 24.04.26",
-          "ShortDescriptionLine2": "2026-04-24T19:27:58Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a2c4f910-3e41-4cba-8471-86f5fdc4b628/10s/master.m3u8?fastly_token=NmExNWIxMWFfM2E4ZmM0Yzg0ZGQxNDFiOGM5ZjVlNjZiYzMxYTI1MGUwYWU1YjNlOWY4YmQ4NTI3NDVkZDcxM2IyMGViY2E2ZA%3D%3D"
-          ]
-        },
-        {
           "Title": "זמן ריפוי, 24.04.26  | תוכן ממומן",
           "StreamerId": "6393810688112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4185d9df-dc9c-43e2-a697-9819981c5176/cb524b79-4c39-40a3-8b15-dc3c1840d8eb/320x180/match/image.jpg",
@@ -3493,19 +3506,6 @@
           "ShortDescriptionLine2": "2026-04-24T19:18:01Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4185d9df-dc9c-43e2-a697-9819981c5176/10s/master.m3u8?fastly_token=NmExMGZmZGNfYjUwNjhmZDc5ZDNjYTYxOTE0YTc5ODVmNWYxMzg4YjdjMDgxMTIyNzA3MDM1NDk0N2QxNjUzNTFlZTcwZGNhNQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "זמן ריפוי, 24.04.26 | תוכן ממומן",
-          "StreamerId": "6393776518112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/064f5902-5c36-4d3c-ace2-a9ce0c21d430/d5025fcc-bcdb-4062-8070-51e4bc536815/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6393776518112",
-          "Date": "2026-04-24T08:15:41Z",
-          "Duration": 1480,
-          "ShortDescriptionLine1": "Healing time, 24.04.26 | sponsored content",
-          "ShortDescriptionLine2": "2026-04-24T08:15:41Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/064f5902-5c36-4d3c-ace2-a9ce0c21d430/10s/master.m3u8?fastly_token=NmExMGZmZGVfMDJkZTFkNjNlNTI3MDRlYjk1YjEyNzlmN2U0YmI5ZTQ3NzFmNTg2NjM0NjA0YWM3NzZkNzA1NGY5MDMzMjUxNQ%3D%3D"
           ]
         },
         {
