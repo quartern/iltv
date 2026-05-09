@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "פגישה עם רוני קובן עונה 10 | פרק 22 - יובל רפאל",
+          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 22 - Yuval Raphael",
+          "ShortDescriptionLine2": "2026-05-09 18:32:21",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038875/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198449/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1038875",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-11486/s10/1038875",
+          "Date": "2026-05-09 18:32:21",
+          "Duration": "2310"
+        },
+        {
           "Title": "ראש מוסד חדש עם מנדי ביתאן",
           "ShortDescriptionLine1": "Head of a new institution with Mandy Bitan",
           "ShortDescriptionLine2": "2026-05-08 20:10:33",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-12385/s5/1036936",
           "Date": "2026-05-04 06:59:42",
           "Duration": "9714"
-        },
-        {
-          "Title": "אגן הים התיכון עם ורד יפתחי גרין - 01.05.26 ",
-          "ShortDescriptionLine1": "The Mediterranean basin with a green opening rose - 01.05.26",
-          "ShortDescriptionLine2": "2026-05-03 06:00:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036477/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2196372/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1036477",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-12373/1036477",
-          "Date": "2026-05-03 06:00:45",
-          "Duration": "6262"
         }
       ]
     },
@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 09.05.26 [live]",
+          "Title": "חדשות סוף השבוע: 09.05.26",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/22185105/22185105_noAdds/22185105_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Weekend_News/22185105/22185105_noAdds/22185105_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "c60ba3648910e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/f94a9aee1f8cd910/VOD-c60ba3648910e91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-09T19:52:22+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Weekend news: 09.05.26 [live]"
+          "Live": false,
+          "Duration": 4090,
+          "ShortDescriptionLine1": "Weekend news: 09.05.26"
         },
         {
           "Title": "פגוש את העיתונות: 09.05.26",
@@ -2746,21 +2746,6 @@
           "Live": false,
           "Duration": 3558,
           "ShortDescriptionLine1": "While you were working: on the way to happiness"
-        },
-        {
-          "Title": "ארץ נהדרת: מנגל העצמאות הגדול",
-          "Poster": "https://img.mako.co.il/2026/04/22/Eretz_Nehederet_21_220426_PardesHana_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_21_220426_VOD_zzwu73/Eretz_Nehederet23_21_220426_VOD_zzwu73_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_21_220426_VOD_zzwu73/Eretz_Nehederet23_21_220426_VOD_zzwu73_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "c8bc22896cffc910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s23/VOD-c8bc22896cffc91027.htm",
-          "ShortDescriptionLine2": "A wonderful country ends its season with a festive Independence Day barbecue",
-          "Date": "2026-04-22T21:36:29+03:00",
-          "Live": false,
-          "Duration": 3708,
-          "ShortDescriptionLine1": "Eretz Nehederet: The great independence barbecue"
         },
         {
           "Title": "עובדה: הצילומים הנעלמים נחשפים",
