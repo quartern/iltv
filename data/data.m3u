@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-09 13:10
+# Last updated: 2026-05-09 13:35
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4500 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1039126/poster" group-title="11 News - Latest shows",שבע עם איילה חסון | 09.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198626/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:6579 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1039111/poster" group-title="11 News - Latest shows",שרון ואורי | 09.05.26 
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198619/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -123,9 +126,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198066/LIBCODER
 
 #EXTINF:7200 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038643/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 07.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198060/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3253 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038590/poster" group-title="11 News - Latest shows",שבע עם איילה חסון | 07.05.26  
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198027/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:4200 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038575/poster" group-title="11 News - Latest shows",מזל מועלם וישי שנרב | 07.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198021/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
