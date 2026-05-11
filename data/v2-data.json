@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 11.05.26 [live]",
+          "Title": "המהדורה המרכזית: 11.05.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22185153/22185153_noAdds/22185153_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22185153/22185153_noAdds/22185153_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "fa6eb83b8851e910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-fa6eb83b8851e91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-11T19:51:54+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 11.05.26 [live]"
+          "Live": false,
+          "Duration": 5300,
+          "ShortDescriptionLine1": "The main edition: 11.05.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 11.05.26",
@@ -3158,6 +3158,84 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית, 10.05.26",
+          "StreamerId": "6395255545112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/18421273-c0e3-4fee-a0c0-503c0a3edc21/e7a4da1d-8a3b-4ec5-bfca-4d57156cdad7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395255545112",
+          "Date": "2026-05-11T18:42:11Z",
+          "Duration": 5514,
+          "ShortDescriptionLine1": "The main edition, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:42:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/18421273-c0e3-4fee-a0c0-503c0a3edc21/10s/master.m3u8?fastly_token=NmEyNzJlNGZfY2ZmYTkxNWQ1MGU0NmRiZDBhM2E0YjdjNmY0ZmQyOThjNGJlNTdiZDdkODUxYTdhOTY4MmZmOTMzN2NmNTIxZA%3D%3D"
+          ]
+        },
+        {
+          "Title": "7 שרון גל, 10.05.26",
+          "StreamerId": "6395255655112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/e0d4e5d4-4939-4414-bd88-970e71d7284b/0e9390ba-8e68-4b1f-9705-0ceb979effc9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395255655112",
+          "Date": "2026-05-11T18:39:35Z",
+          "Duration": 3045,
+          "ShortDescriptionLine1": "7 Sharon Gal, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:39:35Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/e0d4e5d4-4939-4414-bd88-970e71d7284b/10s/master.m3u8?fastly_token=NmEyNzIzMjJfZTAxYjQ4MTExMWM1OWU1Y2Y2ZmY4YmQxNTRiYTMxOWYyNTMzMTQ1ZDE1MTJiNjFiY2U1MDhmNTZiODE1ODYwYw%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדד גלבוע, 10.05.26",
+          "StreamerId": "6395257203112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b08ded0f-8244-4053-8bec-c4fb11896e7a/72abe77b-0c95-4895-abaf-d63aa61bd9b9/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395257203112",
+          "Date": "2026-05-11T18:38:09Z",
+          "Duration": 3903,
+          "ShortDescriptionLine1": "Gilboa index, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:38:09Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b08ded0f-8244-4053-8bec-c4fb11896e7a/10s/master.m3u8?fastly_token=NmEyNzI1ZGFfMjEzOTk3MTJhNzRhZmI2OWJjZjI4MjFiMGQ0MWUwOTBmN2NjYThjMTQzZDNmY2U2NGE0YmIyNGEwNzk5ODllZA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת חמש, 10.05.26",
+          "StreamerId": "6395257198112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3599bd6-d304-4687-9ffa-5bf24065a284/e80e0e9b-f046-45d9-b327-d01705ae5315/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395257198112",
+          "Date": "2026-05-11T18:36:10Z",
+          "Duration": 3804,
+          "ShortDescriptionLine1": "Five edition, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:36:10Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3599bd6-d304-4687-9ffa-5bf24065a284/10s/master.m3u8?fastly_token=NmEyNzI2YjhfYmVjZDBjYmVkMTIzZTA0OTdkNzhiMWNlOWViOWRiZjNkNmI1ZTMxNjU1ODAyZDkxZjJjOTcxZDQwMTYzMTkxZg%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15, 10.05.26",
+          "StreamerId": "6395255447112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/170f6a17-df87-4b41-ba47-a4d733eeb57d/c9a7b36c-abd0-4d56-91df-a21e246d3b02/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395255447112",
+          "Date": "2026-05-11T18:35:42Z",
+          "Duration": 6602,
+          "ShortDescriptionLine1": "15th edition, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:35:42Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/170f6a17-df87-4b41-ba47-a4d733eeb57d/10s/master.m3u8?fastly_token=NmEyNzMzNmZfMWI5NjE5ZmRiZWUzNzljODg0MWU4MDExYjk3ZWQ0ZWRkZDk5YWJkYThmMmMyODQ0MDI2MDNiNzcwODE1OWFkNA%3D%3D"
+          ]
+        },
+        {
+          "Title": "מדברים חדשות,10.05.26",
+          "StreamerId": "6395255154112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4be60258-3b8d-49cf-be60-aa58f65ab7aa/186d49ba-dfaa-4f45-84fe-fea3d6b309de/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395255154112",
+          "Date": "2026-05-11T18:32:48Z",
+          "Duration": 7036,
+          "ShortDescriptionLine1": "Talking news, 10.05.26",
+          "ShortDescriptionLine2": "2026-05-11T18:32:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4be60258-3b8d-49cf-be60-aa58f65ab7aa/10s/master.m3u8?fastly_token=NmEyNzM1NjBfODZhZjA3ZTRiZDk4Y2RjYWRhNDQwMjUwMDgxYTQwNzI4MDJmYjg4NjNkYzM3OTVkZjQ5MmQ2N2ZkNGVjMWMwZQ%3D%3D"
+          ]
+        },
+        {
           "Title": "הישראלים, 10.05.26",
           "StreamerId": "6395160313112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/d3a38af7-a862-4124-9b7f-c8e3670ffc8f/ebb6a96e-f606-49ab-b681-b6a20220f0b5/320x180/match/image.jpg",
@@ -3363,84 +3441,6 @@
           "ShortDescriptionLine2": "2026-05-07T20:01:09Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d8637fd4-a51d-40a6-bcfe-317cf76653cd/10s/master.m3u8?fastly_token=NmEyMWYzYjJfMWMyZmYxMGFjNTExMGRkN2RjNzVmMzAyNWQyNzc1YTRjZWQ0YWUyNjBhNzU1YTY5MTVmYzlhYmViY2MyMjg1OA%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 07.05.26 ",
-          "StreamerId": "6394900429112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8f03f055-4115-425f-a342-d44de7ce8ef9/b9617b67-fa0d-4aba-bbf7-b47c106e0fc7/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900429112",
-          "Date": "2026-05-07T19:56:30Z",
-          "Duration": 5483,
-          "ShortDescriptionLine1": "The main edition, 07.05.26",
-          "ShortDescriptionLine2": "2026-05-07T19:56:30Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8f03f055-4115-425f-a342-d44de7ce8ef9/10s/master.m3u8?fastly_token=NmEyMWZlMDRfMjEwYjZhYTRhMjVmOGVjZWVkNmU0NWE4MjQ1NmM5OThhNWRkOTk5MGQ1MjBiOTVmMDgwM2JmZjE0ODI1OWI3ZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "7 שרון גל, 07.05.26",
-          "StreamerId": "6394901978112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/19b424b1-fcc0-428d-8df1-90f15d683515/b1493bcb-4741-4a80-8888-42bcd3def9f8/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394901978112",
-          "Date": "2026-05-07T19:53:19Z",
-          "Duration": 2907,
-          "ShortDescriptionLine1": "7 Sharon Gal, 05.07.26",
-          "ShortDescriptionLine2": "2026-05-07T19:53:19Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/19b424b1-fcc0-428d-8df1-90f15d683515/10s/master.m3u8?fastly_token=NmEyMWYyNTNfYjA1YmRmODdiZTc2OGZlM2ZjODc0ZjZkYmQ4ZThiZmVjZWM4ZjBiNzg0NTk1MWExNGI4MzRlYzZmYzk0YjAzZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדד גלבוע, 07.05.26",
-          "StreamerId": "6394900126112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4269420f-a0b2-45fb-ba7c-3f9b76318137/b8e6e831-ffc0-4d07-bbdd-122ad3079935/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900126112",
-          "Date": "2026-05-07T19:50:38Z",
-          "Duration": 3975,
-          "ShortDescriptionLine1": "Gilboa Index, 05.07.26",
-          "ShortDescriptionLine2": "2026-05-07T19:50:38Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4269420f-a0b2-45fb-ba7c-3f9b76318137/10s/master.m3u8?fastly_token=NmEyMWY3MzJfZmNlNDdlZWQ2MTdmZWVmNjliYjlhYTI1ODFjMmE3NzU5ODgwNzA3NzhiNGZiNGJhYjAwYWU1Yzk0N2Y2YWUzMA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש, 07.05.26",
-          "StreamerId": "6394900973112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4a0764af-cb5d-4f3a-9712-05808bc7811a/d000f398-f0da-4c35-9548-b126a239942a/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900973112",
-          "Date": "2026-05-07T19:44:36Z",
-          "Duration": 3816,
-          "ShortDescriptionLine1": "Five edition, 05.07.26",
-          "ShortDescriptionLine2": "2026-05-07T19:44:36Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/4a0764af-cb5d-4f3a-9712-05808bc7811a/10s/master.m3u8?fastly_token=NmEyMWVlZmZfNmVhNDRkZjhjYjMyY2I5OWMyNDBjMWQ5Yzc1NjQ1YTNlZWFkMzY2ZTQ1MTI1OWJhM2E4NGFjOWNjNWIxZTA2OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 07.05.26",
-          "StreamerId": "6394900691112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/c7d1dccc-7d02-40bc-bed9-b04715102574/fe88e46a-bde4-4a7a-8c64-f3f324602310/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394900691112",
-          "Date": "2026-05-07T19:43:27Z",
-          "Duration": 6547,
-          "ShortDescriptionLine1": "15th edition, 07.05.26",
-          "ShortDescriptionLine2": "2026-05-07T19:43:27Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/c7d1dccc-7d02-40bc-bed9-b04715102574/10s/master.m3u8?fastly_token=NmEyMWZiNjhfYmMxNzBiY2RlMjVkMGUwMDcyOTcyNWJjMWVlZDQ2YTVkMDEzMmExZTJjNjNjMmMyYmEwYWM2YjhlNjBiM2NlYw%3D%3D"
-          ]
-        },
-        {
-          "Title": "מדברים חדשות,07.05.26 ",
-          "StreamerId": "6394899022112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8967919a-744f-42c4-ba4a-5d6d22c752be/bc12975f-b4cb-4f21-b390-5b7fd14794cb/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6394899022112",
-          "Date": "2026-05-07T19:42:02Z",
-          "Duration": 7196,
-          "ShortDescriptionLine1": "Talking news, 07.05.26",
-          "ShortDescriptionLine2": "2026-05-07T19:42:02Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/8967919a-744f-42c4-ba4a-5d6d22c752be/10s/master.m3u8?fastly_token=NmEyMjA1ZmFfZGIyYWZhOGNjMmI3NWQyNTU0OWRjZmNkZjkyNjFmMWFiZDFmMzAxYzFkNGEzZmUxNTg1ZmYzZDQyMTkxNzQ1NA%3D%3D"
           ]
         },
         {
