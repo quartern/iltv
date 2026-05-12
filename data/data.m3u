@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-12 15:27
+# Last updated: 2026-05-12 15:49
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:7500 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040558/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 12.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199774/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4200 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040507/poster" group-title="11 News - Latest shows",שבע עם מואב ורדי | 12.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199744/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -129,9 +132,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199705/LIBCODER
 
 #EXTINF:1761 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040176/poster" group-title="11 News - Latest shows",חדשות הלילה | 11.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199307/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:7073 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040159/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 11.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199301/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:863 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040065/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 11.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199244/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
