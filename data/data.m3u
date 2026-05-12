@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-12 12:41
+# Last updated: 2026-05-12 13:09
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -562,8 +562,11 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqan
 #EXTINF:4280 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1694701245/uploads/2023/903713541.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 16: איך קרס תיק רונאל פישר?
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x34lasy0/flavorIds/1_8t23kx25,1_udxq62ro,1_4z2whhb1,1_xhlnm4fe,1_vjuy8k7p,1_63pcbjbv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 12.05.26 [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 12.05.26 [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
+#EXTINF:2153 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 12.05.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22185181/22185181_noAdds/22185181_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2883 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 12.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22185180/22185180_noAdds/22185180_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -573,9 +576,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:5393 tvg-logo="https://img.mako.co.il/2026/05/12/Mahadurat_Hayom_120526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 12.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/15amalia_vtr2_n20260512_v1/15amalia_vtr2_n20260512_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:5292 tvg-logo="https://img.mako.co.il/2026/05/11/Mahadura_Merkazit_110526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 11.05.26
-https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/SHORT/CH22_NEWS/2026/05/20mahaduafull_vtr2_n20260511_v1/20mahaduafull_vtr2_n20260511_v1_,850,.mp4.csmil/index.m3u8?rv=aws
 
 #EXTINF:4111 tvg-logo="https://img.mako.co.il/2026/05/09/Hadshot_Sof_Hashavua_090526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 09.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/mdanaweiss_vtr2_n20260509_v1/mdanaweiss_vtr2_n20260509_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
