@@ -2413,19 +2413,19 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 12.05.26 [live]",
+          "Title": "המהדורה המרכזית: 12.05.26",
           "Poster": "https://img.mako.co.il/2026/05/12/Mahadura_Merkazit_120526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22185182/22185182_noAdds/22185182_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/mahadura_merkazit/22185182/22185182_noAdds/22185182_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "a5ce4595baa1e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-a5ce4595baa1e91027.htm",
           "ShortDescriptionLine2": "On the way to the dissolution of the Knesset?",
           "Date": "2026-05-12T19:52:18+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 12.05.26 [live]"
+          "Live": false,
+          "Duration": 5164,
+          "ShortDescriptionLine1": "The main edition: 12.05.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 12.05.26",
@@ -2948,6 +2948,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 12.5.26",
+          "StreamerId": "6395347182112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/39acb0ed-ca57-4419-a604-7dd73504593a/30c533e2-efcb-46dd-bd29-2c3272734abc/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395347182112",
+          "Date": "2026-05-12T18:30:12Z",
+          "Duration": 5307,
+          "ShortDescriptionLine1": "The main edition 12.5.26",
+          "ShortDescriptionLine2": "2026-05-12T18:30:12Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/39acb0ed-ca57-4419-a604-7dd73504593a/10s/master.m3u8?fastly_token=NmEyODdlYzlfZGQ2NDFiZGRkMTk1ZWJjMmM4YTcxYmFlYzYyMjQzYjBjOWIxODk4ODM1ZTU5N2E2M2I1ZTRjOTNiODJiNjA1Yg%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל 12.5.26",
           "StreamerId": "6395343537112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/8b15ec14-7634-4f10-a4af-930cbac561a2/97f17fdd-a9da-4692-be4e-91d1ca22ca5c/320x180/match/image.jpg",
@@ -3127,19 +3140,6 @@
           "ShortDescriptionLine2": "2026-05-10T19:48:18Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/d3a38af7-a862-4124-9b7f-c8e3670ffc8f/10s/master.m3u8?fastly_token=NmEyNWU3NzNfY2M5MWY1YTFiNmJmZTFmNzVkOGE0NWZlZGVjN2YyMmM0ZGQ4ZWVmNDJiNWZjMTVjOTVmNWRiN2RmMWJhZWY5OQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 10.05.26",
-          "StreamerId": "6395156324112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/403b1297-8766-4f45-8c7c-57570865335c/8474d82f-b5ea-4d09-be8a-52134cfb1e81/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395156324112",
-          "Date": "2026-05-10T18:42:16Z",
-          "Duration": 5568,
-          "ShortDescriptionLine1": "The main edition, 10.05.26",
-          "ShortDescriptionLine2": "2026-05-10T18:42:16Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/403b1297-8766-4f45-8c7c-57570865335c/10s/master.m3u8?fastly_token=NmEyNWRlNzJfN2ZkOWRkOWQ0YWUzYWU0MmZkMWY1NDgxMjJkMGY5MTc1MzAwYzdkYjEyNWIyNDc2YWRmZDQ3ZjBjY2Y2NzFkMQ%3D%3D"
           ]
         },
         {
