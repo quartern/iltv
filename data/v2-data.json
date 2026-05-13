@@ -2283,6 +2283,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם קרן מרציאנו: 13.05.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "b45cf3847df1e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/65581370de8cd910/VOD-b45cf3847df1e91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-05-13T18:59:02+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 13.05.26 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 13.05.26 [live]",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2341,21 +2356,6 @@
           "Live": false,
           "Duration": 5164,
           "ShortDescriptionLine1": "The main edition: 12.05.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 12.05.26",
-          "Poster": "https://img.mako.co.il/2026/05/12/Sheva_120526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/19keren_vtr2_n20260512_v1/19keren_vtr2_n20260512_v1_,850,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/SHORT/CH22_NEWS/2026/05/19keren_vtr2_n20260512_v1/19keren_vtr2_n20260512_v1_,850,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a8cc4595baa1e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/65581370de8cd910/VOD-a8cc4595baa1e91027.htm",
-          "ShortDescriptionLine2": "On the way to breaking up the coalition?",
-          "Date": "2026-05-12T18:58:47+03:00",
-          "Live": false,
-          "Duration": 2072,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 12.05.26"
         },
         {
           "Title": "חדשות סוף השבוע: 09.05.26",
@@ -2818,6 +2818,32 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש, 13.05.26",
+          "StreamerId": "6395431596112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/21d800b8-4dea-4739-b896-84db9667c82d/ca240a43-47a2-4d40-b1cf-1323e65e94d7/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395431596112",
+          "Date": "2026-05-13T15:38:48Z",
+          "Duration": 3858,
+          "ShortDescriptionLine1": "Five edition, 13.05.26",
+          "ShortDescriptionLine2": "2026-05-13T15:38:48Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/21d800b8-4dea-4739-b896-84db9667c82d/10s/master.m3u8?fastly_token=NmEyOWEwNmNfN2E2ZGE1NWM5MGFiNmMxNDAxMWIwOWY1ODNjYzI2MmQ3YmRkMWNiZGQ1N2FkZGEwMTNmMWI4NTNjNDc1MDEzNQ%3D%3D"
+          ]
+        },
+        {
+          "Title": "מהדורת 15, 13.05.26",
+          "StreamerId": "6395431546112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b753b4f2-62c2-4083-ab60-aa94cee08242/c56d00da-53ee-4669-a1ec-d15aa0ddbc0b/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395431546112",
+          "Date": "2026-05-13T15:18:31Z",
+          "Duration": 6582,
+          "ShortDescriptionLine1": "15th edition, 13.05.26",
+          "ShortDescriptionLine2": "2026-05-13T15:18:31Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b753b4f2-62c2-4083-ab60-aa94cee08242/10s/master.m3u8?fastly_token=NmEyOWFjY2ZfOTI1ZTVlMWU0MjU1MjAyOTg2OGUyZDRjY2MyNjEwZWEwYjVlYzQ0OWJmZDVkMmM5M2VkNWY0ZDEwNTViZDA0NA%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות, 13.05.26",
           "StreamerId": "6395430420112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/4ead711b-626d-4d8f-a510-3dfdcfb0931c/ede3a934-4956-4b57-b084-2fd64943c132/320x180/match/image.jpg",
@@ -2984,32 +3010,6 @@
           "ShortDescriptionLine2": "2026-05-11T18:38:09Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b08ded0f-8244-4053-8bec-c4fb11896e7a/10s/master.m3u8?fastly_token=NmEyNzI1ZGFfMjEzOTk3MTJhNzRhZmI2OWJjZjI4MjFiMGQ0MWUwOTBmN2NjYThjMTQzZDNmY2U2NGE0YmIyNGEwNzk5ODllZA%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת חמש, 10.05.26",
-          "StreamerId": "6395257198112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/f3599bd6-d304-4687-9ffa-5bf24065a284/e80e0e9b-f046-45d9-b327-d01705ae5315/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395257198112",
-          "Date": "2026-05-11T18:36:10Z",
-          "Duration": 3804,
-          "ShortDescriptionLine1": "Five edition, 10.05.26",
-          "ShortDescriptionLine2": "2026-05-11T18:36:10Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f3599bd6-d304-4687-9ffa-5bf24065a284/10s/master.m3u8?fastly_token=NmEyNzI2YjhfYmVjZDBjYmVkMTIzZTA0OTdkNzhiMWNlOWViOWRiZjNkNmI1ZTMxNjU1ODAyZDkxZjJjOTcxZDQwMTYzMTkxZg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 10.05.26",
-          "StreamerId": "6395255447112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/170f6a17-df87-4b41-ba47-a4d733eeb57d/c9a7b36c-abd0-4d56-91df-a21e246d3b02/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395255447112",
-          "Date": "2026-05-11T18:35:42Z",
-          "Duration": 6602,
-          "ShortDescriptionLine1": "15th edition, 10.05.26",
-          "ShortDescriptionLine2": "2026-05-11T18:35:42Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/170f6a17-df87-4b41-ba47-a4d733eeb57d/10s/master.m3u8?fastly_token=NmEyNzMzNmZfMWI5NjE5ZmRiZWUzNzljODg0MWU4MDExYjk3ZWQ0ZWRkZDk5YWJkYThmMmMyODQ0MDI2MDNiNzcwODE1OWFkNA%3D%3D"
           ]
         },
         {
