@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם איילה חסון | 13.05.26",
+          "ShortDescriptionLine1": "Seven with Ayala Hasson | 13.05.26",
+          "ShortDescriptionLine2": "2026-05-13 17:01:14",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040906/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199996/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1040906",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11039/1040906",
+          "Date": "2026-05-13 17:01:14",
+          "Duration": "3847"
+        },
+        {
           "Title": "כאן בשש | 13.05.26",
           "ShortDescriptionLine1": "Here at six 13.05.26",
           "ShortDescriptionLine2": "2026-05-13 16:22:14",
@@ -541,19 +554,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11544/1040558",
           "Date": "2026-05-12 19:35:03",
           "Duration": "7500"
-        },
-        {
-          "Title": "שבע עם מואב ורדי | 12.05.26",
-          "ShortDescriptionLine1": "Seven with Moav Vardi | 12.05.26",
-          "ShortDescriptionLine2": "2026-05-12 17:21:04",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040507/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199744/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1040507",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-actual/p-11039/1040507",
-          "Date": "2026-05-12 17:21:04",
-          "Duration": "4200"
         },
         {
           "Title": "משדר מיוחד עם יפעת גליק ותמר אלמוג | 12.05.26",
@@ -2283,19 +2283,34 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 13.05.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 13.05.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "cdecf3847df1e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-cdecf3847df1e91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-05-13T19:51:55+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 13.05.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 13.05.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22185211/22185211_noAdds/22185211_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/recording/Seven_With_Keren/22185211/22185211_noAdds/22185211_noAdds_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
           ],
           "StreamerId": "b45cf3847df1e910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/65581370de8cd910/VOD-b45cf3847df1e91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-13T18:59:02+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 13.05.26 [live]"
+          "Live": false,
+          "Duration": 2069,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 13.05.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 13.05.26",
@@ -2341,21 +2356,6 @@
           "Live": false,
           "Duration": 5248,
           "ShortDescriptionLine1": "Today's edition: 13.05.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 12.05.26",
-          "Poster": "https://img.mako.co.il/2026/05/12/Mahadura_Merkazit_120526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/May/Mahadurat_Merkazit_120526_VOD_odl203/Mahadurat_Merkazit_120526_VOD_odl203_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/May/Mahadurat_Merkazit_120526_VOD_odl203/Mahadurat_Merkazit_120526_VOD_odl203_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
-          ],
-          "StreamerId": "a5ce4595baa1e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-a5ce4595baa1e91027.htm",
-          "ShortDescriptionLine2": "On the way to the dissolution of the Knesset?",
-          "Date": "2026-05-12T19:52:18+03:00",
-          "Live": false,
-          "Duration": 5164,
-          "ShortDescriptionLine1": "The main edition: 12.05.26"
         },
         {
           "Title": "חדשות סוף השבוע: 09.05.26",
@@ -2513,6 +2513,21 @@
           "ShortDescriptionLine1": "HaBat (Unconditional): You have turned"
         },
         {
+          "Title": "אופירה אוחנה סרי: בני גנץ באולפן",
+          "Poster": "https://img.mako.co.il/2026/05/08/Ofira_080526_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/May/Ofira_Ohana_Seri_080526_VOD_jgi788/Ofira_Ohana_Seri_080526_VOD_jgi788_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Ofira_Ohana_Sery/2026/May/Ofira_Ohana_Seri_080526_VOD_jgi788/Ofira_Ohana_Seri_080526_VOD_jgi788_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "1b795081b4ddd910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_ohana_seri-2026/VOD-1b795081b4ddd91027.htm",
+          "ShortDescriptionLine2": "After the sequence of departures from the party, Benny Gantz on the continuation",
+          "Date": "2026-05-08T17:59:57+03:00",
+          "Live": false,
+          "Duration": 5399,
+          "ShortDescriptionLine1": "Ofira Ohana Seri: Benny Gantz in the studio"
+        },
+        {
           "Title": "דוח מצב עם עינב וירון: ההיערכות לירי חיזבאללה",
           "Poster": "https://img.mako.co.il/2026/05/07/Doh_Mazav_070526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2586,6 +2601,21 @@
           "Live": false,
           "Duration": 2980,
           "ShortDescriptionLine1": "HaBat (Unconditional): No longer alone"
+        },
+        {
+          "Title": "אופירה אוחנה סרי: שבוע של אלימות שוברת שיאים",
+          "Poster": "https://img.mako.co.il/2026/05/01/Ofira_Ohana_Seri_010526_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/May/Ofira_Ohana_Seri_010526_VOD_mjk876/Ofira_Ohana_Seri_010526_VOD_mjk876_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/d3par5938i20jq.cloudfront.net/hls/VOD/KESHET/Ofira_Ohana_Sery/2026/May/Ofira_Ohana_Seri_010526_VOD_mjk876/Ofira_Ohana_Seri_010526_VOD_mjk876_,550,850,1400,2200,.mp4.csmil/index.m3u8?rv=aws"
+          ],
+          "StreamerId": "cbd90152d459d910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/ofira_ohana_seri-2026/VOD-cbd90152d459d91027.htm",
+          "ShortDescriptionLine2": "The former Minister of Internal Security, Amr Bar-Lev, in the studio",
+          "Date": "2026-05-01T18:00:22+03:00",
+          "Live": false,
+          "Duration": 5475,
+          "ShortDescriptionLine1": "Ofira Ohana Seri: A week of record-breaking violence"
         },
         {
           "Title": "עובדה: \"האתרוג\" פותח ",
