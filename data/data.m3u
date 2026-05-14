@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-14 13:35
+# Last updated: 2026-05-14 14:26
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -157,6 +157,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192064/LIBCODER
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:1992 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 14.05.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_1t0wyi13/flavorIds/1_axj3gen5,1_8yn1h1wg,1_sj64k3e8,1_h83qti5g,1_bk56ux3n,1_3uoh88xh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:3167 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 14.05.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4quupgjv/flavorIds/1_e1xji7i3,1_8v9q21g0,1_6a3rkovc,1_srt8eo71,1_pw1n5gyx,1_xnw4enkd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -171,9 +174,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gqolmm
 
 #EXTINF:4054 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 13.05.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bcfvo8ni/flavorIds/1_hl63cmod,1_1p7fju1j,1_ef5j50ad,1_p34qpmp7,1_75ydiimd,1_03dgnr5n/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:1917 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 13.05.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_euaa62vv/flavorIds/1_f46unfsp,1_xpeya019,1_sxnjnl9k,1_mdrqvnkx,1_67j3hn8j,1_wbjf3rd1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:3979 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 09.05.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pkrqmpeu/flavorIds/1_1zwrxgr4,1_cq1bvnfx,1_mfl81tky,1_h65cyxlh,1_9f3ixl1a,1_0w6lo12w/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -616,14 +616,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3468 tvg-logo="https://img.mako.co.il/2026/04/16/Uvda2026_12_160426_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: הצילומים הנעלמים נחשפים
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/April/Uvda2026_12_160426_VOD_sfg987/Uvda2026_12_160426_VOD_sfg987_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:4082 tvg-logo="https://img.mako.co.il/2026/03/30/Reset_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: פרק הסיום
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_08_300326_VOD_nn27/Reset_08_300326_VOD_nn27_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:4196 tvg-logo="https://img.mako.co.il/2026/03/26/Uvda2026_11_260326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אבא בבית - עמרי ולישי מירן מדברים אחרי השבי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/March/Uvda2026_11_260326_VOD_pcd436/Uvda2026_11_260326_VOD_pcd436_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2817 tvg-logo="https://img.mako.co.il/2026/03/23/Reset_07_230326_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: עבודת החלומות של גידי
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_07_230326_VOD_nnx341/Reset_07_230326_VOD_nnx341_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3099 tvg-logo="https://img.mako.co.il/2026/03/26/1111_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: משדר מלחמה מיוחד
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/March/Uvda2026_10_190326_VOD_gtft5/Uvda2026_10_190326_VOD_gtft5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
