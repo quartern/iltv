@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-15 13:24
+# Last updated: 2026-05-15 15:24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:3242 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041544/poster" group-title="Kan 11 Featured",ערב עם שי שטרן 6 - פרק 17
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200714/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2379 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034942/poster" group-title="Kan 11 Featured",שום פלפל ושמן זית 2026 | פרק 7 - ספיישל אירוויזיון - נטע ברזילי
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195196/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198414/LIBCODER
 
 #EXTINF:152 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036537/poster" group-title="Kan 11 Featured",צביקה הדר | דרדלה לחיבורים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195613/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:148 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1036536/poster" group-title="Kan 11 Featured",נטע רוט | תולדות האהבה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2195610/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2433 tvg-logo="https://www.kan.org.il/media/yuamxeil/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -535,8 +535,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",אולפן שישי: 15.05.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+#EXTINF:5182 tvg-logo="https://img.mako.co.il/2026/05/15/Ulpan_Shishi_150526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",אולפן שישי: 15.05.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/22185263/22185263_noAdds/22185263_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4474 tvg-logo="https://img.mako.co.il/2026/05/14/Mahadura_Merkazit_140526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 14.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/May/Mahadura_Merkazit_140526_VOD_UBD032/Mahadura_Merkazit_140526_VOD_UBD032_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
