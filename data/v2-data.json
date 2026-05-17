@@ -669,9 +669,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_bw29eeaw",
           "Date": "2026-05-17 21:26:06",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/vote-zone/episodes/erzhy-905158800/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/340/season/1/4414585/",
           "Duration": 1949,
-          "ShortDescriptionLine1": "Vote Zone",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-05-17 21:26:06",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bw29eeaw/flavorIds/1_4pxxgo4f,1_c8c6fqvd,1_i1wlfb6q,1_kwcnw1qs,1_yf2wnajx,1_v6e9ck6p/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1145,6 +1145,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "אתה חייב לקרוא את זה עונה 2 | פרק 6 - לירז ואושרי",
+          "ShortDescriptionLine1": "You must read it season 2 | Chapter 6 - Liraz and Usheri",
+          "ShortDescriptionLine2": "2026-05-17 19:02:40",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034561/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194806/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1034561",
+          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-895076/s2/1034561",
+          "Date": "2026-05-17 19:02:40",
+          "Duration": "1792"
+        },
+        {
           "Title": "לא לריב | פרק 1 - הצוואה",
           "ShortDescriptionLine1": "not to fight Chapter 1 - The will",
           "ShortDescriptionLine2": "2026-05-17 18:30:02",
@@ -1390,19 +1403,6 @@
           "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-1029184/s1/1034095",
           "Date": "2026-05-09 19:31:10",
           "Duration": "3242"
-        },
-        {
-          "Title": "פגישה עם רוני קובן עונה 10 | פרק 22 - יובל רפאל",
-          "ShortDescriptionLine1": "Meeting with Ronnie Cuban season 10 | Chapter 22 - Yuval Raphael",
-          "ShortDescriptionLine2": "2026-05-09 18:32:21",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1038875/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2198449/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1038875",
-          "EpisodeUrl": "https://kan.org.il/content/kan/kan-11/p-11486/s10/1038875",
-          "Date": "2026-05-09 18:32:21",
-          "Duration": "2310"
         }
       ]
     },
@@ -2822,6 +2822,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית, 17.05.26",
+          "StreamerId": "6395885833112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/2aec107b-5936-400b-aafb-e936d4ce30f3/f4e1d6f2-e53f-4a77-a0fd-58388b477538/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395885833112",
+          "Date": "2026-05-17T18:33:30Z",
+          "Duration": 5496,
+          "ShortDescriptionLine1": "The main edition, 17.05.26",
+          "ShortDescriptionLine2": "2026-05-17T18:33:30Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/2aec107b-5936-400b-aafb-e936d4ce30f3/10s/master.m3u8?fastly_token=NmEyZjE3N2FfNmY4NTRlNjFmMzk5YWE2NDFkYzAwNDVkNWJmNTQwMWM4MDYxYmJlNWFjMmI4Y2I2MzNkZTdhNTVlOTM5MGJiZA%3D%3D"
+          ]
+        },
+        {
           "Title": "7 שרון גל, 17.05.26",
           "StreamerId": "6395879538112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/feac7d69-f15e-4cbc-9f4a-d00dbcd63d87/cf52c6c4-eff3-4cbb-802b-a2d45ed9a2ee/320x180/match/image.jpg",
@@ -3053,19 +3066,6 @@
           "ShortDescriptionLine2": "2026-05-13T19:50:14Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/9a4a5053-d926-4461-b995-8b2cdfe31dbd/10s/master.m3u8?fastly_token=NmEyZTQ1NzdfNWQyODgzNmEwZmMxMTg3ZDYzOWRmYjRmYTI2M2ZhZGFlYmM3OTM4NWJjMTY0OWVjNzBjYzIxZGJiMjQ2MTc3ZQ%3D%3D"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית, 13.05.26",
-          "StreamerId": "6395445260112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/b43eb511-247e-4d92-8aee-141a899211ab/7767d7e5-299b-4620-8531-9d07ecaf81e2/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6395445260112",
-          "Date": "2026-05-13T18:40:24Z",
-          "Duration": 5495,
-          "ShortDescriptionLine1": "The main edition, 13.05.26",
-          "ShortDescriptionLine2": "2026-05-13T18:40:24Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/b43eb511-247e-4d92-8aee-141a899211ab/10s/master.m3u8?fastly_token=NmEyZTNlZTFfNmRmYTM1YjA5OTdiZWNjMjc4NjgyYjE2MTQ2OWI4NGJlNDVjNmQ2NDE2NGY2MzgzNzczMTk3ZDU0ODc5MjhkMQ%3D%3D"
           ]
         },
         {
