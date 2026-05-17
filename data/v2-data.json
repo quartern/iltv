@@ -665,6 +665,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 17.05.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_oz3dsedq",
+          "Date": "2026-05-17 19:46:04",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/moriah-berko/episodes/bpytd-905158577/",
+          "Duration": 3086,
+          "ShortDescriptionLine1": "Moriah Berko",
+          "ShortDescriptionLine2": "2026-05-17 19:46:04",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_oz3dsedq/flavorIds/1_fkd6x2m5,1_xhubx5fi,1_cqg2snad,1_qhdo77qv,1_jbju88wd,1_6bb696nx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 17.05.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_ilum8f0y",
@@ -701,19 +714,6 @@
           "ShortDescriptionLine2": "2026-05-16 23:28:03",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_x9f8je31/flavorIds/1_7wvrntv1,1_rnzvrf37,1_zjhmrgs9,1_vwkyysct,1_akg7t64g,1_8kyzjmf2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 16.05.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_bjfgfvjd",
-          "Date": "2026-05-16 21:31:20",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4412546/",
-          "Duration": 4920,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-05-16 21:31:20",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bjfgfvjd/flavorIds/1_97r3ono3,1_ew1u1enp,1_stod67oy,1_2upvfnpo,1_qqwm98hh,1_kkqpe29m/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2322,19 +2322,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 17.05.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 17.05.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "2fdad4e83943e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-2fdad4e83943e91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-05-17T19:51:33+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 17.05.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 17.05.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22185311/22185311_noAdds/22185311_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "eac071974843e910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/65581370de8cd910/VOD-eac071974843e91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-05-17T18:57:54+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Sheva with the Marciano Foundation: 17.05.26 [live]"
+          "Live": false,
+          "Duration": 2245,
+          "ShortDescriptionLine1": "Sheva with the Marciano Foundation: 17.05.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 17.05.26",
@@ -2447,20 +2461,6 @@
           "Live": false,
           "Duration": 5211,
           "ShortDescriptionLine1": "Studio Friday: 15.05.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 14.05.26",
-          "Poster": "https://img.mako.co.il/2026/05/14/Mahadura_Merkazit_140526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/May/Mahadura_Merkazit_140526_VOD_UBD032/Mahadura_Merkazit_140526_VOD_UBD032_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "76155b3dcd42e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2026/933a1370de8cd910/VOD-76155b3dcd42e91027.htm",
-          "ShortDescriptionLine2": "Peak vigilance in the security system towards the end of the week",
-          "Date": "2026-05-14T19:51:45+03:00",
-          "Live": false,
-          "Duration": 4474,
-          "ShortDescriptionLine1": "The main edition: 14.05.26"
         },
         {
           "Title": "פגוש את העיתונות: 09.05.26",
