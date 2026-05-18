@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-18 18:55
+# Last updated: 2026-05-18 19:13
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:1957 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1042677/poster" group-title="11 News - Latest shows",חדשות הלילה | 18.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201897/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:6421 tvg-logo="https://www.kan.org.il/media/2sejmef3/015f9b9c-c7c5-4299-ab33-d8783e19ec26.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",מהדורת כאן חדשות | 18.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201889/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -117,9 +120,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201843/LIBCODER
 
 #EXTINF:3259 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1042620/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר | 18.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201851/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:854 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1042598/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 18.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201842/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:4120 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1042604/poster" group-title="11 News - Latest shows",כאן בשש | 18.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201845/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -130,14 +130,23 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201839/LIBCODER
 #EXTINF:2417 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1042569/poster" group-title="11 News - Latest shows",העולם היום | 18.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201834/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:6300 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041830/poster" group-title="11 News - Latest shows",חדשות השבת | 16.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201134/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:7140 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041785/poster" group-title="11 News - Latest shows",שרון ואורי | 16.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201112/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:7634 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041764/poster" group-title="11 News - Latest shows",משדר מיוחד עם יפעת גליק ותמר אלמוג | 16.05.26 - 15:00
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201106/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:9006 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041571/poster" group-title="11 News - Latest shows",חדשות שישי | 15.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200734/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7570 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041527/poster" group-title="11 News - Latest shows",גליק ותמר בשישי | 15.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200705/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:862 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031539/poster" group-title="11 News - Latest shows","תדאגו שיהיה לי ילדים": ההורים שנאבקים להביא נכד מהבן שנפל
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192064/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:1337 tvg-logo="https://www.kan.org.il/media/n4shiavt/s0489484_item01b.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -436,8 +445,14 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192064/LIBCODER
 #EXTINF:643 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031516/poster" group-title="Kan 11 Specials","הוא רצה להיות רמטכ"ל": יום הזיכרון הראשון של משפחת יעבץ בלי איתי ז"ל
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192048/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:608 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031505/poster" group-title="Kan 11 Specials",השיר שדיבר על הלם קרב - כבר לפני 60 שנה: נונו וג'ימבו ג'יי בגרסה מחודשת ל&quot;הייתי נער&quot;
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192050/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:641 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1031066/poster" group-title="Kan 11 Specials","איך זה שבעלי נפל ואני מצליחה לחייך?": יומן השכול הלא שגרתי של דפני
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2191592/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:1050 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1030160/poster" group-title="Kan 11 Specials",איך התאחדו שתי משפחות שאיבדו את היקר מכל במלחמה מול הכאב והאובדן?
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2190860/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:5066 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1777801724/uploads/2026/905128103.jpg" group-title="Reshet 13 Docu",לב של לוחם - לזכרו של רס"ל אמיר פישר ז"ל
 https://raw.githubusercontent.com/quartern/iltv/develop/cache/1_a4btw9tn/a.m3u8
@@ -618,6 +633,15 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2816 tvg-logo="https://img.mako.co.il/2026/02/10/Reset_01_100226_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: פרק הבכורה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_01_100226_VOD_drn007/Reset_01_100226_VOD_drn007_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4482 tvg-logo="https://img.mako.co.il/2025/05/25/Rokdim_Im_Kochavim3_04_240525_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ריקוד הבכורה: חלק 3
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S04/EP/Rokdim_Im_Kokhavim4_03_240525_VOD_ngd897/Rokdim_Im_Kokhavim4_03_240525_VOD_ngd897_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4568 tvg-logo="https://img.mako.co.il/2025/07/24/Rodkim_Im_Kochavim4_02_200525_VOD_autoOrient_i_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ריקוד הבכורה: חלק 2
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S04/EP/Rokdim_Im_Kokhavim4_02_200525_VOD_bf5ds8/Rokdim_Im_Kokhavim4_02_200525_VOD_bf5ds8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4680 tvg-logo="https://img.mako.co.il/2025/05/20/rokdim_im_kochavim4_01_180525_VOD__autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ריקוד הבכורה: חלק 1
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S04/EP/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898/Rokdim_Im_Kochavim4_01_180525_VOD_hgd898_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5558 tvg-logo="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/a1e9b14c-acb7-4d88-a405-9c017b91b07d/080dbcc2-9c1e-46f9-9cef-41e6e2ebf6a9/320x180/match/image.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית,18.05.26
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/a1e9b14c-acb7-4d88-a405-9c017b91b07d/10s/master.m3u8?fastly_token=NmEzMDY3MjhfNjg0NGIzOGIzMGE1NTgwMGY4YjU4NzQ2NTg5YTRhMmVlNGFhZTVmMTlmZjZjNjY3YWU5NDk1ZDU0MjYyMGFkNA%3D%3D
