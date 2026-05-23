@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-23 15:54
+# Last updated: 2026-05-23 16:07
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:3206 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1043787/poster" group-title="Kan 11 Featured",דודו טסה - לתפוס דג
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2202774/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2600 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1043996/poster" group-title="Kan 11 Featured",מלכת השכונה | פרק 1 - אלירן תעלה אותנו ליגה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203172/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199699/LIBCODER
 
 #EXTINF:115 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040329/poster" group-title="Kan 11 Featured",יובל פלוטקין | להרוג את הכלב השני
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199698/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:110 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040333/poster" group-title="Kan 11 Featured",עינב גלילי | לילה ארוך בפריז
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199700/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -556,9 +556,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recordi
 #EXTINF:6006 tvg-logo="https://img.mako.co.il/2026/05/22/Ulpan_Shishi_220526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",אולפן שישי: 22.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/20mahadura_full_vtr2_n202605222_v1/20mahadura_full_vtr2_n202605222_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:4517 tvg-logo="https://img.mako.co.il/2026/05/22/Mahadura_Merkazit_210526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 21.05.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/20almaz_vtr2_n20260521_v1/20almaz_vtr2_n20260521_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:2003 tvg-logo="https://img.mako.co.il/2026/05/20/Sheva_200526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 20.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/19mukdemet_vtr2_n20260520_v1/19mukdemet_vtr2_n20260520_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -574,6 +571,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:5114 tvg-logo="https://img.mako.co.il/2026/05/16/Pgosh_Et_Haitonot_160626_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 16.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/pgosh_vtr2_n20260516_v1/pgosh_vtr2_n20260516_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai
+
 #EXTINF:3281 tvg-logo="https://img.mako.co.il/2026/05/20/Bizman_Sheavadetem_200526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: משבר האנרגיה שמטריף את כולם
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/May/Bizman_Sheavadetem_200526_VOD_kjg145/Bizman_Sheavadetem_200526_VOD_kjg145_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -585,9 +585,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:7530 tvg-logo="https://img.mako.co.il/2026/05/20/Hadshot_Haboker_200526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: הלחימה בלבנון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_200526_VOD_SBU382/Hadshot_Haboker_200526_VOD_SBU382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2240 tvg-logo="https://img.mako.co.il/2026/05/20/Avri_Sherki_190526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: בן שני
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/May/Avri_Sherki_190526_VOD_ANB371/Avri_Sherki_190526_VOD_ANB371_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3205 tvg-logo="https://img.mako.co.il/2026/05/18/Habat_04_180526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: הסיפור האמיתי מתחיל
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_04_180526_VOD_fhgtr5/Habat_04_180526_VOD_fhgtr5_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
