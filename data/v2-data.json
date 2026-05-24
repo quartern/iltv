@@ -2130,17 +2130,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2103938/k12/index.m3u8?b-in-range=0-1100?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c2cc280e68b1e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-c2cc280e68b1e91026.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-05-24T07:10:14+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: יאיר גולן",
           "Poster": "https://img.mako.co.il/2026/05/23/Avri_Sherki_230526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22185460/22185460_noAdds/22185460_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/May/Avri_Sherki_230526_VOD_aue628/Avri_Sherki_230526_VOD_aue628_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9c520606a344e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-9c520606a344e91027.htm",
+          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-9c520606a344e91027.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-05-23T22:58:17+03:00",
           "Live": false,
-          "Duration": 2413,
+          "Duration": 2024,
           "ShortDescriptionLine1": "Avery and Sharky: Yair Golan"
         },
         {
@@ -2184,20 +2199,6 @@
           "Live": false,
           "Duration": 3278,
           "ShortDescriptionLine1": "Nesli and Yoav: non-stop fire in the north"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: הלחימה בלבנון",
-          "Poster": "https://img.mako.co.il/2026/05/20/Hadshot_Haboker_200526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/May/Hadshot_Haboker_200526_VOD_SBU382/Hadshot_Haboker_200526_VOD_SBU382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "a55c280e68b1e910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-a55c280e68b1e91026.htm",
-          "ShortDescriptionLine2": "The IDF attacked dozens of targets throughout southern Lebanon",
-          "Date": "2026-05-20T07:09:50+03:00",
-          "Live": false,
-          "Duration": 7530,
-          "ShortDescriptionLine1": "The morning news with Niv Raskin: the fighting in Lebanon"
         },
         {
           "Title": "הבת: הסיפור האמיתי מתחיל",
