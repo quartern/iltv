@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-05-26 13:50
+# Last updated: 2026-05-26 14:08
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4200 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1045665/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר | 26.05.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205034/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3970 tvg-logo="https://www.kan.org.il/media/m5dl5znf/artboard-1.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",כאן בשש | 26.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205011/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -132,9 +135,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204563/LIBCODER
 
 #EXTINF:4274 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1045225/poster" group-title="11 News - Latest shows",זמן אמת עונה 10 | פרק 4 - טקס זיכרון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204522/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3683 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1045245/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר | 25.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2204530/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6243 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1044301/poster" group-title="11 News - Latest shows",חדשות השבת | 23.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203334/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -357,15 +357,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201145/LIBCODER
 
 #EXTINF:14910 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041484/poster" group-title="Kan 11 Specials",אירוויזיון 2026 - הגמר | המשדר המלא
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1441 tvg-logo="https://www.kan.org.il/media/dpoecwvn/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a0%d7%a7%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 1 - כפרות
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_csokhtwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1475 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809157/poster" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 2 - הסטארט-אפ של כוכבה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygac97dd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1357 tvg-logo="https://www.kan.org.il/media/41shjzq0/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 3 - שברת שילמת
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8emnwxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3698 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan838880/poster" group-title="Kan 11 Specials",סינדרום עזה | פרק 1 - נקודת העיוורון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4tf45try/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
