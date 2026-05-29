@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר בשישי | 29.05.26",
+          "ShortDescriptionLine1": "Glick and Tamar on Friday 29.05.26",
+          "ShortDescriptionLine2": "2026-05-29 17:01:30",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1046599/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2205954/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1046599",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1046599",
+          "Date": "2026-05-29 17:01:30",
+          "Duration": "7617"
+        },
+        {
           "Title": "חדשות הלילה | 28.05.26",
           "ShortDescriptionLine1": "Tonight's news 28.05.26",
           "ShortDescriptionLine2": "2026-05-28 20:46:38",
@@ -619,19 +632,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11668/1044115",
           "Date": "2026-05-22 20:07:38",
           "Duration": "7769"
-        },
-        {
-          "Title": "גליק ותמר בשישי | 22.05.26",
-          "ShortDescriptionLine1": "Glick and Tamar on Friday 22.05.26",
-          "ShortDescriptionLine2": "2026-05-22 18:44:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1044096/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203195/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1044096",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1044096",
-          "Date": "2026-05-22 18:44:45",
-          "Duration": "8100"
         },
         {
           "Title": "משדר מיוחד עם יפעת גליק ותמר אלמוג | 16.05.26 - 15:00",
@@ -2322,6 +2322,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 29.05.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "dc06cfc7a1d6e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/8cad1370de8cd910/VOD-dc06cfc7a1d6e91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-05-29T19:55:21+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Studio Friday: 29.05.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 28.05.26",
           "Poster": "https://img.mako.co.il/2026/05/28/Mahadura_Merkazit_280526_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2446,20 +2460,6 @@
           "Live": false,
           "Duration": 1800,
           "ShortDescriptionLine1": "The young edition: 23.05.26"
-        },
-        {
-          "Title": "אולפן שישי: 22.05.26",
-          "Poster": "https://img.mako.co.il/2026/05/22/Ulpan_Shishi_220526_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/20mahadura_full_vtr2_n202605222_v1/20mahadura_full_vtr2_n202605222_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "7cd2f400b144e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/8cad1370de8cd910/VOD-7cd2f400b144e91027.htm",
-          "ShortDescriptionLine2": "Negotiations between the US and Iran",
-          "Date": "2026-05-22T19:54:59+03:00",
-          "Live": false,
-          "Duration": 6006,
-          "ShortDescriptionLine1": "Studio Friday: 22.05.26"
         },
         {
           "Title": "פגוש את העיתונות: 16.05.26",
