@@ -2322,18 +2322,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 01.06.26 [live]",
+          "Title": "המהדורה המרכזית: 01.06.26",
           "Poster": "https://img.mako.co.il/2026/06/01/Mahadura_Merkazit_010626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22237674/22237674_noAdds/22237674_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "0942adf8bc18e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-0942adf8bc18e91027.htm",
           "ShortDescriptionLine2": "The consultations in Israel about the attacks in Beirut",
           "Date": "2026-06-01T19:52:23+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Main edition: 01.06.26 [live]"
+          "Live": false,
+          "Duration": 4622,
+          "ShortDescriptionLine1": "Main edition: 01.06.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 01.06.26",
@@ -2480,6 +2480,20 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "הבת: כל האמת על גלי [live]",
+          "Poster": "https://img.mako.co.il/2026/04/26/HaBat_x5_red_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "12a9275ce944e910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/unconditional-s1/VOD-12a9275ce944e91027.htm",
+          "ShortDescriptionLine2": "Now finally the whole truth about Gali is revealed",
+          "Date": "2026-06-01T21:48:46+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "HaBat (Unconditional): The whole truth about Gali [live]"
+        },
         {
           "Title": "נסלי ויואב: הירי מלבנון מתרחב",
           "Poster": "https://img.mako.co.il/2026/06/01/Nesli_Yoav_010626_VOD_re_autoOrient_I_reduced.jpg",
@@ -2717,20 +2731,6 @@
           "Live": false,
           "Duration": 4362,
           "ShortDescriptionLine1": "Uvda: LED power"
-        },
-        {
-          "Title": "הבת: כבר לא לבד",
-          "Poster": "https://img.mako.co.il/2026/05/04/Habat_02_040526_Liraz2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_02_040526_VOD_dju34/Habat_02_040526_VOD_dju34_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "fe6028c5834dd910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/unconditional-s1/VOD-fe6028c5834dd91026.htm",
-          "ShortDescriptionLine2": "Orna needs someone she can trust",
-          "Date": "2026-05-04T21:55:19+03:00",
-          "Live": false,
-          "Duration": 2980,
-          "ShortDescriptionLine1": "HaBat (Unconditional): No longer alone"
         },
         {
           "Title": "עובדה: \"האתרוג\" פותח ",
