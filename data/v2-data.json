@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 01.06.26",
+          "ShortDescriptionLine1": "Tonight's news 01.06.26",
+          "ShortDescriptionLine2": "2026-06-01 21:25:46",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047850/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206744/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1047850",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1047850",
+          "Date": "2026-06-01 21:25:46",
+          "Duration": "2820"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 01.06.26",
           "ShortDescriptionLine1": "Evening News | 01.06.26",
           "ShortDescriptionLine2": "2026-06-01 19:37:26",
@@ -554,19 +567,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-900232/1047537",
           "Date": "2026-06-01 13:20:22",
           "Duration": "3580"
-        },
-        {
-          "Title": "חדשות הלילה | 31.05.26",
-          "ShortDescriptionLine1": "Tonight's news 31.05.26",
-          "ShortDescriptionLine2": "2026-05-31 20:29:07",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047293/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206616/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1047293",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1047293",
-          "Date": "2026-05-31 20:29:07",
-          "Duration": "1770"
         },
         {
           "Title": "\"אי אפשר להתפרנס מציונות\": העסקים בצפון קורסים - איפה העזרה מהמדינה?",
@@ -2481,18 +2481,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22237699/22237699_noAdds/22237699_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "88ecfbd63ec7e910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-88ecfbd63ec7e91026.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-06-01T23:30:23+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "Duration": 2521,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "הבת: כל האמת על גלי",
