@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-02 14:09
+# Last updated: 2026-06-02 14:41
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:2237 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1033238/poster" group-title="Kan 11 Featured",לא לריב | פרק 6 - מרפסת לשאנז אליזה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194045/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3327 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047725/poster" group-title="Kan 11 Featured",זמן אמת עונה 10 | פרק 5 - סוף משפט
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206715/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -330,9 +333,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203919/LIBCODER
 
 #EXTINF:135 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1045024/poster" group-title="Kan 11 Featured",איתי רייכר | המין האנושי: היסטוריה של תקווה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203923/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:166 tvg-logo="https://www.kan.org.il/media/4e1dckks/3_%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",דורון נשר | החיים כמשל
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2203922/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -555,9 +555,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recordi
 
 #EXTINF:5454 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 02.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22237703/22237703_noAdds/22237703_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:4899 tvg-logo="https://img.mako.co.il/2026/05/30/Hadashot_Sof_Hashavua_300526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 30.05.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/20mahadurafullll_vtr2_n20260530_v1/20mahadurafullll_vtr2_n20260530_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5144 tvg-logo="https://img.mako.co.il/2026/05/30/Pgosh_300526_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 30.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/18pgosh_vtr2_n20260530_v1/18pgosh_vtr2_n20260530_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
