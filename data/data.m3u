@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-03 12:06
+# Last updated: 2026-06-03 12:20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4439 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1048614/poster" group-title="11 News - Latest shows",כאן בשש | 03.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207615/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:862 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1048608/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 03.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207612/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -129,9 +132,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207460/LIBCODER
 
 #EXTINF:3227 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1048282/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר | 02.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207420/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3954 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1048259/poster" group-title="11 News - Latest shows",כאן בשש | 02.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207414/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3327 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047725/poster" group-title="11 News - Latest shows",זמן אמת עונה 10 | פרק 5 - סוף משפט
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206715/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -544,8 +544,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqan
 #EXTINF:0 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 03.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 03.06.26
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai
+#EXTINF:2909 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 03.06.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22237736/22237736_noAdds/22237736_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2477 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 03.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22237750/22237750_noAdds/22237750_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -573,9 +573,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:5141 tvg-logo="https://img.mako.co.il/2026/05/23/Pgosh_Et_Haitonot_230626_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 23.05.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/05/19pgosh_vtr2_n20260523_v1/19pgosh_vtr2_n20260523_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:4944 tvg-logo="https://img.mako.co.il/2026/06/03/Nesli_Yoav_030626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: החידושים בדרך לשדה התעופה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/June/Nesli_Yoav_030626_VOD_nco270/Nesli_Yoav_030626_VOD_nco270_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:7438 tvg-logo="https://img.mako.co.il/2026/06/03/Hadshot_Haboker_030626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: זעקת תושבי הצפון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/June/Hadshot_Haboker_030626_VOD_cby598/Hadshot_Haboker_030626_VOD_cby598_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
