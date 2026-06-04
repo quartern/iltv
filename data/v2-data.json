@@ -2322,17 +2322,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 04.06.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "72a0351d0219e910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/55b83cd373a5e910/VOD-72a0351d0219e91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-06-04T17:55:32+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 04.06.26"
+        },
+        {
           "Title": "חמש עם רפי רשף: 04.06.26",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22237778/22237778_noAdds/22237778_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6f3f351d0219e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/28183cd373a5e910/VOD-6f3f351d0219e91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-06-04T16:56:06+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 2467,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 04.06.26"
         },
         {
@@ -2376,20 +2390,6 @@
           "Live": false,
           "Duration": 2077,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 06.03.26"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 03.06.26",
-          "Poster": "https://img.mako.co.il/2026/06/03/Shesh_030626_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/06/18shesh_vtr2_n20260603_v1/18shesh_vtr2_n20260603_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "37bd80f942c8e910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/55b83cd373a5e910/VOD-37bd80f942c8e91026.htm",
-          "ShortDescriptionLine2": "Threats to MKs who did not elect Netanyahu's attorney",
-          "Date": "2026-06-03T17:55:37+03:00",
-          "Live": false,
-          "Duration": 2850,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 06.03.26"
         },
         {
           "Title": "חדשות סוף השבוע: 30.05.26",
@@ -2822,6 +2822,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15, 04.06.26",
+          "StreamerId": "6397541915112",
+          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/83b56431-1251-4097-96b8-28f8aaccdc92/7be9d9bd-a5e2-4da4-9bb8-e381cf355fe0/320x180/match/image.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6397541915112",
+          "Date": "2026-06-04T14:46:11Z",
+          "Duration": 6539,
+          "ShortDescriptionLine1": "15th edition, 04.06.26",
+          "ShortDescriptionLine2": "2026-06-04T14:46:11Z",
+          "StreamUrls": [
+            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/83b56431-1251-4097-96b8-28f8aaccdc92/10s/master.m3u8?fastly_token=NmE0NmEwNDJfYWNkZTc3NjY0YTkwNWI3MzdhY2Q2YTI4ODQwMWJhZmYyMzAyNzgwOGNmMTdlZDYwZmU5Y2UwMzY5YzYzMjExYw%3D%3D"
+          ]
+        },
+        {
           "Title": "מדברים חדשות, 04.05.26",
           "StreamerId": "6397540587112",
           "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/778c1955-3a76-4ac4-b8df-d1bd60051448/74c28f02-398c-45e3-b5ad-476f4fe978ce/320x180/match/image.jpg",
@@ -2988,19 +3001,6 @@
           "ShortDescriptionLine2": "2026-06-02T15:09:08Z",
           "StreamUrls": [
             "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/f782dafb-2169-498c-8b09-155282e55cbf/10s/master.m3u8?fastly_token=NmE0M2Y4M2FfYmM1ZWQxZWIyZjljMzY3ZWNhOGE0M2ZkODY3YjA5YmM4Y2U0YmRjMWE5MmE0Y2M3ZGNmMjIwYjc2YzhlNDczYg%3D%3D"
-          ]
-        },
-        {
-          "Title": "מהדורת 15, 02.06.26",
-          "StreamerId": "6397318103112",
-          "Poster": "https://cf-images.eu-west-1.prod.boltdns.net/v1/static/5377161796001/aed04772-205b-4aac-b164-a71894aac484/ec698118-1474-4bad-8b9f-70f378995d0c/320x180/match/image.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/he/0e8ab8d2-dd73-44ce-a563-bcf82757ad45/content/6397318103112",
-          "Date": "2026-06-02T14:32:19Z",
-          "Duration": 6527,
-          "ShortDescriptionLine1": "15th edition, 02.06.26",
-          "ShortDescriptionLine2": "2026-06-02T14:32:19Z",
-          "StreamUrls": [
-            "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/aes128/5377161796001/aed04772-205b-4aac-b164-a71894aac484/10s/master.m3u8?fastly_token=NmE0M2ZiYzRfODAxMTYxMTAzM2UyMTM0NTA0NjU3MzI1ODcyOTU1ZDY0NTRhMmE2NjJjOTUwOGY0ZGFlNDE3NDA3YTc4ODBkMw%3D%3D"
           ]
         },
         {
