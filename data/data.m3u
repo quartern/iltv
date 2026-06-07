@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-07 13:03
+# Last updated: 2026-06-07 13:22
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,12 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:3840 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1049908/poster" group-title="11 News - Latest shows",שבע עם ליאל קייזר | 07.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208773/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:4620 tvg-logo="https://www.kan.org.il/media/gvypu1dl/%d7%9b%d7%90%d7%9f-%d7%91%d7%a9%d7%a9-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",כאן בשש | 07.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208766/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:917 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1049888/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 07.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208764/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -123,9 +129,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208721/LIBCODER
 
 #EXTINF:7754 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1049485/poster" group-title="11 News - Latest shows",חדשות השבת | 06.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208567/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3639 tvg-logo="https://www.kan.org.il/media/wpopjok3/%d7%a9%d7%91%d7%a2.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שבע עם איילה חסון | 06.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208536/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:8100 tvg-logo="https://www.kan.org.il/media/nhlo2xm3/%d7%a9%d7%a8%d7%95%d7%9f-%d7%95%d7%90%d7%95%d7%a8%d7%99-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שרון ואורי | 06.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -144,9 +147,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207998/LIBCODER
 
 #EXTINF:6720 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1049040/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 04.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207989/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3382 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1048988/poster" group-title="11 News - Latest shows",כאן בשש | 04.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207964/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3327 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047725/poster" group-title="11 News - Latest shows",זמן אמת עונה 10 | פרק 5 - סוף משפט
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206715/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -547,7 +547,7 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqan
 #EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 07.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai
 
-#EXTINF:2203 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 07.06.26
+#EXTINF:2203 tvg-logo="https://img.mako.co.il/2026/06/07/Sheva_070626_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 07.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22237851/22237851_noAdds/22237851_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2677 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 07.06.26
