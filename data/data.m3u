@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-09 12:19
+# Last updated: 2026-06-09 12:35
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:922 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050939/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 09.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209685/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4206 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050936/poster" group-title="11 News - Latest shows",כאן בשש | 09.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209687/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -123,9 +126,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209663/LIBCODER
 
 #EXTINF:5099 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050565/poster" group-title="11 News - Latest shows",חדשות הלילה | 08.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209446/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:900 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050387/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 08.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209399/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:7192 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050475/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 08.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209440/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -157,6 +157,12 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206715/LIBCODER
 #EXTINF:1337 tvg-logo="https://www.kan.org.il/media/n4shiavt/s0489484_item01b.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2755 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 09.06.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wqoh00ou/flavorIds/1_yc8an65i,1_nqvv6woq,1_r4szc89v,1_njgxkpgz,1_aqbj6mrw,1_8xhgttyf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:5815 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg" group-title="13 News - Latest shows",חדשות היום 09.06.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mt8ingm2/flavorIds/1_otmhmorr,1_mgua63os,1_nqyzsa3m,1_zq5uv3zp,1_wyvp30qp,1_a8q1h32o/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:2967 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 08.06.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cf9bi3fk/flavorIds/1_auz87oyx,1_wql94bqt,1_iywgntbj,1_y0yveep0,1_48v4k333,1_aznjp54n/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -168,12 +174,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_m3jzn8
 
 #EXTINF:3260 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 08.06.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cwpsfjq7/flavorIds/1_drvvk2n6,1_i253mvc7,1_idu809og,1_4z5kl1r6,1_bdikgz88,1_zk7phn4x/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:5661 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 08.06.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mhm0zz1e/flavorIds/1_1krneesp,1_bevi7gtt/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:5714 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg" group-title="13 News - Latest shows",חדשות היום 07.06.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_k9sqcj19/flavorIds/1_onujy7k6,1_0lqb13qj,1_5qvype7z,1_n2ht1s5j,1_0woklaqt,1_1um533wc/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:4022 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 06.06.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_v7wvbtlw/flavorIds/1_tf7ym9ay,1_1hohiqe9,1_tqmaza9s,1_w11oelnr,1_0049rqco,1_l55vgvnq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
