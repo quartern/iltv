@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "שרון ואורי | 13.06.26",
+          "ShortDescriptionLine1": "Sharon and Uri 13.06.26",
+          "ShortDescriptionLine2": "2026-06-13 21:14:42",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/https://pele.kan.org.il//poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211410/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "https://pele.kan.org.il/",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/1053121",
+          "Date": "2026-06-13 21:14:42",
+          "Duration": "7170"
+        },
+        {
           "Title": "חדשות השבת | 13.06.26",
           "ShortDescriptionLine1": "Shabbat news 13.06.26",
           "ShortDescriptionLine2": "2026-06-13 20:06:28",
@@ -632,19 +645,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-670610/1050436",
           "Date": "2026-06-08 17:23:54",
           "Duration": "6678"
-        },
-        {
-          "Title": "שרון ואורי | 06.06.26",
-          "ShortDescriptionLine1": "Sharon and Uri 06.06.26",
-          "ShortDescriptionLine2": "2026-06-06 17:21:50",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/https://pele.kan.org.il//poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208532/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "https://pele.kan.org.il/",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/1049437",
-          "Date": "2026-06-06 17:21:50",
-          "Duration": "8100"
         },
         {
           "Title": "אפילו המנכ\"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון",
@@ -2507,31 +2507,31 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אברי ושרקי: אברי ושרקי [live]",
-          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "Title": "אברי ושרקי: אברי ושרקי",
+          "Poster": "https://img.mako.co.il/2026/06/13/Avri_Sherki_130626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22238051/22238051_noAdds/22238051_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "61b9d1c84778e910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-61b9d1c84778e91027.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-06-13T23:19:52+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+          "Live": false,
+          "Duration": 2425,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "רוקדים עם כוכבים: האהבה הופכת לריקוד",
           "Poster": "https://img.mako.co.il/2026/06/13/Rokdim_Im_Kochavim5_05_130626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Rokdim_Im_Kohavim/A190455/A190455_noAdds/A190455_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_05_130626_VOD_shj777/Rokdim_Im_Kochavim5_05_130626_VOD_shj777_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "10ade051ddc7e910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/dancing_with_stars-s5/VOD-10ade051ddc7e91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/dancing_with_stars-s5/VOD-10ade051ddc7e91026.htm",
           "ShortDescriptionLine2": "21 celebrities take to the square for a dance competition",
           "Date": "2026-06-13T21:37:48+03:00",
           "Live": false,
-          "Duration": 4430,
+          "Duration": 4405,
           "ShortDescriptionLine1": "Dancing with the stars: love becomes a dance"
         },
         {
