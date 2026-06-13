@@ -2348,18 +2348,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 13.06.26 [live]",
+          "Title": "חדשות סוף השבוע: 13.06.26",
           "Poster": "https://img.mako.co.il/2021/11/07/Sofash_02_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/22238039/22238039_noAdds/22238039_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9cb4eb1d455be910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/453a45c6e3a5e910/VOD-9cb4eb1d455be91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-06-13T19:52:31+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Weekend news: 13.06.26 [live]"
+          "Live": false,
+          "Duration": 4292,
+          "ShortDescriptionLine1": "Weekend news: 13.06.26"
         },
         {
           "Title": "פגוש את העיתונות: 13.06.26",
@@ -2506,6 +2506,20 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "רוקדים עם כוכבים: רוקדים עם כוכבים [live]",
+          "Poster": "https://img.mako.co.il/2026/05/20/Rokdim2026_1_X52_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "10ade051ddc7e910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/dancing_with_stars-s5/VOD-10ade051ddc7e91026.htm",
+          "ShortDescriptionLine2": "21 celebrities take to the square for a dance competition",
+          "Date": "2026-06-13T21:37:48+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Dancing with the Stars: Dancing with the Stars [live]"
+        },
         {
           "Title": "אופירה אוחנה סרי: מה יקרה בחזית האיראנית?",
           "Poster": "https://img.mako.co.il/2026/06/12/Ofira_Ohana_Sery_050626_Yoram_autoOrient_I_reduced.jpg",
@@ -2659,20 +2673,6 @@
           "Live": false,
           "Duration": 4475,
           "ShortDescriptionLine1": "While you were working: Tsunami in high-tech"
-        },
-        {
-          "Title": "רוקדים עם כוכבים: הריקוד הראשון: חלק 2",
-          "Poster": "https://img.mako.co.il/2026/06/03/Rokdim_Im_Kochvim_030626_Nate_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_02_030626_VOD_nsl896/Rokdim_Im_Kochavim5_02_030626_VOD_nsl896_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "6d4c0d259a44e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/dancing_with_stars-s5/VOD-6d4c0d259a44e91027.htm",
-          "ShortDescriptionLine2": "Get ready for the first dance of the international group",
-          "Date": "2026-06-03T21:35:04+03:00",
-          "Live": false,
-          "Duration": 4665,
-          "ShortDescriptionLine1": "Dancing with the Stars: The First Dance: Part 2"
         },
         {
           "Title": "הבת: כל האמת על גלי",
