@@ -452,6 +452,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 14.06.26",
+          "ShortDescriptionLine1": "Evening News | 14.06.26",
+          "ShortDescriptionLine2": "2026-06-14 20:50:29",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/https://pele.kan.org.il//poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2212080/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "https://pele.kan.org.il/",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1054216",
+          "Date": "2026-06-14 20:50:29",
+          "Duration": "7200"
+        },
+        {
           "Title": "כאן בשש | 14.06.26",
           "ShortDescriptionLine1": "Here at six 14.06.26",
           "ShortDescriptionLine2": "2026-06-14 16:33:57",
@@ -567,19 +580,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1052535",
           "Date": "2026-06-12 16:59:19",
           "Duration": "8717"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 11.06.26",
-          "ShortDescriptionLine1": "Evening News | 11.06.26",
-          "ShortDescriptionLine2": "2026-06-11 21:11:16",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/https://pele.kan.org.il//poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2207973/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "https://pele.kan.org.il/",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1052110",
-          "Date": "2026-06-11 21:11:16",
-          "Duration": "5212"
         },
         {
           "Title": "חדשות הלילה | 10.06.26",
@@ -2507,6 +2507,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "78cad1c84778e910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-78cad1c84778e91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-06-14T23:32:25+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: לקראת ההסכם",
           "Poster": "https://img.mako.co.il/2026/06/14/Nesli_Yoav_140626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2533,20 +2547,6 @@
           "Live": false,
           "Duration": 7749,
           "ShortDescriptionLine1": "Morning news with Niv Raskin: the emerging agreement with Iran"
-        },
-        {
-          "Title": "אברי ושרקי: עמרי רוזנבליט",
-          "Poster": "https://img.mako.co.il/2026/06/13/Avri_Sherki_130626_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/June/Avri_Sherki_130626_VOD_cyk982/Avri_Sherki_130626_VOD_cyk982_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "61b9d1c84778e910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-61b9d1c84778e91027.htm",
-          "ShortDescriptionLine2": "Also: Dedi Simchai, Omri Rosenblit, Edi Tayar",
-          "Date": "2026-06-13T23:19:52+03:00",
-          "Live": false,
-          "Duration": 2414,
-          "ShortDescriptionLine1": "Avery and Sharky: Omri Rosenblit"
         },
         {
           "Title": "רוקדים עם כוכבים: האהבה הופכת לריקוד",
