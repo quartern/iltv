@@ -2351,14 +2351,14 @@
           "Title": "המהדורה המרכזית: 21.06.26",
           "Poster": "https://img.mako.co.il/2026/06/21/Mahadura_Merkazit_210626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22238278/22238278_noAdds/22238278_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/06/20dani_vtr2_n20260621_v1/20dani_vtr2_n20260621_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "1b6893985e8ee910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-1b6893985e8ee91027.htm",
           "ShortDescriptionLine2": "The Israeli initiative in Lebanon and the Chief of Staff's warning",
           "Date": "2026-06-21T19:51:31+03:00",
           "Live": false,
-          "Duration": 4280,
+          "Duration": 4325,
           "ShortDescriptionLine1": "The main edition: 21.06.26"
         },
         {
@@ -2507,6 +2507,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "609dc3f8f71be910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-609dc3f8f71be91027.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-06-21T23:35:44+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: הסכם ארה\"ב ואיראן",
           "Poster": "https://img.mako.co.il/2026/06/21/Nesli_Yoav_210626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2533,20 +2547,6 @@
           "Live": false,
           "Duration": 7759,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: The disaster in southern Lebanon"
-        },
-        {
-          "Title": "אברי ושרקי: גלעד ארדן",
-          "Poster": "https://img.mako.co.il/2026/06/20/Avri_Sherki_200626_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/June/Avri_Sherki_200626_VOD_hkijyiui8/Avri_Sherki_200626_VOD_hkijyiui8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "f4fcc3f8f71be910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-f4fcc3f8f71be91027.htm",
-          "ShortDescriptionLine2": "And also: Oz Berlovich, love of the name Gordon",
-          "Date": "2026-06-20T23:19:24+03:00",
-          "Live": false,
-          "Duration": 2288,
-          "ShortDescriptionLine1": "Avery and Sharky: Gilad Ardan"
         },
         {
           "Title": "רוקדים עם כוכבים: ערב שוק, פרק הדחה",
@@ -2862,6 +2862,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים, 21.06.26",
+          "StreamerId": "6a3841973bf578fa439f8c1c",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66150565847.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a3841973bf578fa439f8c1c",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/72f503a6-b74a-4b01-ae87-f342951f5e0f/hls/master.m3u8"
+          ],
+          "Date": "2026-06-21T19:55:03Z",
+          "Duration": "01:14:27",
+          "ShortDescriptionLine1": "The Israelis, 21.06.26",
+          "ShortDescriptionLine2": "2026-06-21T19:55:03Z"
+        },
+        {
           "Title": "המהדורה המרכזית, 21.06.26",
           "StreamerId": "6a3838cc91a8c0b64f7fcb71",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66149733968.jpg",
@@ -2938,19 +2951,6 @@
           "Duration": "01:59:27",
           "ShortDescriptionLine1": "Talking news, 21.06.26",
           "ShortDescriptionLine2": "2026-06-21T14:17:32Z"
-        },
-        {
-          "Title": "הישראלים 14-06-26",
-          "StreamerId": "6a37e66a842b9eaf7a5856a7",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66142053343.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a37e66a842b9eaf7a5856a7",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/15f929bf-058d-4dc6-b829-c49f5472ba83/hls/master.m3u8"
-          ],
-          "Date": "2026-06-21T13:26:02Z",
-          "Duration": "01:02:21",
-          "ShortDescriptionLine1": "The Israelis 06-14-26",
-          "ShortDescriptionLine2": "2026-06-21T13:26:02Z"
         },
         {
           "Title": "הערביסטים 20-06-26",
