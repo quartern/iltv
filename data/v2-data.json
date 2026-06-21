@@ -2348,18 +2348,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 21.06.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 21.06.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "1b6893985e8ee910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-1b6893985e8ee91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-06-21T19:51:31+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 21.06.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 21.06.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22238277/22238277_noAdds/22238277_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "59a5bdf5cd8ee910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/97493cd373a5e910/VOD-59a5bdf5cd8ee91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-06-21T18:58:30+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 21.06.26 [live]"
+          "Live": false,
+          "Duration": 2103,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 21.06.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 21.06.26",
@@ -2472,20 +2486,6 @@
           "Live": false,
           "Duration": 5404,
           "ShortDescriptionLine1": "Studio Friday: 19.06.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 18.06.26",
-          "Poster": "https://img.mako.co.il/2026/06/18/Mahadura_Merkazit_180626_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadura_Merkazit/2026/June/Mahadura_Merkazit_180626_VOD_jhgy6/Mahadura_Merkazit_180626_VOD_jhgy6_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "1b041d53f99de910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-1b041d53f99de91027.htm",
-          "ShortDescriptionLine2": "All the details about Vance's unprecedented attack",
-          "Date": "2026-06-18T19:51:31+03:00",
-          "Live": false,
-          "Duration": 4213,
-          "ShortDescriptionLine1": "The main edition: 18.06.26"
         },
         {
           "Title": "פגוש את העיתונות: 13.06.26",
@@ -2862,6 +2862,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע, 21.06.26",
+          "StreamerId": "6a380f6e723876abefd3b25f",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66145874794.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a380f6e723876abefd3b25f",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/59a05829-22a0-45ac-920c-f1af065414d6/hls/master.m3u8"
+          ],
+          "Date": "2026-06-21T16:21:02Z",
+          "Duration": "01:06:27",
+          "ShortDescriptionLine1": "Gilboa index, 21.06.26",
+          "ShortDescriptionLine2": "2026-06-21T16:21:02Z"
+        },
+        {
           "Title": "מהדורת חמש, 21.06.26",
           "StreamerId": "6a37fcea842b9eaf7a5891da",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66144140002.jpg",
@@ -2990,19 +3003,6 @@
           "Duration": "00:49:30",
           "ShortDescriptionLine1": "7 Sharon Gal 06-18-26",
           "ShortDescriptionLine2": "2026-06-18T18:02:32Z"
-        },
-        {
-          "Title": "מדד גלבוע 18-06-26",
-          "StreamerId": "6a341e361ea061360316dbf1",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66052227101.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a341e361ea061360316dbf1",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/95d2aaf2-6687-4f34-b222-0802b0916aa0/hls/master.m3u8"
-          ],
-          "Date": "2026-06-18T16:35:02Z",
-          "Duration": "01:04:54",
-          "ShortDescriptionLine1": "Gilboa index 06-18-26",
-          "ShortDescriptionLine2": "2026-06-18T16:35:02Z"
         }
       ]
     },
