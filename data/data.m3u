@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-22 11:07
+# Last updated: 2026-06-22 11:48
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:3578 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1060704/poster" group-title="11 News - Latest shows",רן בנימיני וקרן אוזן | 22.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215675/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2425 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1060667/poster" group-title="11 News - Latest shows",העולם היום | 22.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215666/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -117,9 +120,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215661/LIBCODER
 
 #EXTINF:3313 tvg-logo="https://www.kan.org.il/media/gxbnwnte/%d7%98%d7%9c%d7%99%d7%99%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",מהדורת כאן חדשות | 21.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215184/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:4500 tvg-logo="https://www.kan.org.il/media/ldspprdg/%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%a0%d7%99-%d7%95%d7%90%d7%95%d7%96%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",רן בנימיני וקרן אוזן | 21.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2215071/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3000 tvg-logo="https://www.kan.org.il/media/cnmob50f/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%94%d7%a9%d7%91%d7%aa-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",חדשות השבת | 20.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214816/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -655,6 +655,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:03:52 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66175901217.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש  22-06-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/bec46ae5-efcf-43eb-9a33-2ab57a204561/hls/master.m3u8
+
 #EXTINF:01:48:26 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66174147606.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15  22-06-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/98272513-3ba2-4c31-8d91-0d97f8f5b9c6/hls/master.m3u8
 
@@ -669,9 +672,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/c2a8a7c8-2bae-4c48-b8da-00
 
 #EXTINF:01:06:27 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66145874794.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע, 21.06.26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/59a05829-22a0-45ac-920c-f1af065414d6/hls/master.m3u8
-
-#EXTINF:01:04:27 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66144140002.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש, 21.06.26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/eaeac9c7-2165-4849-8a4e-16c6f015d321/hls/master.m3u8
 
 #EXTINF:01:59:27 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66143141760.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות, 21.06.26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/735cb6ca-e4cd-496b-9239-8f772020915e/hls/master.m3u8
