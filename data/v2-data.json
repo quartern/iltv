@@ -2507,18 +2507,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "רוקדים עם כוכבים: בחזרה לשנות ה-80 [live]",
+          "Title": "רוקדים עם כוכבים: בחזרה לשנות ה-80",
           "Poster": "https://img.mako.co.il/2026/05/20/Rokdim2026_1_X52_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Rokdim_Im_Kohavim/A190458/A190458_noAdds/A190458_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "64b3f54bc3ace910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/dancing_with_stars-s5/VOD-64b3f54bc3ace91026.htm",
           "ShortDescriptionLine2": "The stars return to the 80's in the elimination program",
           "Date": "2026-06-22T21:37:15+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Dancing with the Stars: Back to the 80s [live]"
+          "Live": false,
+          "Duration": 4040,
+          "ShortDescriptionLine1": "Dancing with the Stars: Back to the 80s"
         },
         {
           "Title": "נסלי ויואב: שיחות ארה\"ב-איראן",
@@ -2862,6 +2862,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 22-06-26",
+          "StreamerId": "6a3991549a28bee9248c5b4e",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66181786841.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a3991549a28bee9248c5b4e",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/21baaefb-643f-4ade-86cb-02d96842e558/hls/master.m3u8"
+          ],
+          "Date": "2026-06-22T19:47:32Z",
+          "Duration": "01:17:53",
+          "ShortDescriptionLine1": "The Israelis 06-22-26",
+          "ShortDescriptionLine2": "2026-06-22T19:47:32Z"
+        },
+        {
           "Title": "מהדורה מרכזית 22-06-26",
           "StreamerId": "6a3981848bf412aeb4efbb51",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66180313646.jpg",
@@ -2912,19 +2925,6 @@
           "Duration": "01:48:26",
           "ShortDescriptionLine1": "15th edition 06-22-26",
           "ShortDescriptionLine2": "2026-06-22T13:57:33Z"
-        },
-        {
-          "Title": "הישראלים, 21.06.26",
-          "StreamerId": "6a3841973bf578fa439f8c1c",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66150565847.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a3841973bf578fa439f8c1c",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/72f503a6-b74a-4b01-ae87-f342951f5e0f/hls/master.m3u8"
-          ],
-          "Date": "2026-06-21T19:55:03Z",
-          "Duration": "01:14:27",
-          "ShortDescriptionLine1": "The Israelis, 21.06.26",
-          "ShortDescriptionLine2": "2026-06-21T19:55:03Z"
         },
         {
           "Title": "7 שרון גל, 21.06.26",
