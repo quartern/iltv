@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-24 16:32
+# Last updated: 2026-06-24 17:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -580,6 +580,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:5287 tvg-logo="https://img.mako.co.il/2026/06/13/Pgosh_Et_Haitonut_130626_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 13.06.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/06/18pgosh_vtr2_n20260612_v1/18pgosh_vtr2_n20260612_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/07/24/Be_zman_Sheavadetem2_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המהפכה המדעית החדשה [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai
+
 #EXTINF:4186 tvg-logo="https://img.mako.co.il/2026/06/24/Rokdin_Im_Kohavim5_09_Zahi_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: תחרות שנות ה-90
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kohavim5_09_240626_VOD_kjc154/Rokdim_Im_Kohavim5_09_240626_VOD_kjc154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -619,9 +622,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:2789 tvg-logo="https://img.mako.co.il/2026/06/08/Habat_07_080626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: פרק אחד לפני הסוף
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_07_080626_VOD_bta782/Habat_07_080626_VOD_bta782_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:4475 tvg-logo="https://img.mako.co.il/2026/06/03/Bizman_Sheavadetem_030626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: צונאמי בהייטק
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_030626_VOD_dgt159/Bizman_Sheavadetem_030626_VOD_dgt159_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:3365 tvg-logo="https://img.mako.co.il/2026/06/01/Habat_06_010626_4_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: כל האמת על גלי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_06_010626_VOD_dgt458/Habat_06_010626_VOD_dgt458_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -651,9 +651,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:2816 tvg-logo="https://img.mako.co.il/2026/02/10/Reset_01_100226_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",ריסט: פרק הבכורה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Reset/S01/EP/Reset_01_100226_VOD_drn007/Reset_01_100226_VOD_drn007_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:01:04:06 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66240661943.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע 24-06-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/bbbe3fdd-0bf1-465c-abbf-b2a749c21de9/hls/master.m3u8
