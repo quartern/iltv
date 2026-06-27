@@ -1919,18 +1919,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חדשות סוף השבוע: 27.06.26 [live]",
+          "Title": "חדשות סוף השבוע: 27.06.26",
           "Poster": "https://img.mako.co.il/2026/06/27/Hadshot_Sof_Hashavua_270626_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Weekend_News/22238456/22238456_noAdds/22238456_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "62ff7274a6dfe910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/453a45c6e3a5e910/VOD-62ff7274a6dfe91026.htm",
           "ShortDescriptionLine2": "The shouting conversation between the ambassador and Netanyahu that led to the agreement",
           "Date": "2026-06-27T19:52:46+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Weekend news: 27.06.26 [live]"
+          "Live": false,
+          "Duration": 4294,
+          "ShortDescriptionLine1": "Weekend news: 27.06.26"
         },
         {
           "Title": "פגוש את העיתונות: 27.06.26",
@@ -2078,6 +2078,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "רוקדים עם כוכבים: הריקוד שלא סופר [live]",
+          "Poster": "https://img.mako.co.il/2026/05/20/Rokdim2026_1_X52_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "7d49e089b34fe910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/dancing_with_stars-s5/VOD-7d49e089b34fe91026.htm",
+          "ShortDescriptionLine2": "The stars in their most bare dance",
+          "Date": "2026-06-27T21:46:24+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Dancing with the Stars: The Untold Dance [live]"
+        },
+        {
           "Title": "אופירה אוחנה סרי: רונן צור באולפן",
           "Poster": "https://img.mako.co.il/2026/06/26/Ofira_Ohana_Sery_260626_Ronen2_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2188,20 +2202,6 @@
           "Live": false,
           "Duration": 3968,
           "ShortDescriptionLine1": "Dancing with the Stars: Back to the 80s"
-        },
-        {
-          "Title": "רוקדים עם כוכבים: ההפתעות על הרחבה",
-          "Poster": "https://img.mako.co.il/2026/06/20/Rokdim_Im_Kochavim5_07_200626_VODD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kohavim5_07_200626_VOD_ujyt7/Rokdim_Im_Kohavim5_07_200626_VOD_ujyt7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "2a80f54bc3ace910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/dancing_with_stars-s5/VOD-2a80f54bc3ace91026.htm",
-          "ShortDescriptionLine2": "What will happen when Amir dances for the first time in front of his mother?",
-          "Date": "2026-06-20T21:35:42+03:00",
-          "Live": false,
-          "Duration": 4688,
-          "ShortDescriptionLine1": "Dancing with the stars: the surprises on the expansion"
         },
         {
           "Title": "אופירה אוחנה סרי: התקרית הקשה בלבנון ",
