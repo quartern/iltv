@@ -452,6 +452,32 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 28.06.26",
+          "ShortDescriptionLine1": "Evening News | 28.06.26",
+          "ShortDescriptionLine2": "2026-06-28 18:50:23",
+          "Poster": "https://www.kan.org.il/media/j2cjvgz5/%d7%9e%d7%90%d7%99%d7%94%d7%94%d7%94.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218701/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1066344",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1066344",
+          "Date": "2026-06-28 18:50:23",
+          "Duration": "6235"
+        },
+        {
+          "Title": "כאן בשש | 28.06.26",
+          "ShortDescriptionLine1": "Here at six 28.06.26",
+          "ShortDescriptionLine2": "2026-06-28 16:58:31",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1066277/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218661/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1066277",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1066277",
+          "Date": "2026-06-28 16:58:31",
+          "Duration": "4332"
+        },
+        {
           "Title": "בנימיני וגואטה | 28.06.26",
           "ShortDescriptionLine1": "Binyamini and Guetta | 28.06.26",
           "ShortDescriptionLine2": "2026-06-28 16:14:55",
@@ -569,32 +595,6 @@
           "Duration": "7206"
         },
         {
-          "Title": "מהדורת כאן חדשות | 25.06.26",
-          "ShortDescriptionLine1": "Evening News | 25.06.26",
-          "ShortDescriptionLine2": "2026-06-26 07:55:40",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1063570/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217094/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1063570",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1063570",
-          "Date": "2026-06-26 07:55:40",
-          "Duration": "8100"
-        },
-        {
-          "Title": "כאן בשש | 25.06.26",
-          "ShortDescriptionLine1": "Here at six 25.06.26",
-          "ShortDescriptionLine2": "2026-06-25 20:49:13",
-          "Poster": "https://www.kan.org.il/media/1obnwrvb/%d7%9b%d7%90%d7%9f-%d7%91%d7%a9%d7%a9-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217102/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1063591",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1063591",
-          "Date": "2026-06-25 20:49:13",
-          "Duration": "4800"
-        },
-        {
           "Title": "חדשות הלילה | 10.06.26",
           "ShortDescriptionLine1": "Tonight's news 10.06.26",
           "ShortDescriptionLine2": "2026-06-11 20:32:11",
@@ -664,6 +664,19 @@
     {
       "Name": "13 News - Latest shows",
       "Items": [
+        {
+          "Title": "המהדורה המרכזית 28.06.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_wm9taok1",
+          "Date": "2026-06-28 22:29:54",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4472910/",
+          "Duration": 3611,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-06-28 22:29:54",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wm9taok1/flavorIds/1_ucfy40vf,1_643us3m8,1_1yyzihuk,1_2x5ahn5k,1_dy6d38tj,1_pthv4l04/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
         {
           "Title": "אזור בחירה 28.06.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
@@ -766,19 +779,6 @@
           "ShortDescriptionLine2": "2026-06-25 23:50:26",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pwo41bgy/flavorIds/1_sf06uhda,1_chl1ol56,1_dd9zuxpv,1_sh0n6wec,1_vbd8gxh7,1_z98vz5a2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 25.06.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_cnmnb78g",
-          "Date": "2026-06-25 22:39:16",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4469655/",
-          "Duration": 3844,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-06-25 22:39:16",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cnmnb78g/flavorIds/1_8v4t23pk,1_3m3lq0if,1_b94lw0kt,1_eroy1mx1,1_2p1qudaf,1_s1l8zx2l/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2875,6 +2875,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית, 28.06.26",
+          "StreamerId": "6a416bcc9a391b565fc8ee82",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66368997388.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a416bcc9a391b565fc8ee82",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/fb1623f2-ecd4-4c73-8316-be4b4403b9a6/hls/master.m3u8"
+          ],
+          "Date": "2026-06-28T18:45:32Z",
+          "Duration": "01:30:41",
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-06-28T18:45:32Z"
+        },
+        {
           "Title": "7 שרון גל, 28.06.26",
           "StreamerId": "6a4155e3eda92e67a81f54a6",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66366996577.jpg",
@@ -2990,19 +3003,6 @@
           "Duration": "01:45:22",
           "ShortDescriptionLine1": "Shabbat magazine, 27.06.26",
           "ShortDescriptionLine2": "2026-06-27T19:37:32Z"
-        },
-        {
-          "Title": "המהדורה המרכזית 25-06-26",
-          "StreamerId": "6a3d7513cb8db4e6e7125f17",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66275089941.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a3d7513cb8db4e6e7125f17",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/0044213b-e61c-4885-a950-c5f73d767d36/hls/master.m3u8"
-          ],
-          "Date": "2026-06-25T18:36:03Z",
-          "Duration": "01:31:46",
-          "ShortDescriptionLine1": "The main edition 06-25-26",
-          "ShortDescriptionLine2": "2026-06-25T18:36:03Z"
         },
         {
           "Title": "הישראלים 23-06-26",
