@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-29 10:10
+# Last updated: 2026-06-29 10:20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:2409 tvg-logo="https://www.kan.org.il/media/z5slmlah/%d7%94%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%99%d7%95%d7%9d.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",העולם היום | 29.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218873/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:5352 tvg-logo="https://www.kan.org.il/media/bihp3ku4/3_%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 29.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -117,9 +120,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218701/LIBCODER
 
 #EXTINF:4200 tvg-logo="https://www.kan.org.il/media/y2zo5shg/%d7%91%d7%a0%d7%99%d7%9e%d7%99%d7%a0%d7%99%d7%99%d7%99%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",בנימיני וגואטה | 28.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218656/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:5007 tvg-logo="https://www.kan.org.il/media/jp5jjcxf/screenshot-2026-06-28-173737.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",העולם היום | 28.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218650/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:4332 tvg-logo="https://www.kan.org.il/media/apieggfi/%d7%9c%d7%99%d7%90%d7%9c.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",כאן בשש | 28.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218661/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -601,9 +601,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:2511 tvg-logo="https://img.mako.co.il/2026/06/25/Doh_Matzav_250626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: יונתן שלו מספר על שדה הקרב
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/June/Doh_Mazav_250626_VOD_xja433/Doh_Mazav_250626_VOD_xja433_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:3759 tvg-logo="https://img.mako.co.il/2026/06/25/Bizman_Sheavadetem_250626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המהפכה המדעית החדשה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_250626_VOD_uhn824/Bizman_Sheavadetem_250626_VOD_uhn824_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:4186 tvg-logo="https://img.mako.co.il/2026/06/24/Rokdin_Im_Kohavim5_09_Zahi_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: תחרות שנות ה-90
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kohavim5_09_240626_VOD_kjc154/Rokdim_Im_Kohavim5_09_240626_VOD_kjc154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -613,14 +610,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:5177 tvg-logo="https://img.mako.co.il/2026/06/19/Ofira_Ohana_Sery_190626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: התקרית הקשה בלבנון 
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/June/Ofira_Ohana_Sery_190626_VOD_mjh876/Ofira_Ohana_Sery_190626_VOD_mjh876_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:3591 tvg-logo="https://img.mako.co.il/2026/06/18/Bizman_Sheavadetem_180626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: הנפקה שוברת שיאים
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_180626_VOD_ewt256/Bizman_Sheavadetem_180626_VOD_ewt256_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:2979 tvg-logo="https://img.mako.co.il/2026/06/15/Habat_08_150626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: פרק סיום העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_08_150626_VOD_SNI392/Habat_08_150626_VOD_SNI392_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3444 tvg-logo="https://img.mako.co.il/2026/06/10/Bizman_Sheavadetem_100626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: צעצוע של פיצוץ
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_100626_VOD_jyi145/Bizman_Sheavadetem_100626_VOD_jyi145_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2789 tvg-logo="https://img.mako.co.il/2026/06/08/Habat_07_080626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: פרק אחד לפני הסוף
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_07_080626_VOD_bta782/Habat_07_080626_VOD_bta782_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
