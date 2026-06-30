@@ -665,13 +665,26 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 30.06.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_i6e7d4j1",
+          "Date": "2026-06-30 19:51:10",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4474864/",
+          "Duration": 3212,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-06-30 19:51:10",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_i6e7d4j1/flavorIds/1_h2lylbkr,1_5i1d9dfl,1_ecg1zbjn,1_p356plvm,1_4lve7e7g,1_d906kwha/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 30.06.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_qfw724zu",
           "Date": "2026-06-30 19:23:07",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/o6u1i-905244566/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4474855/",
           "Duration": 2687,
-          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-06-30 19:23:07",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qfw724zu/flavorIds/1_zwo1xo8f,1_v26e2bbc,1_t04aooca,1_5tlj344b,1_l5g1e5pe,1_dfhjewlk/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -727,19 +740,6 @@
           "ShortDescriptionLine2": "2026-06-29 20:35:24",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_p9h7u5ls/flavorIds/1_x5l4sb1d,1_0tglxkid,1_qhbdes1c,1_013yaiq6,1_wakb9dap,1_bxlntcg3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 29.06.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_kh2b5uyw",
-          "Date": "2026-06-29 20:08:01",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4474411/",
-          "Duration": 3178,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-06-29 20:08:01",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_kh2b5uyw/flavorIds/1_gooialsf,1_xv805rt4,1_y39lnbdt,1_o5mmol22,1_6lzb61lm,1_l4lqg3h3/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2361,18 +2361,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 30.06.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 30.06.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "c73c7dd77871f910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-c73c7dd77871f91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-06-30T19:52:23+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 30.06.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 30.06.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22238548/22238548_noAdds/22238548_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "e7287dd77871f910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/97493cd373a5e910/VOD-e7287dd77871f91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-06-30T18:58:42+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 30.06.26 [live]"
+          "Live": false,
+          "Duration": 2417,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 30.06.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 30.06.26",
@@ -2415,20 +2429,6 @@
           "Live": false,
           "Duration": 5650,
           "ShortDescriptionLine1": "Today's edition: 30.06.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 29.06.26",
-          "Poster": "https://img.mako.co.il/2026/06/29/Mahadura_Merkazit_290626_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/06/20mahadura_full_vtr2_n20260629_v1/20mahadura_full_vtr2_n20260629_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "1c8a0b525321f910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/42bb3cd373a5e910/VOD-1c8a0b525321f91026.htm",
-          "ShortDescriptionLine2": "What does the Likud offer to the member of the Knesset from Ra'am",
-          "Date": "2026-06-29T19:52:00+03:00",
-          "Live": false,
-          "Duration": 4735,
-          "ShortDescriptionLine1": "The main edition: 29.06.26"
         },
         {
           "Title": "חדשות סוף השבוע: 27.06.26",
