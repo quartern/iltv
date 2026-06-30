@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-06-30 09:02
+# Last updated: 2026-06-30 09:23
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:2437 tvg-logo="https://www.kan.org.il/media/g1mf4y0z/%d7%a9%d7%9c%d7%95%d7%a9.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 30.06.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2219517/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3339 tvg-logo="https://www.kan.org.il/media/1gvntx2q/%d7%9e%d7%90%d7%99%d7%94.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",מהדורת כאן חדשות | 29.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218946/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -120,9 +123,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218885/LIBCODER
 
 #EXTINF:2409 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1066831/poster" group-title="11 News - Latest shows",העולם היום | 29.06.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218873/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:5352 tvg-logo="https://www.kan.org.il/media/bihp3ku4/3_%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 29.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2218870/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:871 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1064377/poster" group-title="11 News - Latest shows","בזכותו היא מתחילה את החיים": שחר שנפל בלבנון העניק חיים חדשים לבל בת ה-7
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217698/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -616,14 +616,26 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3591 tvg-logo="https://img.mako.co.il/2026/06/18/Bizman_Sheavadetem_180626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: הנפקה שוברת שיאים
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_180626_VOD_ewt256/Bizman_Sheavadetem_180626_VOD_ewt256_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:2979 tvg-logo="https://img.mako.co.il/2026/06/15/Habat_08_150626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: פרק סיום העונה
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_08_150626_VOD_SNI392/Habat_08_150626_VOD_SNI392_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:3444 tvg-logo="https://img.mako.co.il/2026/06/10/Bizman_Sheavadetem_100626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: צעצוע של פיצוץ
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/June/Bizman_Sheavadetem_100626_VOD_jyi145/Bizman_Sheavadetem_100626_VOD_jyi145_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2789 tvg-logo="https://img.mako.co.il/2026/06/08/Habat_07_080626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: פרק אחד לפני הסוף
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_07_080626_VOD_bta782/Habat_07_080626_VOD_bta782_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:3365 tvg-logo="https://img.mako.co.il/2026/06/01/Habat_06_010626_4_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: כל האמת על גלי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_06_010626_VOD_dgt458/Habat_06_010626_VOD_dgt458_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4052 tvg-logo="https://img.mako.co.il/2026/05/28/Uvda_280526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: הסוד של גנץ/הקלטות היועץ
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/May/Uvda2026_16_280526_VOD_ddi8/Uvda2026_16_280526_VOD_ddi8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3064 tvg-logo="https://img.mako.co.il/2026/05/26/Hasifa_Avital_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: הנסיכות שכבשו את דובאי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hassifa6_05_260526_VOD_NDU483/Hassifa6_05_260526_VOD_NDU483_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:3250 tvg-logo="https://img.mako.co.il/2026/05/25/Habat_05_250526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבת: לאן נעלמה גלי?
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habat/S01/Habat_05_250526_VOD_gdg658/Habat_05_250526_VOD_gdg658_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4462 tvg-logo="https://img.mako.co.il/2026/05/20/Uvda2026_15_200526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: איזנקוט, בלי צנזורה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/May/Uvda2026_15_200526_VOD_uyet425/Uvda2026_15_200526_VOD_uyet425_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
