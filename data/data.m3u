@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-03 12:12
+# Last updated: 2026-07-03 12:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -145,6 +145,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209413/LIBCODER
 #EXTINF:1337 tvg-logo="https://www.kan.org.il/media/n4shiavt/s0489484_item01b.jpg?rmode=pad&width=1200&height=630" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2557 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 03.07.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_1u5yt8xt/flavorIds/1_jdwiymg3,1_fs8qyx35,1_n4xrk99b,1_7hpurtla,1_u21z4xsx,1_xg4y8yvj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:1558 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 02.07.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_06ddozeu/flavorIds/1_qotsib1d,1_dodwzue5,1_nnazlei4,1_grxocno8,1_t7qv10g1,1_dbzl0f63/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -171,9 +174,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_set08l
 
 #EXTINF:5460 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg" group-title="13 News - Latest shows",עושים שישי עם אריק וייס 26.06.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nohv798s/flavorIds/1_1k6wklm3,1_1cg1jme8,1_iy76kdz4,1_ksy3tfhy,1_o8z66wyd,1_zzomrmc2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:2351 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 19.06.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_04dahc82/flavorIds/1_qnd9yw8m,1_qrc8ikg7,1_vof3m0x0,1_r7loru6s,1_23teft35,1_w480iofw/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -322,83 +322,20 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208116/LIBCODER
 #EXTINF:123 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1047448/poster" group-title="Kan 11 Featured",דנה מודן | שנה של מחשבות מופלאות
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2206644/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:2433 tvg-logo="https://www.kan.org.il/media/yuamxeil/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:750 tvg-logo="https://www.kan.org.il/media/idyhiois/s0544715_item0500_03_47_07still001.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials","ירינו עליו - וכמה שניות אחרי הוא התפוצץ עלינו": המתעדת המבצעית שנפצעה קשה בלבנון מרחפן נפץ מדברת לראשונה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220152/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:2268 tvg-logo="https://www.kan.org.il/media/mypikxs5/%d7%9c%d7%90%d7%aa%d7%a8-%d7%9e%d7%a2%d7%95%d7%93%d7%9b%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 23 - 28.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:871 tvg-logo="https://www.kan.org.il/media/3oemeskv/%d7%91%d7%9c-%d7%90%d7%aa%d7%a8-2.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials","בזכותו היא מתחילה את החיים": שחר שנפל בלבנון העניק חיים חדשים לבל בת ה-7
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217698/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:2185 tvg-logo="https://www.kan.org.il/media/1pln02sa/%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 22 - 23.04.26 
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:951 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1058375/poster" group-title="Kan 11 Specials","שמונה מחבלים על כל לוחם צה"ל": הספר שחושף את מחדלי טבח 7 באוקטובר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2214233/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:197 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040035/poster" group-title="Kan 11 Specials",מישל על הבמה: צפו בביצוע של נועם בתן בחצי גמר אירוויזיון 2026
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:373 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1052551/poster" group-title="Kan 11 Specials",&quot;חיכינו שיגידו לנו 'פעל'&quot;: הטייסים שתכננו את המתקפה האחרונה באיראן מדברים
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211127/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:7500 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040615/poster" group-title="Kan 11 Specials",אירוויזיון 2026 - חצי הגמר הראשון | המשדר המלא
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199820/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:8862 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041177/poster" group-title="Kan 11 Specials",אירוויזיון 2026 - חצי הגמר השני | המשדר המלא
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2200556/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:116 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041743/poster" group-title="Kan 11 Specials",מישל בגמר: צפו בביצוע של נועם בתן - גמר אירוויזיון 2026
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201145/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:14910 tvg-logo="https://www.kan.org.il/media/oa5n4lhw/%d7%92%d7%9e%d7%a8-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אירוויזיון 2026 - הגמר | המשדר המלא
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1441 tvg-logo="https://www.kan.org.il/media/dpoecwvn/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a0%d7%a7%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 1 - כפרות
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_csokhtwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1475 tvg-logo="https://www.kan.org.il/media/bsud5mh1/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a4%d7%a8%d7%a7-2-%d7%a2%d7%95%d7%a0%d7%94-5.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 2 - הסטארט-אפ של כוכבה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygac97dd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1357 tvg-logo="https://www.kan.org.il/media/41shjzq0/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 3 - שברת שילמת
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8emnwxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3698 tvg-logo="https://www.kan.org.il/media/mbsm2xz2/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 1 - נקודת העיוורון
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4tf45try/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3698 tvg-logo="https://www.kan.org.il/media/xj4pgwak/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 2 - ארץ אחת
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfd2n8ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3737 tvg-logo="https://www.kan.org.il/media/pbgfiahk/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5735bfwo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2732 tvg-logo="https://www.kan.org.il/media/dsph2bhg/%d7%9e%d7%96%d7%97-1.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח | פרק 1 - מתקפת פתע
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kx1e31tw/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2688 tvg-logo="https://www.kan.org.il/media/beof3b15/%d7%9e%d7%96%d7%97-2.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח | פרק 2 - האדם הוא הפלדה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_h3g7trtp/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2868 tvg-logo="https://www.kan.org.il/media/jp4liiql/%d7%94%d7%9e%d7%96%d7%97-%d7%a4%d7%a8%d7%a7-3-%d7%94%d7%90%d7%95%d7%a4%d7%a6%d7%99%d7%94-%d7%a9%d7%9c-%d7%94%d7%93%d7%95%d7%a7%d7%98%d7%95%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח | פרק 3 - האופציה של הדוקטור
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_mhuvabgz/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2488 tvg-logo="https://www.kan.org.il/media/osuiaw1g/%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח | פרק 4 - "אני משנה את הפקודה"
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a7vmyi27/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3197 tvg-logo="https://www.kan.org.il/media/hs1mc4qs/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח | פרק 5 - רגע האמת
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gyfpsaky/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1696 tvg-logo="https://www.kan.org.il/media/hkdf5kcg/%d7%9c%d7%a2%d7%a8%d7%99%d7%9b%d7%94-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אחרי המזח | פרק 1
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rlw3l1i0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1814 tvg-logo="https://www.kan.org.il/media/zqhjtm0x/%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אחרי המזח | פרק 2
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uugcy0oc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1801 tvg-logo="https://www.kan.org.il/media/wzxinvnv/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אחרי המזח | פרק 3
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_kk7q1fs4/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1791 tvg-logo="https://www.kan.org.il/media/kaidlaof/%d7%9c%d7%90%d7%aa%d7%a8.png?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אחרי המזח | פרק 4
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_hn63jw7q/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1507 tvg-logo="https://www.kan.org.il/media/i5ajb530/screenshot-2025-05-25-093000.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אחרי המזח | פרק 5
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_xewjamsc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:76 tvg-logo="https://www.kan.org.il/media/pulg34lm/%d7%94%d7%9e%d7%96%d7%97-%d7%94%d7%a6%d7%a6%d7%94.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials","המזח - הצצה | "זה תרגיל גדול, המודיעין יודע
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oivnq74m/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:31 tvg-logo="https://www.kan.org.il/media/y1co5uiy/%d7%94%d7%9e%d7%96%d7%97.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",המזח - הצצה | "תפסו אותנו עם המכנסיים למטה"
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ecwat92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:649 tvg-logo="https://www.kan.org.il/media/natn2ne4/%d7%99%d7%a4%d7%94.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",עפרי איבדה את אמה ב-7 באוקטובר, אך לא הוכרה כיתומה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210215/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3419 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1781552615/uploads/2026/905217084.jpg" group-title="Reshet 13 Docu",חרדים - העולם האמיתי: מדברים אהבה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_r2b3fi2q/flavorIds/1_h0n09hfs,1_9g4e4zhq,1_dabogxu4,1_t6kdnvdb,1_j9gkiqyp,1_kwfqsgur/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
