@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-12 10:17
+# Last updated: 2026-07-12 10:20
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -109,6 +109,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:2412 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1075301/poster" group-title="11 News - Latest shows",העולם היום | 12.07.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224592/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:4524 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1075297/poster" group-title="11 News - Latest shows",שלוש עם יונתן אוחיון | 12.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2224586/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -139,20 +142,17 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223313/LIBCODER
 #EXTINF:3676 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073553/poster" group-title="11 News - Latest shows",חדשות הלילה | 08.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223138/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:3007 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073375/poster" group-title="11 News - Latest shows",העולם היום | 08.07.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223066/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:750 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1069542/poster" group-title="11 News - Latest shows","ירינו עליו - וכמה שניות אחרי הוא התפוצץ עלינו": המתעדת המבצעית שנפצעה קשה בלבנון מרחפן נפץ מדברת לראשונה
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2220152/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3923 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050745/poster" group-title="11 News - Latest shows",זמן אמת - קו הגמ"ר
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209638/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:949 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1051292/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 10.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210157/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:6678 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050436/poster" group-title="11 News - Latest shows",משדר מיוחד עם איילה חסון | 08.06.26 - 18:00
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209413/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3637 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 11.07.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_rl9yzvf1/flavorIds/1_i5fn0e38,1_pxhg1qjy,1_h81i1pub,1_nhza4f1o,1_c7xv6pj1,1_gim2n7e1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -271,11 +271,26 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:55 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073883/poster" group-title="Kan 11 Featured",הפשוטע | טריילר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223307/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:128 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074216/poster" group-title="Kan 11 Featured",הפשוטע | נונו
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223787/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:150 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074220/poster" group-title="Kan 11 Featured",הפשוטע | נועה קירל
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223795/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:167 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074219/poster" group-title="Kan 11 Featured",הפשוטע | רון חיון וליעד מאיר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223794/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:198 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074218/poster" group-title="Kan 11 Featured",הפשוטע | עדן חסון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223790/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:123 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074217/poster" group-title="Kan 11 Featured",הפשוטע | אגם בוחבוט
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223788/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:222 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1074221/poster" group-title="Kan 11 Featured",הפשוטע | נינט טייב
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223796/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:3419 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073626/poster" group-title="Kan 11 Featured",אויבים עונה 5 | פרק 1 - שייח'ה מוזא מקטאר
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -316,21 +331,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2217037/LIBCODER
 #EXTINF:3370 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/" group-title="Kan 11 Featured",אלי חביב - בסדר גמור
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2171294/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:1807 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1051382/poster" group-title="Kan 11 Featured",מה שתגידו עונה 5 | פרק 13 - ספיישל מונדיאל
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210180/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:8130 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1052416/poster" group-title="Kan 11 Featured",אגן הים התיכון עם ורד יפתחי גרין - 12.06.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2211085/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3923 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1050745/poster" group-title="Kan 11 Featured",זמן אמת - קו הגמ"ר
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209638/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2659 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1049753/poster" group-title="Kan 11 Featured",מלכת השכונה | פרק 4 - חוזרים לשכונה
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2208697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1739 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034645/poster" group-title="Kan 11 Featured",לא לריב | פרק 8 - קבר אחים
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194852/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:2433 tvg-logo="https://www.kan.org.il/media/yuamxeil/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -364,6 +364,15 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygac97dd/LIBCO
 #EXTINF:1357 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809161/poster" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 3 - שברת שילמת
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8emnwxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:3698 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan838880/poster" group-title="Kan 11 Specials",סינדרום עזה | פרק 1 - נקודת העיוורון
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4tf45try/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3698 tvg-logo="https://www.kan.org.il/media/xj4pgwak/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 2 - ארץ אחת
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfd2n8ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3737 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan838883/poster" group-title="Kan 11 Specials",סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5735bfwo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1973 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan967893/poster" group-title="Kan 11 Specials",סיפורים מהכורסה עונה 5 | פרק 1 - אופנה וטרנדים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1903221/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -393,6 +402,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_a7vmyi27/LIBCO
 
 #EXTINF:3197 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan609201/poster" group-title="Kan 11 Specials",המזח | פרק 5 - רגע האמת
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_gyfpsaky/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:1696 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan888020/poster" group-title="Kan 11 Specials",אחרי המזח | פרק 1
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_rlw3l1i0/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:1814 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan896384/poster" group-title="Kan 11 Specials",אחרי המזח | פרק 2
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_uugcy0oc/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
