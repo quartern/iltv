@@ -465,19 +465,6 @@
           "Duration": "5935"
         },
         {
-          "Title": "כאן בשש | 14.07.26",
-          "ShortDescriptionLine1": "Here at six 14.07.26",
-          "ShortDescriptionLine2": "2026-07-14 16:37:01",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1076425/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2225341/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1076425",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1076425",
-          "Date": "2026-07-14 16:37:01",
-          "Duration": "4506"
-        },
-        {
           "Title": "רן בנימיני וישי שנרב | 14.07.26",
           "ShortDescriptionLine1": "Ran Binyamini and Vichy Schnarev 14.07.26",
           "ShortDescriptionLine2": "2026-07-14 15:44:59",
@@ -2520,6 +2507,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/index.m3u8?b-in-range=800-1100?rv=akamai"
+          ],
+          "StreamerId": "f93805d38055f910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-f93805d38055f91026.htm",
+          "ShortDescriptionLine2": "Everything you need to know to start the morning",
+          "Date": "2026-07-15T07:10:19+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "נסלי ויואב: סערת העריקים החרדים",
           "Poster": "https://img.mako.co.il/2026/07/14/Nesli_Yoav_140726_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2532,20 +2533,6 @@
           "Live": false,
           "Duration": 3555,
           "ShortDescriptionLine1": "Nesli and Yoav: the storm of the ultra-Orthodox defectors"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: חוק יסוד לימוד תורה",
-          "Poster": "https://img.mako.co.il/2026/07/14/Hadshot_Haboker_140726_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/July/Hadshot_Haboker_140726_VOD_jhb498/Hadshot_Haboker_140726_VOD_jhb498_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "87d673aaef45f910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-87d673aaef45f91026.htm",
-          "ShortDescriptionLine2": "Basic Torah Law, and also: the escalation with Iran",
-          "Date": "2026-07-14T07:11:11+03:00",
-          "Live": false,
-          "Duration": 7793,
-          "ShortDescriptionLine1": "The morning news with Niv Raskin: Basic Law of Torah Study"
         },
         {
           "Title": "אברי ושרקי: לימור לבנת",
