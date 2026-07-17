@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-17 12:29
+# Last updated: 2026-07-17 12:42
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -157,6 +157,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209413/LIBCODER
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2538 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 17.07.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0bpko28a/flavorIds/1_evn7x4d2,1_udrp09w6,1_vrm1wu3x,1_83yscvj1,1_9492zbuz,1_ju8cc9an/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:1650 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 16.07.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_nmaz2887/flavorIds/1_ic813k6i,1_sx5963xy,1_ui0oqtlt,1_4vq7wcfo,1_xoxnsck5,1_zoeiagxs/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -183,9 +186,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8396hb
 
 #EXTINF:5448 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg" group-title="13 News - Latest shows",עושים שישי עם אריק וייס 10.07.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dlmugst3/flavorIds/1_kzd30hup,1_n2yp1b15,1_n8cr8fku,1_bl0vcln6,1_1mpeosw7,1_0hvirzo1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:2530 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 10.07.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_37vciz3z/flavorIds/1_r05ata2m,1_pokrpvo3,1_j8d83ttb,1_40erx37t,1_l4gjn04k,1_pl0y62dp/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -334,11 +334,14 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222466/LIBCODER
 #EXTINF:1940 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1072018/poster" group-title="Kan 11 Featured",מה שתגידו - ספיישל מונדיאל
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2222158/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:3698 tvg-logo="https://www.kan.org.il/media/xj4pgwak/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 2 - ארץ אחת
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfd2n8ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:3419 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073626/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 1 - שייח'ה מוזא מקטאר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:3737 tvg-logo="https://www.kan.org.il/media/pbgfiahk/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5735bfwo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:3487 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan844253/poster" group-title="Kan 11 Specials",אויבים עונה 4 | פרק 1 - יחיא סינוואר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3scff9my/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3392 tvg-logo="https://www.kan.org.il/media/caoh0k34/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אויבים עונה 4 | פרק 3 - עימאד מורנייה
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_s7pjgvbi/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2100 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1783365445/uploads/2026/905253011.jpg" group-title="Reshet 13 Docu",היום שאחרי הגמר - 24 שעות עם גל ורפאלה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0oq662m7/flavorIds/1_0464jf2z,1_tltzxp9t,1_1e8gkm2s,1_kc6carqy,1_cyeuvv7o,1_69zqq6w8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
