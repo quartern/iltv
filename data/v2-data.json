@@ -613,13 +613,26 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 19.07.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_re9xah9r",
+          "Date": "2026-07-19 19:42:03",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4498868/",
+          "Duration": 3103,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-07-19 19:42:03",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_re9xah9r/flavorIds/1_3nqaphgn,1_6lyagghp,1_fvc287iu,1_pwjlyg4b,1_txtgbcmb,1_16x0maks/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 19.07.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_gt5eecsn",
           "Date": "2026-07-19 18:48:55",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/todays-talk/episodes/idg96-905271619/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4498851/",
           "Duration": 2753,
-          "ShortDescriptionLine1": "Todays Talk",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-07-19 18:48:55",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_gt5eecsn/flavorIds/1_u9o91onz,1_1crb1tsr,1_mufukvhc,1_y1hxchhv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -649,19 +662,6 @@
           "ShortDescriptionLine2": "2026-07-18 21:58:54",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_aeofbsvf/flavorIds/1_2x5acy8n,1_iqsjalf3,1_1ixeykq1,1_huxo9r0p,1_89mvrr1k,1_kkzd70af/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 18.07.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_1ek1dnbx",
-          "Date": "2026-07-18 21:23:53",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4498585/",
-          "Duration": 4972,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-07-18 21:23:53",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_1ek1dnbx/flavorIds/1_tc1sorgv,1_ga7a1dpe,1_z36odxf9,1_vbqjz9x1,1_ryux811g,1_ry3a6ama/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1776,18 +1776,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 19.07.26 [live]",
+          "Title": "שש עם עודד בן עמי: 19.07.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22311119/22311119_noAdds/22311119_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "2e3b0ee9fd87f910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/a71dc6736c8fe910/VOD-2e3b0ee9fd87f91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-07-19T17:56:02+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 19.07.26 [live]"
+          "Live": false,
+          "Duration": 2925,
+          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 19.07.26"
         },
         {
           "Title": "חמש עם רפי רשף: 19.07.26",
@@ -1902,20 +1902,6 @@
           "ShortDescriptionLine1": "The main edition: 16.07.26"
         },
         {
-          "Title": "שבע עם קרן מרציאנו: 16.07.26",
-          "Poster": "https://img.mako.co.il/2026/07/16/Sheva_160726_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/19shebafull_vtr2_n20260716_v1/19shebafull_vtr2_n20260716_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "dc995f8a3896f910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/df0ec6736c8fe910/VOD-dc995f8a3896f91026.htm",
-          "ShortDescriptionLine2": "Towards an escalation against Iran?",
-          "Date": "2026-07-16T18:58:46+03:00",
-          "Live": false,
-          "Duration": 1976,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 16.07.26"
-        },
-        {
           "Title": "פגוש את העיתונות: 11.07.26",
           "Poster": "https://img.mako.co.il/2026/07/11/Pgos_Et_Haitonut_110726_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1952,14 +1938,14 @@
           "Title": "חדשות הבוקר עם ניב רסקין: לקראת שבוע דרמטי עם איראן",
           "Poster": "https://img.mako.co.il/2026/07/19/Hadshot_Haboker_190726_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22311111/22311111_noAdds/22311111_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/July/Hadshot_Haboker_190726_VOD_tfrt444/Hadshot_Haboker_190726_VOD_tfrt444_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "be8a05d38055f910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-be8a05d38055f91026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-be8a05d38055f91026.htm",
           "ShortDescriptionLine2": "The dramatic week with Iran, and also: the agreement in Lebanon",
           "Date": "2026-07-19T07:10:42+03:00",
           "Live": false,
-          "Duration": 6187,
+          "Duration": 7718,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: Towards a dramatic week with Iran"
         },
         {
