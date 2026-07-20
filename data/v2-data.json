@@ -1886,14 +1886,14 @@
           "Title": "אברי ושרקי: אברי ושרקי",
           "Poster": "https://img.mako.co.il/2026/07/20/Avri_Sherki_200726_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22311164/22311164_noAdds/22311164_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6393c6fc1c96f910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-6393c6fc1c96f91026.htm",
           "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
           "Date": "2026-07-20T23:34:53+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 2297,
           "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
@@ -2182,6 +2182,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 20-07-26",
+          "StreamerId": "6a5e8aaefe5f65a7fd3b0f04",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67069527771.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a5e8aaefe5f65a7fd3b0f04",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/346721e0-f652-47fa-b10c-4e7a916fd6b7/hls/master.m3u8"
+          ],
+          "Date": "2026-07-20T20:53:02Z",
+          "Duration": "01:07:31",
+          "ShortDescriptionLine1": "The Israelis 07-26-20",
+          "ShortDescriptionLine2": "2026-07-20T20:53:02Z"
+        },
+        {
           "Title": "המהדורה המרכזית 20-07-26",
           "StreamerId": "6a5e692cd3e723ef58337d2a",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67066222176.jpg",
@@ -2310,19 +2323,6 @@
           "Duration": "01:35:55",
           "ShortDescriptionLine1": "Cabinet Friday 07-26-17",
           "ShortDescriptionLine2": "2026-07-18T08:21:02Z"
-        },
-        {
-          "Title": "הישראלים 15-07-26",
-          "StreamerId": "6a57e6fe427d9f5227b02947",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66906547439.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a57e6fe427d9f5227b02947",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/e9527959-f86b-4a8b-a30b-4c1784b37fba/hls/master.m3u8"
-          ],
-          "Date": "2026-07-15T20:01:02Z",
-          "Duration": "01:18:13",
-          "ShortDescriptionLine1": "The Israelis 07-26-15",
-          "ShortDescriptionLine2": "2026-07-15T20:01:02Z"
         }
       ]
     },
