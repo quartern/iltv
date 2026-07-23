@@ -1763,17 +1763,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שש עם עודד בן עמי: 23.07.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "72b17c7829b6f910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/a71dc6736c8fe910/VOD-72b17c7829b6f91026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-07-23T17:55:39+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 07.23.26"
+        },
+        {
           "Title": "חמש עם רפי רשף: 23.07.26",
           "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22311238/22311238_noAdds/22311238_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "13a23aac88d8f910VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/d61cc6736c8fe910/VOD-13a23aac88d8f91026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-07-23T16:55:36+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 3499,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 23.07.26"
         },
         {
@@ -1817,20 +1831,6 @@
           "Live": false,
           "Duration": 2545,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 22.07.26"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 22.07.26",
-          "Poster": "https://img.mako.co.il/2026/07/22/Shesh_220726_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/18shesh_vtr2_n20260722_v1/18shesh_vtr2_n20260722_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "65b310522588f910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/a71dc6736c8fe910/VOD-65b310522588f91026.htm",
-          "ShortDescriptionLine2": "Trump: We will attack infrastructure in Iran",
-          "Date": "2026-07-22T17:56:19+03:00",
-          "Live": false,
-          "Duration": 3084,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 07.22.26"
         },
         {
           "Title": "חדשות סוף השבוע: 18.07.26",
@@ -2221,6 +2221,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדברים חדשות 23-07-26",
+          "StreamerId": "6a62242010d139c7184da37c",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67158569137.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a62242010d139c7184da37c",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/a9cfa2da-4243-45aa-ad0a-0191cf0f5387/hls/master.m3u8"
+          ],
+          "Date": "2026-07-23T14:24:32Z",
+          "Duration": "01:59:28",
+          "ShortDescriptionLine1": "Talking news 07-23-26",
+          "ShortDescriptionLine2": "2026-07-23T14:24:32Z"
+        },
+        {
           "Title": "הישראלים 22-07-26",
           "StreamerId": "6a612340186a40d96d84283e",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67133794109.jpg",
@@ -2297,19 +2310,6 @@
           "Duration": "01:49:17",
           "ShortDescriptionLine1": "15th edition 07-22-26",
           "ShortDescriptionLine2": "2026-07-22T14:53:03Z"
-        },
-        {
-          "Title": "מדברים חדשות 22-07-26",
-          "StreamerId": "6a60d8d7c892f95d3a40c92a",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67126463562.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a60d8d7c892f95d3a40c92a",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/2c8ab990-1a6b-4671-835d-d78c0bae0af5/hls/master.m3u8"
-          ],
-          "Date": "2026-07-22T14:51:03Z",
-          "Duration": "01:59:59",
-          "ShortDescriptionLine1": "Talking news 07-22-26",
-          "ShortDescriptionLine2": "2026-07-22T14:51:03Z"
         },
         {
           "Title": "הערביסטים 18-07-26",
