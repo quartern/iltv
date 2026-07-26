@@ -530,32 +530,6 @@
           "Duration": "6178"
         },
         {
-          "Title": "חדשות הלילה | 23.07.26",
-          "ShortDescriptionLine1": "Tonight's news 23.07.26",
-          "ShortDescriptionLine2": "2026-07-23 20:41:28",
-          "Poster": "https://www.kan.org.il/media/4chbhbim/%d7%a9%d7%a8%d7%95%d7%a0%d7%99.jpg?rmode=pad&width=1200&height=630",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228522/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1080897",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1080897",
-          "Date": "2026-07-23 20:41:28",
-          "Duration": "3003"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 23.07.26",
-          "ShortDescriptionLine1": "Evening News | 23.07.26",
-          "ShortDescriptionLine2": "2026-07-23 19:31:46",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1080850/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228516/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1080850",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1080850",
-          "Date": "2026-07-23 19:31:46",
-          "Duration": "6374"
-        },
-        {
           "Title": "כאן בשש | 23.07.26",
           "ShortDescriptionLine1": "Here at six 23.07.26",
           "ShortDescriptionLine2": "2026-07-23 16:28:31",
@@ -2520,8 +2494,22 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "נסלי ויואב: נסלי ויואב",
+          "Poster": "https://img.mako.co.il/2025/05/20/Nseli_and_Yoav_2024_X5_re_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "70170fc1d397f910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-70170fc1d397f91027.htm",
+          "ShortDescriptionLine2": "A special broadcast with Nesli Barda and Yoav Limor",
+          "Date": "2026-07-26T09:35:30+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Nesli and Yoav: Nesli and Yoav"
+        },
+        {
           "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין",
-          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/07/26/Hadshot_Haboker_260726_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
           ],
@@ -2588,20 +2576,6 @@
           "Live": false,
           "Duration": 2377,
           "ShortDescriptionLine1": "Situation report with Einav and Yaron: peak alertness"
-        },
-        {
-          "Title": "נסלי ויואב: פרידה מ\"מר טלוויזיה\"",
-          "Poster": "https://img.mako.co.il/2026/07/23/Nesli_Yoav_230726_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/July/Nesli_Yoav_230726_VOD_gcp464/Nesli_Yoav_230726_VOD_gcp464_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "b3d50fc1d397f910VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-b3d50fc1d397f91027.htm",
-          "ShortDescriptionLine2": "Saying goodbye to Chaim Yavin",
-          "Date": "2026-07-23T09:35:30+03:00",
-          "Live": false,
-          "Duration": 4952,
-          "ShortDescriptionLine1": "Nesli and Yoav: Farewell to \"Mr. TV\""
         },
         {
           "Title": "בזמן שעבדתם: סטארט-אפ ניישן או סעד ניישן",
