@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-26 16:00
+# Last updated: 2026-07-26 16:09
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -274,6 +274,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:56 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079193/poster" group-title="Kan 11 Featured",שבוע השפלה - דניאל
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227571/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:67 tvg-logo="https://www.kan.org.il/media/p4bh3ipu/%d7%9c%d7%99%d7%94%d7%99-%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",שבוע השפלה - ליהי
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227569/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3441 tvg-logo="https://www.kan.org.il/media/t4lh5kt3/%d7%90%d7%a8%d7%93%d7%95%d7%90%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",אויבים עונה 5 | פרק 3 - רג'פ טאיפ ארדואן
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -328,17 +334,8 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227565/LIBCODER
 #EXTINF:70 tvg-logo="https://www.kan.org.il/media/xthlu1qx/%d7%99%d7%92%d7%90%d7%9c.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",שבוע ירושלים - יגאל
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227564/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:58 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079174/poster" group-title="Kan 11 Featured",שבוע ירושלים - אדם
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227563/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:59 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079191/poster" group-title="Kan 11 Featured",שבוע ירושלים - רועי
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227562/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2268 tvg-logo="https://www.kan.org.il/media/mypikxs5/%d7%9c%d7%90%d7%aa%d7%a8-%d7%9e%d7%a2%d7%95%d7%93%d7%9b%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 23 - 28.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:3441 tvg-logo="https://www.kan.org.il/media/t4lh5kt3/%d7%90%d7%a8%d7%93%d7%95%d7%90%d7%9f.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 3 - רג'פ טאיפ ארדואן
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2100 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1783365445/uploads/2026/905253011.jpg" group-title="Reshet 13 Docu",היום שאחרי הגמר - 24 שעות עם גל ורפאלה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0oq662m7/flavorIds/1_0464jf2z,1_tltzxp9t,1_1e8gkm2s,1_kc6carqy,1_cyeuvv7o,1_69zqq6w8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
