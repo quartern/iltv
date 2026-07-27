@@ -574,6 +574,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 27.07.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_n2kvt4dt",
+          "Date": "2026-07-27 22:35:01",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4511618/",
+          "Duration": 3646,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-07-27 22:35:01",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_n2kvt4dt/flavorIds/1_stxzyf38,1_3bwz0vp2,1_cwzz72qs,1_2sq2ec91,1_oe65izx7,1_x5vehhli/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 27.07.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_wtvai8tt",
@@ -636,19 +649,6 @@
           "ShortDescriptionLine2": "2026-07-26 23:59:25",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mkptilhc/flavorIds/1_10p247pa,1_0srkmx04,1_qotxwv7u,1_w3rcr0xp,1_s5fgoiy9,1_vtszgyol/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 26.07.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_hm4zn4ko",
-          "Date": "2026-07-26 22:27:40",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4510442/",
-          "Duration": 3723,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-07-26 22:27:40",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hm4zn4ko/flavorIds/1_kyoh2bs9,1_jjq9dml4,1_70jvado7,1_cbch1zy8,1_xy4084m1,1_ivepozld/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1054,6 +1054,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הפשוטע | פרק 2 - ילדות עם רוע",
+          "ShortDescriptionLine1": "The simple | Chapter 2 - Childhood with evil",
+          "ShortDescriptionLine2": "2026-07-27 19:05:15",
+          "Poster": "https://www.kan.org.il/media/tfhnn5td/%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223253/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1073657",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1073649/s1/1073657",
+          "Date": "2026-07-27 19:05:15",
+          "Duration": "1825"
+        },
+        {
           "Title": "מתחת לבלטות עונה 2 | פרק 1 - החיים במינוס",
           "ShortDescriptionLine1": "Under the Embankments Season 2 | Chapter 1 - Life in the minus",
           "ShortDescriptionLine2": "2026-07-26 19:07:21",
@@ -1299,19 +1312,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1075348/1080433",
           "Date": "2026-07-23 14:41:31",
           "Duration": "0"
-        },
-        {
-          "Title": "השאלות של נעמי",
-          "ShortDescriptionLine1": "Naomi's questions",
-          "ShortDescriptionLine2": "2026-07-22 18:33:45",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1023453/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2185693/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1023453",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1023449/1023453",
-          "Date": "2026-07-22 18:33:45",
-          "Duration": "3868"
         }
       ]
     },
@@ -1319,17 +1319,69 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "אויבים עונה 5 | פרק 3 - רג'פ טאיפ ארדואן",
-          "ShortDescriptionLine1": "Enemies Season 5 | Chapter 3 - Recep Tayyip Erdogan",
-          "ShortDescriptionLine2": "2026-07-25 18:29:56",
-          "Poster": "https://www.kan.org.il/media/t4lh5kt3/%d7%90%d7%a8%d7%93%d7%95%d7%90%d7%9f.jpg?rmode=pad&width=1200&height=630",
+          "Title": "זהו זה! עונה 8 | פרק 24 - 05.05.26",
+          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 24 - 05.05.26",
+          "ShortDescriptionLine2": "2026-05-05 18:34:20",
+          "Poster": "https://www.kan.org.il/media/yuamxeil/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1073634",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12210/s5/1073634",
-          "Date": "2026-07-25 18:29:56",
-          "Duration": "3441"
+          "StreamerId": "kan1037654",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1037654",
+          "Date": "2026-05-05 18:34:20",
+          "Duration": "2433"
+        },
+        {
+          "Title": "זהו זה! עונה 8 | פרק 22 - 23.04.26 ",
+          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 22 - 23.04.26",
+          "ShortDescriptionLine2": "2026-04-23 18:37:43",
+          "Poster": "https://www.kan.org.il/media/1pln02sa/%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1032571",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1032571",
+          "Date": "2026-04-23 18:37:43",
+          "Duration": "2185"
+        },
+        {
+          "Title": "סינדרום עזה | פרק 1 - נקודת העיוורון",
+          "ShortDescriptionLine1": "Gaza syndrome Chapter 1 - The Blind Spot",
+          "ShortDescriptionLine2": "2025-09-11 20:57:09",
+          "Poster": "https://www.kan.org.il/media/mbsm2xz2/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_4tf45try/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan838880",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838880",
+          "Date": "2025-09-11 20:57:09",
+          "Duration": "3698"
+        },
+        {
+          "Title": "סינדרום עזה | פרק 2 - ארץ אחת",
+          "ShortDescriptionLine1": "Gaza syndrome Chapter 2 - One country",
+          "ShortDescriptionLine2": "2025-09-11 20:19:23",
+          "Poster": "https://www.kan.org.il/media/xj4pgwak/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfd2n8ut/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan838881",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838881",
+          "Date": "2025-09-11 20:19:23",
+          "Duration": "3698"
+        },
+        {
+          "Title": "סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים",
+          "ShortDescriptionLine1": "Gaza syndrome Chapter 3 - Three countries for two peoples",
+          "ShortDescriptionLine2": "2025-09-11 20:57:09",
+          "Poster": "https://www.kan.org.il/media/pbgfiahk/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5735bfwo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan838883",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-838878/s1/838883",
+          "Date": "2025-09-11 20:57:09",
+          "Duration": "3737"
         }
       ]
     },
@@ -1897,16 +1949,16 @@
       "Items": [
         {
           "Title": "רוקדים עם כוכבים: מי יעשה קאמבק?",
-          "Poster": "https://img.mako.co.il/2026/05/20/Rokdim2026_1_X52_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/07/27/Rokdim_Im_Kochavim5_19_270726_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Rokdim_Im_Kohavim/A190469/A190469_noAdds/A190469_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "619f47026497f910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/dancing_with_stars-s5/VOD-619f47026497f91027.htm",
           "ShortDescriptionLine2": "Which of the couples will make a comeback?",
           "Date": "2026-07-27T21:24:45+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 3565,
           "ShortDescriptionLine1": "Dancing with the Stars: Who will make a comeback?"
         },
         {
