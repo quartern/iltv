@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-29 11:42
+# Last updated: 2026-07-29 11:53
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -112,6 +112,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:4200 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1083282/poster" group-title="11 News - Latest shows",העולם היום | 29.07.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230383/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:8723 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1083279/poster" group-title="11 News - Latest shows",גליק ותמר | 29.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230378/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -123,9 +126,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230243/LIBCODER
 
 #EXTINF:7288 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1082638/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 28.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230238/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3344 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1082567/poster" group-title="11 News - Latest shows",העולם היום | 28.07.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230185/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:4689 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1082560/poster" group-title="11 News - Latest shows",כאן בשש | 28.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230191/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -591,9 +591,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:6768 tvg-logo="https://img.mako.co.il/2026/07/29/Hadshot_Haboker_290726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: פסגת נתניהו - טראמפ
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/July/Hadshot_Haboker_290726_VOD_jlk392/Hadshot_Haboker_290726_VOD_jlk392_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2433 tvg-logo="https://img.mako.co.il/2026/07/28/Avri_Sherki_280726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/July/Avri_Sherki_280726_VOD_uhl309/Avri_Sherki_280726_VOD_uhl309_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3510 tvg-logo="https://img.mako.co.il/2026/07/27/Rokdim_Im_Kochavim5_19_270726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: מי יעשה קאמבק?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_19_270726_VOD_aww344/Rokdim_Im_Kochavim5_19_270726_VOD_aww344_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
