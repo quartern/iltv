@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-07-30 10:45
+# Last updated: 2026-07-30 11:12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -424,8 +424,11 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 30.07.26
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 30.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+
+#EXTINF:2189 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 30.07.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22311440/22311440_noAdds/22311440_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5210 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 30.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22311439/22311439_noAdds/22311439_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -435,9 +438,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:2142 tvg-logo="https://img.mako.co.il/2026/07/29/Sheva_290726_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 29.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/19sheva_vtr2_n20260729_v1/19sheva_vtr2_n20260729_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2671 tvg-logo="https://img.mako.co.il/2026/07/29/Shesh_290726_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 29.07.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/18shesh_vtr2_n20260729_v1/18shesh_vtr2_n20260729_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4118 tvg-logo="https://img.mako.co.il/2026/07/25/Hadshot_Sof_Hashavua_250726_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 25.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/20kerenmarcianu_vtr2_n20260725_v1/20kerenmarcianu_vtr2_n20260725_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
@@ -453,6 +453,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:4969 tvg-logo="https://img.mako.co.il/2026/07/18/pgosh_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 18.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/18pgosh_vtr2_n20260718_v1/18pgosh_vtr2_n20260718_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3281 tvg-logo="https://img.mako.co.il/2026/07/30/Hadhsot_Haboker_Mika_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: משמרת הצניעות בקופ"ח
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/July/Nesli_Yoav_300726_VOD_jhg7/Nesli_Yoav_300726_VOD_jhg7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -517,6 +520,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:59:48 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67386099040.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות 30-07-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/7042af96-8043-4c9c-8f4e-83c1402aa482/hls/master.m3u8
+
 #EXTINF:01:10:53 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/uploaded/28afdbba-8954-4b10-a8a7-4487678c9ebf.jpeg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית 29-07-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/4ac89bc6-330b-4683-8f95-d9597c4829d8/hls/master.m3u8
 
@@ -531,9 +537,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/9f497601-70a7-4fd8-9b14-90
 
 #EXTINF:01:03:35 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67357218273.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש 29-07-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/2575b1e0-8952-436d-969b-630fee7a0b12/hls/master.m3u8
-
-#EXTINF:01:48:58 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67353865753.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15 29-07-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/3407b2d7-2768-435d-bddc-db0716d8592d/hls/master.m3u8
 
 #EXTINF:01:48:59 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67321672750.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15, 28.07.26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/61150b22-febc-42f7-9ab1-6cb6e4f09d04/hls/master.m3u8
