@@ -1996,17 +1996,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 03.08.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "b25d8e31f46cf910VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9442653214e9f910/VOD-b25d8e31f46cf91027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-08-03T19:52:12+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 03.08.26"
+        },
+        {
           "Title": "שבע עם קרן מרציאנו: 03.08.26",
           "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22423066/22423066_noAdds/22423066_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "202c8e31f46cf910VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/983d42d744e9f910/VOD-202c8e31f46cf91027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-08-03T18:59:25+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 2135,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 08.03.26"
         },
         {
@@ -2050,20 +2064,6 @@
           "Live": false,
           "Duration": 5152,
           "ShortDescriptionLine1": "Today's edition: 03.08.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 02.08.26",
-          "Poster": "https://img.mako.co.il/2026/08/02/Mahadura_Merkazit_020826_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/20mahadurafull_vtr2_n202600802_v1/20mahadurafull_vtr2_n202600802_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "c39a2556411cf910VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9442653214e9f910/VOD-c39a2556411cf91026.htm",
-          "ShortDescriptionLine2": "Behind the scenes of the attack that was not in Iran",
-          "Date": "2026-08-02T19:52:22+03:00",
-          "Live": false,
-          "Duration": 4138,
-          "ShortDescriptionLine1": "Main edition: 02.08.26"
         },
         {
           "Title": "חדשות סוף השבוע: 01.08.26",
@@ -2454,6 +2454,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת 15, 03.08.26",
+          "StreamerId": "6a70b95ff5c83df84d873bb8",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67516020656.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a70b95ff5c83df84d873bb8",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/957158dd-de27-45bb-8fab-3a5bec60290b/hls/master.m3u8"
+          ],
+          "Date": "2026-08-03T15:53:03Z",
+          "Duration": "01:49:26",
+          "ShortDescriptionLine1": "15th edition, 03.08.26",
+          "ShortDescriptionLine2": "2026-08-03T15:53:03Z"
+        },
+        {
           "Title": "מדברים חדשות, 03.08.26",
           "StreamerId": "6a70b86ff5c83df84d873953",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67515967733.jpg",
@@ -2530,19 +2543,6 @@
           "Duration": "01:05:37",
           "ShortDescriptionLine1": "Five edition, 02.08.26",
           "ShortDescriptionLine2": "2026-08-02T15:00:04Z"
-        },
-        {
-          "Title": "מהדורת 15, 02.08.26",
-          "StreamerId": "6a6f5230ee2ca15cbff08892",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67482164534.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a6f5230ee2ca15cbff08892",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/b816a328-e4aa-4edc-b2ab-16f86a857d81/hls/master.m3u8"
-          ],
-          "Date": "2026-08-02T14:20:32Z",
-          "Duration": "01:47:10",
-          "ShortDescriptionLine1": "15th edition, 02.08.26",
-          "ShortDescriptionLine2": "2026-08-02T14:20:32Z"
         },
         {
           "Title": "הערביסטים  01-08-26",
