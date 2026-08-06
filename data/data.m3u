@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-06 11:24
+# Last updated: 2026-08-06 11:34
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -112,6 +112,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:8279 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1086405/poster" group-title="11 News - Latest shows",שרון ואורי | 06.08.26
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233166/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:2349 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1086151/poster" group-title="11 News - Latest shows",חדשות הלילה | 05.08.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232904/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -135,9 +138,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2232373/LIBCODER
 
 #EXTINF:6547 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1084366/poster" group-title="11 News - Latest shows",חדשות השבת | 01.08.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231503/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:8020 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1084306/poster" group-title="11 News - Latest shows",שרון ואורי | 01.08.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231474/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:8763 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1084146/poster" group-title="11 News - Latest shows",חדשות שישי | 31.07.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2231088/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -606,6 +606,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:5444 tvg-logo="https://img.mako.co.il/2026/07/31/Ofira_Ohana_Seri_310726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: האם ישראל תצטרף למלחמה? 
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/July/Ofira_Ohana_Sery_310726_VOD_oos741/Ofira_Ohana_Sery_310726_VOD_oos741_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2453 tvg-logo="https://img.mako.co.il/2026/07/30/Doh_Matzav_300726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: מה קרה בפגישת טראמפ ונתניהו
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/July/Doh_Matzav_300726_VOD_SNID482/Doh_Matzav_300726_VOD_SNID482_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3137 tvg-logo="https://img.mako.co.il/2026/07/30/Uvda2026_17_300726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אביתר דוד מדבר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/July/Uvda2026_17_300726_VOD_vsf154/Uvda2026_17_300726_VOD_vsf154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
