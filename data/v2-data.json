@@ -534,6 +534,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המגזין 07.08.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
+          "StreamerId": "1_vvdi7v4t",
+          "Date": "2026-08-07 19:00:40",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/300/season/1/4526534/",
+          "Duration": 2468,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-08-07 19:00:40",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vvdi7v4t/flavorIds/1_kbntkebz,1_wunhju5p,1_xztaww4c,1_ovjwilp5,1_1k4nx478,1_2m68aeqm/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 06.08.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
           "StreamerId": "1_qcaepwn5",
@@ -648,19 +661,6 @@
           "ShortDescriptionLine2": "2026-07-31 21:51:14",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ik3kre6p/flavorIds/1_w8aq9qdp,1_z6289t8b,1_q90k99ya,1_djj6hujt,1_yugt7msp,1_kay4jx8x/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המגזין 31.07.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg",
-          "StreamerId": "1_6rov4186",
-          "Date": "2026-07-31 17:51:22",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/300/season/1/4517229/",
-          "Duration": 2378,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-07-31 17:51:22",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6rov4186/flavorIds/1_gpe28ogk,1_kihfvk5q,1_almj4269,1_kxsn2vp4,1_kkp2hitr,1_qg1m9f10/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1014,6 +1014,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "שום פלפל ושמן זית 2026 | פרק 15 - נועם קליינשטיין",
+          "ShortDescriptionLine1": "Garlic, pepper and olive oil 2026 | Chapter 15 - Noam Kleinstein",
+          "ShortDescriptionLine2": "2026-08-07 16:08:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1071060/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1071060",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-682519/s3/1071060",
+          "Date": "2026-08-07 16:08:56",
+          "Duration": "2357"
+        },
+        {
           "Title": "אגן הים התיכון עם ורד יפתחי גרין - 07.08.26",
           "ShortDescriptionLine1": "The Mediterranean basin with a green opening rose - 07.08.26",
           "ShortDescriptionLine2": "2026-08-07 10:41:39",
@@ -1259,19 +1272,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079188",
           "Date": "2026-08-02 18:30:57",
           "Duration": "73"
-        },
-        {
-          "Title": "שבוע צפון - רוני",
-          "ShortDescriptionLine1": "North Week - Ronnie",
-          "ShortDescriptionLine2": "2026-08-02 18:30:57",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079185/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227574/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1079185",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-11843/s11/1079185",
-          "Date": "2026-08-02 18:30:57",
-          "Duration": "61"
         }
       ]
     },
@@ -1279,43 +1279,30 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "זהו זה! עונה 8 | פרק 24 - 05.05.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 24 - 05.05.26",
-          "ShortDescriptionLine2": "2026-05-05 18:34:20",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster",
+          "Title": "מישל על הבמה: צפו בביצוע של נועם בתן בחצי גמר אירוויזיון 2026",
+          "ShortDescriptionLine1": "Michelle on stage: Watch Noam Batan's performance in the Eurovision 2026 semi-finals",
+          "ShortDescriptionLine2": "2026-05-17 13:31:12",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040035/poster",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1037654",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1037654",
-          "Date": "2026-05-05 18:34:20",
-          "Duration": "2433"
+          "StreamerId": "kan1040035",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1039262/s1/1040035",
+          "Date": "2026-05-17 13:31:12",
+          "Duration": "197"
         },
         {
-          "Title": "זהו זה! עונה 8 | פרק 23 - 28.04.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 23 - 28.04.26",
-          "ShortDescriptionLine2": "2026-04-28 18:31:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034603/poster",
+          "Title": "מישל בגמר: צפו בביצוע של נועם בתן - גמר אירוויזיון 2026",
+          "ShortDescriptionLine1": "Michelle in the final: watch Noam Batan's performance - Eurovision 2026 final",
+          "ShortDescriptionLine2": "2026-05-16 19:35:56",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041743/poster",
           "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201145/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
           ],
-          "StreamerId": "kan1034603",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1034603",
-          "Date": "2026-04-28 18:31:23",
-          "Duration": "2268"
-        },
-        {
-          "Title": "זהו זה! עונה 8 | פרק 22 - 23.04.26 ",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 22 - 23.04.26",
-          "ShortDescriptionLine2": "2026-04-23 18:37:43",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032571/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1032571",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1032571",
-          "Date": "2026-04-23 18:37:43",
-          "Duration": "2185"
+          "StreamerId": "kan1041743",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1039262/s1/1041743",
+          "Date": "2026-05-16 19:35:56",
+          "Duration": "116"
         },
         {
           "Title": "קופה ראשית עונה 5 | פרק 1 - כפרות",

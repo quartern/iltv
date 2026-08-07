@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-07 12:01
+# Last updated: 2026-08-07 12:53
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -127,6 +127,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2210157/LIBCODER
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2468 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 07.08.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vvdi7v4t/flavorIds/1_kbntkebz,1_wunhju5p,1_xztaww4c,1_ovjwilp5,1_1k4nx478,1_2m68aeqm/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:1555 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 06.08.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qcaepwn5/flavorIds/1_pnkhn941,1_hemb1fqo,1_3tg5j9mi,1_hjowx3h2,1_uniwp7v8,1_2npja9w8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -153,9 +156,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_zrj20u
 
 #EXTINF:5491 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg" group-title="13 News - Latest shows",עושים שישי עם אריק וייס 31.07.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ik3kre6p/flavorIds/1_w8aq9qdp,1_z6289t8b,1_q90k99ya,1_djj6hujt,1_yugt7msp,1_kay4jx8x/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:2378 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 31.07.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6rov4186/flavorIds/1_gpe28ogk,1_kihfvk5q,1_almj4269,1_kxsn2vp4,1_kkp2hitr,1_qg1m9f10/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -244,6 +244,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:2357 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1071060/poster" group-title="Kan 11 Featured",שום פלפל ושמן זית 2026 | פרק 15 - נועם קליינשטיין
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2221560/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:7910 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1086705/poster" group-title="Kan 11 Featured",אגן הים התיכון עם ורד יפתחי גרין - 07.08.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2233326/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -301,17 +304,11 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227575/LIBCODER
 #EXTINF:73 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079188/poster" group-title="Kan 11 Featured",שבוע צפון - אלירן
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227576/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:61 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079185/poster" group-title="Kan 11 Featured",שבוע צפון - רוני
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227574/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:197 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040035/poster" group-title="Kan 11 Specials",מישל על הבמה: צפו בביצוע של נועם בתן בחצי גמר אירוויזיון 2026
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2268 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034603/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 23 - 28.04.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:2185 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1032571/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 22 - 23.04.26 
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2192956/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+#EXTINF:116 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041743/poster" group-title="Kan 11 Specials",מישל בגמר: צפו בביצוע של נועם בתן - גמר אירוויזיון 2026
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201145/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:1441 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809113/poster" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 1 - כפרות
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_csokhtwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
