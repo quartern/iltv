@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-08 17:10
+# Last updated: 2026-08-08 17:28
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -454,8 +454,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2459 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22423229/22423229_noAdds/22423229_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4468 tvg-logo="https://img.mako.co.il/2026/08/08/Rokdim_Im_Kohavim5_24_080826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: מי ישרוד את המבול?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Rokdim_Im_Kohavim/A190474/A190474_noAdds/A190474_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -517,6 +517,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:29:30 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67678279586.jpg" group-title="i24 Hebrew - Latest shows",מגזין השבת  08-08-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/85db4537-ed2d-4e72-a3a2-f930f3ebb1a5/hls/master.m3u8
+
 #EXTINF:01:55:07 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67678235302.jpg" group-title="i24 Hebrew - Latest shows",סופשבוע  08-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/9d6240dc-7ab0-43e7-89e6-a8e265324e0f/hls/master.m3u8
 
@@ -546,9 +549,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/8d64b242-c29a-4d10-b26b-2c
 
 #EXTINF:00:49:06 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67457896774.jpg" group-title="i24 Hebrew - Latest shows",הערביסטים  01-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/a81f9b59-ddb1-4b42-999f-21ee711bb80d/hls/master.m3u8
-
-#EXTINF:01:59:59 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67456108028.jpg" group-title="i24 Hebrew - Latest shows", מגזין השבת 01-08-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/ec78f66a-bf66-4e3c-b537-92f06fadea74/hls/master.m3u8
 
 #EXTINF:420 tvg-logo="https://www.kan.org.il/media/d0odqzjk/%d7%91%d7%9c%d7%95%d7%90%d7%99-%d7%a4%d7%a8%d7%a7-11.jpg?rmode=pad&width=1200&height=630" group-title="Kan Kids",בלואי | פרק 11 - אופניים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_c1f2560d/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
