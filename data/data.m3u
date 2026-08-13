@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-13 09:21
+# Last updated: 2026-08-13 09:41
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -277,6 +277,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:56 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1088738/poster" group-title="Kan 11 Featured",לנסקי - הגנגסטר הציוני | טריילר
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235250/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1232 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034713/poster" group-title="Kan 11 Featured",ההמצאות של המחר עונה 1 | פרק 8 - טייס משנה אוטונומי
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2175479/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -333,9 +336,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227578/LIBCODER
 
 #EXTINF:70 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1079189/poster" group-title="Kan 11 Featured",שבוע אילת - יערית
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227577/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1843 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1077378/poster" group-title="Kan 11 Featured",בואו לאכול איתי עונה 10 | פרק 16 - שבוע אילת, יום א'
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226088/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -589,8 +589,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:3331 tvg-logo="https://img.mako.co.il/2026/08/13/Nesli_Yoav_130826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: החיפושים אחר הישראליות
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/August/Nesli_Yoav_130826_VOD_bfd489/Nesli_Yoav_130826_VOD_bfd489_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:5498 tvg-logo="https://img.mako.co.il/2026/08/13/Hadshot_Haboker_130826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: היעלמות הישראליות בווינה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22423355/22423355_noAdds/22423355_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:6721 tvg-logo="https://img.mako.co.il/2026/08/13/Hadshot_Haboker_130826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: היעלמות הישראליות בווינה
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/August/Hadshot_Haboker_130826_VOD_doe352/Hadshot_Haboker_130826_VOD_doe352_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4446 tvg-logo="https://img.mako.co.il/2026/08/12/Rokdim_Im_Kohavim5_25_120826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: מי יצא מהקופסה? 
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_25_120826_VOD_kgf753/Rokdim_Im_Kochavim5_25_120826_VOD_kgf753_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
