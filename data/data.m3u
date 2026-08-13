@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-13 05:56
+# Last updated: 2026-08-13 06:10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -277,6 +277,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1232 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034713/poster" group-title="Kan 11 Featured",ההמצאות של המחר עונה 1 | פרק 8 - טייס משנה אוטונומי
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2175479/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1474 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1018965/poster" group-title="Kan 11 Featured",מתי נתאהב? | פרק 3 - גברים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_8ncymehj/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -333,9 +336,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2227577/LIBCODER
 
 #EXTINF:1843 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1077378/poster" group-title="Kan 11 Featured",בואו לאכול איתי עונה 10 | פרק 16 - שבוע אילת, יום א'
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226088/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:1680 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1081444/poster" group-title="Kan 11 Featured",הכוורת | פרק 9
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229485/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2433 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -634,6 +634,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:33:45 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_67823861101.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית, 12-08-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/7cf20cd4-9fff-4193-ac26-6042ca5991b4/hls/master.m3u8
+
 #EXTINF:01:19:04 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67806427870.jpg" group-title="i24 Hebrew - Latest shows",הישראלים  12-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/a3d652de-4da7-4125-aaeb-02c1f2575a8a/hls/master.m3u8
 
@@ -648,9 +651,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/6f2ead1e-11a0-4c26-8072-94
 
 #EXTINF:01:58:45 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67797613820.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות 12-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/be1e5358-4f81-4bff-b771-0189fe9fccba/hls/master.m3u8
-
-#EXTINF:01:29:42 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67772936001.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית  11-08-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/7722ebf0-3c2b-4114-88b7-453479cb9f29/hls/master.m3u8
 
 #EXTINF:00:50:18 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67770810953.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל  11-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/e2b06a01-1108-415d-bc3f-0177c8e5f0af/hls/master.m3u8
