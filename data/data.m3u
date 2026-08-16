@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-16 07:25
+# Last updated: 2026-08-16 09:00
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -334,9 +334,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223255/LIBCODER
 #EXTINF:1626 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1077379/poster" group-title="Kan 11 Featured",בואו לאכול איתי עונה 10 | פרק 17 - שבוע אילת, יום ב'
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2226089/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:2433 tvg-logo="https://www.kan.org.il/media/yuamxeil/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",זהו זה! עונה 8 | פרק 24 - 05.05.26
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:197 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1040035/poster" group-title="Kan 11 Specials",מישל על הבמה: צפו בביצוע של נועם בתן בחצי גמר אירוויזיון 2026
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2199797/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -351,6 +348,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201145/LIBCODER
 
 #EXTINF:14910 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1041484/poster" group-title="Kan 11 Specials",אירוויזיון 2026 - הגמר | המשדר המלא
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2201190/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:2007 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan967894/poster" group-title="Kan 11 Specials",סיפורים מהכורסה עונה 5 | פרק 2 - בתיאבון
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907019/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2100 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1783365445/uploads/2026/905253011.jpg" group-title="Reshet 13 Docu",היום שאחרי הגמר - 24 שעות עם גל ורפאלה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0oq662m7/flavorIds/1_0464jf2z,1_tltzxp9t,1_1e8gkm2s,1_kc6carqy,1_cyeuvv7o,1_69zqq6w8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -442,6 +442,9 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 16.08.26
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+
 #EXTINF:4209 tvg-logo="https://img.mako.co.il/2026/08/15/Hadshot_Sof_Hashavua_150826_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 15.08.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/s20danaweiss_vtr2_n20260815_v1/s20danaweiss_vtr2_n20260815_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -466,14 +469,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2129 tvg-logo="https://img.mako.co.il/2026/08/13/Hamesh_130826_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 13.08.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/17raffixi_vtr2_n20260813_v1/17raffixi_vtr2_n20260813_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:4852 tvg-logo="https://img.mako.co.il/2026/08/13/Mahadurat_Hayom_130826_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 13.08.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadashot_Keshet/Mahadurat_Hayom/2026/August/Mahadurat_Hayom_130826_VOD_NSU391/Mahadurat_Hayom_130826_VOD_NSU391_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
 #EXTINF:4890 tvg-logo="https://img.mako.co.il/2026/08/08/Pgosh_080826_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 08.08.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/pgosh_vtr2_n20260808_v1/pgosh_vtr2_n20260808_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3601 tvg-logo="https://img.mako.co.il/2026/08/16/Nesli_Yoav_160826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: לקראת הסלמה מחודשת בצפון?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22423443/22423443_noAdds/22423443_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -609,6 +606,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wh7py4h8/LIBCO
 
 #EXTINF:684 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan777864/poster" group-title="Kan Kids",צ'רלי ולולה עונה 1 | פרק 5 - יש רק שמש אחת וזאת אני
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l8smrc5z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:3818.083 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/029acc89-0ff1-4c21-aa05-06b82550976d.png" group-title="Channel 16 - Latest shows",חדשות בוקר 16 08.16.2026
+https://ch16israel.vod.immergo.tv/ch16israel/transcoded/faf62fad-d84b-4d3c-96e7-0a45c58e5869/hls/master.m3u8
 
 #EXTINF:2332.2 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/c3cab710-80cf-4a60-a481-b7939c9ef3a3.png" group-title="Channel 16 - Latest shows",מסילות אל הנפש 14.08.2026
 https://ch16israel.vod.immergo.tv/ch16israel/transcoded/6923fa9c-d1b5-4a40-a241-a47f03e19fa0/hls/master.m3u8
