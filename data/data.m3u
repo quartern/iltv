@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-19 14:54
+# Last updated: 2026-08-19 15:26
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -256,6 +256,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="Other Languages",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:1488 tvg-logo="https://www.kan.org.il/media/bzycxllp/%d7%9c%d7%90%d7%aa%d7%a8.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Featured",מתי נתאהב? | פרק 4 - אהבה פרק ב׳
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_purpaz9s/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1020 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1087670/poster" group-title="Kan 11 Featured",הכוורת | פרק 16
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -313,9 +316,6 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234419/LIBCODER
 #EXTINF:3133 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1087081/poster" group-title="Kan 11 Featured",לנסקי - הגנגסטר הציוני | פרק 1 - איש גדול קטן
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2229692/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:442 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1089040/poster" group-title="Kan 11 Featured",שאלון קצר עם טל פרידמן
-http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235698/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:1441 tvg-logo="https://www.kan.org.il/media/dpoecwvn/%d7%a7%d7%95%d7%a4%d7%94-%d7%a8%d7%90%d7%a9%d7%99%d7%aa-%d7%a0%d7%a7%d7%99.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",קופה ראשית עונה 5 | פרק 1 - כפרות
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_csokhtwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -327,6 +327,12 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_pfd2n8ut/LIBCO
 
 #EXTINF:3737 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan838883/poster" group-title="Kan 11 Specials",סינדרום עזה | פרק 3 - שלוש מדינות לשני עמים
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_5735bfwo/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:1808 tvg-logo="https://www.kan.org.il/media/2fqfqmrv/s0492150-digital00_00_58_05still004.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סיפורים מהכורסה עונה 5 | פרק 4 - השכונה שלי
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1907053/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:2047 tvg-logo="https://www.kan.org.il/media/rsxc3e0t/s0492150-digital00_00_59_15still005.jpg?rmode=pad&width=1200&height=630" group-title="Kan 11 Specials",סיפורים מהכורסה עונה 5 | פרק 5 - אני מול הטבע
+http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1952000/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:2100 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1783365445/uploads/2026/905253011.jpg" group-title="Reshet 13 Docu",היום שאחרי הגמר - 24 שעות עם גל ורפאלה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0oq662m7/flavorIds/1_0464jf2z,1_tltzxp9t,1_1e8gkm2s,1_kc6carqy,1_cyeuvv7o,1_69zqq6w8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -453,9 +459,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:0 tvg-logo="https://img.mako.co.il/2026/05/20/Rokdim2026_1_X52_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: ששת הגדולים בדו קרב
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
-
-#EXTINF:3850 tvg-logo="https://img.mako.co.il/2026/08/19/Nesli_Yoav_190826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: התקיפה החריגה בעזה
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/August/Nesli_Yoav_190826_VOD_AON139/Nesli_Yoav_190826_VOD_AON139_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:7921 tvg-logo="https://img.mako.co.il/2026/08/19/Hadshot_Haboker_190826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: הזיהום בנחלים בצפון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/August/Hadshot_Haboker_190826_VOD_SNB482/Hadshot_Haboker_190826_VOD_SNB482_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -585,6 +588,9 @@ http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_wh7py4h8/LIBCO
 
 #EXTINF:684 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan777864/poster" group-title="Kan Kids",צ'רלי ולולה עונה 1 | פרק 5 - יש רק שמש אחת וזאת אני
 http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_l8smrc5z/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
+#EXTINF:2762.262 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/7fb45fe4-91a2-419f-8738-53bdc91fe1ea.png" group-title="Channel 16 - Latest shows",מהדורה מרכזית 19.08.26
+https://ch16israel.vod.immergo.tv/ch16israel/transcoded/d28627d9-9978-4d62-b2ac-b3fefb1fb716/hls/master.m3u8
 
 #EXTINF:2838.967 tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/cfc7e642-1bed-4184-8759-5c574fe0f9fb.png" group-title="Channel 16 - Latest shows",מהדורה מרכזית 18.08.26
 https://ch16israel.vod.immergo.tv/ch16israel/transcoded/e9248413-6c43-4518-8b8f-0aa795997a69/hls/master.m3u8
