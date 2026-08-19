@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 19.08.26",
+          "ShortDescriptionLine1": "The world today 19.08.26",
+          "ShortDescriptionLine2": "2026-08-19 16:08:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1090902/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2237187/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1090902",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1090902",
+          "Date": "2026-08-19 16:08:34",
+          "Duration": "3248"
+        },
+        {
           "Title": "גליק ותמר | 19.08.26",
           "ShortDescriptionLine1": "Glick and Tamar 19.08.26",
           "ShortDescriptionLine2": "2026-08-19 15:13:30",
@@ -527,19 +540,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1090430",
           "Date": "2026-08-18 16:47:16",
           "Duration": "3784"
-        },
-        {
-          "Title": "העולם היום | 18.08.26",
-          "ShortDescriptionLine1": "The world today 18.08.26",
-          "ShortDescriptionLine2": "2026-08-18 15:31:15",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1090403/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2236931/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1090403",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1090403",
-          "Date": "2026-08-18 15:31:15",
-          "Duration": "3900"
         },
         {
           "Title": "חדשות השבת | 15.08.26",
@@ -1157,6 +1157,19 @@
       "Name": "Kan 11 Featured",
       "Items": [
         {
+          "Title": "הכוורת | פרק 16",
+          "ShortDescriptionLine1": "The beehive Chapter 16",
+          "ShortDescriptionLine2": "2026-08-19 15:56:27",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1087670/poster",
+          "StreamUrls": [
+            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2234422/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1087670",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-1075348/s1/1087670",
+          "Date": "2026-08-19 15:56:27",
+          "Duration": "1020"
+        },
+        {
           "Title": "ההמצאות של המחר עונה 1 | פרק 11 - מנורת אימון שינה לתינוקות",
           "ShortDescriptionLine1": "The Inventions of Tomorrow Season 1 | Chapter 11 - Sleep training lamp for babies",
           "ShortDescriptionLine2": "2026-08-19 10:00:27",
@@ -1402,19 +1415,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-700467/s4/1089040",
           "Date": "2026-08-14 20:05:33",
           "Duration": "442"
-        },
-        {
-          "Title": "המדריך ללונג'בטי עם מושיק גלאמין",
-          "ShortDescriptionLine1": "The Guide to Longevity with Mushik Glamin",
-          "ShortDescriptionLine2": "2026-08-14 20:05:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1089045/poster",
-          "StreamUrls": [
-            "http://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2235697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1089045",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-700467/s4/1089045",
-          "Date": "2026-08-14 20:05:30",
-          "Duration": "255"
         }
       ]
     },
@@ -2373,17 +2373,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם קרן מרציאנו: 19.08.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "02ca1104d9810a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/983d42d744e9f910/VOD-02ca1104d9810a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-08-19T18:58:36+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.08.26"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 19.08.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22423540/22423540_noAdds/22423540_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "a74a1104d9810a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/56fe42d744e9f910/VOD-a74a1104d9810a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-08-19T17:55:22+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 2879,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 19.08.26"
         },
         {
@@ -2427,20 +2441,6 @@
           "Live": false,
           "Duration": 4294,
           "ShortDescriptionLine1": "The main edition: 18.08.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 18.08.26",
-          "Poster": "https://img.mako.co.il/2026/08/18/Sheva_180826_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/19kerenmar_vtr2_n20260818_v1/19kerenmar_vtr2_n20260818_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "6998985f76310a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/983d42d744e9f910/VOD-6998985f76310a1027.htm",
-          "ShortDescriptionLine2": "In Syria they admit: we have nuclear material",
-          "Date": "2026-08-18T18:59:35+03:00",
-          "Live": false,
-          "Duration": 2225,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 18.08.26"
         },
         {
           "Title": "חדשות סוף השבוע: 15.08.26",
@@ -2832,16 +2832,16 @@
       "Items": [
         {
           "Title": "מדברים חדשות 19-08-26",
-          "StreamerId": "6a85bd370e7ef8c682dc4fb6",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68020390442.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a85bd370e7ef8c682dc4fb6",
+          "StreamerId": "6a85bdecd7084e5b6eab0472",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68020527823.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a85bdecd7084e5b6eab0472",
           "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/7ba03948-ed0f-4802-a585-52257c97605b/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/a5291831-7f0d-4dea-96c0-a5ea1c705776/hls/master.m3u8"
           ],
-          "Date": "2026-08-19T14:27:03Z",
+          "Date": "2026-08-19T14:30:04Z",
           "Duration": "01:59:58",
           "ShortDescriptionLine1": "Talking news 08-26-19",
-          "ShortDescriptionLine2": "2026-08-19T14:27:03Z"
+          "ShortDescriptionLine2": "2026-08-19T14:30:04Z"
         },
         {
           "Title": "הישראלים, 18.08.26",
