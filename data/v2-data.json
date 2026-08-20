@@ -2376,14 +2376,14 @@
           "Title": "המהדורה המרכזית: 20.08.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22423568/22423568_noAdds/22423568_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "d058def39dd10a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9442653214e9f910/VOD-d058def39dd10a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-08-20T19:52:08+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 4466,
           "ShortDescriptionLine1": "The main edition: 20.08.26"
         },
         {
@@ -3153,6 +3153,19 @@
       "Name": "Channel 16 - Latest shows",
       "Items": [
         {
+          "Title": "מהדורה מרכזית 20.08.26",
+          "StreamerId": "ea8212c6-d668-4cde-b826-f5803f5102cc",
+          "Poster": "https://ch16israel.vod.immergo.tv/ch16israel/uploaded/e2543a89-8061-4590-9dc1-e20f72e94f42.png",
+          "EpisodeUrl": "https://www.ch16.co.il/vod.html?id=ea8212c6-d668-4cde-b826-f5803f5102cc",
+          "StreamUrls": [
+            "https://ch16israel.vod.immergo.tv/ch16israel/transcoded/ea8212c6-d668-4cde-b826-f5803f5102cc/hls/master.m3u8"
+          ],
+          "Date": "2026-08-20T18:25:27Z",
+          "Duration": 2646.23,
+          "ShortDescriptionLine1": "The main edition 20.08.26",
+          "ShortDescriptionLine2": "2026-08-20T18:25:27Z"
+        },
+        {
           "Title": "חדשות הבוקר 20.08.2026",
           "StreamerId": "910534ba-59b6-47f7-a409-350ffac59a24",
           "Poster": "https://ch16israel.vod.immergo.tv/ch16israel/uploaded/868bb5dc-b770-4e66-9c93-fffd4ee66dff.png",
@@ -3177,19 +3190,6 @@
           "Duration": 2762.262,
           "ShortDescriptionLine1": "The main edition 19.08.26",
           "ShortDescriptionLine2": "2026-08-19T18:53:03Z"
-        },
-        {
-          "Title": "מהדורה מרכזית 18.08.26",
-          "StreamerId": "e9248413-6c43-4518-8b8f-0aa795997a69",
-          "Poster": "https://ch16israel.vod.immergo.tv/ch16israel/uploaded/cfc7e642-1bed-4184-8759-5c574fe0f9fb.png",
-          "EpisodeUrl": "https://www.ch16.co.il/vod.html?id=e9248413-6c43-4518-8b8f-0aa795997a69",
-          "StreamUrls": [
-            "https://ch16israel.vod.immergo.tv/ch16israel/transcoded/e9248413-6c43-4518-8b8f-0aa795997a69/hls/master.m3u8"
-          ],
-          "Date": "2026-08-19T11:36:02Z",
-          "Duration": 2838.967,
-          "ShortDescriptionLine1": "The main edition 18.08.26",
-          "ShortDescriptionLine2": "2026-08-19T11:36:02Z"
         }
       ]
     }
