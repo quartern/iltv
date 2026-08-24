@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-08-24 14:38
+# Last updated: 2026-08-24 14:55
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -553,8 +553,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 24.08.26
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:4590 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 24.08.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22423678/22423678_noAdds/22423678_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2195 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 24.08.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22423677/22423677_noAdds/22423677_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -649,6 +649,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:00:49:04 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68182965243.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 24-08-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/53c10fb6-7b21-4d06-beac-9f757193ba65/hls/master.m3u8
+
 #EXTINF:01:49:29 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68178656255.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15 24-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/eea96545-50da-4e34-94c3-6f9b50935777/hls/master.m3u8
 
@@ -660,9 +663,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/133ab0f7-c748-4f3e-98b6-c6
 
 #EXTINF:01:30:04 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68153177703.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית 23-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/fe496fa4-e17a-476b-8242-d874fdf73b49/hls/master.m3u8
-
-#EXTINF:00:49:58 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68153132192.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 23-08-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/32dea277-f72e-4374-aa0d-74d16dd2d9df/hls/master.m3u8
 
 #EXTINF:01:05:29 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68153104343.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע 23-08-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/cf57fc11-32e1-4785-a0dc-4763f77585b7/hls/master.m3u8
