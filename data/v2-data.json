@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "כאן בשש | 25.08.26",
+          "ShortDescriptionLine1": "Here at six 25.08.26",
+          "ShortDescriptionLine2": "2026-08-25 17:00:33",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1092689/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2239159/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1092689",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1092689",
+          "Date": "2026-08-25 17:00:33",
+          "Duration": "5400"
+        },
+        {
           "Title": "העולם היום | 25.06.26",
           "ShortDescriptionLine1": "The world today 25.06.26",
           "ShortDescriptionLine2": "2026-08-25 15:48:42",
@@ -527,19 +540,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1092366",
           "Date": "2026-08-24 17:16:42",
           "Duration": "1080"
-        },
-        {
-          "Title": "כאן בשש | 24.08.26",
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-08-24 16:38:33",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1092359/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2238968/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1092359",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1092359",
-          "Date": "2026-08-24 16:38:33",
-          "Duration": "3000"
         },
         {
           "Title": "חדשות השבת | 22.08.26",
@@ -1526,45 +1526,6 @@
           "Duration": "14910"
         },
         {
-          "Title": "קופה ראשית עונה 5 | פרק 1 - כפרות",
-          "ShortDescriptionLine1": "KupaRashit (checkout) Season 5 | Chapter 1 - Atonement",
-          "ShortDescriptionLine2": "2026-01-26 11:10:38",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809113/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_csokhtwe/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan809113",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809113",
-          "Date": "2026-01-26 11:10:38",
-          "Duration": "1441"
-        },
-        {
-          "Title": "קופה ראשית עונה 5 | פרק 2 - הסטארט-אפ של כוכבה",
-          "ShortDescriptionLine1": "KupaRashit (checkout) Season 5 | Chapter 2 - Kochva's startup",
-          "ShortDescriptionLine2": "2026-01-26 11:10:49",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809157/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_ygac97dd/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan809157",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809157",
-          "Date": "2026-01-26 11:10:49",
-          "Duration": "1475"
-        },
-        {
-          "Title": "קופה ראשית עונה 5 | פרק 3 - שברת שילמת",
-          "ShortDescriptionLine1": "KupaRashit (checkout) Season 5 | Chapter 3 - You broke and paid",
-          "ShortDescriptionLine2": "2026-01-26 11:10:59",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan809161/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_y8emnwxk/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan809161",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12832/s5/809161",
-          "Date": "2026-01-26 11:10:59",
-          "Duration": "1357"
-        },
-        {
           "Title": "סינדרום עזה | פרק 1 - נקודת העיוורון",
           "ShortDescriptionLine1": "Gaza syndrome Chapter 1 - The Blind Spot",
           "ShortDescriptionLine2": "2025-09-11 20:57:09",
@@ -2373,17 +2334,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית: 25.08.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "ccc27956c6730a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9442653214e9f910/VOD-ccc27956c6730a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-08-25T19:52:24+03:00",
+          "Live": false,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 25.08.26"
+        },
+        {
           "Title": "שבע עם קרן מרציאנו: 25.08.26",
           "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22423707/22423707_noAdds/22423707_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "d6c17956c6730a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/983d42d744e9f910/VOD-d6c17956c6730a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-08-25T18:59:13+03:00",
           "Live": false,
-          "Duration": 0,
+          "Duration": 2133,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 25.08.26"
         },
         {
@@ -2427,20 +2402,6 @@
           "Live": false,
           "Duration": 5108,
           "ShortDescriptionLine1": "Today's edition: 25.08.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 24.08.26",
-          "Poster": "https://img.mako.co.il/2026/08/24/Mahadura_Merkazit_240826_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/08/20mahadurafull_vtr2_n20260824_v1/20mahadurafull_vtr2_n20260824_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "eec9554c64230a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/9442653214e9f910/VOD-eec9554c64230a1027.htm",
-          "ShortDescriptionLine2": "First poll of mandates after the primaries",
-          "Date": "2026-08-24T19:52:11+03:00",
-          "Live": false,
-          "Duration": 4573,
-          "ShortDescriptionLine1": "The main edition: 24.08.26"
         },
         {
           "Title": "חדשות סוף השבוע: 22.08.26",
@@ -2831,6 +2792,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע, 25.08.26",
+          "StreamerId": "6a8dc4eabb5474fe5e94cda8",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68213852825.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a8dc4eabb5474fe5e94cda8",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/13641c54-6c9f-418f-a578-b78c00012b52/hls/master.m3u8"
+          ],
+          "Date": "2026-08-25T16:38:02Z",
+          "Duration": "01:05:23",
+          "ShortDescriptionLine1": "Gilboa index, 25.08.26",
+          "ShortDescriptionLine2": "2026-08-25T16:38:02Z"
+        },
+        {
           "Title": "מהדורת חמש, 25.08.26",
           "StreamerId": "6a8db1d0d0b0e8e950f8c8fb",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68212030608.jpg",
@@ -2894,19 +2868,6 @@
           "Duration": "01:33:08",
           "ShortDescriptionLine1": "The main edition 08-24-26",
           "ShortDescriptionLine2": "2026-08-24T18:35:32Z"
-        },
-        {
-          "Title": "מדד גלבוע 24-08-26",
-          "StreamerId": "6a8c8990feee939d2d3dfea6",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68182601144.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a8c8990feee939d2d3dfea6",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/c8b229b0-e7dd-4372-922a-b20453b8c9d8/hls/master.m3u8"
-          ],
-          "Date": "2026-08-24T18:12:32Z",
-          "Duration": "01:06:22",
-          "ShortDescriptionLine1": "Gilboa index 08-24-26",
-          "ShortDescriptionLine2": "2026-08-24T18:12:32Z"
         },
         {
           "Title": "7 שרון גל 24-08-26",
