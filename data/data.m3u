@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-09-01 03:49
+# Last updated: 2026-09-01 04:10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -111,6 +111,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
+
+#EXTINF:1680 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1094753/poster" group-title="11 News - Latest shows",חדשות הלילה | 31.08.26
+https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241240/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:900 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1094089/poster" group-title="11 News - Latest shows",מהצד השני עם גיא זהר | 31.08.26
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2241243/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -427,24 +430,6 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_oivnq74m/LIBC
 #EXTINF:31 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan855873/poster" group-title="Kan 11 Specials",המזח - הצצה | "תפסו אותנו עם המכנסיים למטה"
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3ecwat92/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
-#EXTINF:3419 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073626/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 1 - שייח'ה מוזא מקטאר
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223237/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3243 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073630/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 2 - עבד אל-מלכ אל חות'י
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223238/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3441 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073634/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 3 - רג'פ טאיפ ארדואן
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223239/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3304 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073635/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 4 - אחמד א-שרע (אל-ג'ולאני)
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223240/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3436 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1073622/poster" group-title="Kan 11 Specials",אויבים עונה 5 | פרק 5 - עלי ח'אמנאי 
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2223236/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3487 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan844253/poster" group-title="Kan 11 Specials",אויבים עונה 4 | פרק 1 - יחיא סינוואר
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_3scff9my/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
 #EXTINF:435 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1083771/poster" group-title="Kan 11 Specials","חוזר לשם בכל לילה": שורד השבי אביתר דוד משתף בפוסט טראומה - ומבקש עזרה
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2230900/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -586,7 +571,7 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:0 tvg-logo="https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: פתיחת שנת הלימודים
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
 
-#EXTINF:5894 tvg-logo="https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: שנת הלימודים נפתחה
+#EXTINF:5894 tvg-logo="https://img.mako.co.il/2026/09/01/Hadshot_Haboker_010926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: שנת הלימודים נפתחה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22548160/22548160_noAdds/22548160_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2503 tvg-logo="https://img.mako.co.il/2026/08/31/Avri_Sherki_310826_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: ללי דרעי
