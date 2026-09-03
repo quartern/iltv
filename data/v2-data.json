@@ -638,6 +638,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 03.09.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_pdlvbhqt",
+          "Date": "2026-09-03 19:48:59",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4561531/",
+          "Duration": 3301,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-09-03 19:48:59",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pdlvbhqt/flavorIds/1_vd88vu7b,1_pveoexc1,1_e7qv03bg,1_26wolv8l,1_26yl1drl,1_oz9hr4hd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 03.09.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_z4zg4g13",
@@ -700,19 +713,6 @@
           "ShortDescriptionLine2": "2026-09-02 22:34:42",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_95waclvr/flavorIds/1_m27uzt27,1_wfyevg7y,1_hnrbh26g,1_1xjnlmka,1_83ejewqj,1_y70q0oag/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 02.09.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_0eeob7rt",
-          "Date": "2026-09-02 21:43:51",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4559808/",
-          "Duration": 3479,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-09-02 21:43:51",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0eeob7rt/flavorIds/1_e2bfvo2l,1_inhtnwnb,1_ipy3lqdn,1_0s6dsq84,1_iued7umx,1_yzc4lx8f/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1827,31 +1827,45 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 03.09.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 03.09.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "336689a839660a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/b00428a78af00a10/VOD-336689a839660a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-09-03T19:51:35+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Main edition: 03.09.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 03.09.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22548228/22548228_noAdds/22548228_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "bb8489a839660a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/b2f4d659cbf00a10/VOD-bb8489a839660a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-09-03T18:59:01+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 03.09.26 [live]"
+          "Live": false,
+          "Duration": 2271,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 03.09.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 03.09.26",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/09/03/Shesh_030926_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22548227/22548227_noAdds/22548227_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/09/18oded_vtr2_n20260903_v1/18oded_vtr2_n20260903_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "5e52710f19660a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/8037d659cbf00a10/VOD-5e52710f19660a1027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The escalation in the Gulf: Trump broadcasts victory",
           "Date": "2026-09-03T17:55:50+03:00",
           "Live": false,
-          "Duration": 2757,
+          "Duration": 2876,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 03.09.26"
         },
         {
@@ -1881,20 +1895,6 @@
           "Live": false,
           "Duration": 5574,
           "ShortDescriptionLine1": "Today's edition: 03.09.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 02.09.26",
-          "Poster": "https://img.mako.co.il/2026/09/02/Mahadura_Merkazit_020926_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/09/20mahadurafull_vtr2_n20260902_v1/20mahadurafull_vtr2_n20260902_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "c02f338c0a060a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/b00428a78af00a10/VOD-c02f338c0a060a1027.htm",
-          "ShortDescriptionLine2": "The preparation in Israel in case Iran resumes shooting",
-          "Date": "2026-09-02T19:50:39+03:00",
-          "Live": false,
-          "Duration": 3701,
-          "ShortDescriptionLine1": "Main edition: 02.09.26"
         },
         {
           "Title": "חדשות סוף השבוע: 29.08.26",
@@ -2285,6 +2285,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש  03-09-26",
+          "StreamerId": "6a99a3f0ec14782c859fe205",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68505994297.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6a99a3f0ec14782c859fe205",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/37b1b4df-cc63-4dae-87e3-245d459d55da/hls/master.m3u8"
+          ],
+          "Date": "2026-09-03T16:44:32Z",
+          "Duration": "01:03:17",
+          "ShortDescriptionLine1": "Edition five 03-09-26",
+          "ShortDescriptionLine2": "2026-09-03T16:44:32Z"
+        },
+        {
           "Title": "מהדורת 15 03-09-26",
           "StreamerId": "6a99855bec14782c859f69a5",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68503036417.jpg",
@@ -2361,19 +2374,6 @@
           "Duration": "01:05:49",
           "ShortDescriptionLine1": "Gilboa index 02-09-26",
           "ShortDescriptionLine2": "2026-09-02T16:21:04Z"
-        },
-        {
-          "Title": "מהדורת חמש  02-09-26",
-          "StreamerId": "6a984c94001cb97e217ec6bc",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_68473608084.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6a984c94001cb97e217ec6bc",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/4734a5b2-292c-4f98-832b-f264e349a5da/hls/master.m3u8"
-          ],
-          "Date": "2026-09-02T16:19:32Z",
-          "Duration": "01:03:27",
-          "ShortDescriptionLine1": "Edition five 02-09-26",
-          "ShortDescriptionLine2": "2026-09-02T16:19:32Z"
         },
         {
           "Title": "מגזין השבת 29-08-26",
