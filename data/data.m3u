@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-09-06 17:13
+# Last updated: 2026-09-06 18:12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -160,6 +160,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2209638/LIBCODE
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:1205 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 06.09.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vuajxrqh/flavorIds/1_4keeqir7,1_cb4x96n6,1_brwtgy5i,1_eo3khsyh,1_bv2l8lag,1_2r49agnn/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:3611 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 06.09.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_okczbkm5/flavorIds/1_2djw59yp,1_yfiw1uxg,1_a39wvwa6,1_34m8p6xu,1_tnsfbdsp,1_4j9hlbzv/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -186,9 +189,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_dl4l3u
 
 #EXTINF:2434 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 04.09.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_p8ctj4z0/flavorIds/1_o2h4udd5,1_tmprcttw,1_r3kptgfx,1_1o6zgzcd,1_yucl8f7g,1_5aseb8yz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:1549 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 03.09.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_icy7810g/flavorIds/1_c2hzao3v,1_xtax4645,1_ednhtstb,1_ckpmi84y,1_e275moon,1_qesyij2s/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -463,8 +463,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2535 tvg-logo="https://img.mako.co.il/2026/09/06/Avri_Sherki_060926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22548325/22548325_noAdds/22548325_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3743 tvg-logo="https://img.mako.co.il/2026/09/06/Nesli_Yoav_060926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: מצוקת המעונות
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/September/Nesli_Yoav_060926_VOD_ANU482/Nesli_Yoav_060926_VOD_ANU482_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
