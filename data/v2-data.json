@@ -1840,18 +1840,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 08.09.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 08.09.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "d1e64cfe25080a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/a701d659cbf00a10/VOD-d1e64cfe25080a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-09-08T16:56:46+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.08.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 08.09.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22548373/22548373_noAdds/22548373_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "c22c6a19f9f70a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/6552d659cbf00a10/VOD-c22c6a19f9f70a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-09-08T15:00:38+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 08.09.26 [live]"
+          "Live": false,
+          "Duration": 5300,
+          "ShortDescriptionLine1": "Today's edition: 08.09.26"
         },
         {
           "Title": "המהדורה המרכזית: 07.09.26",
@@ -1896,20 +1910,6 @@
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.07.26"
         },
         {
-          "Title": "חמש עם רפי רשף: 07.09.26",
-          "Poster": "https://img.mako.co.il/2026/09/07/Hamesh_0709026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/09/17rafi_vtr2_n20260907_v1/17rafi_vtr2_n20260907_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "d803d1df65a70a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/a701d659cbf00a10/VOD-d803d1df65a70a1026.htm",
-          "ShortDescriptionLine2": "Final: Bennett and Eisenkot will run separately in the elections",
-          "Date": "2026-09-07T16:55:12+03:00",
-          "Live": false,
-          "Duration": 2674,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.07.26"
-        },
-        {
           "Title": "חדשות סוף השבוע: 05.09.26",
           "Poster": "https://img.mako.co.il/2026/09/05/Hadshot_Sof_Hashavua_050926_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1950,6 +1950,20 @@
           "Live": false,
           "Duration": 2684,
           "ShortDescriptionLine1": "Saturday at five: 05.09.26"
+        },
+        {
+          "Title": "אולפן שישי: 04.09.26",
+          "Poster": "https://img.mako.co.il/2026/09/04/Ulpan_Shishi_040926_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/09/u20ulpash_vtr2_n20260904_v1/u20ulpash_vtr2_n20260904_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "50a0bca8cb660a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/04165c69b3e9f910/VOD-50a0bca8cb660a1027.htm",
+          "ShortDescriptionLine2": "Life after Michelle: Noam Batan's new destination",
+          "Date": "2026-09-04T19:55:15+03:00",
+          "Live": false,
+          "Duration": 6752,
+          "ShortDescriptionLine1": "Studio Friday: 04.09.26"
         },
         {
           "Title": "פגוש את העיתונות: 29.08.26",
