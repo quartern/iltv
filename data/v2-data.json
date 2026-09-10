@@ -677,6 +677,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "היום שהיה 09.09.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
+          "StreamerId": "1_pdzkglbe",
+          "Date": "2026-09-09 23:59:27",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/on-this-day/episodes/cg5ad-905352621/",
+          "Duration": 1531,
+          "ShortDescriptionLine1": "On This Day",
+          "ShortDescriptionLine2": "2026-09-09 23:59:27",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pdzkglbe/flavorIds/1_3b5r05wx,1_hcy9x9ei,1_3bin7xfp,1_e2xlsq0j,1_yc1z03sp,1_l2cxisy1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "המהדורה המרכזית 09.09.26 - המהדורה המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_6657hwyl",
@@ -739,19 +752,6 @@
           "ShortDescriptionLine2": "2026-09-09 18:49:33",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_6pxp6hsk/flavorIds/1_tpxmjsfc,1_m9a73gm0,1_uckh6sw9,1_hyj3d1p6,1_yts1owiv,1_2n15pe0e/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "היום שהיה 08.09.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
-          "StreamerId": "1_7z1xvyql",
-          "Date": "2026-09-08 23:59:31",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/294/season/1/4568630/",
-          "Duration": 1270,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-09-08 23:59:31",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_7z1xvyql/flavorIds/1_clqde5yg,1_agrlppgg,1_uhkxqfun,1_aqkblcgz,1_1o2y5bqh,1_hf0ero0v/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2532,18 +2532,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
-          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "Title": "נסלי ויואב: מחדל הכפל התשלומי [live]",
+          "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "1c1a319f5fb50a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-1c1a319f5fb50a1026.htm",
+          "ShortDescriptionLine2": "The \"failure to multiply the payment\" that harms the reserves",
+          "Date": "2026-09-10T09:35:34+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Nesli and Yoav: The payment multiplication default [live]"
+        },
+        {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22548432/22548432_noAdds/22548432_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9def6a00beb50a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-9def6a00beb50a1026.htm",
           "ShortDescriptionLine2": "Everything you need to know to start the morning",
           "Date": "2026-09-10T07:09:00+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+          "Live": false,
+          "Duration": 5936,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin"
         },
         {
           "Title": "בזמן שעבדתם: התופעה שמטלטלת את העולם",
@@ -2558,20 +2572,6 @@
           "Live": false,
           "Duration": 3751,
           "ShortDescriptionLine1": "While you worked: the phenomenon that shakes the world"
-        },
-        {
-          "Title": "נסלי ויואב: שיחת האזהרה לנתניהו",
-          "Poster": "https://img.mako.co.il/2026/09/09/Nesli_Yoav_090926_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/September/Nesli_Yoav_090926_VOD_nth012/Nesli_Yoav_090926_VOD_nth012_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "02e9319f5fb50a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-02e9319f5fb50a1026.htm",
-          "ShortDescriptionLine2": "Details of the warning call, and the lists in the Knesset were closed",
-          "Date": "2026-09-09T09:36:02+03:00",
-          "Live": false,
-          "Duration": 3576,
-          "ShortDescriptionLine1": "Nesli and Yoav: the warning call to Netanyahu"
         },
         {
           "Title": "אברי ושרקי: רועי קונקול",
