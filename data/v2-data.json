@@ -1840,18 +1840,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 10.09.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 10.09.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "4c12fd89ab980a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/a701d659cbf00a10/VOD-4c12fd89ab980a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-09-10T16:56:11+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 10.09.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 10.09.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22548436/22548436_noAdds/22548436_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "deecfd89ab980a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/6552d659cbf00a10/VOD-deecfd89ab980a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-09-10T14:59:49+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 10.09.26 [live]"
+          "Live": false,
+          "Duration": 5128,
+          "ShortDescriptionLine1": "Today's edition: 10.09.26"
         },
         {
           "Title": "המהדורה המרכזית: 09.09.26",
@@ -1894,20 +1908,6 @@
           "Live": false,
           "Duration": 2726,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.09.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 09.09.26",
-          "Poster": "https://img.mako.co.il/2026/09/09/Hamesh_090926_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/09/17rafi_vtr2_20260909_v1/17rafi_vtr2_20260909_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "f1f6460859480a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/a701d659cbf00a10/VOD-f1f6460859480a1027.htm",
-          "ShortDescriptionLine2": "Abu Dhabi: \"There was a warning before October 7\"",
-          "Date": "2026-09-09T16:55:19+03:00",
-          "Live": false,
-          "Duration": 2334,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.09.26"
         },
         {
           "Title": "חדשות סוף השבוע: 05.09.26",
