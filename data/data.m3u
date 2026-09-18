@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-09-18 15:52
+# Last updated: 2026-09-18 16:08
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -127,6 +127,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODE
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:5968 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763642776/uploads/2025/904857870.webp" group-title="13 News - Latest shows",שישי 18.09.26 - המהדורה המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2hmmguoe/flavorIds/1_vitobtiw,1_7box3kpa,1_khotstbi,1_81t0ka33,1_zji60f6f,1_qdv306y7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:5681 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1710843056/uploads/2024/903982457.jpg" group-title="13 News - Latest shows",עושים שישי עם אריק וייס 18.09.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bvy9g1bj/flavorIds/1_dil16r07,1_z76xrvyz,1_b0t38lze,1_g73xex40,1_mf7w1eo5,1_4cb9mlva/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -153,9 +156,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_heq6xk
 
 #EXTINF:3987 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 05.09.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_t86jmp3n/flavorIds/1_lh9e77o8,1_ztkbxvf9,1_19021ggm,1_7uanj0j0,1_lonvw3fe,1_n2y8zreu/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:6194 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1763642776/uploads/2025/904857870.webp" group-title="13 News - Latest shows",שישי 04.09.26 - המהדורה המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sn74h7se/flavorIds/1_6iw377b8,1_lsuezxzv,1_jmzelrkg,1_2hlggrv2,1_8pf2r46r,1_jxlgg1gk/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -432,6 +432,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:5538 tvg-logo="https://img.mako.co.il/2026/09/18/Ofira_Ohana_Sery_180926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: יאיר לפיד באולפן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22548664/22548664_noAdds/22548664_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:2107 tvg-logo="https://img.mako.co.il/2026/09/17/Doh_Matzav_170926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: שנתיים ל"מבצע הביפרים"
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/September/Doh_Matzav_170926_VOD_igi995/Doh_Matzav_170926_VOD_igi995_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3473 tvg-logo="https://img.mako.co.il/2026/09/17/Nesli_Yoav_170926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: איך נראית המפה הפוליטית?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/September/Nesli_Yoav_170926_VOD_juy159/Nesli_Yoav_170926_VOD_juy159_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
