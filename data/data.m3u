@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-09-24 10:36
+# Last updated: 2026-09-24 10:59
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -505,6 +505,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:3547 tvg-logo="https://img.mako.co.il/2026/09/24/Nesli_Yoav_240926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: הגברת הכוננות באיו"ש
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22548802/22548802_noAdds/22548802_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:8403 tvg-logo="https://img.mako.co.il/2026/09/24/Hadshot_Haboker_240926_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: 33 ימים לבחירות
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/September/Hadshot_Haboker_240926_VOD_msi294/Hadshot_Haboker_240926_VOD_msi294_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -565,6 +568,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:59:54 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69208653655.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות 24-09-26
+https://i24israel-aws.vod.immergo.tv/transcoded/71968e39-4cd3-4684-8f59-d07e55f46d91/hls/master.m3u8
+
 #EXTINF:01:06:22 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69185229168.jpg" group-title="i24 Hebrew - Latest shows",הישראלים 23-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/081349b8-d29f-4c64-86c0-31057cea6375/hls/master.m3u8
 
@@ -582,9 +588,6 @@ https://i24israel-aws.vod.immergo.tv/transcoded/412a93d1-8f76-4e21-bfeb-5e4fe2cb
 
 #EXTINF:01:47:30 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69179202332.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15  23-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/a1130dd7-1c3e-4cb6-ab00-7dc1554050ce/hls/master.m3u8
-
-#EXTINF:01:59:59 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69175748359.jpg" group-title="i24 Hebrew - Latest shows",מדברים חדשות 23-09-26
-https://i24israel-aws.vod.immergo.tv/transcoded/0d6fde9b-3650-488d-8638-851627bad2dd/hls/master.m3u8
 
 #EXTINF:00:44:18 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69116733881.jpg" group-title="i24 Hebrew - Latest shows",הערביסטים 21-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/174ae403-7a3e-4e16-8915-c0486319001d/hls/master.m3u8
