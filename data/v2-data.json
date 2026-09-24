@@ -1697,18 +1697,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 24.09.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 24.09.26",
+          "Poster": "https://img.mako.co.il/2026/09/24/Mahadura_Merkazit_240926_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22548801/22548801_noAdds/22548801_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "bafc931c6e1d0a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/b00428a78af00a10/VOD-bafc931c6e1d0a1027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Prime Minister Netanyahu's speech at the UN General Assembly",
           "Date": "2026-09-24T19:52:43+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 24.09.26 [live]"
+          "Live": false,
+          "Duration": 5658,
+          "ShortDescriptionLine1": "The main edition: 24.09.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 24.09.26",
@@ -1856,6 +1856,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חשיפה: תעלומת המיליארדר הישראלי [live]",
+          "Poster": "https://img.mako.co.il/2020/02/16/HD-Hasifa2020_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "c7e4b846bd3a0a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/exposure-s6/VOD-c7e4b846bd3a0a1026.htm",
+          "ShortDescriptionLine2": "What did Haim Etgar discover when he found the billionaire?",
+          "Date": "2026-09-24T21:52:40+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Chasifa (Exposure): the mystery of the Israeli billionaire [live]"
+        },
+        {
           "Title": "נסלי ויואב: הגברת הכוננות באיו\"ש",
           "Poster": "https://img.mako.co.il/2026/09/24/Nesli_Yoav_240926_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1952,20 +1966,6 @@
           "Live": false,
           "Duration": 3866,
           "ShortDescriptionLine1": "While you were working: all about autonomous cars"
-        },
-        {
-          "Title": "חשיפה: הדרמה של בכירת השב״כ",
-          "Poster": "https://img.mako.co.il/2026/09/16/Hassifa6_07_160926_Mira_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hassifa6_07_160926_VOD_kfo231/Hassifa6_07_160926_VOD_kfo231_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "3da2b846bd3a0a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/exposure-s6/VOD-3da2b846bd3a0a1026.htm",
-          "ShortDescriptionLine2": "The unbelievable story of a senior commander in the Shin Bet",
-          "Date": "2026-09-16T21:37:07+03:00",
-          "Live": false,
-          "Duration": 4540,
-          "ShortDescriptionLine1": "Chasifa (Exposure): The drama of the senior Shin Bet officer"
         },
         {
           "Title": "בזמן שעבדתם: התופעה שמטלטלת את העולם",
@@ -2155,6 +2155,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית חלק שני 24-09-26",
+          "StreamerId": "6ab576211d7f4e692f6cf309",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69216648974.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ab576211d7f4e692f6cf309",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/2d09d053-2532-4e92-9b86-1e879d179949/hls/master.m3u8"
+          ],
+          "Date": "2026-09-24T19:12:33Z",
+          "Duration": "00:06:31",
+          "ShortDescriptionLine1": "The main edition part two 09-24-26",
+          "ShortDescriptionLine2": "2026-09-24T19:12:33Z"
+        },
+        {
           "Title": "מדד גלבוע 24-09-26",
           "StreamerId": "6ab54b018ceb20444ece3659",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69212115794.jpg",
@@ -2218,19 +2231,6 @@
           "Duration": "01:06:22",
           "ShortDescriptionLine1": "The Israelis 09-23-26",
           "ShortDescriptionLine2": "2026-09-23T21:01:32Z"
-        },
-        {
-          "Title": "המהדורה המרכזית  23-09-26",
-          "StreamerId": "6ab41ff08168de9a8c364eab",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69182111653.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ab41ff08168de9a8c364eab",
-          "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/132d1983-2772-4e14-9bf8-0d5b12813ac4/hls/master.m3u8"
-          ],
-          "Date": "2026-09-23T18:52:32Z",
-          "Duration": "01:33:21",
-          "ShortDescriptionLine1": "The main edition 09-23-26",
-          "ShortDescriptionLine2": "2026-09-23T18:52:32Z"
         },
         {
           "Title": "7 שרון גל 23-09-26",
