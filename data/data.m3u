@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-09-30 14:14
+# Last updated: 2026-09-30 14:42
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -424,8 +424,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/09/30/Mahadura_Merkazit_300926_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 30.09.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:4230 tvg-logo="https://img.mako.co.il/2026/09/30/Mahadura_Merkazit_300926_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 30.09.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22548965/22548965_noAdds/22548965_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2369 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 30.09.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22548964/22548964_noAdds/22548964_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -520,6 +520,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3497 tvg-logo="https://img.mako.co.il/2025/10/22/Eretz_Nehederet23_01_221025_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: תוכנית פתיחת העונה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S23/Ep/Eretz_Nehederet23_01_221025_VOD_nndu38/Eretz_Nehederet23_01_221025_VOD_nndu38_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:00:50:39 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69418180167.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 30-09-26
+https://i24israel-aws.vod.immergo.tv/transcoded/009391cb-de4d-4b0c-8580-e90bd067db05/hls/master.m3u8
+
 #EXTINF:01:03:29 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69417970728.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע 30-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/60b35be7-880b-4fa2-9470-270de13d1ea2/hls/master.m3u8
 
@@ -534,9 +537,6 @@ https://i24israel-aws.vod.immergo.tv/transcoded/560e7b9e-69cf-4b76-a1d5-fe3a127a
 
 #EXTINF:01:31:05 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69386460773.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית 29-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/0c4b9ac6-cdd1-4d72-98f2-7b499e1f2977/hls/master.m3u8
-
-#EXTINF:00:49:13 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69383981696.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 29-09-26
-https://i24israel-aws.vod.immergo.tv/transcoded/c1ef33aa-ada6-4b4f-8314-ac566c413884/hls/master.m3u8
 
 #EXTINF:01:29:25 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69284821242.jpg" group-title="i24 Hebrew - Latest shows",מגזין השבת 26-09-26
 https://i24israel-aws.vod.immergo.tv/transcoded/7038cdc3-945d-49c4-9e3d-dda567e15362/hls/master.m3u8

@@ -1814,18 +1814,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 30.09.26 [live]",
+          "Title": "המהדורה המרכזית: 30.09.26",
           "Poster": "https://img.mako.co.il/2026/09/30/Mahadura_Merkazit_300926_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22548965/22548965_noAdds/22548965_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "022112a17f0f0a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/b00428a78af00a10/VOD-022112a17f0f0a1027.htm",
           "ShortDescriptionLine2": "The interview with the Israeli who neutralized the co-pilot",
           "Date": "2026-09-30T19:51:11+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 30.09.26 [live]"
+          "Live": false,
+          "Duration": 4230,
+          "ShortDescriptionLine1": "The main edition: 30.09.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 30.09.26",
@@ -2272,6 +2272,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 30-09-26",
+          "StreamerId": "6abd471cf6ee1568ddfa49ca",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69418180167.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6abd471cf6ee1568ddfa49ca",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/009391cb-de4d-4b0c-8580-e90bd067db05/hls/master.m3u8"
+          ],
+          "Date": "2026-09-30T17:30:04Z",
+          "Duration": "00:50:39",
+          "ShortDescriptionLine1": "7 Sharon Gal 09-30-26",
+          "ShortDescriptionLine2": "2026-09-30T17:30:04Z"
+        },
+        {
           "Title": "מדד גלבוע 30-09-26",
           "StreamerId": "6abd451df5ab2f42ba5dc768",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69417970728.jpg",
@@ -2335,19 +2348,6 @@
           "Duration": "01:31:05",
           "ShortDescriptionLine1": "The main edition 09-29-26",
           "ShortDescriptionLine2": "2026-09-29T19:02:32Z"
-        },
-        {
-          "Title": "7 שרון גל 29-09-26",
-          "StreamerId": "6abbf325893465aeb80765e2",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69383981696.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6abbf325893465aeb80765e2",
-          "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/c1ef33aa-ada6-4b4f-8314-ac566c413884/hls/master.m3u8"
-          ],
-          "Date": "2026-09-29T17:19:33Z",
-          "Duration": "00:49:13",
-          "ShortDescriptionLine1": "7 Sharon Gal 09-29-26",
-          "ShortDescriptionLine2": "2026-09-29T17:19:33Z"
         },
         {
           "Title": "מגזין השבת 26-09-26",
