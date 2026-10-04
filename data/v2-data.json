@@ -681,9 +681,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
           "StreamerId": "1_fmltkbxr",
           "Date": "2026-10-04 22:30:51",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/o82qu-905381491/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4597469/",
           "Duration": 4342,
-          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-10-04 22:30:51",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_fmltkbxr/flavorIds/1_5lxsgvtr,1_dckjcwih,1_040pm3lg,1_6r77lsha,1_rdzvf1gm,1_cxefpeyc/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -2064,6 +2064,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "אברי ושרקי: אברי ושרקי [live]",
+          "Poster": "https://img.mako.co.il/2025/02/16/Avri_and_Sherki_New_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "8d161ed6ca1e0a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/avri_and_sherki-2026/VOD-8d161ed6ca1e0a1026.htm",
+          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
+          "Date": "2026-10-04T23:16:05+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky [live]"
+        },
+        {
           "Title": "נסלי ויואב: המחדל בטיסה מדובאי",
           "Poster": "https://img.mako.co.il/2026/10/04/Nesli_Yoav_041026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2090,20 +2104,6 @@
           "Live": false,
           "Duration": 8700,
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the terrorist flight from Dubai"
-        },
-        {
-          "Title": "אברי ושרקי: אברי ושרקי",
-          "Poster": "https://img.mako.co.il/2026/10/03/Avri_Sherki_031026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/October/Avri_Sherki_041026_VOD_kjhg7/Avri_Sherki_041026_VOD_kjhg7_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "ed751ed6ca1e0a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/avri_and_sherki-2026/VOD-ed751ed6ca1e0a1026.htm",
-          "ShortDescriptionLine2": "Avery Gilad and Yair Sharki in a special program",
-          "Date": "2026-10-03T22:54:28+03:00",
-          "Live": false,
-          "Duration": 2440,
-          "ShortDescriptionLine1": "Avri and Sherky: Avri and Sherky"
         },
         {
           "Title": "חשיפה: תעלומת המיליארדר הישראלי",
@@ -2363,6 +2363,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 04-10-26",
+          "StreamerId": "6ac2a071d8850dc60011237a",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69557739657.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ac2a071d8850dc60011237a",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/46698831-7c5a-4b3b-a496-6e35501f1338/hls/master.m3u8"
+          ],
+          "Date": "2026-10-04T18:52:33Z",
+          "Duration": "00:48:44",
+          "ShortDescriptionLine1": "7 Sharon Gal 04-10-26",
+          "ShortDescriptionLine2": "2026-10-04T18:52:33Z"
+        },
+        {
           "Title": "המהדורה המרכזית 04-10-26",
           "StreamerId": "6ac29f274a02f73112325837",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69557586357.jpg",
@@ -2478,19 +2491,6 @@
           "Duration": "01:16:01",
           "ShortDescriptionLine1": "The Israelis 09-30-26",
           "ShortDescriptionLine2": "2026-09-30T20:45:33Z"
-        },
-        {
-          "Title": "7 שרון גל 30-09-26",
-          "StreamerId": "6abd471cf6ee1568ddfa49ca",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69418180167.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6abd471cf6ee1568ddfa49ca",
-          "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/009391cb-de4d-4b0c-8580-e90bd067db05/hls/master.m3u8"
-          ],
-          "Date": "2026-09-30T17:30:04Z",
-          "Duration": "00:50:39",
-          "ShortDescriptionLine1": "7 Sharon Gal 09-30-26",
-          "ShortDescriptionLine2": "2026-09-30T17:30:04Z"
         },
         {
           "Title": "קבינט שישי  04-09-26",
