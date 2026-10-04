@@ -1905,18 +1905,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 04.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 04.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "9ffc515026501a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-9ffc515026501a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-04T19:51:38+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Main edition: 04.10.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 04.10.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22656844/22656844_noAdds/22656844_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "168a515026501a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-168a515026501a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-04T18:58:54+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.10.26 [live]"
+          "Live": false,
+          "Duration": 2399,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.10.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 04.10.26",
@@ -2001,20 +2015,6 @@
           "Live": false,
           "Duration": 2916,
           "ShortDescriptionLine1": "Saturday at five: 03.10.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 02.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/03/Mahadura_Merkazit_021026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/20adi_vtr2_n20261002_v1/20adi_vtr2_n20261002_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "edd97a72b16f0a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-edd97a72b16f0a1027.htm",
-          "ShortDescriptionLine2": "The stories of the men and women warriors come to the stage",
-          "Date": "2026-10-02T19:55:07+03:00",
-          "Live": false,
-          "Duration": 4923,
-          "ShortDescriptionLine1": "Main edition: 02.10.26"
         },
         {
           "Title": "פגוש את העיתונות: 26.09.26",
