@@ -2178,18 +2178,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 11.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 11.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "566deedb57921a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-566deedb57921a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-11T19:51:49+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 11.10.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 11.10.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22657051/22657051_noAdds/22657051_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "172ceedb57921a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-172ceedb57921a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-11T18:59:15+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 11.10.26 [live]"
+          "Live": false,
+          "Duration": 2029,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 11.10.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 11.10.26",
@@ -2288,20 +2302,6 @@
           "Live": false,
           "Duration": 5975,
           "ShortDescriptionLine1": "Studio Friday: 09.10.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 08.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/08/Mahadura_Merkazit_081026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/20mahadura_full_vtr2_n20261008_v1/20mahadura_full_vtr2_n20261008_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "d4e5341b00a11a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-d4e5341b00a11a1026.htm",
-          "ShortDescriptionLine2": "The Chief of Staff's warning against the possibility of postponing the elections",
-          "Date": "2026-10-08T19:53:02+03:00",
-          "Live": false,
-          "Duration": 5365,
-          "ShortDescriptionLine1": "Main edition: 08.10.26"
         },
         {
           "Title": "פגוש את העיתונות: 03.10.26",
@@ -2608,6 +2608,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "בצל הכוננות בישראל וחילופי האש בין סעודיה לחות'ים: נתניהו כינס הערב דיון ביטחוני",
+          "StreamerId": "6acbc09605198d630c6b38b8",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69798926762.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6acbc09605198d630c6b38b8",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/e4a65c69-958d-4bad-8929-d14bbd53767c/hls/master.m3u8"
+          ],
+          "Date": "2026-10-11T17:00:06Z",
+          "Duration": "00:01:19",
+          "ShortDescriptionLine1": "In the shadow of the alert in Israel and the exchange of fire between Saudi Arabia and the Houthis: Netanyahu convened a security discussion this evening",
+          "ShortDescriptionLine2": "2026-10-11T17:00:06Z"
+        },
+        {
           "Title": "מהדורת 15 11-10-26",
           "StreamerId": "6acba4cef10787c33920fd48",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69795889655.jpg",
@@ -2697,19 +2710,6 @@
           "Duration": "00:59:28",
           "ShortDescriptionLine1": "Cabinet Friday part two 09-10-26",
           "ShortDescriptionLine2": "2026-10-09T19:16:05Z"
-        },
-        {
-          "Title": "המהדורה המרכזית  08-10-26",
-          "StreamerId": "6ac8c6810b49b7570b215c7e",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69718952082.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ac8c6810b49b7570b215c7e",
-          "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/113e84ab-737e-4550-95f7-905adbba3f18/hls/master.m3u8"
-          ],
-          "Date": "2026-10-09T10:48:33Z",
-          "Duration": "01:28:55",
-          "ShortDescriptionLine1": "The main edition 08-10-26",
-          "ShortDescriptionLine2": "2026-10-09T10:48:33Z"
         },
         {
           "Title": "7 שרון גל 08-10-26",
