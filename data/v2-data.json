@@ -1788,6 +1788,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 12.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "27f8434dbae21a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/4f7234616e2e0a10/VOD-27f8434dbae21a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-12T14:59:31+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Today's edition: 12.10.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 11.10.26",
           "Poster": "https://img.mako.co.il/2026/10/11/mahadura_merkazit_111026_vod_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1842,20 +1856,6 @@
           "Live": false,
           "Duration": 2334,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 11.10.26"
-        },
-        {
-          "Title": "מהדורת היום: 11.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/11/Mahadurat_Hayom_111026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/15hayom_vtr2_n20261011_v1/15hayom_vtr2_n20261011_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "8e04f8db56921a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/4f7234616e2e0a10/VOD-8e04f8db56921a1026.htm",
-          "ShortDescriptionLine2": "10 years in prison for an assistant who was convicted of violence",
-          "Date": "2026-10-11T15:00:19+03:00",
-          "Live": false,
-          "Duration": 5116,
-          "ShortDescriptionLine1": "Today's edition: 11.10.26"
         },
         {
           "Title": "חדשות סוף השבוע: 10.10.26",
@@ -2220,10 +2220,10 @@
         {
           "Title": "הישראלים 11-10-26",
           "StreamerId": "6acc11906b07f1a436520fa1",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69807354567.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69807354567.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6acc11906b07f1a436520fa1",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/607a49d9-cb39-437b-936e-a1adb900fb49/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/607a49d9-cb39-437b-936e-a1adb900fb49/hls/master.m3u8"
           ],
           "Date": "2026-10-11T22:45:36Z",
           "Duration": "01:19:27",
