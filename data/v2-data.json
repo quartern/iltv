@@ -508,6 +508,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 13.10.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_h8dwyddg",
+          "Date": "2026-10-13 22:40:01",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/gube4-905395100/",
+          "Duration": 4028,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-10-13 22:40:01",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_h8dwyddg/flavorIds/1_a55t4syj,1_qaeqwg83,1_bae864ta,1_xay2ktce,1_g313tepr,1_9n278gjo/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 13.10.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_rg58x5ke",
@@ -570,19 +583,6 @@
           "ShortDescriptionLine2": "2026-10-12 23:59:39",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_q2w3geno/flavorIds/1_1ydiquax,1_pyguyw6d,1_o1krh024,1_9mwx5ocu,1_xneq9nqs,1_77oymw3m/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 12.10.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_9veajcdy",
-          "Date": "2026-10-12 22:24:24",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/zontv-905393241/",
-          "Duration": 3620,
-          "ShortDescriptionLine1": "The Main Edition",
-          "ShortDescriptionLine2": "2026-10-12 22:24:24",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9veajcdy/flavorIds/1_ehvrf9cw,1_vct2ob5t,1_1jnf6zbb,1_nddzihwp,1_h5etzk6x,1_1mir39sb/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1882,18 +1882,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: תוכנית פתיחת העונה [live]",
+          "Title": "ארץ נהדרת: תוכנית פתיחת העונה",
           "Poster": "https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Eretz_Nehederet_24/A191915/A191915_noAdds/A191915_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6efa3dea75611a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s24/VOD-6efa3dea75611a1026.htm",
           "ShortDescriptionLine2": "The confrontation that can only happen in Israel is great",
           "Date": "2026-10-13T21:36:29+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: Season Opening Program [live]"
+          "Live": false,
+          "Duration": 3433,
+          "ShortDescriptionLine1": "Eretz Nehederet: Season Opening Program"
         },
         {
           "Title": "נסלי ויואב: האסון בטיול השנתי",
@@ -1978,20 +1978,6 @@
           "Live": false,
           "Duration": 3871,
           "ShortDescriptionLine1": "While you worked: the agents move into the real world"
-        },
-        {
-          "Title": "דוח מצב עם עינב וירון: גדי איזנקוט בראיון",
-          "Poster": "https://img.mako.co.il/2026/10/08/Doh_Matzav_081026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/October/Doh_Matzav_081026_VOD_ABY482/Doh_Matzav_081026_VOD_ABY482_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "3315643028250a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-3315643028250a1026.htm",
-          "ShortDescriptionLine2": "Gadi Eisenkot, chairman of the Isher! party, in an interview",
-          "Date": "2026-10-08T22:53:34+03:00",
-          "Live": false,
-          "Duration": 2402,
-          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Gadi Eisenkot in an interview"
         },
         {
           "Title": "עובדה: מבצע אבינתן",
