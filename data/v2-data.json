@@ -1788,18 +1788,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 14.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 14.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "c5429aa64f831a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-c5429aa64f831a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-14T19:50:46+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 14.10.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 14.10.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22657145/22657145_noAdds/22657145_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "88109aa64f831a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-88109aa64f831a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-14T18:58:33+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 14.10.26 [live]"
+          "Live": false,
+          "Duration": 2019,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 14.10.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 14.10.26",
@@ -1842,20 +1856,6 @@
           "Live": false,
           "Duration": 5168,
           "ShortDescriptionLine1": "Today's edition: 14.10.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 13.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/13/Mahadura_Merkazit_131026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/20mahadura_full_vtr2_n20261013_v1/20mahadura_full_vtr2_n20261013_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "e0bee51e6e331a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-e0bee51e6e331a1027.htm",
-          "ShortDescriptionLine2": "Netanyahu discussed with Trump the possibility of renewing the war",
-          "Date": "2026-10-13T19:51:39+03:00",
-          "Live": false,
-          "Duration": 4158,
-          "ShortDescriptionLine1": "The main edition: 13.10.26"
         },
         {
           "Title": "חדשות סוף השבוע: 10.10.26",
@@ -2232,6 +2232,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": " מדברים חדשות 14-10-26",
+          "StreamerId": "6acfa75efe6d52afdaaa7d2e",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69901477134.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6acfa75efe6d52afdaaa7d2e",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/78f4a2bb-acf9-4daf-af6c-1c1b5c39484d/hls/master.m3u8"
+          ],
+          "Date": "2026-10-14T16:01:34Z",
+          "Duration": "01:59:18",
+          "ShortDescriptionLine1": "Talking news 10-26-14",
+          "ShortDescriptionLine2": "2026-10-14T16:01:34Z"
+        },
+        {
           "Title": "הישראלים 13-10-26",
           "StreamerId": "6ace988e8f13b3e28bacfd76",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69873823533.jpg",
@@ -2308,19 +2321,6 @@
           "Duration": "01:04:22",
           "ShortDescriptionLine1": "Edition five 10-26-13",
           "ShortDescriptionLine2": "2026-10-13T18:28:33Z"
-        },
-        {
-          "Title": "מדברים חדשות 13-10-26",
-          "StreamerId": "6ace7834948164f5aff2d6df",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69870411034.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ace7834948164f5aff2d6df",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/de1f1ac0-aee7-4cf9-8559-c3a427e3fff9/hls/master.m3u8"
-          ],
-          "Date": "2026-10-13T18:28:04Z",
-          "Duration": "01:58:49",
-          "ShortDescriptionLine1": "Talking news 10-26-13",
-          "ShortDescriptionLine2": "2026-10-13T18:28:04Z"
         },
         {
           "Title": "הערביסטים 10-10-26",
