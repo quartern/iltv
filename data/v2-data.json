@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 15.10.26 [live]",
+          "Title": "המהדורה המרכזית: 15.10.26",
           "Poster": "https://img.mako.co.il/2026/10/15/Madura_Merkazit_151026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657174/22657174_noAdds/22657174_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "c2c7f0feeed31a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-c2c7f0feeed31a1026.htm",
           "ShortDescriptionLine2": "The other Qatari officials who met with Urich",
           "Date": "2026-10-15T19:51:32+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 15.10.26 [live]"
+          "Live": false,
+          "Duration": 4784,
+          "ShortDescriptionLine1": "The main edition: 15.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 15.10.26",
@@ -1960,6 +1960,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "הבריחה: מבצע החילוץ מתחיל [live]",
+          "Poster": "https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "3d140f1aa3011a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_escape-s1/VOD-3d140f1aa3011a1027.htm",
+          "ShortDescriptionLine2": "Yoel asks Carmel the rescuer for help",
+          "Date": "2026-10-15T21:49:57+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The escape: The rescue operation begins [live]"
+        },
+        {
           "Title": "חדשות הבוקר עם ניב רסקין: תביעת דיבה נגד נתניהו",
           "Poster": "https://img.mako.co.il/2026/10/15/Hadshot_Haboker_151026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2028,20 +2042,6 @@
           "Live": false,
           "Duration": 2424,
           "ShortDescriptionLine1": "Avery and Sharky: Elon Nofer"
-        },
-        {
-          "Title": "הבריחה: ההחלטה",
-          "Poster": "https://img.mako.co.il/2026/10/10/Habriha_101026_Ido2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habriha/S01/Habriha_101026_VOD_lro405/Habriha_101026_VOD_lro405_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "b7430f1aa3011a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_escape-s1/VOD-b7430f1aa3011a1027.htm",
-          "ShortDescriptionLine2": "Sometimes the bravest thing you can do is run away",
-          "Date": "2026-10-10T21:43:02+03:00",
-          "Live": false,
-          "Duration": 2675,
-          "ShortDescriptionLine1": "The escape: the decision"
         },
         {
           "Title": "אופירה אוחנה סרי: אביגדור ליברמן באולפן ",
@@ -2245,6 +2245,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 15-10-26",
+          "StreamerId": "6ad106d325ca104988498ce7",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69938339390.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ad106d325ca104988498ce7",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/9cb8dbf2-279f-4943-b7fc-3a548b3a91fc/hls/master.m3u8"
+          ],
+          "Date": "2026-10-15T17:01:07Z",
+          "Duration": "01:04:38",
+          "ShortDescriptionLine1": "Fifth edition 10-26-15",
+          "ShortDescriptionLine2": "2026-10-15T17:01:07Z"
+        },
+        {
           "Title": "מהדורת 15 15-10-26",
           "StreamerId": "6ad106d378784adde1a9a2e2",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_69938313163.jpg",
@@ -2321,19 +2334,6 @@
           "Duration": "01:04:05",
           "ShortDescriptionLine1": "Gilboa index 14-10-26",
           "ShortDescriptionLine2": "2026-10-14T16:19:33Z"
-        },
-        {
-          "Title": "מהדורת חמש  14-10-26",
-          "StreamerId": "6acfaa8b8f13b3e28baf6b6f",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_69901842535.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6acfaa8b8f13b3e28baf6b6f",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/d57a1ac1-cc89-46ec-8a1a-e20d81804bdd/hls/master.m3u8"
-          ],
-          "Date": "2026-10-14T16:15:07Z",
-          "Duration": "01:02:32",
-          "ShortDescriptionLine1": "Edition Five 10-26-14",
-          "ShortDescriptionLine2": "2026-10-14T16:15:07Z"
         },
         {
           "Title": "הערביסטים 10-10-26",
