@@ -1801,6 +1801,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 16.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "ce27a2b642e31a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/05c8cac80f2e0a10/VOD-ce27a2b642e31a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-16T19:53:21+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Studio Friday: 16.10.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 15.10.26",
           "Poster": "https://img.mako.co.il/2026/10/15/Madura_Merkazit_151026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1913,20 +1927,6 @@
           "ShortDescriptionLine1": "Saturday at five: 10.10.26"
         },
         {
-          "Title": "אולפן שישי: 09.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/09/Ulpan_Shishi_091026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/ulpash_vtr2_n20261009_v1/ulpash_vtr2_n20261009_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "29c31640d92d0a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/05c8cac80f2e0a10/VOD-29c31640d92d0a1027.htm",
-          "ShortDescriptionLine2": "Serat Avi Gil",
-          "Date": "2026-10-09T19:53:57+03:00",
-          "Live": false,
-          "Duration": 5975,
-          "ShortDescriptionLine1": "Studio Friday: 09.10.26"
-        },
-        {
           "Title": "פגוש את העיתונות: 03.10.26",
           "Poster": "https://img.mako.co.il/2026/10/03/Pgosh_Et_Haitonut_031026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1960,18 +1960,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה אוחנה סרי: ספיישל בחירות ענק [live]",
+          "Title": "אופירה אוחנה סרי: ספיישל בחירות ענק",
           "Poster": "https://img.mako.co.il/2026/01/29/OfiraOhanaSri_1_x5_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22657189/22657189_noAdds/22657189_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "8798cea493240a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_ohana_seri-2026/VOD-8798cea493240a1027.htm",
           "ShortDescriptionLine2": "A huge election special for the final and fateful week",
           "Date": "2026-10-16T18:00:11+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Ofira Ohana Sri: A huge election special [live]"
+          "Live": false,
+          "Duration": 5542,
+          "ShortDescriptionLine1": "Ofira Ohana Sri: A huge election special"
         },
         {
           "Title": "הבריחה: מבצע החילוץ מתחיל",
