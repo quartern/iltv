@@ -1815,18 +1815,18 @@
           "ShortDescriptionLine1": "Five with Rafi Reshef: 18.10.26 [live]"
         },
         {
-          "Title": "מהדורת היום: 18.10.26 [live]",
+          "Title": "מהדורת היום: 18.10.26",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22657252/22657252_noAdds/22657252_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "8cc7d3a208d41a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/4f7234616e2e0a10/VOD-8cc7d3a208d41a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-18T15:00:08+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 18.10.26 [live]"
+          "Live": false,
+          "Duration": 5128,
+          "ShortDescriptionLine1": "Today's edition: 18.10.26"
         },
         {
           "Title": "חדשות סוף השבוע: 17.10.26",
@@ -2245,6 +2245,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הערביסטים 15-10-26",
+          "StreamerId": "6ad4ce31c9e0b5721e4a2ec2",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70039545843.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ad4ce31c9e0b5721e4a2ec2",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/ce9854d9-bfa3-4acd-9fae-ad55084ac054/hls/master.m3u8"
+          ],
+          "Date": "2026-10-18T13:48:33Z",
+          "Duration": "00:54:52",
+          "ShortDescriptionLine1": "The Arabists 10-26-15",
+          "ShortDescriptionLine2": "2026-10-18T13:48:33Z"
+        },
+        {
           "Title": "סופשבוע  17-10-26",
           "StreamerId": "6ad3da352fc0c9ac779dc6fb",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70014189074.jpg",
@@ -2256,19 +2269,6 @@
           "Duration": "01:51:37",
           "ShortDescriptionLine1": "Weekend 10-26-17",
           "ShortDescriptionLine2": "2026-10-17T20:27:33Z"
-        },
-        {
-          "Title": "הערביסטים  17-10-26",
-          "StreamerId": "6ad3d7dd5c3d562c0cf62230",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70014005473.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ad3d7dd5c3d562c0cf62230",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/9c10aaa5-35fb-4bda-be7c-0e468df74ce1/hls/master.m3u8"
-          ],
-          "Date": "2026-10-17T20:17:33Z",
-          "Duration": "00:46:46",
-          "ShortDescriptionLine1": "The Arabists 10-26-17",
-          "ShortDescriptionLine2": "2026-10-17T20:17:33Z"
         },
         {
           "Title": "מגזין השבת חלק שני  17-10-26",
