@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 18.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 18.10.26",
+          "Poster": "https://img.mako.co.il/2026/10/18/Madura_Merkazit_181026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657256/22657256_noAdds/22657256_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "85f2101719d41a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-85f2101719d41a1027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "exclusive | The President of the United States in an interview with News 12",
           "Date": "2026-10-18T19:51:31+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 18.10.26 [live]"
+          "Live": false,
+          "Duration": 3885,
+          "ShortDescriptionLine1": "The main edition: 18.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 18.10.26",
@@ -1830,7 +1830,7 @@
         },
         {
           "Title": "שש עם עודד בן עמי: 18.10.26",
-          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=7e9d101719d41a10VgnVCM100000700a10acRCRD&ts=1792339827",
+          "Poster": "https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=7e9d101719d41a10VgnVCM100000700a10acRCRD&ts=1792343968",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22657254/22657254_noAdds/22657254_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
@@ -1939,6 +1939,20 @@
           "Live": false,
           "Duration": 5055,
           "ShortDescriptionLine1": "Meet the press: 10.10.26"
+        },
+        {
+          "Title": "המהדורה הצעירה: 18.07.26",
+          "Poster": "https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "b3ad608a4996f910VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/young_edition-2026/e786c6736c8fe910/VOD-b3ad608a4996f91026.htm",
+          "ShortDescriptionLine2": "Learn artificial intelligence",
+          "Date": "2026-07-18T07:12:55+03:00",
+          "Live": false,
+          "Duration": 901,
+          "ShortDescriptionLine1": "The young edition: 18.07.26"
         }
       ]
     },
