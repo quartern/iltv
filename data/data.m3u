@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-10-18 12:08
+# Last updated: 2026-10-18 12:24
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -142,6 +142,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253737/LIBCODE
 #EXTINF:8274 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1107500/poster" group-title="11 News - Latest shows",שרון ואורי | 08.10.26
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253508/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2658 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 18.10.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ybtaxtxd/flavorIds/1_v92ic6d5,1_3pdllxdv,1_2qmz4pwi,1_a6ji5m2a,1_2m9eqxcc,1_g2bmzjsq/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:5846 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg" group-title="13 News - Latest shows",חדשות היום 18.10.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ztdchdva/flavorIds/1_lgp02etf,1_gjjuvg6e,1_te7cvq0y,1_6d4dz2rg,1_mb6132tz,1_u767f89v/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -168,9 +171,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4u4q8a
 
 #EXTINF:1918 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 15.10.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5bldlg1z/flavorIds/1_huraokp4,1_7xphfi7z,1_o5zw100w,1_obawhh8j,1_1oposr0w,1_4il556i1/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:2605 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 15.10.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4vnvvca1/flavorIds/1_p3jxplwz,1_8obw8jqa,1_m7z5qhlv,1_x6mxl6s3,1_1jmu2575,1_wadri9uz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -424,8 +424,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqan
 #EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 18.10.26 [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
 
-#EXTINF:0 tvg-logo="https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=7e9d101719d41a10VgnVCM100000700a10acRCRD&ts=1792335991" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 18.10.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2975 tvg-logo="https://media.mako.co.il/FrameCapture/FrameCapture.do?format=TB-Pictures-IReduce&vcmID=7e9d101719d41a10VgnVCM100000700a10acRCRD&ts=1792339827" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 18.10.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22657254/22657254_noAdds/22657254_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2441 tvg-logo="https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חמש עם רפי רשף: 18.10.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22657253/22657253_noAdds/22657253_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
