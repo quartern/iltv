@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 20.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 20.10.26",
+          "Poster": "https://img.mako.co.il/2026/10/20/Mahadura_Merkazit_201026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657304/22657304_noAdds/22657304_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "c4332a4c4e751a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-c4332a4c4e751a1027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The heavy pressures on the swinging parties",
           "Date": "2026-10-20T19:53:30+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 20.10.26 [live]"
+          "Live": false,
+          "Duration": 3673,
+          "ShortDescriptionLine1": "The main edition: 20.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 20.10.26",
@@ -2245,6 +2245,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש 20-10-26",
+          "StreamerId": "6ad7950d417e17181b9371e1",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70112554561.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ad7950d417e17181b9371e1",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/a2f2c573-f2d2-4cec-afaa-d6b82e9f943d/hls/master.m3u8"
+          ],
+          "Date": "2026-10-20T16:21:33Z",
+          "Duration": "01:05:28",
+          "ShortDescriptionLine1": "Fifth Edition 10-26-20",
+          "ShortDescriptionLine2": "2026-10-20T16:21:33Z"
+        },
+        {
           "Title": "מהדורת 15 20-10-26",
           "StreamerId": "6ad7923d417e17181b936ad6",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70112222808.jpg",
@@ -2321,19 +2334,6 @@
           "Duration": "01:06:46",
           "ShortDescriptionLine1": "Gilboa index 10-26-19",
           "ShortDescriptionLine2": "2026-10-19T16:48:03Z"
-        },
-        {
-          "Title": "מהדורת חמש 19-10-26",
-          "StreamerId": "6ad63c852d4122dca93515ad",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70077127967.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ad63c852d4122dca93515ad",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/0f5ebd50-93bb-4092-bd20-2fff401e2c65/hls/master.m3u8"
-          ],
-          "Date": "2026-10-19T15:51:33Z",
-          "Duration": "01:04:01",
-          "ShortDescriptionLine1": "Fifth edition 10-26-19",
-          "ShortDescriptionLine2": "2026-10-19T15:51:33Z"
         },
         {
           "Title": "הערביסטים 15-10-26",

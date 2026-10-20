@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-10-20 14:23
+# Last updated: 2026-10-20 14:37
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -421,8 +421,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfja34
 #EXTINF:3543 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1766347936/uploads/2025/904898992.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 19: הטעות של משה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vcbqanqd/flavorIds/1_2l45fals,1_jnp42a9p,1_yg7hbe5a,1_fpbberas,1_17x47d2u,1_v0a45p5r/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 20.10.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:3673 tvg-logo="https://img.mako.co.il/2026/10/20/Mahadura_Merkazit_201026_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 20.10.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657304/22657304_noAdds/22657304_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2385 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 20.10.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22657318/22657318_noAdds/22657318_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -514,6 +514,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3442 tvg-logo="https://img.mako.co.il/2025/12/04/Hasifa6_01_041225_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: שי-לי עטרי שוברת שתיקה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hasifa6_01_041225_VOD_jhg891/Hasifa6_01_041225_VOD_jhg891_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:05:28 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70112554561.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש 20-10-26
+https://i24israel-aws.vod.immergo.tv/transcoded/a2f2c573-f2d2-4cec-afaa-d6b82e9f943d/hls/master.m3u8
+
 #EXTINF:01:48:23 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70112222808.jpg" group-title="i24 Hebrew - Latest shows",מהדורת 15 20-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/ee04150a-1d90-4262-9874-f39bab77339c/hls/master.m3u8
 
@@ -531,9 +534,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/19ae49e2-b5c4-4413-8180-66
 
 #EXTINF:01:06:46 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70078485758.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע  19-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/0cb7a520-9dc1-4570-bf46-31e13216b5d2/hls/master.m3u8
-
-#EXTINF:01:04:01 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70077127967.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש 19-10-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/0f5ebd50-93bb-4092-bd20-2fff401e2c65/hls/master.m3u8
 
 #EXTINF:00:54:52 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70039545843.jpg" group-title="i24 Hebrew - Latest shows",הערביסטים 15-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/ce9854d9-bfa3-4acd-9fae-ad55084ac054/hls/master.m3u8
