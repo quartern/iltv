@@ -1801,18 +1801,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 20.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 20.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "3dbe2a4c4e751a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/0e4334616e2e0a10/VOD-3dbe2a4c4e751a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-20T16:55:20+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 20.10.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 20.10.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22657315/22657315_noAdds/22657315_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "211ee412ac751a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/4f7234616e2e0a10/VOD-211ee412ac751a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-20T15:00:34+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 20.10.26 [live]"
+          "Live": false,
+          "Duration": 5074,
+          "ShortDescriptionLine1": "Today's edition: 20.10.26"
         },
         {
           "Title": "המהדורה המרכזית: 19.10.26",
@@ -1855,20 +1869,6 @@
           "Live": false,
           "Duration": 3074,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 19.10.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 19.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/19/Hamesh_191026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/17rafi_vtr2_n20261019_v1/17rafi_vtr2_n20261019_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "3d617c4389251a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/0e4334616e2e0a10/VOD-3d617c4389251a1026.htm",
-          "ShortDescriptionLine2": "Gantz announces his retirement: I will not run in the elections",
-          "Date": "2026-10-19T16:55:32+03:00",
-          "Live": false,
-          "Duration": 2404,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 19.10.26"
         },
         {
           "Title": "חדשות סוף השבוע: 17.10.26",
