@@ -1801,31 +1801,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 21.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 21.10.26",
+          "Poster": "https://img.mako.co.il/2026/10/21/Mahadura_Merkazit_211026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657351/22657351_noAdds/22657351_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "fcadf70b40d51a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-fcadf70b40d51a1026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Six days to the elections: a special mandate survey",
           "Date": "2026-10-21T19:52:26+03:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 21.10.26 [live]"
+          "Live": false,
+          "Duration": 3919,
+          "ShortDescriptionLine1": "The main edition: 21.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 21.10.26",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/10/21/Sheva_211026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22657350/22657350_noAdds/22657350_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/19seven_vtr2_n20261021_v1/19seven_vtr2_n20261021_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "4aebf70b40d51a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-4aebf70b40d51a1026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "The pressure in the Netanyahu bloc",
           "Date": "2026-10-21T18:58:40+03:00",
           "Live": false,
-          "Duration": 2287,
+          "Duration": 2305,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 21.10.26"
         },
         {
@@ -2245,6 +2245,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת חמש  21-10-26",
+          "StreamerId": "6ad8e921c0a2b2b5ef8db436",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70147558824.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ad8e921c0a2b2b5ef8db436",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/995d3a12-508a-4c3d-bc30-4da74f6823ba/hls/master.m3u8"
+          ],
+          "Date": "2026-10-21T16:32:33Z",
+          "Duration": "01:02:40",
+          "ShortDescriptionLine1": "Fifth Edition 10-21-26",
+          "ShortDescriptionLine2": "2026-10-21T16:32:33Z"
+        },
+        {
           "Title": "מהדורת 15 21-10-26",
           "StreamerId": "6ad8e5617005d4a865167bd7",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70147110869.jpg",
@@ -2321,19 +2334,6 @@
           "Duration": "01:05:45",
           "ShortDescriptionLine1": "Gilboa index 20-10-26",
           "ShortDescriptionLine2": "2026-10-20T16:23:33Z"
-        },
-        {
-          "Title": "מהדורת חמש 20-10-26",
-          "StreamerId": "6ad7950d417e17181b9371e1",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70112554561.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6ad7950d417e17181b9371e1",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/a2f2c573-f2d2-4cec-afaa-d6b82e9f943d/hls/master.m3u8"
-          ],
-          "Date": "2026-10-20T16:21:33Z",
-          "Duration": "01:05:28",
-          "ShortDescriptionLine1": "Fifth Edition 10-26-20",
-          "ShortDescriptionLine2": "2026-10-20T16:21:33Z"
         },
         {
           "Title": "הערביסטים 15-10-26",
