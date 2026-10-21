@@ -1801,6 +1801,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם קרן מרציאנו: 21.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "4aebf70b40d51a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-4aebf70b40d51a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-21T18:58:40+03:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 21.10.26 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 21.10.26 [live]",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1855,20 +1869,6 @@
           "Live": false,
           "Duration": 3771,
           "ShortDescriptionLine1": "The main edition: 20.10.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 20.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/20/Sheva_201026_VOD_jhg77_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/19seven_vtr2_n20261020_v1/19seven_vtr2_n20261020_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "a1c22a4c4e751a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/806534616e2e0a10/VOD-a1c22a4c4e751a1027.htm",
-          "ShortDescriptionLine2": "The ultra-Orthodox defectors are back in the headlines",
-          "Date": "2026-10-20T18:58:08+03:00",
-          "Live": false,
-          "Duration": 2396,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 20.10.26"
         },
         {
           "Title": "חדשות סוף השבוע: 17.10.26",
@@ -1963,14 +1963,14 @@
           "Title": "נסלי ויואב: 6 ימים לפתיחת הקלפיות",
           "Poster": "https://img.mako.co.il/2026/10/21/Nesli_Yoav_211026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22657345/22657345_noAdds/22657345_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/October/Nesli_Yoav_211026_VOD_uuy823/Nesli_Yoav_211026_VOD_uuy823_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "1a9c3f89acf21a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-1a9c3f89acf21a1026.htm",
+          "EpisodeUrl": "/mako-vod-keshet/nesli_and_yoav-2026/VOD-1a9c3f89acf21a1026.htm",
           "ShortDescriptionLine2": "All the updates and poll predictions for election day",
           "Date": "2026-10-21T09:34:30+03:00",
           "Live": false,
-          "Duration": 3555,
+          "Duration": 3550,
           "ShortDescriptionLine1": "Nesli and Yoav: 6 days until the polls open"
         },
         {
