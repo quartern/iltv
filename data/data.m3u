@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-10-22 14:06
+# Last updated: 2026-10-22 14:22
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -142,6 +142,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253737/LIBCODE
 #EXTINF:8274 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1107500/poster" group-title="11 News - Latest shows",שרון ואורי | 08.10.26
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2253508/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:2138 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 22.10.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_jeidzt3t/flavorIds/1_0wxfe7n5,1_j7x0f1o6,1_fe3vjz7p,1_rw6hntwu,1_sunm747z,1_c4nij8we/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:3050 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 22.10.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_njfiftsn/flavorIds/1_wyv60kz9,1_mkwgasgi,1_40ajida1,1_rhks6f4o,1_d4bkws05,1_2ohsctlz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -156,9 +159,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_cyrqxr
 
 #EXTINF:3718 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 21.10.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wd138528/flavorIds/1_5lci68g7,1_uvjso2it,1_fv813011,1_b5m30pb8,1_j60idxwe,1_4wi197c0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:1999 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 21.10.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_c67lwefx/flavorIds/1_9ciqycut,1_sxxad034,1_5en94z5k,1_rk7kwajt,1_w7n0nwx6,1_724l073h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:3659 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 17.10.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0u6ssjgy/flavorIds/1_w8j1c3ta,1_ox3mnylr,1_etw8j7s9,1_p0au65v6,1_f69plbfo/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -514,6 +514,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3442 tvg-logo="https://img.mako.co.il/2025/12/04/Hasifa6_01_041225_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: שי-לי עטרי שוברת שתיקה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hasifa6_01_041225_VOD_jhg891/Hasifa6_01_041225_VOD_jhg891_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:01:04:48 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70183573488.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע  22-10-26
+https://i24israel-aws.vod.immergo.tv/transcoded/7942bf5a-dcce-4cf5-a87f-01e5cf13ff11/hls/master.m3u8
+
 #EXTINF:01:04:07 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70180821614.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש  22-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/f41bb8c9-4610-4468-b5ea-98fefb50c8dc/hls/master.m3u8
 
@@ -531,9 +534,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/12738b09-6c01-430c-8eb6-26
 
 #EXTINF:01:29:31 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70150339920.jpg" group-title="i24 Hebrew - Latest shows",מהדורה מרכזית  21-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/d3cbe408-347a-4c20-a69f-8cef338de4a2/hls/master.m3u8
-
-#EXTINF:01:05:35 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70147621614.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע 21-10-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/2d812799-658b-4361-9231-2147749e661f/hls/master.m3u8
 
 #EXTINF:00:54:52 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70039545843.jpg" group-title="i24 Hebrew - Latest shows",הערביסטים 15-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/ce9854d9-bfa3-4acd-9fae-ad55084ac054/hls/master.m3u8
