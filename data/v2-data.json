@@ -1801,18 +1801,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 25.10.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 25.10.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "a7dce2c2ac171a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/a92434616e2e0a10/VOD-a7dce2c2ac171a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-10-25T17:55:41+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 25.10.26 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 25.10.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22657457/22657457_noAdds/22657457_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "bd1be2c2ac171a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/0e4334616e2e0a10/VOD-bd1be2c2ac171a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-25T16:56:34+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.10.26 [live]"
+          "Live": false,
+          "Duration": 2315,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.10.26"
         },
         {
           "Title": "מהדורת היום: 25.10.26",
@@ -1911,20 +1925,6 @@
           "Live": false,
           "Duration": 2095,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 22.10.26"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 22.10.26",
-          "Poster": "https://img.mako.co.il/2026/10/22/Shesh_221026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/18shesh_vtr2_n20261022_v1/18shesh_vtr2_n20261022_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "7b80b867b1261a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/a92434616e2e0a10/VOD-7b80b867b1261a1026.htm",
-          "ShortDescriptionLine2": "Preparation for a 3-day attack in Iran - in November",
-          "Date": "2026-10-22T17:55:26+03:00",
-          "Live": false,
-          "Duration": 3052,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 22.10.26"
         },
         {
           "Title": "פגוש את העיתונות: 17.10.26",
