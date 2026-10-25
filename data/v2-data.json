@@ -599,6 +599,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 25.10.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_ivfk38hj",
+          "Date": "2026-10-25 22:12:48",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/b5ru6-905420100/",
+          "Duration": 3605,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-10-25 22:12:48",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_ivfk38hj/flavorIds/1_ms923hva,1_lt9axxmy,1_p4e0prld,1_flfayzws,1_7os61cfx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 25.10.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_r1bqeo1w",
@@ -700,19 +713,6 @@
           "ShortDescriptionLine2": "2026-10-22 23:59:37",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_yzz9phg8/flavorIds/1_xttwy5ee,1_58nxn9d0,1_y99r2gzh,1_zihurrd7,1_r0f32jzo,1_1htdart7/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 22.10.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_5sf41dp8",
-          "Date": "2026-10-22 22:24:39",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4617617/",
-          "Duration": 3629,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-10-22 22:24:39",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5sf41dp8/flavorIds/1_b6y2jxuj,1_22uogla9,1_2v2l3w9f,1_q4ogf18k,1_v6046ds8,1_rko37a4t/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 25.10.26 [live]",
+          "Title": "המהדורה המרכזית: 25.10.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657460/22657460_noAdds/22657460_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "9502e2c2ac171a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-9502e2c2ac171a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-25T19:50:43+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 25.10.26 [live]"
+          "Live": false,
+          "Duration": 4762,
+          "ShortDescriptionLine1": "The main edition: 25.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 25.10.26",
@@ -1846,14 +1846,14 @@
           "Title": "חמש עם רפי רשף: 25.10.26",
           "Poster": "https://img.mako.co.il/2026/10/25/Hamesh_251026_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22657457/22657457_noAdds/22657457_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/17hamesh_vtr2_n20261025_v1/17hamesh_vtr2_n20261025_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "bd1be2c2ac171a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/0e4334616e2e0a10/VOD-bd1be2c2ac171a1027.htm",
           "ShortDescriptionLine2": "Netanyahu's intimidation campaign: sanctions and atomic bombs",
           "Date": "2026-10-25T16:56:34+02:00",
           "Live": false,
-          "Duration": 2315,
+          "Duration": 2308,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 25.10.26"
         },
         {
