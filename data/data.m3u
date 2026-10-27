@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-10-27 15:11
+# Last updated: 2026-10-27 15:26
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -451,6 +451,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:901 tvg-logo="https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה הצעירה: 18.07.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/07/tzeiraa_vtr2_n20260714_v1/tzeiraa_vtr2_n20260714_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: המגה מגה מגה מדגם [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+
 #EXTINF:5314 tvg-logo="https://img.mako.co.il/2026/10/27/Nesli_Yoav_271027_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: בחירות 2026 עם נסלי ויואב
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/October/Nesli_Yoav_271026_VOD_nvn646/Nesli_Yoav_271026_VOD_nvn646_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -474,9 +477,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3039 tvg-logo="https://img.mako.co.il/2026/10/21/Bizman_Sheavadetem_211026_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המהפכה בעולם התעסוקה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/October/Bizman_Sheavadetem_211026_VOD_RHF890/Bizman_Sheavadetem_211026_VOD_RHF890_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3388 tvg-logo="https://img.mako.co.il/2026/10/20/Eretz_Nehederet24_02_201026_Yamim_Yafim_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: הקרב האחרון בהחלט
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S24/EP/Eretz_Nehederet24_02_201026_VOD_hgr452/Eretz_Nehederet24_02_201026_VOD_hgr452_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3970 tvg-logo="https://img.mako.co.il/2026/10/15/Bizman_Sheavadetem_141026_VOD_22_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: עתיד, כסף וקטסטרופה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/October/Bizman_Sheavadetem_141026_VOD_jh898/Bizman_Sheavadetem_141026_VOD_jh898_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -511,8 +511,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3442 tvg-logo="https://img.mako.co.il/2025/12/04/Hasifa6_01_041225_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: שי-לי עטרי שוברת שתיקה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hasifa6_01_041225_VOD_jhg891/Hasifa6_01_041225_VOD_jhg891_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:01:59:24 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70358489762.jpg" group-title="i24 Hebrew - Latest shows",משדר בחירות מיוחד עם אלירז שדה חלק ראשון  27-10-26
-https://i24israel-aws.vod.immergo.tv/transcoded/8a230e9f-8606-472c-8d0f-04726bcf70f6/hls/master.m3u8
+#EXTINF:01:59:24 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70358489762.jpg" group-title="i24 Hebrew - Latest shows",משדר בחירות מיוחד עם אלירז שדה חלק ראשון  27-10-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/8a230e9f-8606-472c-8d0f-04726bcf70f6/hls/master.m3u8
 
 #EXTINF:01:16:05 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70332920634.jpg" group-title="i24 Hebrew - Latest shows",הישראלים  26-10-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/fae8d24e-c0f0-4cfd-803d-89f2848726fe/hls/master.m3u8
