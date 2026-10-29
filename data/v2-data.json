@@ -612,6 +612,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 29.10.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_mbhd11e8",
+          "Date": "2026-10-29 21:39:44",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/moriah-berko/episodes/r2c16-905430612/",
+          "Duration": 3350,
+          "ShortDescriptionLine1": "Moriah Berko",
+          "ShortDescriptionLine2": "2026-10-29 21:39:44",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_mbhd11e8/flavorIds/1_20aan7ci,1_0axp33fh,1_rll7wnxc,1_rqwds7c7,1_9otv4wry,1_yzxoh485/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 29.10.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_tj5zoacz",
@@ -661,19 +674,6 @@
           "ShortDescriptionLine2": "2026-10-28 22:48:12",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_5dwjw827/flavorIds/1_yd82ayl1,1_e1l8sdqh,1_lk657nk9,1_t0dezu0k,1_mka3if5r,1_f5udx7v8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 28.10.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_2yfkq5ao",
-          "Date": "2026-10-28 21:05:06",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4624408/",
-          "Duration": 5843,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-10-28 21:05:06",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2yfkq5ao/flavorIds/1_zo3dc5pd,1_i5ax22hp,1_he0nzinw,1_xkke1qbt,1_8ohvk2h8,1_3yp2pkr0/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 29.10.26 [live]",
+          "Title": "המהדורה המרכזית: 29.10.26",
           "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22657566/22657566_noAdds/22657566_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "2db0ea4695681a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-2db0ea4695681a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-10-29T19:51:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 29.10.26 [live]"
+          "Live": false,
+          "Duration": 5090,
+          "ShortDescriptionLine1": "The main edition: 29.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 29.10.26",
@@ -1960,6 +1960,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "הבריחה: יואל ופייגי בסכנת חיים [live]",
+          "Poster": "https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "32750f1aa3011a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_escape-s1/VOD-32750f1aa3011a1027.htm",
+          "ShortDescriptionLine2": "The opportunity that becomes the greatest danger",
+          "Date": "2026-10-29T21:40:34+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The escape: Yoel and Paige are in danger of their lives [live]"
+        },
+        {
           "Title": "נסלי ויואב: החשד לשוחד בחירות",
           "Poster": "https://img.mako.co.il/2026/10/29/Nesli_Yoav_290226_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2070,20 +2084,6 @@
           "Live": false,
           "Duration": 1484,
           "ShortDescriptionLine1": "Situation report with Einav and Yaron: 5 days to the elections"
-        },
-        {
-          "Title": "הבריחה: השיחה שכולם חיכו לה",
-          "Poster": "https://img.mako.co.il/2026/10/22/Habriha_03_221026_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habriha/S01/Habriha_03_221026_VOD_kkf990/Habriha_03_221026_VOD_kkf990_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "84840f1aa3011a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_escape-s1/VOD-84840f1aa3011a1027.htm",
-          "ShortDescriptionLine2": "Will they manage to rescue Yoel's family?",
-          "Date": "2026-10-22T21:41:54+03:00",
-          "Live": false,
-          "Duration": 3037,
-          "ShortDescriptionLine1": "The escape: the conversation everyone was waiting for"
         },
         {
           "Title": "בזמן שעבדתם: המהפכה בעולם התעסוקה",
@@ -2245,6 +2245,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "מדד גלבוע 29-10-26",
+          "StreamerId": "6ae38f80baf159db2d63353b",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70433615000.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6ae38f80baf159db2d63353b",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/31429581-907f-4d22-9f68-6d2395f83646/hls/master.m3u8"
+          ],
+          "Date": "2026-10-29T18:25:04Z",
+          "Duration": "01:05:23",
+          "ShortDescriptionLine1": "Gilboa index 10-29-26",
+          "ShortDescriptionLine2": "2026-10-29T18:25:04Z"
+        },
+        {
           "Title": "מהדורת חמש  29-10-26",
           "StreamerId": "6ae38f44618644e502b35394",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70433588616.jpg",
@@ -2260,10 +2273,10 @@
         {
           "Title": "מהדורת 15 29-10-26",
           "StreamerId": "6ae38f43fd93ed324db0a77f",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70433560513.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70433560513.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6ae38f43fd93ed324db0a77f",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/15eac02c-4356-48e7-95fa-be68a2ec11f0/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/15eac02c-4356-48e7-95fa-be68a2ec11f0/hls/master.m3u8"
           ],
           "Date": "2026-10-29T18:24:03Z",
           "Duration": "01:51:17",
@@ -2323,19 +2336,6 @@
           "ShortDescriptionLine2": "2026-10-26T21:22:04Z"
         },
         {
-          "Title": "מדד גלבוע 26-10-26",
-          "StreamerId": "6adf9163f4e7974565e42e71",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70327564347.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6adf9163f4e7974565e42e71",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/2d97a7b4-c214-4a49-9f77-04edf476eec8/hls/master.m3u8"
-          ],
-          "Date": "2026-10-26T17:44:03Z",
-          "Duration": "01:06:20",
-          "ShortDescriptionLine1": "Gilboa index 26-10-26",
-          "ShortDescriptionLine2": "2026-10-26T17:44:03Z"
-        },
-        {
           "Title": "מדברים חדשות  26-10-26",
           "StreamerId": "6adf6d129449c44655537188",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70323749326.jpg",
@@ -2384,7 +2384,7 @@
           ],
           "Date": "2026-10-24T17:25:04Z",
           "Duration": "01:53:24",
-          "ShortDescriptionLine1": "Weekend 24-10-26",
+          "ShortDescriptionLine1": "Weekend 10-24-26",
           "ShortDescriptionLine2": "2026-10-24T17:25:04Z"
         },
         {
