@@ -664,6 +664,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "שיחת היום 01.11.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
+          "StreamerId": "1_kw4iic2r",
+          "Date": "2026-11-01 18:41:22",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4627409/",
+          "Duration": 2692,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-11-01 18:41:22",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_kw4iic2r/flavorIds/1_yin4rzfs,1_uazbv85c,1_1an4lyry,1_z4hyt7s8,1_9i9waqwq,1_wfyuntne/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "חדשות היום 01.11.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1745140682/uploads/2025/904549087.jpg",
           "StreamerId": "1_nmc9ss2t",
@@ -778,19 +791,6 @@
           "ShortDescriptionLine2": "2026-10-29 21:51:00",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4e57op5j/flavorIds/1_gad84cye,1_eak2ygqs,1_u453wp0m,1_jn5bb8bq,1_p52y69d4,1_fnsj1bpd/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "שיחת היום 29.10.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
-          "StreamerId": "1_tj5zoacz",
-          "Date": "2026-10-29 19:05:11",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/546/season/1/4625474/",
-          "Duration": 2786,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-10-29 19:05:11",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_tj5zoacz/flavorIds/1_bjlr0wyr,1_y73wia1a,1_1nwjykd6,1_98ux51da,1_el9goasd,1_u693bldx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         }
       ]
@@ -1853,18 +1853,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 01.11.26 [live]",
+          "Title": "שש עם עודד בן עמי: 01.11.26",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22756968/22756968_noAdds/22756968_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6faf7a5f3e591a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-6faf7a5f3e591a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-01T17:55:41+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.11.26 [live]"
+          "Live": false,
+          "Duration": 3243,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 01.11.26"
         },
         {
           "Title": "חמש עם רפי רשף: 01.11.26",
@@ -1893,6 +1893,20 @@
           "Live": false,
           "Duration": 5446,
           "ShortDescriptionLine1": "Today's edition: 01.11.26"
+        },
+        {
+          "Title": "חדשות סוף השבוע: 31.10.26",
+          "Poster": "https://img.mako.co.il/2026/10/31/Hadshot_Sof_Hashavua_311026_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/20danaweiss_vtr2_n20261031_v1/20danaweiss_vtr2_n20261031_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "d2085bba6d681a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/f313cac80f2e0a10/VOD-d2085bba6d681a1027.htm",
+          "ShortDescriptionLine2": "The preparations in Israel for the renewal of the war with Iran",
+          "Date": "2026-10-31T19:53:03+02:00",
+          "Live": false,
+          "Duration": 4486,
+          "ShortDescriptionLine1": "Weekend news: 31.10.26"
         },
         {
           "Title": "פגוש את העיתונות: 31.10.26",
@@ -1935,6 +1949,20 @@
           "Live": false,
           "Duration": 6544,
           "ShortDescriptionLine1": "Studio Friday: 30.10.26"
+        },
+        {
+          "Title": "המהדורה המרכזית: 29.10.26",
+          "Poster": "https://img.mako.co.il/2026/10/29/Mahadura_Merkazit_291026_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/20mahadura_full_vtr2_n20261029_v1/20mahadura_full_vtr2_n20261029_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "2db0ea4695681a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/435634616e2e0a10/VOD-2db0ea4695681a1026.htm",
+          "ShortDescriptionLine2": "Qatari interference in the elections: details from the Shin Bet investigation",
+          "Date": "2026-10-29T19:51:32+02:00",
+          "Live": false,
+          "Duration": 5088,
+          "ShortDescriptionLine1": "The main edition: 29.10.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 29.10.26",
