@@ -638,6 +638,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 03.11.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_e4zjca25",
+          "Date": "2026-11-03 19:37:30",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/moriah-berko/episodes/rt5eg-905439468/",
+          "Duration": 3297,
+          "ShortDescriptionLine1": "Moriah Berko",
+          "ShortDescriptionLine2": "2026-11-03 19:37:30",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_e4zjca25/flavorIds/1_710zubdb,1_ag5x24no,1_2vt0zhui,1_u6h6dggq,1_vzk1zfkj,1_tj9ct5mr/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "שיחת היום 03.11.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg",
           "StreamerId": "1_henetunl",
@@ -700,19 +713,6 @@
           "ShortDescriptionLine2": "2026-11-02 20:44:59",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_10v5txve/flavorIds/1_n3b813l7,1_2u88mqls,1_66b8sx02,1_wubnxdpo,1_065hyltx,1_7www9bsj/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 02.11.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_39zkwojb",
-          "Date": "2026-11-02 19:52:25",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4629504/",
-          "Duration": 3138,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-11-02 19:52:25",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_39zkwojb/flavorIds/1_pe85uy1z,1_8nhmkm2g,1_2o7gpyo5,1_9qg4svsz,1_3r99laem,1_1flkr1m2/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1827,18 +1827,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 03.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 03.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "6c64b81a510a1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-6c64b81a510a1a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-03T19:52:35+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Main edition: 03.11.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 03.11.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757030/22757030_noAdds/22757030_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "c1f1b81a510a1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-c1f1b81a510a1a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-03T18:58:00+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 03.11.26 [live]"
+          "Live": false,
+          "Duration": 2391,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 03.11.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 03.11.26",
@@ -1870,31 +1884,17 @@
         },
         {
           "Title": "מהדורת היום: 03.11.26",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/11/03/Mahadurat_Hayom_031126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22757027/22757027_noAdds/22757027_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/15hayom_vtr2_n20261103_v1/15hayom_vtr2_n20261103_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "4e4db81a510a1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-4e4db81a510a1a1027.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "On the brink of a decision: Trump calls for war?",
           "Date": "2026-11-03T14:59:34+02:00",
           "Live": false,
-          "Duration": 5518,
+          "Duration": 5534,
           "ShortDescriptionLine1": "Today's edition: 03.11.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 02.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/02/Mahadura_Merkazit_021126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadure_full_vtr2_n20261102_v1/20mahadure_full_vtr2_n20261102_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "7035b5fb8ca91a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-7035b5fb8ca91a1027.htm",
-          "ShortDescriptionLine2": "Trump in an interview with News 12 about Iran",
-          "Date": "2026-11-02T19:51:41+02:00",
-          "Live": false,
-          "Duration": 4674,
-          "ShortDescriptionLine1": "The main edition: 02.11.26"
         },
         {
           "Title": "חדשות סוף השבוע: 31.10.26",
