@@ -547,6 +547,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 04.11.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_v0tksh2i",
+          "Date": "2026-11-04 21:56:48",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/vdxb0-905442030/",
+          "Duration": 3950,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-11-04 21:56:48",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_v0tksh2i/flavorIds/1_vo1fjwqg,1_8geha3lh,1_u188f8my,1_7kk7qxfp,1_bg8jjnko,1_lnfi4qtz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 04.11.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_grjlzckc",
@@ -609,19 +622,6 @@
           "ShortDescriptionLine2": "2026-11-03 23:59:03",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_w3htd6ry/flavorIds/1_ilhc1exi,1_gj1iys4a,1_ghncs9na,1_18aah8hd,1_mv8sxbzo,1_ddqj0jrx/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 03.11.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_yrpxl91v",
-          "Date": "2026-11-03 22:16:24",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4630524/",
-          "Duration": 3935,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-11-03 22:16:24",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_yrpxl91v/flavorIds/1_qc6t94w8,1_ajw1xfv4,1_l1pfha7o,1_ctk9mm58,1_hmqiizj8,1_92mz379c/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1801,18 +1801,18 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 04.11.26 [live]",
+          "Title": "המהדורה המרכזית: 04.11.26",
           "Poster": "https://img.mako.co.il/2026/11/04/Mahadura_Merkazit_041126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22757061/22757061_noAdds/22757061_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "a4c4feaa335a1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-a4c4feaa335a1a1027.htm",
           "ShortDescriptionLine2": "The head of the Shin Bet: new revelations",
           "Date": "2026-11-04T19:52:28+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 04.11.26 [live]"
+          "Live": false,
+          "Duration": 4534,
+          "ShortDescriptionLine1": "The main edition: 04.11.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 04.11.26",
@@ -1960,6 +1960,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "ארץ נהדרת: מסיבת ההמלצות הגדולה [live]",
+          "Poster": "https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "b63317e9cef21a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s24/VOD-b63317e9cef21a1026.htm",
+          "ShortDescriptionLine2": "Everyone comes to Boji's recommendation party!",
+          "Date": "2026-11-04T21:41:43+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Eretz Nehederet: The Great Recommendation Party [live]"
+        },
+        {
           "Title": "נסלי ויואב: מי יקבל מנדט?",
           "Poster": "https://img.mako.co.il/2026/11/04/Nesli_Yoav_041126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2056,20 +2070,6 @@
           "Live": false,
           "Duration": 2811,
           "ShortDescriptionLine1": "While you worked: all the eggs in one bubble"
-        },
-        {
-          "Title": "ארץ נהדרת: המגה מגה מגה מדגם",
-          "Poster": "https://img.mako.co.il/2026/10/27/Eretz_Nehederet24_03_271026_VOD2_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S24/EP/Eretz_Nehederet24_03_271026_VOD_DHY472/Eretz_Nehederet24_03_271026_VOD_DHY472_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "7bf217e9cef21a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/eretz_nehederet-s24/VOD-7bf217e9cef21a1026.htm",
-          "ShortDescriptionLine2": "A special program for the fateful election day",
-          "Date": "2026-10-27T21:02:09+02:00",
-          "Live": false,
-          "Duration": 3205,
-          "ShortDescriptionLine1": "Eretz Nehederet: Mega Mega Mega sample"
         },
         {
           "Title": "אופירה אוחנה סרי: בחירות 2026",
