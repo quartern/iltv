@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת כאן חדשות | 03.11.26",
+          "ShortDescriptionLine1": "Evening News | 03.11.26",
+          "ShortDescriptionLine2": "2026-11-04 05:25:12",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1115812/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261635/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1115812",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1115812",
+          "Date": "2026-11-04 05:25:12",
+          "Duration": "6335"
+        },
+        {
           "Title": "חדשות הלילה | 03.11.26",
           "ShortDescriptionLine1": "Tonight's news 03.11.26",
           "ShortDescriptionLine2": "2026-11-03 21:59:17",
@@ -475,19 +488,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1115839",
           "Date": "2026-11-03 21:59:17",
           "Duration": "1999"
-        },
-        {
-          "Title": "מהדורת כאן חדשות | 03.11.26",
-          "ShortDescriptionLine1": "Evening News | 03.11.26",
-          "ShortDescriptionLine2": "2026-11-03 20:40:21",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1115812/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/cf_kan11/live.livx/playlist.m3u8?renditions&fmp4&startTime=815420700000&stopTime=815427600000"
-          ],
-          "StreamerId": "kan1115812",
-          "EpisodeUrl": "https:///www.kan.org.il/content/kan/kan-actual/p-11544/1115812",
-          "Date": "2026-11-03 20:40:21",
-          "Duration": "6335"
         },
         {
           "Title": "מהצד השני עם גיא זהר | 03.11.26",
@@ -2090,6 +2090,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "77af83b129181a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-77af83b129181a1026.htm",
+          "ShortDescriptionLine2": "This morning's main newscast with Niv Raskin",
+          "Date": "2026-11-04T07:08:58+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: ג'וש בריינר",
           "Poster": "https://img.mako.co.il/2026/11/04/Avri_Sherki_031126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2116,20 +2130,6 @@
           "Live": false,
           "Duration": 3698,
           "ShortDescriptionLine1": "Nesli and Yoav: the US elections"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: בחירות האמצע בארה\"ב",
-          "Poster": "https://img.mako.co.il/2026/11/03/Hadsot_Haboker_031126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/November/Hadshot_Haboker_031126_VOD_gew158/Hadshot_Haboker_031126_VOD_gew158_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "a24e83b129181a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-a24e83b129181a1026.htm",
-          "ShortDescriptionLine2": "The elections in the USA and the effect on the attitude towards Israel",
-          "Date": "2026-11-03T07:09:35+02:00",
-          "Live": false,
-          "Duration": 8034,
-          "ShortDescriptionLine1": "This morning's news with Niv Raskin: the US midterm elections"
         },
         {
           "Title": "אופירה אוחנה סרי: יאיר גולן בריאיון ",
