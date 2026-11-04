@@ -1801,18 +1801,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 04.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 04.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "a4c4feaa335a1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-a4c4feaa335a1a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-04T19:52:28+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 04.11.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 04.11.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757063/22757063_noAdds/22757063_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "f373feaa335a1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-f373feaa335a1a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-04T18:59:02+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.11.26 [live]"
+          "Live": false,
+          "Duration": 2243,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 04.11.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 04.11.26",
@@ -1855,20 +1869,6 @@
           "Live": false,
           "Duration": 5546,
           "ShortDescriptionLine1": "Today's edition: 04.11.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 03.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/03/Mahadura_Merkazit_031126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20yonit_vtr2_n20261103_v1/20yonit_vtr2_n20261103_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "6c64b81a510a1a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-6c64b81a510a1a1027.htm",
-          "ShortDescriptionLine2": "What is behind Trump's statement?",
-          "Date": "2026-11-03T19:52:35+02:00",
-          "Live": false,
-          "Duration": 4426,
-          "ShortDescriptionLine1": "Main edition: 03.11.26"
         },
         {
           "Title": "חדשות סוף השבוע: 31.10.26",
