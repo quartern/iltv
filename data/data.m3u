@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-07 03:51
+# Last updated: 2026-11-07 10:42
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -451,6 +451,9 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_y5f6wq
 #EXTINF:3651 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1761424510/uploads/2025/904818158.jpg" group-title="Reshet 13 Specials",ווארט VOD | פרק 1: פרק הבכורה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9ty09vb6/flavorIds/1_97eokwjg,1_bjc26zhb,1_99qph85d,1_7pewald7,1_ee7urluo,1_0kplf03h/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2024/05/20/Shishi_at_5_X5_03_HD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 07.11.26 [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+
 #EXTINF:6055 tvg-logo="https://img.mako.co.il/2026/11/06/Ulpan_Shishi_061126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",אולפן שישי: 06.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20ulpash_vtr2_n20261106_v1/20ulpash_vtr2_n20261106_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -474,9 +477,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 
 #EXTINF:5585 tvg-logo="https://img.mako.co.il/2026/10/31/Pgosh_311026_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 31.10.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/18pgosh_vtr2_n20261031_v1/18pgosh_vtr2_n20261031_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:2966 tvg-logo="https://img.mako.co.il/2026/10/31/Shabat_Behamesh_311026_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 31.10.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/17five_vtr2_n20261031_v1/17five_vtr2_n20261031_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:5343 tvg-logo="https://img.mako.co.il/2026/10/24/Pgosh_241026_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 24.10.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/10/18pgosh_vtr2_n20261024_v1/18pgosh_vtr2_n20261024_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
