@@ -477,6 +477,19 @@
           "Duration": "3313"
         },
         {
+          "Title": "מהצד השני עם גיא זוהר | 09.11.26",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 09.11.26",
+          "ShortDescriptionLine2": "2026-11-09 16:36:41",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1112790/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2259096/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1112790",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1112790",
+          "Date": "2026-11-09 16:36:41",
+          "Duration": "862"
+        },
+        {
           "Title": "גליק ותמר | 09.11.26",
           "ShortDescriptionLine1": "Glick and Tamar 09.11.26",
           "ShortDescriptionLine2": "2026-11-09 16:02:23",
@@ -514,6 +527,19 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1117355",
           "Date": "2026-11-08 20:16:36",
           "Duration": "5640"
+        },
+        {
+          "Title": "כאן חדשות+ | 08.11.26",
+          "ShortDescriptionLine1": "Here news+ | 08.11.26",
+          "ShortDescriptionLine2": "2026-11-08 17:50:34",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1117313/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263442/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1117313",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1117313",
+          "Date": "2026-11-08 17:50:34",
+          "Duration": "1377"
         },
         {
           "Title": "כאן בשש | 08.11.26",
@@ -1905,18 +1931,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שש עם עודד בן עמי: 09.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "Title": "שבע עם קרן מרציאנו: 09.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "51b0aa05c3fb1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-51b0aa05c3fb1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-09T18:58:45+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 09.11.26 [live]"
+        },
+        {
+          "Title": "שש עם עודד בן עמי: 09.11.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22757205/22757205_noAdds/22757205_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "3e4faa05c3fb1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-3e4faa05c3fb1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-09T17:55:13+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.11.26 [live]"
+          "Live": false,
+          "Duration": 3149,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.11.26"
         },
         {
           "Title": "חמש עם רפי רשף: 09.11.26",
@@ -1959,20 +1999,6 @@
           "Live": false,
           "Duration": 4043,
           "ShortDescriptionLine1": "Main edition: 08.11.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 08.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/08/Sheva_081126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/19sheba_vtr2_n20261108_v1/19sheba_vtr2_n20261108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "a720ffb75e9b1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-a720ffb75e9b1a1026.htm",
-          "ShortDescriptionLine2": "Now it's official: the mandate at Eisenkot",
-          "Date": "2026-11-08T18:59:43+02:00",
-          "Live": false,
-          "Duration": 2066,
-          "ShortDescriptionLine1": "Sheva with the Marciano Foundation: 08.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
