@@ -1409,45 +1409,6 @@
       "Name": "Kan 11 Specials",
       "Items": [
         {
-          "Title": "זהו זה! עונה 9 | פרק 1 - 03.11.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 9 | Chapter 1 - 03.11.26",
-          "ShortDescriptionLine2": "2026-11-03 19:38:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1115141/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261424/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1115141",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s9/1115141",
-          "Date": "2026-11-03 19:38:09",
-          "Duration": "2391"
-        },
-        {
-          "Title": "זהו זה! עונה 8 | פרק 24 - 05.05.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 24 - 05.05.26",
-          "ShortDescriptionLine2": "2026-05-05 18:34:20",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1037654/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2197024/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1037654",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1037654",
-          "Date": "2026-05-05 18:34:20",
-          "Duration": "2433"
-        },
-        {
-          "Title": "זהו זה! עונה 8 | פרק 23 - 28.04.26",
-          "ShortDescriptionLine1": "ZehuZe! Season 8 | Chapter 23 - 28.04.26",
-          "ShortDescriptionLine2": "2026-04-28 18:31:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1034603/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2194840/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1034603",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-11/p-12002/s8/1034603",
-          "Date": "2026-04-28 18:31:23",
-          "Duration": "2268"
-        },
-        {
           "Title": "צעד אחרי צעד: מסע השיקום המפרך של טל קופרשטיין אחרי חזרת בנו מהשבי",
           "ShortDescriptionLine1": "Step by step: Tal Kuperstein's arduous rehabilitation journey after his son's return from captivity",
           "ShortDescriptionLine2": "2026-10-22 19:25:51",
@@ -1918,18 +1879,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 09.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 09.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "3e4faa05c3fb1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-3e4faa05c3fb1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-09T17:55:13+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 09.11.26 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 09.11.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22757204/22757204_noAdds/22757204_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "108eaa05c3fb1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-108eaa05c3fb1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-09T16:55:46+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.11.26 [live]"
+          "Live": false,
+          "Duration": 2325,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 09.11.26"
         },
         {
           "Title": "מהדורת היום: 09.11.26",
@@ -1972,20 +1947,6 @@
           "Live": false,
           "Duration": 2066,
           "ShortDescriptionLine1": "Sheva with the Marciano Foundation: 08.11.26"
-        },
-        {
-          "Title": "שש עם עודד בן עמי: 08.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/08/Shesh_081126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/18shesh_vtr2_n20261108_v1/18shesh_vtr2_n20261108_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "41aeffb75e9b1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-41aeffb75e9b1a1026.htm",
-          "ShortDescriptionLine2": "Eisenkot received the mandate to form the government",
-          "Date": "2026-11-08T17:55:38+02:00",
-          "Live": false,
-          "Duration": 3068,
-          "ShortDescriptionLine1": "Six with Oded Ben Ami: 08.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
