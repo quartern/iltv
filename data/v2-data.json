@@ -2090,18 +2090,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "נסלי ויואב: ההתעללות בגן ילדים בעכו [live]",
+          "Title": "נסלי ויואב: ההתעללות בגן ילדים בעכו",
           "Poster": "https://img.mako.co.il/2026/11/10/Nesli_Yoav_101126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22757262/22757262_noAdds/22757262_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "f7a379eec9181a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/nesli_and_yoav-2026/VOD-f7a379eec9181a1026.htm",
           "ShortDescriptionLine2": "The abuse in a kindergarten in Acre, and towards the swearing in of the Knesset",
           "Date": "2026-11-10T09:38:16+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Nesli and Yoav: the abuse in a kindergarten in Acre [live]"
+          "Live": false,
+          "Duration": 6335,
+          "ShortDescriptionLine1": "Nesli and Yoav: the abuse in a kindergarten in Acre"
         },
         {
           "Title": "חדשות הבוקר עם ניב רסקין: ההתרסקות של ש\"ס",
@@ -2375,6 +2375,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "7 שרון גל 9-11-26",
+          "StreamerId": "6af2e6ebaf00337078264139",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70843255637.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6af2e6ebaf00337078264139",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/bbdbba61-22d9-447d-9cd3-36e51325a79b/hls/master.m3u8"
+          ],
+          "Date": "2026-11-10T09:42:03Z",
+          "Duration": "00:48:46",
+          "ShortDescriptionLine1": "7 Sharon Gal 9-11-26",
+          "ShortDescriptionLine2": "2026-11-10T09:42:03Z"
+        },
+        {
           "Title": "הישראלים 09-11-26",
           "StreamerId": "6af248f354409e0e58149832",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70827129047.jpg",
@@ -2451,19 +2464,6 @@
           "Duration": "01:59:59",
           "ShortDescriptionLine1": "Talking news 09-11-26",
           "ShortDescriptionLine2": "2026-11-09T16:19:33Z"
-        },
-        {
-          "Title": "7 שרון גל 08-11-26",
-          "StreamerId": "6af0e9a006f571f89a8ce706",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70790830372.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6af0e9a006f571f89a8ce706",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/146895e2-9343-4b5d-98ce-002bcfe66ad6/hls/master.m3u8"
-          ],
-          "Date": "2026-11-08T21:29:04Z",
-          "Duration": "00:48:54",
-          "ShortDescriptionLine1": "7 Sharon Gal 08-11-26",
-          "ShortDescriptionLine2": "2026-11-08T21:29:04Z"
         },
         {
           "Title": "הערביסטים 07-11-26",
