@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-10 17:14
+# Last updated: 2026-11-10 17:29
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -160,6 +160,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODE
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:1561 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 10.11.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_pisy6ghr/flavorIds/1_mz2dkuwn,1_adfn88s3,1_3lt3n7ba,1_9l3exdos,1_usec4hb7,1_8ztmtfwe/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:3402 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 10.11.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_qlzitjl5/flavorIds/1_y44eaja3,1_pbi0yzv6,1_9ccyrmvp,1_e0qqpvap,1_1vjw11md/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -168,9 +171,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_hfzlzv
 
 #EXTINF:3069 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 10.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wyebeug5/flavorIds/1_a5p5u8yi,1_fc5i775y,1_xdzkccys,1_0sehjq8l,1_ij68sbrk,1_3u3rs2zh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:1141 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 09.11.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_q0dz58lu/flavorIds/1_zteihyhd,1_ngxgg56z,1_q6cc0n3h,1_5twy9rli,1_rx699x8j,1_7jqhncrz/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:2822 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 09.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9im4alyv/flavorIds/1_rp7mkshh,1_tsr1xhlr,1_d3x6sb38,1_lom429vz,1_9e61ryh9,1_jeccw0u8/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -484,7 +484,7 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2586 tvg-logo="https://img.mako.co.il/2026/11/07/Shabat_Behamesh_071126_VOD_re_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 07.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261107_v1/17shabat_vtr2_n20261107_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/11/10/Avri_Sherki_101126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: אברי ושרקי [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/11/10/Avri_Sherki_101126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: שרון שרעבי ומשה רוזנטל [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
 
 #EXTINF:6001 tvg-logo="https://img.mako.co.il/2026/11/10/Nesli_Yoav_101126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: ההתעללות בגן ילדים בעכו
