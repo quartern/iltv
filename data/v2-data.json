@@ -521,6 +521,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "מוריה וברקו 10.11.26 - התכנית המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
+          "StreamerId": "1_wyebeug5",
+          "Date": "2026-11-10 19:38:16",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4638321/",
+          "Duration": 3069,
+          "ShortDescriptionLine1": "",
+          "ShortDescriptionLine2": "2026-11-10 19:38:16",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_wyebeug5/flavorIds/1_a5p5u8yi,1_fc5i775y,1_xdzkccys,1_0sehjq8l,1_ij68sbrk,1_3u3rs2zh/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "היום שהיה 09.11.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg",
           "StreamerId": "1_q0dz58lu",
@@ -557,19 +570,6 @@
           "ShortDescriptionLine2": "2026-11-09 21:06:02",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_k55ogcfc/flavorIds/1_kq0t7rpy,1_nkaw52a4,1_5k36pnha,1_3vkgrivk,1_yjswehou,1_238t2qfa/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "מוריה וברקו 09.11.26 - התכנית המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
-          "StreamerId": "1_d4i5z1f3",
-          "Date": "2026-11-09 19:48:13",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4637286/",
-          "Duration": 3086,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-11-09 19:48:13",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_d4i5z1f3/flavorIds/1_2rzobqh2,1_oumcf4aa/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -1710,18 +1710,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 10.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 10.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "8273893cb54c1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-8273893cb54c1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-10T19:52:34+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 10.11.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 10.11.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757247/22757247_noAdds/22757247_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "344f893cb54c1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-344f893cb54c1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-10T18:58:39+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 10.11.26 [live]"
+          "Live": false,
+          "Duration": 2199,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 10.11.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 10.11.26",
@@ -1766,20 +1780,6 @@
           "ShortDescriptionLine1": "Today's edition: 10.11.26"
         },
         {
-          "Title": "המהדורה המרכזית: 09.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/09/Madura_Merkazit_091126_vOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadura_full_vtr2_n20261109_v1/20mahadura_full_vtr2_n20261109_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "20f2aa05c3fb1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-20f2aa05c3fb1a1026.htm",
-          "ShortDescriptionLine2": "The ultra-orthodox demand in exchange for support for the government of change",
-          "Date": "2026-11-09T19:51:54+02:00",
-          "Live": false,
-          "Duration": 4460,
-          "ShortDescriptionLine1": "Main edition: 09.11.26"
-        },
-        {
           "Title": "המהדורה הצעירה: 18.07.26",
           "Poster": "https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1792,6 +1792,20 @@
           "Live": false,
           "Duration": 901,
           "ShortDescriptionLine1": "The young edition: 18.07.26"
+        },
+        {
+          "Title": "אולפן שישי: 06.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/06/Ulpan_Shishi_061126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/ulpashfix_vtr2_n20261107_v1/ulpashfix_vtr2_n20261107_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "b15866fa88ba1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-b15866fa88ba1a1027.htm",
+          "ShortDescriptionLine2": "Eisenkot's goal: a government next week",
+          "Date": "",
+          "Live": false,
+          "Duration": 5930,
+          "ShortDescriptionLine1": "Studio Friday: 06.11.26"
         },
         {
           "Title": "פגוש את העיתונות: 31.10.26",
