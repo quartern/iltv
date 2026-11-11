@@ -2038,6 +2038,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "faf239b5e1ab1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-faf239b5e1ab1a1027.htm",
+          "ShortDescriptionLine2": "This morning's main newscast with Niv Raskin",
+          "Date": "2026-11-11T07:10:26+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
+        {
           "Title": "אברי ושרקי: שרון שרעבי ומשה רוזנטל",
           "Poster": "https://img.mako.co.il/2026/11/10/Avri_Sherki_101126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2064,20 +2078,6 @@
           "Live": false,
           "Duration": 6001,
           "ShortDescriptionLine1": "Nesli and Yoav: the abuse in a kindergarten in Acre"
-        },
-        {
-          "Title": "חדשות הבוקר עם ניב רסקין: ההתרסקות של ש\"ס",
-          "Poster": "https://img.mako.co.il/2026/11/10/Hadshot_Haboker_101126_Shas_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/November/Hadshot_Haboker_101126_VOD_vd53/Hadshot_Haboker_101126_VOD_vd53_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "307483b129181a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/morning_news-2026/VOD-307483b129181a1026.htm",
-          "ShortDescriptionLine2": "The collapse of Shas and Deri's withdrawal from the list",
-          "Date": "2026-11-10T07:09:34+02:00",
-          "Live": false,
-          "Duration": 7672,
-          "ShortDescriptionLine1": "The morning news with Niv Raskin: the crash of Shas"
         },
         {
           "Title": "אופירה אוחנה סרי: תוצאות הבחירות",
@@ -2323,6 +2323,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "הישראלים 10-11-26",
+          "StreamerId": "6af38c09ea0937d2efe8b312",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70860554177.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6af38c09ea0937d2efe8b312",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/140dc020-2b78-4597-84cc-1637e4002aea/hls/master.m3u8"
+          ],
+          "Date": "2026-11-10T21:26:33Z",
+          "Duration": "01:12:16",
+          "ShortDescriptionLine1": "The Israelis 10-11-26",
+          "ShortDescriptionLine2": "2026-11-10T21:26:33Z"
+        },
+        {
           "Title": "המהדורה המרכזית 10-11-26",
           "StreamerId": "6af3718d9629373e9623fa84",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70857783690.jpg",
@@ -2399,19 +2412,6 @@
           "Duration": "02:01:48",
           "ShortDescriptionLine1": "Talking news 10-11-26",
           "ShortDescriptionLine2": "2026-11-10T17:22:33Z"
-        },
-        {
-          "Title": "הישראלים 09-11-26",
-          "StreamerId": "6af248f354409e0e58149832",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70827129047.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6af248f354409e0e58149832",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/4339a7f7-d0ab-4161-9ac6-f7d8148a4f96/hls/master.m3u8"
-          ],
-          "Date": "2026-11-09T22:28:03Z",
-          "Duration": "00:53:54",
-          "ShortDescriptionLine1": "The Israelis 09-11-26",
-          "ShortDescriptionLine2": "2026-11-09T22:28:03Z"
         },
         {
           "Title": "הערביסטים 07-11-26",
