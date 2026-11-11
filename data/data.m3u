@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-11 15:55
+# Last updated: 2026-11-11 16:08
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -448,8 +448,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2586 tvg-logo="https://img.mako.co.il/2026/11/07/Shabat_Behamesh_071126_VOD_re_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 07.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261107_v1/17shabat_vtr2_n20261107_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: אילה וברקו בהשבעת הכנסת [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:3179 tvg-logo="https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: אילה וברקו בהשבעת הכנסת
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Eretz_Nehederet_24/A191919/A191919_noAdds/A191919_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3671 tvg-logo="https://img.mako.co.il/2026/11/11/Nesli_Yoav_111126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: הכנסת החדשה הושבעה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/November/Nesli_Yoav_111126_VOD_ioi818/Nesli_Yoav_111126_VOD_ioi818_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -511,6 +511,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:00:03:31 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70891604782.jpg" group-title="i24 Hebrew - Latest shows",סכנת הסוללות המתפוצצות: איך אפשר למנוע את האסון הבא?
 https://i24israel.vod.immergo.tv/i24israel/transcoded/361744fb-b969-47fa-a50c-65071cf11d55/hls/master.m3u8
 
+#EXTINF:00:49:26 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70890336361.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 11-11-26
+https://i24israel-aws.vod.immergo.tv/transcoded/8101dcd5-59bb-40a8-b426-ce519e8b8a8a/hls/master.m3u8
+
 #EXTINF:01:04:30 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70889121763.jpg" group-title="i24 Hebrew - Latest shows",מהדורת חמש 11-11-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/d5f15e50-1800-4ab4-acb8-c2589de4c5bb/hls/master.m3u8
 
@@ -519,9 +522,6 @@ https://i24israel.vod.immergo.tv/i24israel/transcoded/4828b94a-b924-4a31-b688-ed
 
 #EXTINF:01:06:50 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70862212087.jpg" group-title="i24 Hebrew - Latest shows",הישראלים 10-11-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/4053de29-655c-438c-8fef-28600667d807/hls/master.m3u8
-
-#EXTINF:00:49:09 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70855382256.jpg" group-title="i24 Hebrew - Latest shows",7 שרון גל 10-11-26
-https://i24israel.vod.immergo.tv/i24israel/transcoded/1a437fd4-4fbb-4c01-9ec6-35034bf1da62/hls/master.m3u8
 
 #EXTINF:01:06:08 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70854761696.jpg" group-title="i24 Hebrew - Latest shows",מדד גלבוע 10-11-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/ce32d31d-1309-4f4e-a558-50dd9fd69573/hls/master.m3u8

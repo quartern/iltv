@@ -1934,18 +1934,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "ארץ נהדרת: אילה וברקו בהשבעת הכנסת [live]",
+          "Title": "ארץ נהדרת: אילה וברקו בהשבעת הכנסת",
           "Poster": "https://img.mako.co.il/2026/10/08/Eeretz2026_01_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Eretz_Nehederet_24/A191919/A191919_noAdds/A191919_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "d18317e9cef21a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/eretz_nehederet-s24/VOD-d18317e9cef21a1026.htm",
           "ShortDescriptionLine2": "Ila Hasson and Eyal Berkovich in a special report",
           "Date": "2026-11-11T21:40:53+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Eretz Nehederet: Ila and Barko at the swearing in of the Knesset [live]"
+          "Live": false,
+          "Duration": 3179,
+          "ShortDescriptionLine1": "Eretz Nehederet: Ila and Barko at the swearing in of the Knesset"
         },
         {
           "Title": "נסלי ויואב: הכנסת החדשה הושבעה",
@@ -2232,6 +2232,19 @@
           "ShortDescriptionLine2": "2026-11-11T18:56:04Z"
         },
         {
+          "Title": "7 שרון גל 11-11-26",
+          "StreamerId": "6af4ae521a0e7f45bad96084",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70890336361.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6af4ae521a0e7f45bad96084",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/8101dcd5-59bb-40a8-b426-ce519e8b8a8a/hls/master.m3u8"
+          ],
+          "Date": "2026-11-11T18:05:06Z",
+          "Duration": "00:49:26",
+          "ShortDescriptionLine1": "7 Sharon Gal 11-11-26",
+          "ShortDescriptionLine2": "2026-11-11T18:05:06Z"
+        },
+        {
           "Title": "מהדורת חמש 11-11-26",
           "StreamerId": "6af4a2b67912ac3b15620df6",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70889121763.jpg",
@@ -2269,19 +2282,6 @@
           "Duration": "01:06:50",
           "ShortDescriptionLine1": "The Israelis 10-11-26",
           "ShortDescriptionLine2": "2026-11-10T22:34:33Z"
-        },
-        {
-          "Title": "7 שרון גל 10-11-26",
-          "StreamerId": "6af35a5a2f474bda0b81fb6e",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70855382256.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6af35a5a2f474bda0b81fb6e",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/1a437fd4-4fbb-4c01-9ec6-35034bf1da62/hls/master.m3u8"
-          ],
-          "Date": "2026-11-10T17:54:34Z",
-          "Duration": "00:49:09",
-          "ShortDescriptionLine1": "7 Sharon Gal 10-11-26",
-          "ShortDescriptionLine2": "2026-11-10T17:54:34Z"
         },
         {
           "Title": "מדד גלבוע 10-11-26",
