@@ -1788,18 +1788,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 12.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 12.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "703368b865ec1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-703368b865ec1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-12T16:55:25+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 12.11.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 12.11.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22757313/22757313_noAdds/22757313_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "83e168b865ec1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-83e168b865ec1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-12T15:00:14+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 12.11.26 [live]"
+          "Live": false,
+          "Duration": 5486,
+          "ShortDescriptionLine1": "Today's edition: 12.11.26"
         },
         {
           "Title": "המהדורה המרכזית: 11.11.26",
@@ -1842,20 +1856,6 @@
           "Live": false,
           "Duration": 2977,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 11.11.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 11.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/11/Hamesh_111126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17hamesh_vtr2_n20261111_v1/17hamesh_vtr2_n20261111_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "d052541a839c1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-d052541a839c1a1026.htm",
-          "ShortDescriptionLine2": "After the showdown: Netanyahu calls for unity again",
-          "Date": "2026-11-11T16:54:44+02:00",
-          "Live": false,
-          "Duration": 2386,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 11.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
@@ -2234,10 +2234,10 @@
         {
           "Title": "מדד גלבוע 11-11-26",
           "StreamerId": "6af5cb151436aafdad93bcc7",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_70919954084.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70919954084.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6af5cb151436aafdad93bcc7",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/a96aebe3-ae32-4a7e-89a8-0c86844413f1/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/a96aebe3-ae32-4a7e-89a8-0c86844413f1/hls/master.m3u8"
           ],
           "Date": "2026-11-12T14:20:05Z",
           "Duration": "01:03:00",
