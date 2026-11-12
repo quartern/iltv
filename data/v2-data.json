@@ -651,6 +651,19 @@
       "Name": "13 News - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 12.11.26 - המהדורה המלאה",
+          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
+          "StreamerId": "1_554l062g",
+          "Date": "2026-11-12 22:29:43",
+          "EpisodeUrl": "https://13tv.co.il/item/vod/news/the-main-edition/episodes/vf60j-905458653/",
+          "Duration": 3960,
+          "ShortDescriptionLine1": "The Main Edition",
+          "ShortDescriptionLine2": "2026-11-12 22:29:43",
+          "StreamUrls": [
+            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_554l062g/flavorIds/1_ms2uvg7g,1_7qg143gy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
+          ]
+        },
+        {
           "Title": "אזור בחירה 12.11.26 - התכנית המלאה",
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp",
           "StreamerId": "1_8181o8pc",
@@ -713,19 +726,6 @@
           "ShortDescriptionLine2": "2026-11-11 23:59:57",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_lv88o2uc/flavorIds/1_xdtyuawc,1_e7gwqvna,1_f2y3cpzx,1_ybhbxbon,1_fsp0nme6,1_qk5q98hl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
-          ]
-        },
-        {
-          "Title": "המהדורה המרכזית 11.11.26 - המהדורה המלאה",
-          "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg",
-          "StreamerId": "1_bvclx1wt",
-          "Date": "2026-11-11 22:02:30",
-          "EpisodeUrl": "https://13tv.co.il/allshows/series/278/season/1/4638562/",
-          "Duration": 3984,
-          "ShortDescriptionLine1": "",
-          "ShortDescriptionLine2": "2026-11-11 22:02:30",
-          "StreamUrls": [
-            "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bvclx1wt/flavorIds/1_upa9y3zd,1_h2j3v7nv,1_xihyo1qu,1_d3pk4jar,1_bde31rue,1_4pljg67g/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
           ]
         },
         {
@@ -2025,18 +2025,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "הבריחה: הטוויסט של העונה [live]",
+          "Title": "הבריחה: הטוויסט של העונה",
           "Poster": "https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Habriha/A191794/A191794_noAdds/A191794_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "23760f1aa3011a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/the_escape-s1/VOD-23760f1aa3011a1027.htm",
           "ShortDescriptionLine2": "No one thought this would happen - the twist of the season",
           "Date": "2026-11-12T21:41:25+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The escape: the twist of the season [live]"
+          "Live": false,
+          "Duration": 2667,
+          "ShortDescriptionLine1": "The escape: the twist of the season"
         },
         {
           "Title": "נסלי ויואב: לקראת מלחמה?",

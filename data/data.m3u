@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-12 15:25
+# Last updated: 2026-11-12 15:40
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -154,6 +154,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODE
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:3960 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 12.11.26 - המהדורה המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_554l062g/flavorIds/1_ms2uvg7g,1_7qg143gy/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:2115 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 12.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_8181o8pc/flavorIds/1_pvseqti8,1_zf0bsw7r,1_s52rg4c8,1_zbsrs6ol,1_7xdk3h7s,1_yqcmhudk/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -168,9 +171,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_yi19rd
 
 #EXTINF:1051 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 11.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_lv88o2uc/flavorIds/1_xdtyuawc,1_e7gwqvna,1_f2y3cpzx,1_ybhbxbon,1_fsp0nme6,1_qk5q98hl/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:3984 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 11.11.26 - המהדורה המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_bvclx1wt/flavorIds/1_upa9y3zd,1_h2j3v7nv,1_xihyo1qu,1_d3pk4jar,1_bde31rue,1_4pljg67g/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:3941 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 07.11.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_elimac40/flavorIds/1_4bkeslmk,1_hiostb2y,1_iffkqfct,1_vgsigwp5,1_7kppsubv,1_eyktm8qe/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -469,8 +469,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2586 tvg-logo="https://img.mako.co.il/2026/11/07/Shabat_Behamesh_071126_VOD_re_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 07.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261107_v1/17shabat_vtr2_n20261107_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבריחה: הטוויסט של העונה [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2667 tvg-logo="https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg" group-title="+12 Specials",הבריחה: הטוויסט של העונה
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Habriha/A191794/A191794_noAdds/A191794_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3510 tvg-logo="https://img.mako.co.il/2026/11/12/Nesli_Yoav_121126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: לקראת מלחמה?
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/November/Nesli_Yoav_121126_VOD_cm29/Nesli_Yoav_121126_VOD_cm29_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
