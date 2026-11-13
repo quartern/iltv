@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-13 09:57
+# Last updated: 2026-11-13 11:11
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -472,6 +472,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:2586 tvg-logo="https://img.mako.co.il/2026/11/07/Shabat_Behamesh_071126_VOD_re_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבת בחמש: 07.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261107_v1/17shabat_vtr2_n20261107_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/01/29/OfiraOhanaSri_1_x5_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: אחמד טיבי בריאיון [live]
+https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+
 #EXTINF:2932 tvg-logo="https://img.mako.co.il/2026/11/12/Doh_Matzav_121126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",דוח מצב עם עינב וירון: המשבר הפוליטי
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/November/Doh_Matzav_131126_VOD_ytu382/Doh_Matzav_131126_VOD_ytu382_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -498,9 +501,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3243 tvg-logo="https://img.mako.co.il/2026/11/04/Bizman_Sheavadetem_041126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: המשבר של הארלי דיווידסון
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/November/Bizman_Sheavadetem_041126_VOD_ikd934/Bizman_Sheavadetem_041126_VOD_ikd934_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:5843 tvg-logo="https://img.mako.co.il/2026/10/30/Ofira_Ohana_Sery_301026_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אופירה אוחנה סרי: יאיר גולן בריאיון 
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Ofira_Ohana_Sery/2026/October/Ofira_Ohana_Sery_301026_VOD_kiu154/Ofira_Ohana_Sery_301026_VOD_kiu154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2811 tvg-logo="https://img.mako.co.il/2026/10/29/Bizman_Sheavadetem_281026_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: כל הביצים בבועה אחת
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/October/Bizman_Sheavadetem_281026_VOD_ikd934/Bizman_Sheavadetem_281026_VOD_ikd934_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
