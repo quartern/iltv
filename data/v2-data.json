@@ -668,9 +668,9 @@
           "Poster": "https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp",
           "StreamerId": "1_enj36r9o",
           "Date": "2026-11-15 19:36:33",
-          "EpisodeUrl": "https://13tv.co.il/item/vod/news/moriah-berko/episodes/shfrn-905462742/",
+          "EpisodeUrl": "https://13tv.co.il/allshows/series/675/season/1/4642163/",
           "Duration": 3224,
-          "ShortDescriptionLine1": "Moriah Berko",
+          "ShortDescriptionLine1": "",
           "ShortDescriptionLine2": "2026-11-15 19:36:33",
           "StreamUrls": [
             "https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_enj36r9o/flavorIds/1_o5bhfmfw,1_khwhlu38,1_2jeywb5c,1_rzxs0dsg,1_82q15n6p,1_y6wrzyh5/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8"
@@ -1879,18 +1879,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 15.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 15.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "141d64977fdd1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-141d64977fdd1a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-15T19:51:36+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 15.11.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 15.11.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757422/22757422_noAdds/22757422_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "a57a64977fdd1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-a57a64977fdd1a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-15T18:58:56+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 15.11.26 [live]"
+          "Live": false,
+          "Duration": 2089,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 15.11.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 15.11.26",
@@ -1989,20 +2003,6 @@
           "Live": false,
           "Duration": 6299,
           "ShortDescriptionLine1": "Studio Friday: 13.11.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 12.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/12/Madura_Merkazit_121126_vOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20yonit_vtr_n20261112_v1/20yonit_vtr_n20261112_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "e84c157bf6ec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-e84c157bf6ec1a1026.htm",
-          "ShortDescriptionLine2": "First publication: The demands of Torah Judaism from the change bloc",
-          "Date": "2026-11-12T19:52:01+02:00",
-          "Live": false,
-          "Duration": 4645,
-          "ShortDescriptionLine1": "The main edition: 12.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
