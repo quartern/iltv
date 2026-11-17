@@ -464,6 +464,32 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "העולם היום | 17.11.26",
+          "ShortDescriptionLine1": "The world today 17.11.26",
+          "ShortDescriptionLine2": "2026-11-17 16:59:45",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1120396/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266433/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1120396",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1120396",
+          "Date": "2026-11-17 16:59:45",
+          "Duration": "3000"
+        },
+        {
+          "Title": "מהצד השני עם גיא זוהר | 17.11.2026",
+          "ShortDescriptionLine1": "On the other side with Guy Zohar 17.11.2026",
+          "ShortDescriptionLine2": "2026-11-17 16:58:23",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1115478/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261546/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1115478",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1115478",
+          "Date": "2026-11-17 16:58:23",
+          "Duration": "860"
+        },
+        {
           "Title": "גליק ותמר | 17.11.26",
           "ShortDescriptionLine1": "Glick and Tamar 17.11.26",
           "ShortDescriptionLine2": "2026-11-17 16:02:05",
@@ -503,19 +529,6 @@
           "Duration": "5640"
         },
         {
-          "Title": "מהצד השני עם גיא זוהר | 16.11.2026",
-          "ShortDescriptionLine1": "On the other side with Guy Zohar 16.11.2026",
-          "ShortDescriptionLine2": "2026-11-16 17:48:06",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1115115/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2261418/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1115115",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1115115",
-          "Date": "2026-11-16 17:48:06",
-          "Duration": "900"
-        },
-        {
           "Title": "כאן בשש | 16.11.2026",
           "ShortDescriptionLine1": "Here at six 16.11.2026",
           "ShortDescriptionLine2": "2026-11-16 17:43:25",
@@ -540,19 +553,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-1080424/1119889",
           "Date": "2026-11-16 17:38:07",
           "Duration": "886"
-        },
-        {
-          "Title": "העולם היום | 16.11.26",
-          "ShortDescriptionLine1": "The world today 16.11.26",
-          "ShortDescriptionLine2": "2026-11-16 16:21:49",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1119869/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265972/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1119869",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1119869",
-          "Date": "2026-11-16 16:21:49",
-          "Duration": "3260"
         },
         {
           "Title": "חדשות שבת | 14.11.2026",
@@ -1879,6 +1879,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "שבע עם קרן מרציאנו: 17.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "bd253227718e1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-bd253227718e1a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-17T18:58:42+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 17.11.26 [live]"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 17.11.26 [live]",
           "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1947,20 +1961,6 @@
           "Live": false,
           "Duration": 6299,
           "ShortDescriptionLine1": "Studio Friday: 13.11.26"
-        },
-        {
-          "Title": "שבע עם קרן מרציאנו: 16.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/16/Sheva_161126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/19sheba_vtr2_n20261116_v1/19sheba_vtr2_n20261116_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "1f1de6e5a33e1a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-1f1de6e5a33e1a1027.htm",
-          "ShortDescriptionLine2": "The case of the investigation and the bureau",
-          "Date": "",
-          "Live": false,
-          "Duration": 2090,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 16.11.26"
         },
         {
           "Title": "פגוש את העיתונות: 07.11.26",
