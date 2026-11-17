@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר | 17.11.26",
+          "ShortDescriptionLine1": "Glick and Tamar 17.11.26",
+          "ShortDescriptionLine2": "2026-11-17 16:02:05",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1120375/poster",
+          "StreamUrls": [
+            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2266427/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1120375",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1120375",
+          "Date": "2026-11-17 16:02:05",
+          "Duration": "7183"
+        },
+        {
           "Title": "חדשות הלילה | 16.11.2026",
           "ShortDescriptionLine1": "Tonight's news 16.11.2026",
           "ShortDescriptionLine2": "2026-11-16 21:34:33",
@@ -540,19 +553,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1119869",
           "Date": "2026-11-16 16:21:49",
           "Duration": "3260"
-        },
-        {
-          "Title": "גליק ותמר | 16.11.26",
-          "ShortDescriptionLine1": "Glick and Tamar 16.11.26",
-          "ShortDescriptionLine2": "2026-11-16 15:44:31",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1119857/poster",
-          "StreamUrls": [
-            "https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2265969/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1119857",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1119857",
-          "Date": "2026-11-16 15:44:31",
-          "Duration": "8240"
         },
         {
           "Title": "חדשות שבת | 14.11.2026",
@@ -1879,18 +1879,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "חמש עם רפי רשף: 17.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "Title": "שש עם עודד בן עמי: 17.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "5ed33227718e1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-5ed33227718e1a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-17T17:55:13+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Six with Oded Ben Ami: 11/17/26 [live]"
+        },
+        {
+          "Title": "חמש עם רפי רשף: 17.11.26",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hamesh_rafi_2026/22757484/22757484_noAdds/22757484_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "b2b23227718e1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-b2b23227718e1a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-17T16:55:23+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 17.11.26 [live]"
+          "Live": false,
+          "Duration": 2505,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 17.11.26"
         },
         {
           "Title": "מהדורת היום: 17.11.26",
@@ -1901,66 +1915,10 @@
           "StreamerId": "39113227718e1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-39113227718e1a1027.htm",
           "ShortDescriptionLine2": "Today's events",
-          "Date": "2026-11-17T14:59:57+02:00",
+          "Date": "2026-11-17T15:32:34+02:00",
           "Live": false,
           "Duration": 1612,
           "ShortDescriptionLine1": "Today's edition: 17.11.26"
-        },
-        {
-          "Title": "חדשות סוף השבוע: 14.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/14/Hadshot_Sof_Hashavua_141126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadura_full_vtr2_n20261114_v1/20mahadura_full_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "55a4c8795aec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/a66c9a3535271a10/VOD-55a4c8795aec1a1026.htm",
-          "ShortDescriptionLine2": "The upheaval in the institution under Goffman",
-          "Date": "2026-11-14T19:52:35+02:00",
-          "Live": false,
-          "Duration": 4055,
-          "ShortDescriptionLine1": "Weekend news: 14.11.26"
-        },
-        {
-          "Title": "פגוש את העיתונות: 14.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/14/Pgosh_141126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/pgosh_vtr2_n20261114_v1/pgosh_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "4503c8795aec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/2cab9a3535271a10/VOD-4503c8795aec1a1026.htm",
-          "ShortDescriptionLine2": "MK Talia Lankari: \"The need for fighters has not changed\"",
-          "Date": "2026-11-14T17:59:24+02:00",
-          "Live": false,
-          "Duration": 5343,
-          "ShortDescriptionLine1": "Meet the press: 14.11.26"
-        },
-        {
-          "Title": "שבת בחמש: 14.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/14/Shabat_Behamesh_141126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261115_v1/17shabat_vtr2_n20261115_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "e7b1c8795aec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2026/fe2a9a3535271a10/VOD-e7b1c8795aec1a1026.htm",
-          "ShortDescriptionLine2": "R. The Mossad in Washington on the background of the tensions with Iran",
-          "Date": "2026-11-14T16:58:30+02:00",
-          "Live": false,
-          "Duration": 2810,
-          "ShortDescriptionLine1": "Saturday at five: 14.11.26"
-        },
-        {
-          "Title": "אולפן שישי: 13.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/13/Ulpan_Shishi_131126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/u20dani_vtr2_n20261113_v1/u20dani_vtr2_n20261113_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "978bc8795aec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-978bc8795aec1a1026.htm",
-          "ShortDescriptionLine2": "Nasreen Kadri on the affair that shook her life",
-          "Date": "2026-11-13T19:54:19+02:00",
-          "Live": false,
-          "Duration": 6299,
-          "ShortDescriptionLine1": "Studio Friday: 13.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
@@ -1977,18 +1935,18 @@
           "ShortDescriptionLine1": "The young edition: 18.07.26"
         },
         {
-          "Title": "שש עם עודד בן עמי: 16.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/16/Shesh_161126_VOD_autoOrient_I_reduced.jpg",
+          "Title": "אולפן שישי: 13.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/13/Ulpan_Shishi_131126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/18shesh_vtr2_n20261116_v1/18shesh_vtr2_n20261116_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/u20dani_vtr2_n20261113_v1/u20dani_vtr2_n20261113_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
-          "StreamerId": "dbe9e6e5a33e1a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/oded_ben_ami-2026/fd907f20b4271a10/VOD-dbe9e6e5a33e1a1027.htm",
-          "ShortDescriptionLine2": "The fake campaign started two weeks before the elections",
+          "StreamerId": "978bc8795aec1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-978bc8795aec1a1026.htm",
+          "ShortDescriptionLine2": "Nasreen Kadri on the affair that shook her life",
           "Date": "",
           "Live": false,
-          "Duration": 3107,
-          "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 11/16/26"
+          "Duration": 6299,
+          "ShortDescriptionLine1": "Studio Friday: 13.11.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 16.11.26",
@@ -2019,6 +1977,20 @@
           "ShortDescriptionLine1": "Meet the press: 07.11.26"
         },
         {
+          "Title": "פגוש את העיתונות: 14.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/14/Pgosh_141126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/pgosh_vtr2_n20261114_v1/pgosh_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "4503c8795aec1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/meet_the_press-2026/2cab9a3535271a10/VOD-4503c8795aec1a1026.htm",
+          "ShortDescriptionLine2": "MK Talia Lankari: \"The need for fighters has not changed\"",
+          "Date": "",
+          "Live": false,
+          "Duration": 5343,
+          "ShortDescriptionLine1": "Meet the press: 14.11.26"
+        },
+        {
           "Title": "המהדורה המרכזית: 16.11.26",
           "Poster": "https://img.mako.co.il/2026/11/16/Mahadura_Merkazit_161126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2031,6 +2003,34 @@
           "Live": false,
           "Duration": 4357,
           "ShortDescriptionLine1": "The main edition: 16.11.26"
+        },
+        {
+          "Title": "חדשות סוף השבוע: 14.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/14/Hadshot_Sof_Hashavua_141126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadura_full_vtr2_n20261114_v1/20mahadura_full_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "55a4c8795aec1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/weekend-news-2026/a66c9a3535271a10/VOD-55a4c8795aec1a1026.htm",
+          "ShortDescriptionLine2": "The upheaval in the institution under Goffman",
+          "Date": "",
+          "Live": false,
+          "Duration": 4055,
+          "ShortDescriptionLine1": "Weekend news: 14.11.26"
+        },
+        {
+          "Title": "שבת בחמש: 14.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/14/Shabat_Behamesh_141126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17shabat_vtr2_n20261115_v1/17shabat_vtr2_n20261115_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "e7b1c8795aec1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/saturday_at_5-2026/fe2a9a3535271a10/VOD-e7b1c8795aec1a1026.htm",
+          "ShortDescriptionLine2": "R. The Mossad in Washington on the background of the tensions with Iran",
+          "Date": "",
+          "Live": false,
+          "Duration": 2810,
+          "ShortDescriptionLine1": "Saturday at five: 14.11.26"
         }
       ]
     },
