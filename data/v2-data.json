@@ -1879,6 +1879,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 18.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "e692ffd583de1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-e692ffd583de1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-18T14:59:54+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Today's edition: 18.11.26 [live]"
+        },
+        {
           "Title": "המהדורה הצעירה: 18.07.26",
           "Poster": "https://img.mako.co.il/2026/07/18/Hamahdura_Zeira_180727_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1961,20 +1975,6 @@
           "Live": false,
           "Duration": 5343,
           "ShortDescriptionLine1": "Meet the press: 14.11.26"
-        },
-        {
-          "Title": "מהדורת היום: 17.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/17/Mahadurat_Hayom_171126_VOD1_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/15hayom_vtr2_n20261117_v1/15hayom_vtr2_n20261117_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "39113227718e1a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-39113227718e1a1027.htm",
-          "ShortDescriptionLine2": "The battle for the appointment of the Speaker of the Knesset reaches the plenary",
-          "Date": "",
-          "Live": false,
-          "Duration": 5564,
-          "ShortDescriptionLine1": "Today's edition: 17.11.26"
         },
         {
           "Title": "המהדורה המרכזית: 17.11.26",
@@ -2323,12 +2323,25 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "המהדורה המרכזית 17-11-26",
+          "StreamerId": "6afd826482ec1a645dcfbfc5",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71123038485.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6afd826482ec1a645dcfbfc5",
+          "StreamUrls": [
+            "https://i24israel-aws.vod.immergo.tv/transcoded/a5252726-6d3f-4276-b8db-24f6bdaf2f54/hls/master.m3u8"
+          ],
+          "Date": "2026-11-18T10:48:04Z",
+          "Duration": "01:33:13",
+          "ShortDescriptionLine1": "The main edition 11-26-17",
+          "ShortDescriptionLine2": "2026-11-18T10:48:04Z"
+        },
+        {
           "Title": "7 שרון גל 17-11-26",
           "StreamerId": "6afd81b173dfa6e45556ea01",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71122998626.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71122998626.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6afd81b173dfa6e45556ea01",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/3616f8ea-5749-40c2-98e3-abd979460409/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/3616f8ea-5749-40c2-98e3-abd979460409/hls/master.m3u8"
           ],
           "Date": "2026-11-18T10:45:05Z",
           "Duration": "00:48:38",
@@ -2412,19 +2425,6 @@
           "Duration": "00:48:23",
           "ShortDescriptionLine1": "The Arabists 14-11-26",
           "ShortDescriptionLine2": "2026-11-17T11:03:33Z"
-        },
-        {
-          "Title": "המהדורה המרכזית 16.11.26",
-          "StreamerId": "6afc12a89b87d2d9f3bbccf8",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71084943902.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6afc12a89b87d2d9f3bbccf8",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/0653f82f-e4a7-4c12-a9f2-22f2777f912e/hls/master.m3u8"
-          ],
-          "Date": "2026-11-17T08:39:04Z",
-          "Duration": "01:28:08",
-          "ShortDescriptionLine1": "The main edition 16.11.26",
-          "ShortDescriptionLine2": "2026-11-17T08:39:04Z"
         },
         {
           "Title": "מגזין השבת 14-11-26",
