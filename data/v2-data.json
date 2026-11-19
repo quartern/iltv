@@ -1879,31 +1879,31 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "המהדורה המרכזית: 19.11.26 [live]",
+          "Title": "המהדורה המרכזית: 19.11.26",
           "Poster": "https://img.mako.co.il/2026/11/19/Mahadura_Merkazit_191126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22757544/22757544_noAdds/22757544_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "6d1c57c9772f1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-6d1c57c9772f1a1026.htm",
           "ShortDescriptionLine2": "President Trump in an exclusive interview with News 12",
           "Date": "2026-11-19T19:51:32+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "The main edition: 19.11.26 [live]"
+          "Live": false,
+          "Duration": 4888,
+          "ShortDescriptionLine1": "The main edition: 19.11.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 19.11.26",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/11/19/Sheva_191126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757543/22757543_noAdds/22757543_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/19sheva_vtr2_n20261119_v1/19sheva_vtr2_n20261119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "212a57c9772f1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-212a57c9772f1a1026.htm",
-          "ShortDescriptionLine2": "Today's events",
+          "ShortDescriptionLine2": "Vigilance in Iran for an attack",
           "Date": "2026-11-19T18:58:24+02:00",
           "Live": false,
-          "Duration": 2457,
+          "Duration": 2374,
           "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.11.26"
         },
         {
@@ -2038,6 +2038,20 @@
       "Name": "+12 Specials",
       "Items": [
         {
+          "Title": "הבריחה: יואל חוזר למחנה [live]",
+          "Poster": "https://img.mako.co.il/2026/10/04/TheEscape_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "3b28316014011a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/the_escape-s1/VOD-3b28316014011a1027.htm",
+          "ShortDescriptionLine2": "Did Joel make the mistake of his life?",
+          "Date": "2026-11-19T21:45:51+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The escape: Yoel returns to the camp [live]"
+        },
+        {
           "Title": "נסלי ויואב: המרוץ להרכבת הממשלה",
           "Poster": "https://img.mako.co.il/2026/11/19/Nesli_Yoav_191126_VOD1_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2120,20 +2134,6 @@
           "Live": false,
           "Duration": 2932,
           "ShortDescriptionLine1": "Situation report with Einav and Yaron: the political crisis"
-        },
-        {
-          "Title": "הבריחה: הטוויסט של העונה",
-          "Poster": "https://img.mako.co.il/2026/11/12/Habriha_05_121126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Habriha/S01/Habricha_06_131126_VOD_diu492/Habricha_06_131126_VOD_diu492_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "23760f1aa3011a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "/mako-vod-keshet/the_escape-s1/VOD-23760f1aa3011a1027.htm",
-          "ShortDescriptionLine2": "No one thought this would happen - the twist of the season",
-          "Date": "2026-11-12T21:41:25+02:00",
-          "Live": false,
-          "Duration": 2698,
-          "ShortDescriptionLine1": "The escape: the twist of the season"
         },
         {
           "Title": "בזמן שעבדתם: אושן 11 גרסת צפון קוריאה",
