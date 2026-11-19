@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "כאן בשש | 19.11.26",
+          "ShortDescriptionLine1": "Here at six 19.11.26",
+          "ShortDescriptionLine2": "2026-11-19 17:58:22",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121305/poster",
+          "StreamUrls": [
+            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267104/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1121305",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1121305",
+          "Date": "2026-11-19 17:58:22",
+          "Duration": "3000"
+        },
+        {
           "Title": "מהצד השני עם גיא זהר | 19.11.2026",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 19.11.2026",
           "ShortDescriptionLine2": "2026-11-19 17:38:37",
@@ -527,19 +540,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11544/1120875",
           "Date": "2026-11-18 21:01:58",
           "Duration": "6021"
-        },
-        {
-          "Title": "כאן בשש | 18.11.2026",
-          "ShortDescriptionLine1": "Here at six 18.11.2026",
-          "ShortDescriptionLine2": "2026-11-18 20:25:14",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1120870/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266677/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1120870",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1120870",
-          "Date": "2026-11-18 20:25:14",
-          "Duration": "3929"
         },
         {
           "Title": "גליק ותמר | 18.11.26",
@@ -1879,18 +1879,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "שבע עם קרן מרציאנו: 19.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "Title": "המהדורה המרכזית: 19.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "6d1c57c9772f1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-6d1c57c9772f1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-19T19:51:32+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The main edition: 19.11.26 [live]"
+        },
+        {
+          "Title": "שבע עם קרן מרציאנו: 19.11.26",
+          "Poster": "https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757543/22757543_noAdds/22757543_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "212a57c9772f1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-212a57c9772f1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-19T18:58:24+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.11.26 [live]"
+          "Live": false,
+          "Duration": 2457,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 19.11.26"
         },
         {
           "Title": "שש עם עודד בן עמי: 19.11.26",
@@ -1933,20 +1947,6 @@
           "Live": false,
           "Duration": 5586,
           "ShortDescriptionLine1": "Today's edition: 19.11.26"
-        },
-        {
-          "Title": "המהדורה המרכזית: 18.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/18/Mahadura_Merkazit_181126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadura_full_vtr2_n20261118_v1/20mahadura_full_vtr2_n20261118_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "5c55ffd583de1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-5c55ffd583de1a1026.htm",
-          "ShortDescriptionLine2": "Chasifa (Exposure): Bennett's plan for a unity government",
-          "Date": "2026-11-18T19:52:04+02:00",
-          "Live": false,
-          "Duration": 3847,
-          "ShortDescriptionLine1": "The main edition: 18.11.26"
         },
         {
           "Title": "המהדורה הצעירה: 18.07.26",
@@ -2325,10 +2325,10 @@
         {
           "Title": "מדד גלבוע 19-11-26",
           "StreamerId": "6aff2c5edbd30731d10d5e71",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71166890431.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71166890431.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6aff2c5edbd30731d10d5e71",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/fda1a3a1-baf0-4878-aa23-0fb848914088/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/fda1a3a1-baf0-4878-aa23-0fb848914088/hls/master.m3u8"
           ],
           "Date": "2026-11-19T17:05:34Z",
           "Duration": "01:04:56",
