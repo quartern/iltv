@@ -1879,18 +1879,32 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "אולפן שישי: 20.11.26 [live]",
+          "Title": "אולפן שישי: 20.11.26",
           "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Olpan_shishi/22757573/22757573_noAdds/22757573_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "ae65e6494c2f1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-ae65e6494c2f1a1026.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-20T19:52:53+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Studio Friday: 20.11.26 [live]"
+          "Live": false,
+          "Duration": 6547,
+          "ShortDescriptionLine1": "Studio Friday: 20.11.26"
+        },
+        {
+          "Title": "המהדורה המרכזית: 19.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/19/Mahadura_Merkazit_191126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadura1_full_vtr2_n20261119_v1/20mahadura1_full_vtr2_n20261119_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "6d1c57c9772f1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/main-newscast-2026/be837f20b4271a10/VOD-6d1c57c9772f1a1026.htm",
+          "ShortDescriptionLine2": "President Trump in an exclusive interview with News 12",
+          "Date": "2026-11-19T19:51:32+02:00",
+          "Live": false,
+          "Duration": 4903,
+          "ShortDescriptionLine1": "The main edition: 19.11.26"
         },
         {
           "Title": "שבע עם קרן מרציאנו: 19.11.26",
@@ -2309,6 +2323,19 @@
       "Name": "i24 Hebrew - Latest shows",
       "Items": [
         {
+          "Title": "סופשבוע 20-11-26",
+          "StreamerId": "6b009789bebbd588332e26b2",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71204740466.jpg",
+          "EpisodeUrl": "https://video.i24news.tv/vod/6b009789bebbd588332e26b2",
+          "StreamUrls": [
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/a842255b-ba05-49a0-9d8e-12a7b12e8d77/hls/master.m3u8"
+          ],
+          "Date": "2026-11-20T18:55:05Z",
+          "Duration": "01:53:40",
+          "ShortDescriptionLine1": "Weekend 20-11-26",
+          "ShortDescriptionLine2": "2026-11-20T18:55:05Z"
+        },
+        {
           "Title": "מהדורת חמש 20-11-26",
           "StreamerId": "6b0090d94f7e91c67d065ac6",
           "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71203971860.jpg",
@@ -2424,19 +2451,6 @@
           "Duration": "01:33:48",
           "ShortDescriptionLine1": "Shabbat magazine 11-26-14",
           "ShortDescriptionLine2": "2026-11-14T19:30:05Z"
-        },
-        {
-          "Title": "סופשבוע 14-11-26",
-          "StreamerId": "6af8a1e1efa6e06e7e136fe3",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_70995112513.jpg",
-          "EpisodeUrl": "https://video.i24news.tv/vod/6af8a1e1efa6e06e7e136fe3",
-          "StreamUrls": [
-            "https://i24israel.vod.immergo.tv/i24israel/transcoded/6ec0199b-4a1f-4ea4-ae48-8ad9bbbdc661/hls/master.m3u8"
-          ],
-          "Date": "2026-11-14T18:01:05Z",
-          "Duration": "01:52:35",
-          "ShortDescriptionLine1": "Weekend 11-26-14",
-          "ShortDescriptionLine2": "2026-11-14T18:01:05Z"
         },
         {
           "Title": "קבינט שישי חלק שני 09-10-26",
