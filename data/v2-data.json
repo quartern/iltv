@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "גליק ותמר | 20.11.26",
+          "ShortDescriptionLine1": "Glick and Tamar 20.11.26",
+          "ShortDescriptionLine2": "2026-11-20 17:55:22",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121546/poster",
+          "StreamUrls": [
+            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267415/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1121546",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1121546",
+          "Date": "2026-11-20 17:55:22",
+          "Duration": "7745"
+        },
+        {
           "Title": "חדשות הלילה | 19.11.26",
           "ShortDescriptionLine1": "Tonight's news 19.11.26",
           "ShortDescriptionLine2": "2026-11-19 21:58:31",
@@ -540,19 +553,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11288/1121257",
           "Date": "2026-11-19 15:58:36",
           "Duration": "6720"
-        },
-        {
-          "Title": "גליק ותמר | 18.11.26",
-          "ShortDescriptionLine1": "Glick and Tamar 18.11.26",
-          "ShortDescriptionLine2": "2026-11-18 18:10:08",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1120819/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2266634/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1120819",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1120819",
-          "Date": "2026-11-18 18:10:08",
-          "Duration": "7177"
         },
         {
           "Title": "העולם היום | 18.11.26",
@@ -1879,6 +1879,20 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "אולפן שישי: 20.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/HD_02_ulpan_shihi_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "ae65e6494c2f1a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-ae65e6494c2f1a1026.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-20T19:52:53+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Studio Friday: 20.11.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 19.11.26",
           "Poster": "https://img.mako.co.il/2026/11/19/Mahadura_Merkazit_191126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1963,20 +1977,6 @@
           "ShortDescriptionLine1": "The young edition: 18.07.26"
         },
         {
-          "Title": "אולפן שישי: 13.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/13/Ulpan_Shishi_131126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/u20dani_vtr2_n20261113_v1/u20dani_vtr2_n20261113_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "978bc8795aec1a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/ulpan-shishi-2026/7b167f20b4271a10/VOD-978bc8795aec1a1026.htm",
-          "ShortDescriptionLine2": "Nasreen Kadri on the affair that shook her life",
-          "Date": "",
-          "Live": false,
-          "Duration": 6299,
-          "ShortDescriptionLine1": "Studio Friday: 13.11.26"
-        },
-        {
           "Title": "פגוש את העיתונות: 07.11.26",
           "Poster": "https://img.mako.co.il/2026/11/07/Pgus_Et_Haitonut_071126_VOD_re_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2038,18 +2038,32 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "אופירה אוחנה סרי: האם טראמפ יכריע על מלחמה?  [live]",
-          "Poster": "https://img.mako.co.il/2026/01/29/OfiraOhanaSri_1_x5_re_autoOrient_I_reduced.jpg",
+          "Title": "אופירה אוחנה סרי: האם טראמפ יכריע על מלחמה? ",
+          "Poster": "https://img.mako.co.il/2026/11/20/Ofira_Ohana_Sery_201126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Ofira_Ohana_Seri/22757575/22757575_noAdds/22757575_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "ef6b70420fec1a10VgnVCM200000650a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/ofira_ohana_seri-2026/VOD-ef6b70420fec1a1026.htm",
           "ShortDescriptionLine2": "And also: after a dramatic week, what happens in the block of change?",
           "Date": "2026-11-20T17:59:07+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Ofira Ohana Seri: Will Trump decide on war? [live]"
+          "Live": false,
+          "Duration": 5698,
+          "ShortDescriptionLine1": "Ofira Ohana Seri: Will Trump decide on war?"
+        },
+        {
+          "Title": "דוח מצב עם עינב וירון: התרגיל של בנט",
+          "Poster": "https://img.mako.co.il/2026/11/19/Doh_Matzav_191126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Doh_Matzav/2026/November/Doh_Matzav_191126_VOD_WBH481/Doh_Matzav_191126_VOD_WBH481_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "d1e02763d4ab1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-keshet/status_report-2026/VOD-d1e02763d4ab1a1027.htm",
+          "ShortDescriptionLine2": "Also: Are chemical and biological weapons being developed in Tehran?",
+          "Date": "2026-11-19T22:43:47+02:00",
+          "Live": false,
+          "Duration": 2587,
+          "ShortDescriptionLine1": "Situation report with Einav and Yaron: Bennett's exercise"
         },
         {
           "Title": "הבריחה: יואל חוזר למחנה",
@@ -2094,6 +2108,20 @@
           "ShortDescriptionLine1": "The morning news with Niv Raskin: the difficulties in the negotiations to form the government"
         },
         {
+          "Title": "בזמן שעבדתם: פרשת ג'נסן הואנג",
+          "Poster": "https://img.mako.co.il/2026/11/19/Bizman_Sheavadetem_191126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/November/Bizman_Sheavadetem_181126_VOD/Bizman_Sheavadetem_181126_VOD_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "0a49280764ab1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-0a49280764ab1a1027.htm",
+          "ShortDescriptionLine2": "Huang Bang: Money, power and power struggles at Nvidia",
+          "Date": "2026-11-19T00:10:15+02:00",
+          "Live": false,
+          "Duration": 3537,
+          "ShortDescriptionLine1": "While You Worked: The Jensen Huang Affair"
+        },
+        {
           "Title": "אברי ושרקי: יואב סגלוביץ' ",
           "Poster": "https://img.mako.co.il/2026/11/17/Avri_Sherki_171126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -2134,6 +2162,20 @@
           "Live": false,
           "Duration": 3133,
           "ShortDescriptionLine1": "Eretz Nehederet: Ila and Barko at the swearing in of the Knesset"
+        },
+        {
+          "Title": "בזמן שעבדתם: המשבר של הארלי דיווידסון",
+          "Poster": "https://img.mako.co.il/2026/11/04/Bizman_Sheavadetem_041126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/November/Bizman_Sheavadetem_041126_VOD_ikd934/Bizman_Sheavadetem_041126_VOD_ikd934_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "bc3bbe86e6511a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-bc3bbe86e6511a1026.htm",
+          "ShortDescriptionLine2": "How did Harley Davidson become an iconic brand?",
+          "Date": "2026-11-05T00:11:29+02:00",
+          "Live": false,
+          "Duration": 3243,
+          "ShortDescriptionLine1": "While You Worked: The Harley-Davidson Crisis"
         },
         {
           "Title": "עובדה: אביתר דוד מדבר",
@@ -2260,6 +2302,20 @@
           "Live": false,
           "Duration": 3553,
           "ShortDescriptionLine1": "Uvda: Operation Avinathan"
+        },
+        {
+          "Title": "בזמן שעבדתם: אושן 11 גרסת צפון קוריאה",
+          "Poster": "https://img.mako.co.il/2026/11/12/Bizman_Sheavadetem_111126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/November/Bizman_Sheavadetem_111126_VOD_ANU548/Bizman_Sheavadetem_111126_VOD_ANU548_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "1c88280764ab1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "/mako-vod-podcasts/while_you_work-s1/VOD-1c88280764ab1a1027.htm",
+          "ShortDescriptionLine2": "How did hackers manage to steal billions of dollars?",
+          "Date": "",
+          "Live": false,
+          "Duration": 3655,
+          "ShortDescriptionLine1": "While you worked: Ocean's 11 North Korea version"
         }
       ]
     },
