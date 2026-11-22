@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-22 17:24
+# Last updated: 2026-11-22 17:36
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -157,6 +157,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODE
 #EXTINF:1337 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan935911/poster" group-title="11 News - Latest shows",אפילו המנכ"ל הופתע: איך הטיסות לאירופה זינקו ל-1000 דולר? | המנגנון
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/1_dd3r6vqx/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:1510 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 22.11.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_2096k5o4/flavorIds/1_melbzn0g,1_61udwa7a,1_gap4afgz,1_26eblw2s,1_3nku9085,1_xy8tu5e4/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:4234 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738416226/uploads/2025/904443488.jpg" group-title="13 News - Latest shows",המהדורה המרכזית 22.11.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_4o94v1gn/flavorIds/1_104g1lgz,1_txlncfwl,1_jv9cfuzq,1_0g67nwla,1_8np7h2as,1_lw0tw461/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -183,9 +186,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_t7e1dw
 
 #EXTINF:2666 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714901031/uploads/2024/904042950.jpg" group-title="13 News - Latest shows",המגזין 20.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_uhu3bodn/flavorIds/1_qtbyzwwq,1_vt4xm1os,1_5emk5nji,1_0u4oito0,1_ws4opffp,1_m9spo18j/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:1565 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1749117440/uploads/2025/904611810.jpg" group-title="13 News - Latest shows",היום שהיה 19.11.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_u8p5m7fl/flavorIds/1_avm26szp,1_myj57a4a,1_nw4schhk,1_2oi6vm6l,1_nozy9kr6,1_yrmezjhf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/news_co.png" group-title="Sometimes Streams",The news company stream (aka N12)
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/n12/hls/live/2041434/n12_p/index.m3u8?b-in-range=800-2400
@@ -472,8 +472,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:5343 tvg-logo="https://img.mako.co.il/2026/11/14/Pgosh_141126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 14.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/pgosh_vtr2_n20261114_v1/pgosh_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/11/23/Avri_Sherki_221126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: ד"ר גיל ברינגר [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2239 tvg-logo="https://img.mako.co.il/2026/11/23/Avri_Sherki_221126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: ד"ר גיל ברינגר
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Avri_Sherki/22757642/22757642_noAdds/22757642_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3678 tvg-logo="https://img.mako.co.il/2026/11/22/Nesli_Yoav_221126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: הקרב על הרכבת הממשלה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/November/Nesli_Yoav_221126_VOD_adw457/Nesli_Yoav_221126_VOD_adw457_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
