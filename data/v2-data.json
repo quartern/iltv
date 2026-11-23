@@ -503,19 +503,6 @@
           "Duration": "1063"
         },
         {
-          "Title": "כאן בשש | 22.11.26",
-          "ShortDescriptionLine1": "Here at six 22.11.26",
-          "ShortDescriptionLine2": "2026-11-22 17:22:30",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122120/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268013/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1122120",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821794/1122120",
-          "Date": "2026-11-22 17:22:30",
-          "Duration": "3842"
-        },
-        {
           "Title": "מהצד השני עם גיא זוהר | 22.11.26",
           "ShortDescriptionLine1": "On the other side with Guy Zohar 22.11.26",
           "ShortDescriptionLine2": "2026-11-22 16:44:26",
@@ -527,45 +514,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-12463/s4/1117012",
           "Date": "2026-11-22 16:44:26",
           "Duration": "922"
-        },
-        {
-          "Title": "העולם היום | 22.11.26",
-          "ShortDescriptionLine1": "The world today 22.11.26",
-          "ShortDescriptionLine2": "2026-11-22 16:13:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122103/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268008/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1122103",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11719/1122103",
-          "Date": "2026-11-22 16:13:09",
-          "Duration": "3121"
-        },
-        {
-          "Title": "גליק ותמר | 22.11.26",
-          "ShortDescriptionLine1": "Glick and Tamar 22.11.26",
-          "ShortDescriptionLine2": "2026-11-22 15:44:23",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122094/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268004/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1122094",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-821792/1122094",
-          "Date": "2026-11-22 15:44:23",
-          "Duration": "7209"
-        },
-        {
-          "Title": "חדשות השבת | 21.11.26",
-          "ShortDescriptionLine1": "Shabbat news 21.11.26",
-          "ShortDescriptionLine2": "2026-11-21 21:00:53",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121739/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267587/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1121739",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/1121739",
-          "Date": "2026-11-21 21:00:53",
-          "Duration": "6249"
         },
         {
           "Title": "שבע עם חן ליברמן | 21.11.26",
@@ -2037,6 +1985,20 @@
     {
       "Name": "+12 Specials",
       "Items": [
+        {
+          "Title": "חדשות הבוקר עם ניב רסקין: חדשות הבוקר עם ניב רסקין [live]",
+          "Poster": "https://img.mako.co.il/2024/07/28/MornningNewsRaskin_x5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "b17fedf323ed1a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-keshet/morning_news-2026/VOD-b17fedf323ed1a1027.htm",
+          "ShortDescriptionLine2": "This morning's main newscast with Niv Raskin",
+          "Date": "2026-11-23T07:09:05+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "The Morning News with Nev Raskin: The Morning News with Nev Raskin [live]"
+        },
         {
           "Title": "אברי ושרקי: ד\"ר גיל ברינגר",
           "Poster": "https://img.mako.co.il/2026/11/23/Avri_Sherki_221126_VOD_autoOrient_I_reduced.jpg",
