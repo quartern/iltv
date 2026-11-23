@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-23 06:50
+# Last updated: 2026-11-23 07:12
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -115,6 +115,9 @@ http://1075.livecdn.biz/radiohaifa
 #EXTINF:1680 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122193/poster" group-title="11 News - Latest shows",חדשות הלילה | 22.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:1063 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122124/poster" group-title="11 News - Latest shows",כאן חדשות+ | 22.11.26
+http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268021/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:3842 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122120/poster" group-title="11 News - Latest shows",כאן בשש | 22.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268013/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -141,9 +144,6 @@ http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267436/LI
 
 #EXTINF:12781 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1117968/poster" group-title="11 News - Latest shows",משדר מיוחד - השבעת הכנסת ה 26 - יונתן אוחיון – 10.11.26 – 12:00
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2263770/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:404 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1111949/poster" group-title="11 News - Latest shows",צעד אחרי צעד: מסע השיקום המפרך של טל קופרשטיין אחרי חזרת בנו מהשבי
-https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257912/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:5745 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1080689/poster" group-title="11 News - Latest shows",שלוש עם קרן רפאלי לנץ | 23.07.26
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -466,11 +466,11 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_
 #EXTINF:5343 tvg-logo="https://img.mako.co.il/2026/11/14/Pgosh_141126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",פגוש את העיתונות: 14.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/pgosh_vtr2_n20261114_v1/pgosh_vtr2_n20261114_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:3447 tvg-logo="https://img.mako.co.il/2026/11/23/Nesli_Yoav_231126_VOD2_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: נסלי ויואב
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22757675/22757675_noAdds/22757675_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:3444 tvg-logo="https://img.mako.co.il/2026/11/23/Nesli_Yoav_231126_VOD2_autoOrient_I_reduced.jpg" group-title="+12 Specials",נסלי ויואב: לקראת תקיפה באיראן?
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Nesli_Yoav/2026/November/Nesli_Yoav_231126_VOD_ANB486/Nesli_Yoav_231126_VOD_ANB486_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:5938 tvg-logo="https://img.mako.co.il/2026/11/23/Hadshot_Haboker_231126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: האזהרה של ליברמן
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/hadshot_haboker_2026/22757649/22757649_noAdds/22757649_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+#EXTINF:7527 tvg-logo="https://img.mako.co.il/2026/11/23/Hadshot_Haboker_231126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חדשות הבוקר עם ניב רסקין: האזהרה של ליברמן
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hadshot_Haboker/2026/November/Hadshot_Haboker_231126_VOD_SBU592/Hadshot_Haboker_231126_VOD_SBU592_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2231 tvg-logo="https://img.mako.co.il/2026/11/23/Avri_Sherki_221126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",אברי ושרקי: ד"ר גיל ברינגר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Avri_Sherki/2026/November/Avri_Sherki_221126_VOD_ABY849/Avri_Sherki_221126_VOD_ABY849_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
