@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-23 15:27
+# Last updated: 2026-11-23 15:37
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -112,6 +112,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:6765 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122586/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 23.11.2026
+http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268252/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1074 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122528/poster" group-title="11 News - Latest shows",כאן חדשות+ | 23.11.2026
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268220/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -129,9 +132,6 @@ http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268202/LI
 
 #EXTINF:1680 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122193/poster" group-title="11 News - Latest shows",חדשות הלילה | 22.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:6667 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122181/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 22.11.26
-http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268059/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6249 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121739/poster" group-title="11 News - Latest shows",חדשות השבת | 21.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267587/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -439,7 +439,7 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_moqixs
 #EXTINF:3448 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1782845313/uploads/2026/905244905.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 6: המתחקר שהפך לנחקר
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0kzr5dtb/flavorIds/1_ro672jr3,1_ckk8gkjg,1_ugn73mhd,1_5w551306,1_xs5f9su4,1_eg5vmhzf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:4014 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 23.11.26
+#EXTINF:4014 tvg-logo="https://img.mako.co.il/2026/11/23/Mahadura_Merkazit_231126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 23.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadura_merkazit/22757659/22757659_noAdds/22757659_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:2163 tvg-logo="https://img.mako.co.il/2026/11/23/Sheva_231126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 23.11.26
@@ -519,9 +519,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:3442 tvg-logo="https://img.mako.co.il/2025/12/04/Hasifa6_01_041225_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",חשיפה: שי-לי עטרי שוברת שתיקה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Hassifa/S06/Hasifa6_01_041225_VOD_jhg891/Hasifa6_01_041225_VOD_jhg891_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3133 tvg-logo="https://img.mako.co.il/2026/11/11/Eretz_Nehederet24_05_111126_VOD2_autoOrient_I_reduced.jpg" group-title="+12 Specials",ארץ נהדרת: אילה וברקו בהשבעת הכנסת
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Eretz_Nehederet/S24/EP/Eretz_Nehederet24_05_111126_VOD_njh154/Eretz_Nehederet24_05_111126_VOD_njh154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3553 tvg-logo="https://img.mako.co.il/2026/10/05/Shillo_Pic_1_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: מבצע אבינתן
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/oct/Uvda2026_18_051026_VOD_rlo341/Uvda2026_18_051026_VOD_rlo341_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
