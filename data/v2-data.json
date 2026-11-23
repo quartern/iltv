@@ -464,6 +464,19 @@
       "Name": "11 News - Latest shows",
       "Items": [
         {
+          "Title": "חדשות הלילה | 22.11.26",
+          "ShortDescriptionLine1": "Tonight's news 22.11.26",
+          "ShortDescriptionLine2": "2026-11-22 21:31:53",
+          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122193/poster",
+          "StreamUrls": [
+            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268065/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
+          ],
+          "StreamerId": "kan1122193",
+          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11602/1122193",
+          "Date": "2026-11-22 21:31:53",
+          "Duration": "1680"
+        },
+        {
           "Title": "מהדורת כאן חדשות | 22.11.26",
           "ShortDescriptionLine1": "Evening News | 22.11.26",
           "ShortDescriptionLine2": "2026-11-22 20:27:27",
@@ -553,19 +566,6 @@
           "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11736/1121739",
           "Date": "2026-11-21 21:00:53",
           "Duration": "6249"
-        },
-        {
-          "Title": "שבע עם חן ליברמן | 21.11.26",
-          "ShortDescriptionLine1": "Sheva with Chen Lieberman 21.11.26",
-          "ShortDescriptionLine2": "2026-11-21 18:16:09",
-          "Poster": "https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121710/poster",
-          "StreamUrls": [
-            "http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267557/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4"
-          ],
-          "StreamerId": "kan1121710",
-          "EpisodeUrl": "https://www.kan.org.il/content/kan/kan-actual/p-11039/1121710",
-          "Date": "2026-11-21 18:16:09",
-          "Duration": "3562"
         },
         {
           "Title": "שרון ואורי | 21.11.26",
@@ -1866,19 +1866,33 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
-          "Title": "מהדורת היום: 23.11.26 [live]",
-          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "Title": "חמש עם רפי רשף: 23.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai",
             "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "05816bab01702a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-05816bab01702a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-23T16:55:30+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 23.11.26 [live]"
+        },
+        {
+          "Title": "מהדורת היום: 23.11.26",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22757655/22757655_noAdds/22757655_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "0d506bab01702a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-0d506bab01702a1027.htm",
           "ShortDescriptionLine2": "Today's events",
           "Date": "2026-11-23T15:00:15+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Today's edition: 23.11.26 [live]"
+          "Live": false,
+          "Duration": 5224,
+          "ShortDescriptionLine1": "Today's edition: 23.11.26"
         },
         {
           "Title": "המהדורה המרכזית: 22.11.26",
@@ -1895,6 +1909,20 @@
           "ShortDescriptionLine1": "The main edition: 22.11.26"
         },
         {
+          "Title": "שבע עם קרן מרציאנו: 22.11.26",
+          "Poster": "https://img.mako.co.il/2026/11/22/Sheva_221126_VOD_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/19sheba_vtr2_n20261122_v1/19sheba_vtr2_n20261122_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
+          ],
+          "StreamerId": "e2a2bdb92e102a10VgnVCM200000650a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/economy-2026/6ed27f20b4271a10/VOD-e2a2bdb92e102a1026.htm",
+          "ShortDescriptionLine2": "Progress in contacts between Eizenkot and Torah Judaism",
+          "Date": "2026-11-22T18:58:31+02:00",
+          "Live": false,
+          "Duration": 2200,
+          "ShortDescriptionLine1": "Seven with the Marciano Foundation: 22.11.26"
+        },
+        {
           "Title": "שש עם עודד בן עמי: 22.11.26",
           "Poster": "https://img.mako.co.il/2026/11/22/Shesh_221126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1907,20 +1935,6 @@
           "Live": false,
           "Duration": 2973,
           "ShortDescriptionLine1": "Six with Oded Ben Ami: 22.11.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 22.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/22/Hamesh_221126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17rafi_vtr2_n20261122_v1/17rafi_vtr2_n20261122_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "35cfbdb92e102a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-35cfbdb92e102a1026.htm",
-          "ShortDescriptionLine2": "The ombudsman will attend the hearing of the Netanyahu trial",
-          "Date": "2026-11-22T16:56:04+02:00",
-          "Live": false,
-          "Duration": 2442,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 22.11.26"
         },
         {
           "Title": "חדשות סוף השבוע: 21.11.26",
