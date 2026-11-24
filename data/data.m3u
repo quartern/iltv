@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-23 19:20
+# Last updated: 2026-11-23 19:32
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -499,6 +499,15 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3137 tvg-logo="https://img.mako.co.il/2026/07/30/Uvda2026_17_300726_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: אביתר דוד מדבר
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/July/Uvda2026_17_300726_VOD_vsf154/Uvda2026_17_300726_VOD_vsf154_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
+#EXTINF:4456 tvg-logo="https://img.mako.co.il/2026/06/07/Rokdim_Im_Kohavim5_03_060626_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: הריקוד הראשון: חלק 3
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_03_060626_bmz094/Rokdim_Im_Kochavim5_03_060626_bmz094_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4665 tvg-logo="https://img.mako.co.il/2026/06/03/Rokdim_Im_Kochvim_030626_Nate_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: הריקוד הראשון: חלק 2
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_02_030626_VOD_nsl896/Rokdim_Im_Kochavim5_02_030626_VOD_nsl896_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4786 tvg-logo="https://img.mako.co.il/2026/05/30/Rokdim_Im_Kohavim_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: הריקוד הראשון: חלק 1
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_01_300526_VOD_HDS384/Rokdim_Im_Kochavim5_01_300526_VOD_HDS384_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
 #EXTINF:4052 tvg-logo="https://img.mako.co.il/2026/05/28/Uvda_280526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: הסוד של גנץ/הקלטות היועץ
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/May/Uvda2026_16_280526_VOD_ddi8/Uvda2026_16_280526_VOD_ddi8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
@@ -523,8 +532,8 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 #EXTINF:3655 tvg-logo="https://img.mako.co.il/2026/11/12/Bizman_Sheavadetem_111126_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",בזמן שעבדתם: אושן 11 גרסת צפון קוריאה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Bizman_Sheavadetem/2026/November/Bizman_Sheavadetem_111126_VOD_ANU548/Bizman_Sheavadetem_111126_VOD_ANU548_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
-#EXTINF:01:06:12 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71313898255.jpg" group-title="i24 Hebrew - Latest shows",הישראלים 23-11-26
-https://i24israel-aws.vod.immergo.tv/transcoded/0c894f78-fb53-4a49-b762-5708bb755597/hls/master.m3u8
+#EXTINF:01:06:12 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71313898255.jpg" group-title="i24 Hebrew - Latest shows",הישראלים 23-11-26
+https://i24israel.vod.immergo.tv/i24israel/transcoded/0c894f78-fb53-4a49-b762-5708bb755597/hls/master.m3u8
 
 #EXTINF:01:30:26 tvg-logo="https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71313866221.jpg" group-title="i24 Hebrew - Latest shows",המהדורה המרכזית 23-11-26
 https://i24israel.vod.immergo.tv/i24israel/transcoded/fbe17dc4-c655-46d1-abb7-67ce406c401d/hls/master.m3u8
