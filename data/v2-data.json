@@ -1827,6 +1827,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "מהדורת היום: 24.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "e004662df5c02a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-e004662df5c02a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-24T15:00:07+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Today's edition: 24.11.26 [live]"
+        },
+        {
           "Title": "המהדורה המרכזית: 23.11.26",
           "Poster": "https://img.mako.co.il/2026/11/23/Mahadura_Merkazit_231126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1881,20 +1896,6 @@
           "Live": false,
           "Duration": 2342,
           "ShortDescriptionLine1": "Five with Rafi Reshef: 23.11.26"
-        },
-        {
-          "Title": "מהדורת היום: 23.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/23/Mahadurat_Hayom_231126_VOD_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/15hayom_vtr2_n20261123_v1/15hayom_vtr2_n20261123_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "0d506bab01702a10VgnVCM100000700a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/early_edition-2026/b5ce7f20b4271a10/VOD-0d506bab01702a1027.htm",
-          "ShortDescriptionLine2": "Eisenkot: \"I don't see an immediate threat from Iran\"",
-          "Date": "2026-11-23T15:00:15+02:00",
-          "Live": false,
-          "Duration": 5159,
-          "ShortDescriptionLine1": "Today's edition: 23.11.26"
         },
         {
           "Title": "חדשות סוף השבוע: 21.11.26",
@@ -1987,7 +1988,7 @@
       "Items": [
         {
           "Title": "נסלי ויואב: גדולים במדים - משדר מיוחד",
-          "Poster": "https://img.mako.co.il/2024/08/19/Nseli_and_Yoav_2024_X5_autoOrient_I_reduced.jpg",
+          "Poster": "https://img.mako.co.il/2026/11/24/Nesli_Yoav_241126_VOD_autoOrient_I_reduced.jpg",
           "StreamUrls": [
             "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/nesli_yoav_2026/22757705/22757705_noAdds/22757705_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
