@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-25 12:52
+# Last updated: 2026-11-25 13:03
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -112,6 +112,9 @@ https://1062onair.runi.ac.il/idc123.mp3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/haifa_107.png" group-title="Regional Radio",Radio Haifa - 107.5fm
 http://1075.livecdn.biz/radiohaifa
 
+#EXTINF:3877 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1123345/poster" group-title="11 News - Latest shows",כאן בשש | 25.11.26
+http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268965/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
+
 #EXTINF:1352 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1123346/poster" group-title="11 News - Latest shows",כאן חדשות + | 25.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268970/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
@@ -129,9 +132,6 @@ http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268704/LI
 
 #EXTINF:5640 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122989/poster" group-title="11 News - Latest shows",מהדורת כאן חדשות | 24.11.2026
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268697/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
-
-#EXTINF:3805 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1122935/poster" group-title="11 News - Latest shows",כאן בשש | 24.11.2026
-http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2268660/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
 #EXTINF:6249 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1121739/poster" group-title="11 News - Latest shows",חדשות השבת | 21.11.26
 http://kancdn.cdns.avcom-bezeq.tv/webcache/gorigin/hls/oil/kancdn/vod/2267587/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
@@ -439,8 +439,11 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_moqixs
 #EXTINF:3448 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1782845313/uploads/2026/905244905.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 6: המתחקר שהפך לנחקר
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0kzr5dtb/flavorIds/1_ro672jr3,1_ckk8gkjg,1_ugn73mhd,1_5w551306,1_xs5f9su4,1_eg5vmhzf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 25.11.26 [live]
+#EXTINF:0 tvg-logo="https://img.mako.co.il/2021/11/07/merkazit_HD_ulpan_hands_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 25.11.26 [live]
 https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai
+
+#EXTINF:2261 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 25.11.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757719/22757719_noAdds/22757719_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3079 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 25.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22757718/22757718_noAdds/22757718_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
@@ -450,9 +453,6 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recordi
 
 #EXTINF:5406 tvg-logo="https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",מהדורת היום: 25.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/mahadurat_hayom_2026/22757716/22757716_noAdds/22757716_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
-
-#EXTINF:3767 tvg-logo="https://img.mako.co.il/2026/11/24/Madura_Merkazit_241126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",המהדורה המרכזית: 24.11.26
-https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20mahadurafull_vtr2_n20261124_v1/20mahadurafull_vtr2_n20261124_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4156 tvg-logo="https://img.mako.co.il/2026/11/21/Hadshot_Sof_Hashavua_211126_VOD_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",חדשות סוף השבוע: 21.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/20sofah_vtr2_n20261121_v1/20sofah_vtr2_n20261121_v1_,850,.mp4.csmil/master.m3u8?rv=akamai
@@ -507,6 +507,9 @@ https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/
 
 #EXTINF:4786 tvg-logo="https://img.mako.co.il/2026/05/30/Rokdim_Im_Kohavim_VOD_re_autoOrient_I_reduced.jpg" group-title="+12 Specials",רוקדים עם כוכבים: הריקוד הראשון: חלק 1
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Rokdim_Im_Kochavim/S05/EP/Rokdim_Im_Kochavim5_01_300526_VOD_HDS384/Rokdim_Im_Kochavim5_01_300526_VOD_HDS384_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
+
+#EXTINF:4052 tvg-logo="https://img.mako.co.il/2026/05/28/Uvda_280526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: הסוד של גנץ/הקלטות היועץ
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/May/Uvda2026_16_280526_VOD_ddi8/Uvda2026_16_280526_VOD_ddi8_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:4462 tvg-logo="https://img.mako.co.il/2026/05/20/Uvda2026_15_200526_VOD_autoOrient_I_reduced.jpg" group-title="+12 Specials",עובדה: איזנקוט, בלי צנזורה
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/KESHET/Uvda/2026/May/Uvda2026_15_200526_VOD_uyet425/Uvda2026_15_200526_VOD_uyet425_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
