@@ -2025,19 +2025,18 @@
       "Name": "+12 Specials",
       "Items": [
         {
-          "Title": "דוח מצב עם עינב וירון: דוח מצב [live]",
+          "Title": "דוח מצב עם עינב וירון: דוח מצב",
           "Poster": "https://img.mako.co.il/2025/08/27/DohMazav2025_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai",
-            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/doh_matzav_2026/22757749/22757749_noAdds/22757749_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai"
           ],
           "StreamerId": "f4812763d4ab1a10VgnVCM100000700a10acRCRD",
           "EpisodeUrl": "//mako-vod-keshet/status_report-2026/VOD-f4812763d4ab1a1027.htm",
           "ShortDescriptionLine2": "Einav Galili and Yaron Avraham summarize the week",
           "Date": "2026-11-26T22:46:14+02:00",
-          "Live": true,
-          "Duration": 0,
-          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report [live]"
+          "Live": false,
+          "Duration": 3093,
+          "ShortDescriptionLine1": "Status report with Einav and Yaron: Status report"
         },
         {
           "Title": "הבריחה: הסוף שלא דמיינתם",
@@ -2313,10 +2312,10 @@
         {
           "Title": "הערביסטים 26-11-26",
           "StreamerId": "6b08956393f2e5e4b0fea2c1",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71417151835.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71417151835.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6b08956393f2e5e4b0fea2c1",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/81d4f6d9-3505-402b-9997-63dfe93a497d/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/81d4f6d9-3505-402b-9997-63dfe93a497d/hls/master.m3u8"
           ],
           "Date": "2026-11-26T20:24:03Z",
           "Duration": "00:56:40",
