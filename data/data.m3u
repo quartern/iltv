@@ -1,5 +1,5 @@
 #EXTM3U
-# Last updated: 2026-11-26 12:19
+# Last updated: 2026-11-26 12:56
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/images/posters/ipbc_tv_11.png" group-title="Main TV",Israeli Public Broadcasting Corporation - Kan 11
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
@@ -154,6 +154,9 @@ https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2257912/LIBCODE
 #EXTINF:5745 tvg-logo="https://raw.githubusercontent.com/quartern/iltv/develop/cache/kan1080689/poster" group-title="11 News - Latest shows",שלוש עם קרן רפאלי לנץ | 23.07.26
 https://r.il.cdn-redge.media/webcache/gorigin/hls/oil/kancdn/vod/2228456/LIBCODER_SMOOTH_1080_KAN/Manifest.ism/playlist.m3u8?fmp4
 
+#EXTINF:3217 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 26.11.26 - התכנית המלאה
+https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_sxz8jgem/flavorIds/1_mhoqrl3l,1_dm8qmimx,1_3zeffod5,1_9xknz2fr,1_uexx8jco,1_cx1i5lis/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
+
 #EXTINF:2790 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1714908062/uploads/2024/904043233.jpg" group-title="13 News - Latest shows",שיחת היום 26.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_jp7km2k2/flavorIds/1_mzz306l2,1_6a8mul6g,1_tptjuwa0,1_0utwh5l8,1_735mkxor/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
@@ -168,9 +171,6 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_vjshkd
 
 #EXTINF:2283 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1762690887/uploads/2025/904840631.webp" group-title="13 News - Latest shows",אזור בחירה 25.11.26 - התכנית המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_9r8pcacx/flavorIds/1_54h55ncy,1_i45sgu7r,1_2sh6wyu7,1_do5x0hv9,1_tls5elrs,1_u3oe0cb6/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:3220 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1740907374/uploads/2025/904485212.webp" group-title="13 News - Latest shows",מוריה וברקו 25.11.26 - התכנית המלאה
-https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_w99m99s8/flavorIds/1_z0bpmzy4,1_2kbvrhlv,1_mjci338h,1_19uylauh,1_b4rloswa,1_zw7nyuya/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
 #EXTINF:3826 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1738415994/uploads/2025/904443479.jpg" group-title="13 News - Latest shows",מהדורת השבת 21.11.26 - המהדורה המלאה
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_3f8xwxhl/flavorIds/1_4plq1pum,1_q0mro6ti/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
@@ -436,8 +436,8 @@ https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_moqixs
 #EXTINF:3448 tvg-logo="https://media3.reshet.tv/image/upload/t_grid-item-large/v1782845313/uploads/2026/905244905.jpg" group-title="Reshet 13 Specials",המקור VOD | פרק 6: המתחקר שהפך לנחקר
 https://cdnapisec.kaltura.com/p/2748741/sp/2748741/playManifest/entryId/1_0kzr5dtb/flavorIds/1_ro672jr3,1_ckk8gkjg,1_ugn73mhd,1_5w551306,1_xs5f9su4,1_eg5vmhzf/deliveryProfileId/18022/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 26.11.26 [live]
-https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai
+#EXTINF:2491 tvg-logo="https://img.mako.co.il/2026/02/08/7keren_i_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שבע עם קרן מרציאנו: 26.11.26
+https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/Seven_With_Keren/22757746/22757746_noAdds/22757746_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
 
 #EXTINF:3147 tvg-logo="https://img.mako.co.il/2021/11/07/shesh_HD_ulpan_autoOrient_I_reduced.jpg" group-title="N12 (News) - Latest shows",שש עם עודד בן עמי: 26.11.26
 https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/VOD/recording/six_with/22757745/22757745_noAdds/22757745_noAdds_,550,850,1400,2200,.mp4.csmil/master.m3u8?rv=akamai
