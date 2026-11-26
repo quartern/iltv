@@ -1866,6 +1866,21 @@
       "Name": "N12 (News) - Latest shows",
       "Items": [
         {
+          "Title": "חמש עם רפי רשף: 26.11.26 [live]",
+          "Poster": "https://img.mako.co.il/2021/11/07/five_red_hd_autoOrient_I_reduced.jpg",
+          "StreamUrls": [
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/direct/hls/live/20000821/k12ni-bu/index.m3u8?b-in-range=0-800?rv=akamai",
+            "https://calm-shore-89667.herokuapp.com/mako/mako-streaming.akamaized.net/stream/hls/live/20000821/k12rh-dvr/index.m3u8?b-in-range=0-800?rv=akamai"
+          ],
+          "StreamerId": "c47c046611712a10VgnVCM100000700a10acRCRD",
+          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-c47c046611712a1027.htm",
+          "ShortDescriptionLine2": "Today's events",
+          "Date": "2026-11-26T16:55:35+02:00",
+          "Live": true,
+          "Duration": 0,
+          "ShortDescriptionLine1": "Five with Rafi Reshef: 26.11.26 [live]"
+        },
+        {
           "Title": "מהדורת היום: 26.11.26 [live]",
           "Poster": "https://img.mako.co.il/2024/03/27/MahadoraMokdemet_X5_autoOrient_I_reduced.jpg",
           "StreamUrls": [
@@ -1921,20 +1936,6 @@
           "Live": false,
           "Duration": 3085,
           "ShortDescriptionLine1": "Shesh with Oded Ben Ami: 25.11.26"
-        },
-        {
-          "Title": "חמש עם רפי רשף: 25.11.26",
-          "Poster": "https://img.mako.co.il/2026/11/25/Hamesh_251126_VOD3_autoOrient_I_reduced.jpg",
-          "StreamUrls": [
-            "https://calm-shore-89667.herokuapp.com/mako/mako-vod.akamaized.net/i/SHORT/CH22_NEWS/2026/11/17yuna_vtr2_n20261125_v1/17yuna_vtr2_n20261125_v1_,850,.mp4.csmil/master.m3u8?rv=akamai"
-          ],
-          "StreamerId": "724e7e8c07112a10VgnVCM200000650a10acRCRD",
-          "EpisodeUrl": "//mako-vod-channel2-news/rafi_reshef-2026/7d9f7f20b4271a10/VOD-724e7e8c07112a1026.htm",
-          "ShortDescriptionLine2": "Upheaval in the Netanyahu trial: What will the prosecutor do?",
-          "Date": "2026-11-25T16:54:39+02:00",
-          "Live": false,
-          "Duration": 2496,
-          "ShortDescriptionLine1": "Five with Rafi Reshef: 25.11.26"
         },
         {
           "Title": "חדשות סוף השבוע: 21.11.26",
@@ -2313,10 +2314,10 @@
         {
           "Title": "מדברים חדשות 26-11-26",
           "StreamerId": "6b0831e5aa6c4f4bbc8dc615",
-          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel-aws.vod.immergo.tv/api-uploaded/WILDMOKA_71406659464.jpg",
+          "Poster": "https://insight-images-do.immergo.tv/resize?url=https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_71406659464.jpg",
           "EpisodeUrl": "https://video.i24news.tv/vod/6b0831e5aa6c4f4bbc8dc615",
           "StreamUrls": [
-            "https://i24israel-aws.vod.immergo.tv/transcoded/5a534e4e-5b9f-4740-8722-2c8716d24c76/hls/master.m3u8"
+            "https://i24israel.vod.immergo.tv/i24israel/transcoded/5a534e4e-5b9f-4740-8722-2c8716d24c76/hls/master.m3u8"
           ],
           "Date": "2026-11-26T13:19:33Z",
           "Duration": "02:00:24",
